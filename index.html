@@ -20,6 +20,9 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans)}
 .flip-inner.flipped{transform:rotateY(180deg)}
 .flip-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:16px;overflow:hidden;border:1px solid var(--border)}
 .flip-back{transform:rotateY(180deg)}
+.flip-back ::-webkit-scrollbar{width:3px}
+.flip-back ::-webkit-scrollbar-track{background:transparent}
+.flip-back ::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
 @keyframes cardIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
 .card-enter{animation:cardIn .28s ease both}
 .opt-btn{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;cursor:pointer;display:flex;gap:10px;align-items:flex-start;transition:all .15s;text-align:left;width:100%;color:var(--text);font-family:var(--sans)}
@@ -35,6 +38,18 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans)}
 .nav-btn{font-family:var(--mono);font-size:11px;padding:5px 12px;border-radius:6px;cursor:pointer;letter-spacing:.04em;transition:all .15s;border:1px solid var(--border);background:transparent;color:var(--muted)}
 .nav-btn:hover{color:var(--text)}
 .nav-btn.active{background:var(--surface2);color:var(--text);border-color:var(--muted)}
+/* ── Chat float btn ── */
+#chat-float{
+  position:fixed;bottom:24px;right:24px;z-index:99;
+  width:52px;height:52px;border-radius:50%;
+  background:linear-gradient(135deg,rgba(200,240,96,.15),rgba(96,200,240,.1));
+  border:1px solid rgba(200,240,96,.3);
+  display:flex;align-items:center;justify-content:center;
+  font-size:24px;cursor:pointer;
+  box-shadow:0 4px 20px rgba(0,0,0,.4);
+  transition:all .2s;text-decoration:none;
+}
+#chat-float:hover{transform:scale(1.1);box-shadow:0 6px 28px rgba(200,240,96,.2)}
 .rate-btn{flex:1;padding:10px 0;border-radius:10px;border:1px solid var(--border);background:var(--surface);font-family:var(--sans);font-size:13px;cursor:pointer;transition:all .18s;display:flex;align-items:center;justify-content:center;gap:5px;color:var(--muted)}
 .rate-btn:disabled{opacity:.4;cursor:default}
 .rate-btn.again{border-color:rgba(240,100,100,.3);color:var(--red)}
@@ -110,6 +125,34 @@ const SESSION={
   },
 };
 
+// ── MISTAKES (殘酷二選一) ──
+const MISTAKES={
+  KEY:"wr_mistakes",
+  all(){return JSON.parse(localStorage.getItem(this.KEY)||"{}") },
+  add(correctWord,correctDef,wrongWord,wrongDef){
+    const all=this.all();
+    if(!all[correctWord]){
+      all[correctWord]={wrongWord,wrongDef,correctDef,streak:0,addedAt:new Date().toISOString()};
+      localStorage.setItem(this.KEY,JSON.stringify(all));
+    }
+  },
+  answer(word,isCorrect){
+    const all=this.all();
+    if(!all[word])return;
+    if(isCorrect){
+      all[word].streak=(all[word].streak||0)+1;
+      if(all[word].streak>=2){
+        delete all[word];
+      }
+    } else {
+      all[word].streak=0;
+    }
+    localStorage.setItem(this.KEY,JSON.stringify(all));
+  },
+  count(){return Object.keys(this.all()).length},
+  list(){return Object.entries(this.all()).map(([word,v])=>({word,...v}))},
+};
+
 const shuffle=arr=>{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 
 const buildDeck=vocab=>{
@@ -133,15 +176,18 @@ const Audio_={
   _cache:{},_audio:null,
   speak(word,onPlay,onDone){
     onPlay?.();
-    this._url(word)
-      .then(url=>url?this._mp3(url):this._tts(word))
-      .catch(()=>this._tts(word))
-      .finally(()=>onDone?.());
+    // TTS first — always works, instant response
+    this._tts(word);
+    // Silently cache mp3 for next time
+    if(!(word in this._cache)){
+      this._url(word).then(url=>{this._cache[word]=url;}).catch(()=>{this._cache[word]=null;});
+    }
+    onDone?.();
   },
   async _url(word){
     if(word in this._cache)return this._cache[word];
     try{
-      const r=await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`,{signal:AbortSignal.timeout(3000)});
+      const r=await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`,{signal:AbortSignal.timeout(4000)});
       if(!r.ok)throw 0;
       const d=await r.json();
       const f=(d[0]?.phonetics||[]).find(p=>p.audio?.trim());
@@ -158,7 +204,13 @@ const Audio_={
   _tts(word){
     if(!window.speechSynthesis)return;
     speechSynthesis.cancel();
-    const u=new SpeechSynthesisUtterance(word);u.lang="en-US";u.rate=.85;
+    const u=new SpeechSynthesisUtterance(word);
+    u.lang="en-US";u.rate=0.82;u.pitch=1;
+    const voices=speechSynthesis.getVoices();
+    const eng=voices.find(v=>v.lang==="en-US"&&v.localService)||
+              voices.find(v=>v.lang.startsWith("en")&&v.localService)||
+              voices.find(v=>v.lang.startsWith("en"));
+    if(eng)u.voice=eng;
     speechSynthesis.speak(u);
   },
 };
@@ -295,7 +347,7 @@ function LearnScreen({vocab,resumeData,onDone}){
               </div>
               <div style={{fontFamily:"var(--serif)",fontSize:18,color:"var(--accent)",whiteSpace:"nowrap",flexShrink:0}}>{w.word}</div>
             </div>
-            <div style={{flex:1,padding:"12px 20px",display:"flex",flexDirection:"column",gap:10,overflow:"hidden"}}>
+            <div style={{flex:1,padding:"12px 20px",display:"flex",flexDirection:"column",gap:10,overflow:"hidden",overflowY:"auto"}}>
               <RootChips roots={w.roots}/>
               <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.05),rgba(200,240,96,.02))",border:"1px solid rgba(200,240,96,.15)",borderRadius:10,padding:"10px 12px",display:"flex",flexDirection:"column",gap:5}}>
                 <div style={{fontFamily:"var(--mono)",fontSize:10,color:"var(--accent)",textTransform:"uppercase",letterSpacing:".08em",opacity:.7}}>🧠 記憶聯想</div>
@@ -389,8 +441,12 @@ function QuizScreen({vocab,resumeData,onDone}){
   const answer=useCallback(opt=>{
     if(answered)return;
     setAnswered(true);setSelected(opt.word);
-    FSRS.save(w.word,opt.word===w.word?"good":"again");
-    setStats(s=>({...s,[opt.word===w.word?"correct":"wrong"]:s[opt.word===w.word?"correct":"wrong"]+1}));
+    const correct=opt.word===w.word;
+    FSRS.save(w.word,correct?"good":"again");
+    if(!correct){
+      MISTAKES.add(w.word,w.definition_zh,opt.word,opt.definition_zh);
+    }
+    setStats(s=>({...s,[correct?"correct":"wrong"]:s[correct?"correct":"wrong"]+1}));
   },[answered,w]);
 
   const next=useCallback(()=>{
@@ -748,8 +804,133 @@ function ModeCard({m,session,onNavigate}){
   );
 }
 
+// ── BRUTAL (殘酷二選一) ──
+function BrutalScreen({vocab,onDone}){
+  const mistakes=MISTAKES.list();
+  const[idx,setIdx]=useState(0);
+  const[answered,setAnswered]=useState(false);
+  const[selected,setSelected]=useState(null);
+  const[stats,setStats]=useState({correct:0,wrong:0});
+  const[done,setDone]=useState(false);
+  const[deck]=useState(()=>shuffle(mistakes));
+
+  const item=deck[idx];
+  // Find vocab objects
+  const correctWord=item?vocab.find(v=>v.word===item.word):null;
+  const wrongWord=item?vocab.find(v=>v.word===item.wrongWord):null;
+  const opts=item?shuffle([
+    {word:item.word,definition_zh:item.correctDef},
+    {word:item.wrongWord,definition_zh:item.wrongDef},
+  ]):[];
+
+  const answer=useCallback(opt=>{
+    if(answered||!item)return;
+    setAnswered(true);setSelected(opt.word);
+    const correct=opt.word===item.word;
+    MISTAKES.answer(item.word,correct);
+    FSRS.save(item.word,correct?"good":"again");
+    setStats(s=>({...s,[correct?"correct":"wrong"]:s[correct?"correct":"wrong"]+1}));
+  },[answered,item]);
+
+  const next=useCallback(()=>{
+    const nx=idx+1;
+    if(nx>=deck.length){setDone(true);return}
+    setIdx(nx);setAnswered(false);setSelected(null);
+  },[idx,deck.length]);
+
+  useEffect(()=>{
+    const fn=e=>{
+      if(answered&&e.code==="Space"){e.preventDefault();next()}
+      if(!answered&&opts.length===2){
+        if(e.key==="a"||e.key==="1")answer(opts[0]);
+        if(e.key==="b"||e.key==="2")answer(opts[1]);
+      }
+    };
+    window.addEventListener("keydown",fn);
+    return()=>window.removeEventListener("keydown",fn);
+  },[answered,opts,next,answer]);
+
+  if(!deck.length||done){
+    const total=stats.correct+stats.wrong;
+    const acc=total?Math.round(stats.correct/total*100):0;
+    const remaining=MISTAKES.count();
+    return(
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:20,padding:"60px 20px",textAlign:"center"}}>
+        <div style={{fontSize:48}}>{acc>=80?"💪":"💀"}</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--red)"}}>挑戰結束！</div>
+        <div style={{fontSize:13,color:"var(--muted)",lineHeight:1.8}}>
+          答對 <strong style={{color:"var(--accent)"}}>{stats.correct}</strong> / {total} 題<br/>
+          {remaining>0?<span>還有 <strong style={{color:"var(--red)"}}>{remaining}</strong> 個單字待征服</span>:<span style={{color:"var(--accent)"}}>🎉 全部清零！</span>}
+        </div>
+        <button onClick={onDone} style={{padding:"10px 28px",borderRadius:10,border:"1px solid rgba(240,100,100,.3)",background:"rgba(240,100,100,.06)",color:"var(--red)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      </div>
+    );
+  }
+
+  if(!item||!correctWord)return null;
+  const isCorrect=selected===item.word;
+  const keys=["A","B"];
+
+  return(
+    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:14,padding:"20px 20px 48px",width:"100%",maxWidth:580,margin:"0 auto"}}>
+      {/* progress */}
+      <div style={{display:"flex",alignItems:"center",gap:10,width:"100%"}}>
+        <div style={{flex:1,height:3,background:"var(--border)",borderRadius:2,overflow:"hidden"}}>
+          <div style={{height:"100%",background:"var(--red)",borderRadius:2,width:`${(idx/deck.length)*100}%`,transition:"width .4s"}}/>
+        </div>
+        <span style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--muted)"}}>{idx+1} / {deck.length}</span>
+      </div>
+
+      {/* word card */}
+      <div style={{width:"100%",background:"linear-gradient(135deg,rgba(240,100,100,.06),var(--surface))",border:"1px solid rgba(240,100,100,.25)",borderRadius:16,padding:"28px 24px",display:"flex",flexDirection:"column",alignItems:"center",gap:10,textAlign:"center",position:"relative"}}>
+        <div style={{position:"absolute",inset:0,background:"radial-gradient(ellipse at 50% 30%,rgba(240,100,100,.05),transparent 60%)",borderRadius:16,pointerEvents:"none"}}/>
+        <span style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--red)",background:"rgba(240,100,100,.1)",padding:"3px 10px",borderRadius:20,border:"1px solid rgba(240,100,100,.2)",zIndex:1}}>💀 殘酷二選一</span>
+        <div style={{fontFamily:"var(--serif)",fontSize:"clamp(38px,8vw,60px)",color:"var(--text)",lineHeight:1,zIndex:1}}>{item.word}</div>
+        <div style={{display:"flex",alignItems:"center",gap:8,zIndex:1}}>
+          <span style={{fontFamily:"var(--mono)",fontSize:13,color:"var(--muted)"}}>{correctWord.phonetic}</span>
+          <SpeakBtn word={item.word}/>
+        </div>
+        <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--dim)",zIndex:1}}>連續答對 {item.streak||0} / 2 次可移除</div>
+      </div>
+
+      {/* two options */}
+      <div style={{display:"flex",flexDirection:"column",gap:10,width:"100%"}}>
+        {opts.map((opt,i)=>{
+          let style={background:"var(--surface)",border:"1px solid var(--border)",borderRadius:12,padding:"16px 18px",cursor:answered?"default":"pointer",display:"flex",gap:10,alignItems:"flex-start",transition:"all .15s",width:"100%",color:"var(--text)",fontFamily:"var(--sans)",textAlign:"left"};
+          if(answered){
+            if(opt.word===item.word) style={...style,borderColor:"var(--accent)",background:"rgba(200,240,96,.1)"};
+            else if(opt.word===selected) style={...style,borderColor:"var(--red)",background:"rgba(240,100,100,.08)"};
+          }
+          return(
+            <button key={opt.word} style={style} disabled={answered} onClick={()=>answer(opt)}>
+              <span style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--dim)",background:"var(--surface2)",border:"1px solid var(--border)",borderRadius:4,padding:"1px 6px",flexShrink:0,marginTop:2}}>{keys[i]}</span>
+              <span style={{fontSize:14,lineHeight:1.5}}>{opt.definition_zh}</span>
+            </button>
+          );
+        })}
+      </div>
+
+      {/* feedback */}
+      {answered&&(
+        <div style={{width:"100%",background:isCorrect?"rgba(200,240,96,.06)":"rgba(240,100,100,.05)",border:`1px solid ${isCorrect?"rgba(200,240,96,.2)":"rgba(240,100,100,.18)"}`,borderRadius:12,padding:"14px 18px"}}>
+          <div style={{fontFamily:"var(--serif)",fontSize:15,color:isCorrect?"var(--accent)":"var(--red)",marginBottom:4}}>
+            {isCorrect?`✓ 正確！連續 ${(item.streak||0)} / 2 次`:"✗ 再加油！連續紀錄重置"}
+          </div>
+          <div style={{fontSize:12,color:"var(--muted)",lineHeight:1.6}}>{correctWord.mnemonic.story_zh}</div>
+        </div>
+      )}
+      {answered&&(
+        <button onClick={next} style={{width:"100%",padding:"12px 0",borderRadius:10,border:"1px solid rgba(240,100,100,.3)",background:"rgba(240,100,100,.06)",color:"var(--red)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>
+          下一題 → <span style={{fontFamily:"var(--mono)",fontSize:11,opacity:.6}}>Space</span>
+        </button>
+      )}
+      <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--dim)"}}>A / B 選題　答完後 Space 下一題</div>
+    </div>
+  );
+}
+
 // ── HOME ──
-function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,quizSession,refreshSessions}){
+function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,quizSession,refreshSessions,onBrutal}){
   const s=FSRS.stats(),due=vocab.filter(w=>FSRS.isDue(w.word));
   const modes=[
     {id:"learn",icon:"🃏",title:"學習模式",desc:"翻卡片看聯想故事，適合第一次學新單字",count:`待學 ${due.length} 張`,bc:"rgba(200,240,96,.25)",bg:"rgba(200,240,96,.04)",ac:"var(--accent)"},
@@ -777,6 +958,19 @@ function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,qu
           </div>
         ))}
       </div>
+      {/* 殘酷二選一 card */}
+      {MISTAKES.count()>0&&(
+        <div
+          onClick={onBrutal}
+          style={{width:"100%",maxWidth:600,background:"linear-gradient(135deg,rgba(240,100,100,.07),var(--surface))",border:"1px solid rgba(240,100,100,.25)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
+          <div style={{fontSize:28}}>💀</div>
+          <div style={{flex:1}}>
+            <div style={{fontFamily:"var(--serif)",fontSize:16,color:"var(--text)",marginBottom:3}}>殘酷二選一</div>
+            <div style={{fontSize:12,color:"var(--muted)"}}>你有 <strong style={{color:"var(--red)"}}>{MISTAKES.count()}</strong> 個答錯的單字待挑戰</div>
+          </div>
+          <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--red)"}}>挑戰 →</div>
+        </div>
+      )}
       <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--dim)"}}>
         已學 {s.total} 字　熟練 {s.mastered} 字　資料庫 {vocab.length} 字
       </div>
@@ -789,6 +983,7 @@ function App(){
   const[vocab,setVocab]=useState([]);
   const[loading,setLoading]=useState(true);
   const[tab,setTab]=useState("home");
+  const[mistakeCount,setMistakeCount]=useState(()=>MISTAKES.count());
   const[learnResume,setLearnResume]=useState(null);
   const[quizResume,setQuizResume]=useState(null);
   const[learnSession,setLearnSession]=useState(()=>SESSION.load("learn"));
@@ -810,9 +1005,10 @@ function App(){
   const refreshSessions=()=>{
     setLearnSession(SESSION.load("learn"));
     setQuizSession(SESSION.load("quiz"));
+    setMistakeCount(MISTAKES.count());
   };
 
-  const goHome=()=>{setTab("home");refreshSessions();setLearnResume(null);setQuizResume(null)};
+  const goHome=()=>{setTab("home");refreshSessions();setLearnResume(null);setQuizResume(null);setMistakeCount(MISTAKES.count())};
   const startLearn=()=>{setLearnResume(null);setTab("learn")};
   const startQuiz=()=>{setQuizResume(null);setTab("quiz")};
   const resumeLearn=()=>{setLearnResume(SESSION.load("learn"));setTab("learn")};
@@ -844,7 +1040,9 @@ function App(){
               learnSession={learnSession}
               quizSession={quizSession}
               refreshSessions={refreshSessions}
+              onBrutal={()=>setTab("brutal")}
             />}
+            {tab==="brutal"&&<BrutalScreen key="brutal" vocab={vocab} onDone={goHome}/>}
             {tab==="learn"&&<LearnScreen key={"learn"+(learnResume?"r":"n")} vocab={vocab} resumeData={learnResume} onDone={goHome}/>}
             {tab==="quiz"&&<QuizScreen key={"quiz"+(quizResume?"r":"n")} vocab={vocab} resumeData={quizResume} onDone={goHome}/>}
             {tab==="book"&&<BookScreen vocab={vocab}/>}
@@ -854,6 +1052,8 @@ function App(){
     </div>
   );
 }
+
+<a id="chat-float" href="chat.html" title="Chat with WordBot">🤖</a>
 
 ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
 </script>
