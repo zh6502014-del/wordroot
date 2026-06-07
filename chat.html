@@ -1,0 +1,1504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+<title>WordRoot Chat</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0e0f11;--surface:#16181c;--surface2:#1e2026;--border:#2a2d35;
+  --accent:#c8f060;--accent2:#60c8f0;--red:#f06464;
+  --text:#e8eaf0;--muted:#6b7080;--dim:#3a3f50;
+  --bot-bg:#1a1f2e;--user-bg:#1a2a1a;
+  --serif:'DM Serif Display',serif;--mono:'DM Mono',monospace;--sans:'Noto Sans TC',sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--sans);overflow:hidden}
+
+/* ── Layout ── */
+#app{display:flex;flex-direction:column;height:100dvh;max-width:720px;margin:0 auto}
+
+/* ── Header ── */
+#header{
+  flex-shrink:0;padding:14px 20px;
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:12px;
+  background:var(--bg);
+}
+#header .bot-avatar{
+  width:36px;height:36px;border-radius:50%;
+  background:linear-gradient(135deg,rgba(200,240,96,.15),rgba(96,200,240,.1));
+  border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;font-size:18px;
+}
+#header .bot-info .name{font-family:var(--serif);font-size:16px;color:var(--text)}
+#header .bot-info .status{font-family:var(--mono);font-size:10px;color:var(--accent);letter-spacing:.06em}
+#header .back-btn{
+  margin-left:auto;background:none;border:1px solid var(--border);
+  border-radius:8px;padding:5px 12px;color:var(--muted);
+  font-family:var(--mono);font-size:11px;cursor:pointer;text-decoration:none;
+  display:flex;align-items:center;gap:5px;
+}
+#header .back-btn:hover{color:var(--text);border-color:var(--text)}
+
+/* ── Messages ── */
+#messages{
+  flex:1;overflow-y:auto;padding:20px 16px;
+  display:flex;flex-direction:column;gap:14px;
+  scroll-behavior:smooth;
+}
+#messages::-webkit-scrollbar{width:4px}
+#messages::-webkit-scrollbar-track{background:transparent}
+#messages::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+
+.msg-row{display:flex;gap:10px;align-items:flex-end}
+.msg-row.user{flex-direction:row-reverse}
+.msg-avatar{width:28px;height:28px;border-radius:50%;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:14px;border:1px solid var(--border)}
+.msg-avatar.bot{background:var(--bot-bg)}
+.msg-avatar.user{background:var(--user-bg)}
+
+.bubble{
+  max-width:75%;padding:11px 14px;border-radius:16px;
+  font-size:14px;line-height:1.65;position:relative;
+}
+.bubble.bot{
+  background:var(--bot-bg);border:1px solid var(--border);
+  border-bottom-left-radius:4px;color:var(--text);
+}
+.bubble.user{
+  background:var(--user-bg);border:1px solid rgba(200,240,96,.2);
+  border-bottom-right-radius:4px;color:var(--text);
+}
+.bubble .time{
+  font-family:var(--mono);font-size:9px;color:var(--dim);
+  margin-top:5px;display:block;
+}
+.msg-row.user .bubble .time{text-align:right}
+
+/* vocab word underline */
+.vocab-word{
+  border-bottom:1px solid var(--accent2);color:var(--accent2);
+  cursor:pointer;position:relative;white-space:nowrap;
+}
+.vocab-word:hover{color:var(--accent)}
+
+/* ── Grammar fix block ── */
+.grammar-fix{
+  margin-top:8px;padding:8px 12px;
+  background:rgba(240,100,100,.06);border:1px solid rgba(240,100,100,.2);
+  border-radius:8px;font-size:12px;
+}
+.grammar-fix .fix-label{
+  font-family:var(--mono);font-size:10px;color:var(--red);
+  text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;
+}
+.grammar-fix .fix-wrong{color:var(--red);text-decoration:line-through;margin-right:6px}
+.grammar-fix .fix-right{color:var(--accent)}
+.grammar-fix .fix-explain{color:var(--muted);font-size:11px;margin-top:3px}
+
+/* ── Bubble actions (translate, quote) ── */
+.bubble-actions{
+  display:none;position:absolute;
+  bottom:-28px;right:0;
+  display:flex;gap:4px;z-index:10;
+}
+.msg-row.bot .bubble{position:relative;overflow:visible}
+.msg-row.bot .bubble:hover .bubble-actions{display:flex}
+.bubble-actions button{
+  background:var(--surface2);border:1px solid var(--border);
+  border-radius:6px;padding:3px 8px;font-size:11px;
+  cursor:pointer;color:var(--muted);transition:all .15s;
+  white-space:nowrap;
+}
+.bubble-actions button:hover{color:var(--text);border-color:var(--muted)}
+.bubble-actions button.active{color:var(--accent2);border-color:var(--accent2)}
+.translated-text{
+  margin-top:8px;padding:8px 10px;
+  background:rgba(96,200,240,.06);border:1px solid rgba(96,200,240,.2);
+  border-radius:8px;font-size:13px;color:var(--accent2);line-height:1.6;
+  display:none;
+}
+.translated-text.show{display:block}
+
+/* ── Quote bar above input ── */
+#quote-bar{
+  display:none;padding:8px 16px;
+  border-top:1px solid var(--border);background:var(--surface);
+  flex-shrink:0;
+}
+#quote-bar.show{display:flex;align-items:flex-start;gap:10px}
+#quote-bar .qb-line{
+  width:3px;height:100%;background:var(--accent2);border-radius:2px;flex-shrink:0;align-self:stretch;
+}
+#quote-bar .qb-text{
+  flex:1;font-size:12px;color:var(--muted);line-height:1.5;
+  overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+}
+#quote-bar .qb-cancel{
+  background:none;border:none;color:var(--dim);font-size:18px;
+  cursor:pointer;padding:0 4px;flex-shrink:0;line-height:1;
+}
+#quote-bar .qb-cancel:hover{color:var(--text)}
+
+/* ── Quoted message inside bubble ── */
+.quote-ref{
+  background:var(--surface2);border-left:3px solid var(--accent2);
+  border-radius:4px;padding:6px 10px;margin-bottom:6px;
+  font-size:12px;color:var(--muted);line-height:1.5;
+  overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+}
+
+/* ── Quick phrase chips ── */
+#quick-phrases{
+  padding:8px 16px 12px;
+  display:flex;flex-wrap:wrap;gap:8px;
+}
+.qp-chip{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:20px;padding:7px 14px;
+  font-size:13px;color:var(--muted);cursor:pointer;
+  transition:all .18s;white-space:nowrap;
+  font-family:var(--sans);
+}
+.qp-chip:hover{
+  border-color:var(--accent2);color:var(--accent2);
+  background:rgba(96,200,240,.07);
+}
+
+/* ── Typing indicator ── */
+.typing-dots{display:flex;gap:4px;padding:6px 2px}
+.typing-dots span{
+  width:7px;height:7px;border-radius:50%;background:var(--muted);
+  animation:dotBounce .9s ease infinite;
+}
+.typing-dots span:nth-child(2){animation-delay:.15s}
+.typing-dots span:nth-child(3){animation-delay:.3s}
+@keyframes dotBounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-6px)}}
+
+/* ── Input area ── */
+#input-area{
+  flex-shrink:0;padding:12px 16px;
+  border-top:1px solid var(--border);background:var(--bg);
+  display:flex;gap:10px;align-items:flex-end;
+}
+#input-area textarea{
+  flex:1;background:var(--surface);border:1px solid var(--border);
+  border-radius:12px;padding:10px 14px;color:var(--text);
+  font-family:var(--sans);font-size:14px;resize:none;
+  line-height:1.5;min-height:44px;max-height:120px;
+  overflow-y:auto;outline:none;transition:border-color .15s;
+}
+#input-area textarea:focus{border-color:var(--accent2)}
+#input-area textarea::placeholder{color:var(--dim)}
+#send-btn{
+  width:42px;height:42px;border-radius:50%;flex-shrink:0;
+  background:rgba(200,240,96,.1);border:1px solid rgba(200,240,96,.3);
+  color:var(--accent);font-size:18px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .15s;
+}
+#send-btn:hover{background:rgba(200,240,96,.2)}
+#send-btn:disabled{opacity:.4;cursor:default}
+
+/* ── Tooltip ── */
+#tooltip{
+  position:fixed;z-index:200;
+  background:var(--surface2);border:1px solid var(--border);
+  border-radius:12px;padding:12px 14px;
+  min-width:200px;max-width:280px;
+  box-shadow:0 8px 32px rgba(0,0,0,.5);
+  display:none;
+}
+#tooltip.show{display:block}
+#tooltip .tt-word{font-family:var(--serif);font-size:20px;color:var(--accent);margin-bottom:2px}
+#tooltip .tt-phonetic{font-family:var(--mono);font-size:11px;color:var(--muted);margin-bottom:6px}
+#tooltip .tt-def{font-size:12px;color:var(--text);line-height:1.5;margin-bottom:4px}
+#tooltip .tt-def-zh{font-size:11px;color:var(--muted);margin-bottom:8px}
+#tooltip .tt-syns{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
+#tooltip .tt-syn{font-family:var(--mono);font-size:10px;background:var(--surface);border:1px solid var(--border);border-radius:4px;padding:2px 6px;color:var(--muted)}
+#tooltip .tt-speak{
+  background:none;border:1px solid var(--border);border-radius:6px;
+  padding:4px 10px;color:var(--muted);font-family:var(--mono);font-size:11px;
+  cursor:pointer;transition:all .15s;width:100%;
+}
+#tooltip .tt-speak:hover{border-color:var(--accent2);color:var(--accent2)}
+
+/* ── Date divider ── */
+.date-divider{
+  text-align:center;font-family:var(--mono);font-size:10px;
+  color:var(--dim);margin:4px 0;letter-spacing:.06em;
+}
+
+/* ── Proactive banner ── */
+.proactive-banner{
+  background:linear-gradient(135deg,rgba(200,240,96,.06),var(--surface));
+  border:1px solid rgba(200,240,96,.2);border-radius:10px;
+  padding:10px 14px;font-size:12px;color:var(--muted);
+  font-family:var(--mono);text-align:center;
+}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="header">
+    <div class="bot-avatar">🤖</div>
+    <div class="bot-info">
+      <div class="name">WordBot</div>
+      <div class="status" id="statusText">ONLINE</div>
+    </div>
+    <a href="index.html" class="back-btn">← 回首頁</a>
+  </div>
+  <div id="messages"></div>
+  <div id="quick-phrases"></div>
+  <div id="quote-bar">
+    <div class="qb-line"></div>
+    <div class="qb-text" id="quotedText"></div>
+    <button class="qb-cancel" onclick="cancelQuote()">✕</button>
+  </div>
+  <div id="input-area">
+    <textarea id="msgInput" placeholder="Type something in English..." rows="1"></textarea>
+    <button id="send-btn" onclick="sendMessage()">↑</button>
+  </div>
+</div>
+<div id="tooltip"></div>
+
+<script>
+// ══════════════════════════════════════════════
+// VOCAB DATA — loaded from data/vocab_batch_001.json
+// ══════════════════════════════════════════════
+// ── VOCAB DATA — loaded from data/vocab_batch_001.json ──
+let VOCAB = [];
+fetch('./data/vocab_batch_001.json')
+  .then(r => { if(!r.ok) throw new Error('fetch failed'); return r.json(); })
+  .then(d => { VOCAB = d; console.log('Vocab loaded:', d.length, 'words'); })
+  .catch(err => { console.warn('Vocab load failed, features limited:', err); });
+
+// ══════════════════════════════════════════════
+// LANGUAGETOOL — grammar check
+// ══════════════════════════════════════════════
+async function checkGrammar(text){
+  try{
+    const params=new URLSearchParams({language:'en-US',text});
+    const res=await fetch('https://api.languagetool.org/v2/check',{
+      method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},
+      body:params,signal:AbortSignal.timeout(5000)
+    });
+    if(!res.ok)return[];
+    const data=await res.json();
+    return data.matches||[];
+  }catch{return localGrammarCheck(text)}
+}
+
+// Local fallback grammar rules
+function localGrammarCheck(text){
+  const issues=[];
+  const rules=[
+    {re:/\ba ([aeiouAEIOU]\w*)/g, fix:(m,w)=>`an ${w}`, msg:`Use "an" before vowel sounds`},
+    {re:/\ban ([^aeiouAEIOU\s]\w*)/g, fix:(m,w)=>`a ${w}`, msg:`Use "a" before consonant sounds`},
+    {re:/\b(he|she|it) (don't)\b/gi, fix:(m,s,v)=>`${s} doesn't`, msg:`Third person singular: use "doesn't"`},
+    {re:/\b(i) (is|are|was|were)\b/gi, fix:(m,s,v)=>`I ${v==='are'?'am':v==='were'?'was':v}`, msg:`"I" takes "am/was"`},
+    {re:/\bI are\b/g, fix:()=>'I am', msg:`Use "I am"`},
+    {re:/\byesterday i will\b/gi, fix:()=>'yesterday I', msg:`"Yesterday" requires past tense`},
+    {re:/\b(goed)\b/g, fix:()=>'went', msg:`"go" past tense is "went"`},
+    {re:/\b(thinked)\b/g, fix:()=>'thought', msg:`"think" past tense is "thought"`},
+    {re:/\b(buyed)\b/g, fix:()=>'bought', msg:`"buy" past tense is "bought"`},
+    {re:/\b(catched)\b/g, fix:()=>'caught', msg:`"catch" past tense is "caught"`},
+  ];
+  rules.forEach(rule=>{
+    let m;const re=new RegExp(rule.re.source,rule.re.flags);
+    while((m=re.exec(text))!==null){
+      issues.push({
+        offset:m.index,length:m[0].length,
+        message:rule.msg,
+        replacements:[{value:rule.fix(...m)}],
+        _local:true
+      });
+    }
+  });
+  return issues;
+}
+
+// ══════════════════════════════════════════════
+// AUDIO
+// ══════════════════════════════════════════════
+// ── Audio Engine ──
+// Strategy: TTS first (always works), then try mp3 for better quality
+const AudioCache={};
+
+function ttsSpeak(word,rate=0.82){
+  if(!window.speechSynthesis)return;
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(word);
+  u.lang='en-US';u.rate=rate;u.pitch=1;
+  // Pick best English voice if available
+  const voices=speechSynthesis.getVoices();
+  const eng=voices.find(v=>v.lang==='en-US'&&v.localService)||
+            voices.find(v=>v.lang.startsWith('en')&&v.localService)||
+            voices.find(v=>v.lang.startsWith('en'));
+  if(eng)u.voice=eng;
+  speechSynthesis.speak(u);
+}
+
+async function speakWord(word){
+  // Always play TTS immediately so user hears something right away
+  ttsSpeak(word);
+  // Then silently cache mp3 for next time (better quality)
+  if(AudioCache[word]===undefined){
+    try{
+      const r=await fetch(
+        `https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`,
+        {signal:AbortSignal.timeout(4000)}
+      );
+      if(!r.ok)throw 0;
+      const d=await r.json();
+      const f=(d[0]?.phonetics||[]).find(p=>p.audio?.trim());
+      AudioCache[word]=f?f.audio:null;
+    }catch{AudioCache[word]=null;}
+  }
+}
+
+// On second+ click, use cached mp3 if available
+const _origSpeak=speakWord;
+const speakWordSmart=async(word)=>{
+  if(AudioCache[word]){
+    const a=new Audio(AudioCache[word]);
+    a.onerror=()=>ttsSpeak(word);
+    a.play().catch(()=>ttsSpeak(word));
+  } else {
+    await _origSpeak(word);
+  }
+};
+// Override
+const speakWordFn=speakWordSmart;
+
+// ══════════════════════════════════════════════
+// TOOLTIP
+// ══════════════════════════════════════════════
+const tooltip=document.getElementById('tooltip');
+let tooltipTimeout;
+
+function showTooltip(el,word){
+  const w=VOCAB.find(v=>v.word.toLowerCase()===word.toLowerCase());
+  if(!w)return;
+  clearTimeout(tooltipTimeout);
+  tooltip.innerHTML=`
+    <div class="tt-word">${w.word}</div>
+    <div class="tt-phonetic">${w.phonetic} · ${w.pos}</div>
+    <div class="tt-def">${w.definition}</div>
+    <div class="tt-def-zh">${w.definition_zh}</div>
+    <div class="tt-syns">${(w.synonyms||[]).slice(0,4).map(s=>`<span class="tt-syn">${s}</span>`).join('')}</div>
+    <button class="tt-speak" onclick="speakWordFn('${w.word}')">🔊 Play pronunciation</button>
+  `;
+  const rect=el.getBoundingClientRect();
+  const tw=280;
+  let left=rect.left;
+  let top=rect.bottom+8;
+  if(left+tw>window.innerWidth)left=window.innerWidth-tw-12;
+  if(top+200>window.innerHeight)top=rect.top-210;
+  tooltip.style.left=left+'px';
+  tooltip.style.top=top+'px';
+  tooltip.classList.add('show');
+}
+function hideTooltip(){
+  tooltipTimeout=setTimeout(()=>tooltip.classList.remove('show'),200);
+}
+document.addEventListener('click',e=>{
+  if(!e.target.classList.contains('vocab-word')&&!tooltip.contains(e.target)){
+    tooltip.classList.remove('show');
+  }
+});
+tooltip.addEventListener('mouseenter',()=>clearTimeout(tooltipTimeout));
+tooltip.addEventListener('mouseleave',()=>hideTooltip());
+
+// ══════════════════════════════════════════════
+// BOT RESPONSE ENGINE
+// ══════════════════════════════════════════════
+const TOPICS={
+  greeting:{
+    _requiresAlone:true,  // only match if greeting word is the MAIN content
+    triggers:['hi','hello','hey','good morning','good evening','good afternoon','howdy','sup',"what's up",'whats up','yo','hiya','greetings'],
+    responses:[
+      "Hey! Great to see you. How's your day going so far?",
+      "Hello there! What's on your mind today?",
+      "Hey! Always good to hear from you. What's up?",
+      "Hi! Ready to have a good chat? What would you like to talk about?",
+      "Hello! Hope you're having a solid day. What's new?",
+      "Hey there! Good to see you. Anything interesting going on?",
+      "Hi! You caught me at a good time. What's happening?",
+      "Hello! Always a pleasure. What's been on your mind lately?",
+    ]
+  },
+  how_are_you:{
+    triggers:['how are you','how do you do','how have you been',"how's it going",'how is it going','you okay','you good','how you doing','hows life'],
+    responses:[
+      "I'm doing well, thanks for asking! How about you?",
+      "Pretty good! I've been thinking about some fascinating words lately. How are you holding up?",
+      "All good on my end! Life is full of things to learn. What about you?",
+      "I'm great! Every conversation is a chance to grow. How's life treating you?",
+      "Honestly, pretty fantastic. Thanks for asking! How are things on your end?",
+      "Can't complain! I love a good conversation. How are you really doing?",
+      "Doing well and enjoying our chat. More importantly — how are you?",
+    ]
+  },
+  tired:{
+    triggers:['tired','exhausted','sleepy','drained','worn out','fatigue','burnout','burned out','no energy','low energy','so tired','dead tired'],
+    responses:[
+      "I get that. Sometimes life makes you want to abandon all responsibilities and just sleep.",
+      "That feeling is so real. When you're exhausted, even the most fundamental tasks feel impossible.",
+      "Rest is crucial — don't underestimate how much your body and mind need to recharge.",
+      "Tiredness can really accumulate if you don't take regular breaks. Hope you get some good rest soon!",
+      "Being consistently drained can negatively influence your focus and mood. When did it start?",
+      "Oof, that sounds rough. Is it physical tiredness or mental burnout — or both?",
+      "Sometimes the best thing you can do is step back and recharge. What's been draining you?",
+      "I hear you. Sleep deprivation is seriously underrated as a problem. How many hours are you getting?",
+    ]
+  },
+  busy:{
+    triggers:['busy','hectic','overwhelmed','swamped','a lot to do','so much work','no time','rush','packed schedule','crazy busy','slammed','overloaded'],
+    responses:[
+      "Sounds intense! It's important to maintain a good work-life balance even when things get hectic.",
+      "Being that busy can really challenge your capacity to stay focused. Hope things ease up soon!",
+      "When life gets overwhelming, try to identify the most crucial tasks and tackle those first.",
+      "I know the feeling. Try not to let everything accumulate — break it into smaller, manageable steps.",
+      "That sounds like a lot to handle. Is this a temporary spike or has it been like this for a while?",
+      "Overwhelming schedules can be really stressful. What's taking up most of your time right now?",
+      "Being super busy can be motivating, but it can also be exhausting. How do you usually cope?",
+      "When things pile up, it helps to just focus on the next single action. What's the most urgent thing?",
+    ]
+  },
+  study:{
+    triggers:['study','studying','learn','learning','school','class','exam','test','homework','assignment','university','college','english','language','practice','revision','quiz','lecture','professor','teacher','course','major','degree'],
+    responses:[
+      "Nice! Consistent practice is the most fundamental way to improve. What are you working on?",
+      "Learning is such a rewarding process. What subject or skill are you focusing on?",
+      "That's great! The key is to find methods that genuinely work for you and stick with them consistently.",
+      "Studying English? The best approach is to actively use it in real conversations — just like this!",
+      "Keep it up! Even small daily efforts accumulate into significant progress over time.",
+      "What subject are you studying? I'd love to hear more about what you're working on.",
+      "Exams can be stressful. How do you usually prepare — do you prefer to study alone or with others?",
+      "Learning a language takes time and patience. What's been the trickiest part for you?",
+      "That's awesome! What's your main motivation for studying English?",
+      "Consistent practice is everything. How often do you try to use English in your daily life?",
+    ]
+  },
+  work:{
+    triggers:['work','job','office','meeting','colleague','boss','project','deadline','career','professional','salary','promotion','interview','company','startup','remote','coworker','client','presentation'],
+    responses:[
+      "Work life can be intense sometimes. Do you generally enjoy what you do?",
+      "Finding meaning in your work is so important. What kind of work do you do, if you don't mind sharing?",
+      "Deadlines can be stressful! The key is to stay consistent and not let pressure derail your focus.",
+      "I think the ability to collaborate well with others is a crucial skill in any workplace.",
+      "Work-life balance really matters. Hope you're not overextending yourself!",
+      "That sounds like a demanding role. What do you find most rewarding about your work?",
+      "Every job has its ups and downs. What's been the highlight of your week at work?",
+      "Career growth can feel slow sometimes, but consistent effort always pays off eventually.",
+      "Do you work in a field you're passionate about, or is it more of a practical choice?",
+      "Remote work changed a lot of things. Do you prefer working from home or being in an office?",
+    ]
+  },
+  food:{
+    triggers:['food','eat','hungry','lunch','dinner','breakfast','cook','restaurant','meal','delicious','tasty','drink','coffee','tea','snack','recipe','cuisine','bake','diet','vegan','sushi','pizza','noodles','rice'],
+    responses:[
+      "Food is one of life's great pleasures! What did you have today?",
+      "Good food really can enhance your mood and energy levels. What's your go-to comfort food?",
+      "Food culture is so fascinating — it reflects so much about people and places.",
+      "That sounds delicious! Do you enjoy cooking, or do you prefer eating out?",
+      "I love hearing about what people eat. What's a dish you could eat every single day?",
+      "Are you a good cook? What's your signature dish?",
+      "Food is such a great way to connect with culture. Have you tried cooking something new recently?",
+      "Coffee or tea? That's one of the great debates of our time!",
+      "What's the best meal you've had recently? I'm curious!",
+    ]
+  },
+  weather:{
+    triggers:['weather','rain','sunny','cold','hot','warm','humid','temperature','climate','snow','wind','storm','cloudy','season','spring','summer','autumn','fall','winter'],
+    responses:[
+      "Weather really does influence how we feel day to day, doesn't it?",
+      "Interesting! Extreme weather can really challenge our daily routines.",
+      "I find weather patterns fascinating — they're so complex and constantly evolving.",
+      "Hot weather can really drain your energy. Hope you're staying cool and hydrated!",
+      "Rain can be cozy or gloomy depending on your mood. Which do you prefer?",
+      "What's the weather like where you are right now?",
+      "I love how weather can completely change the vibe of a day. Are you a sunshine person or a rain person?",
+    ]
+  },
+  travel:{
+    triggers:['travel','trip','vacation','holiday','visit','abroad','flight','airport','hotel','explore','destination','city','country','culture','tourist','adventure','journey'],
+    responses:[
+      "Travel is such an amazing way to broaden your perspective. Any favorite destinations?",
+      "Exploring new places is one of the best ways to develop a deeper understanding of the world.",
+      "Where have you traveled to recently, or where would you love to go?",
+      "Every place has something unique to offer. What's the most memorable trip you've ever taken?",
+      "Travel changes you in ways you don't always expect. What's the biggest thing travel has taught you?",
+      "Beach, mountains, or city? What's your ideal travel destination?",
+      "Have you ever traveled solo? It's such a different — and very rewarding — experience.",
+      "What's on your travel bucket list? Any dream destinations you're hoping to visit?",
+    ]
+  },
+  health:{
+    triggers:['health','sick','ill','doctor','hospital','medicine','exercise','gym','run','yoga','sleep','mental health','anxiety','stress','headache','pain','fever','recover','wellness','fit','healthy','workout'],
+    responses:[
+      "Health is truly everything. Are you taking good care of yourself lately?",
+      "Exercise is fantastic — it enhances both your physical and mental wellbeing!",
+      "I hope you feel better soon! Rest and hydration are crucial when you're under the weather.",
+      "Mental health is just as important as physical health. How have you been doing emotionally?",
+      "Getting enough sleep is so fundamental to everything — mood, focus, immune system.",
+      "What kind of exercise do you enjoy? Or are you still looking for something that clicks?",
+      "Stress can really take a toll on the body over time. How do you usually manage it?",
+      "Taking care of your health is an investment that always pays off. What's one healthy habit you're proud of?",
+    ]
+  },
+  technology:{
+    triggers:['tech','technology','phone','computer','laptop','app','software','internet','ai','robot','coding','programming','social media','instagram','twitter','tiktok','youtube','netflix','streaming','digital','online','game','gaming'],
+    responses:[
+      "Technology is evolving so rapidly — it's hard to keep up sometimes, right?",
+      "AI is such a hot topic right now. What's your take on how it will influence our lives?",
+      "Social media is a double-edged sword. How do you feel about its impact on society?",
+      "Gaming is a huge industry now. Are you into any games, or not really your thing?",
+      "The way technology has changed communication is really fascinating to think about.",
+      "Do you consider yourself tech-savvy, or does it sometimes feel overwhelming?",
+      "What tech innovation has had the biggest positive impact on your life?",
+    ]
+  },
+  relationships:{
+    triggers:['friend','friendship','family','relationship','love','dating','partner','boyfriend','girlfriend','husband','wife','parent','sibling','brother','sister','social','lonely','alone','connection','miss','crush'],
+    responses:[
+      "Relationships are such a fundamental part of life. How are your close friendships going?",
+      "It sounds like this person really matters to you. What makes the relationship special?",
+      "Human connection is so important for wellbeing. Do you have people around you that you can rely on?",
+      "Family dynamics can be complex, can't they? How's everything on the home front?",
+      "Making genuine friends as an adult is actually quite challenging. Have you found it hard?",
+      "Feeling connected to others is crucial for happiness. How would you describe your social life?",
+      "That's really sweet. What do you appreciate most about the people close to you?",
+    ]
+  },
+  money:{
+    triggers:['money','finance','budget','save','spend','invest','expensive','cheap','afford','salary','income','cost','price','bank','loan','debt','rent','financial','rich','poor','broke','wealth'],
+    responses:[
+      "Money management is such an important skill. Do you feel like you have a good handle on your finances?",
+      "The relationship between money and happiness is complex, isn't it? What do you think?",
+      "Budgeting takes discipline, but the peace of mind it brings is worth it.",
+      "Saving is one of those things that seems obvious but can be really difficult in practice.",
+      "Financial stress is incredibly common. Is it something that weighs on you?",
+      "What's your philosophy on money — spend now and enjoy life, or save for the future?",
+    ]
+  },
+  hobby:{
+    triggers:['hobby','interest','passion','art','draw','paint','music','guitar','piano','sing','dance','photo','photography','write','writing','read','reading','book','garden','craft','chess','collect','volunteer'],
+    responses:[
+      "That sounds like a wonderful hobby! How did you first get into it?",
+      "Having a creative outlet is so important for wellbeing. How often do you get to do it?",
+      "I love hearing about people's passions. How long have you been into that?",
+      "Hobbies are a great way to recharge and stay connected to what you enjoy.",
+      "That's really cool! What got you started, and what do you love most about it?",
+      "Have you ever thought about turning that hobby into something more? Or do you prefer keeping it just for fun?",
+      "What do you get out of that hobby emotionally? Does it help you relax or energize you?",
+    ]
+  },
+  opinion:{
+    triggers:['think','believe','opinion','feel like','in my opinion','i think','i believe','i feel','my view','perspective','personally','honestly','to me','seems like','i guess','i suppose'],
+    responses:[
+      "That's a really thoughtful perspective. What led you to that conclusion?",
+      "Interesting point of view! Have you always felt that way, or did something change your mind?",
+      "I like that you're sharing your perspective. What would it take to change your opinion on that?",
+      "That's a valid way to look at it. Do you find that most people around you share that view?",
+      "It takes confidence to share a personal opinion. How strongly do you feel about it?",
+      "That's an interesting take. What's the strongest argument against your view, do you think?",
+    ]
+  },
+  feeling:{
+    triggers:['happy','sad','angry','frustrated','excited','nervous','anxious','stressed','proud','confident','bored','lonely','confused','lost','upset','worried','scared','hopeful','grateful','disappointed','jealous','embarrassed'],
+    responses:[
+      "I appreciate you sharing that. It takes courage to acknowledge how we're feeling.",
+      "That's completely valid. Emotions are complex and it's okay to sit with them for a while.",
+      "I hear you. Sometimes just putting how you feel into words can make it feel more manageable.",
+      "Feelings can be complicated. Is there anything specific that triggered this feeling?",
+      "Thank you for being open. How long have you been feeling this way?",
+      "That's a lot to carry. Is there anyone in your life you can talk to about it?",
+      "It sounds like things have been tough. What would make you feel a little better right now?",
+    ]
+  },
+  motivation:{
+    triggers:['motivate','motivation','goal','dream','ambition','hope','future','plan','aspire','inspire','achieve','success','failure','give up','try','effort','hard work','discipline','habit','progress','improve','better','change'],
+    responses:[
+      "Having clear goals is so powerful. What's one dream you're actively working toward?",
+      "Motivation comes in waves, doesn't it? What keeps you going on tough days?",
+      "Ambition is great, but consistency is what actually drives progress. How do you stay on track?",
+      "It's okay to have setbacks. What matters is how you respond to them. How do you handle failure?",
+      "What does success look like to you personally? I'm curious how you define it.",
+      "Small daily improvements accumulate into big results over time. What's one habit you're trying to build?",
+      "Everyone needs something to work toward. What's the one goal that matters most to you right now?",
+    ]
+  },
+  compliment:{
+    triggers:['you are great','you are amazing','you are awesome','you are smart','i like you','you are helpful','love talking to you','great chat','good conversation','you are funny','you are interesting'],
+    responses:[
+      "Aw, that's very kind of you! I really enjoy our conversations too.",
+      "Thank you! That genuinely means a lot. You're pretty great yourself!",
+      "You're making me blush! I just enjoy having good conversations with interesting people.",
+      "That's so nice to hear! I always try my best. You're a fun person to chat with.",
+    ]
+  },
+  agree:{
+    triggers:['agree','exactly','right','correct','true','absolutely','definitely','of course','sure','yes','yeah','yep','totally','i think so','for sure','no doubt','spot on'],
+    responses:[
+      "Glad we're on the same page! What else is on your mind?",
+      "Great minds think alike! Anything else you'd like to explore?",
+      "Exactly! It feels good when ideas click into place. What else do you want to talk about?",
+      "Totally! I love when a conversation flows naturally like this. What's next?",
+      "Right? It seems so obvious when you say it out loud. Anything else?",
+    ]
+  },
+  disagree:{
+    triggers:['disagree','not sure',"i don't think",'maybe not','i doubt','actually','however','but','although','on the other hand','i think differently','not really','not necessarily'],
+    responses:[
+      "That's a fair point! I like that you're thinking critically. Tell me more.",
+      "Healthy debate is how we clarify our thinking. What's your take?",
+      "You make a good point. It's important to evaluate different angles, right?",
+      "I can see where you're coming from. What makes you feel that way?",
+      "That's a great counterpoint. Have you always held that view, or did something change your mind?",
+      "Fair enough! I appreciate that you're being honest rather than just agreeing. What would change your mind?",
+    ]
+  },
+  apology:{
+    triggers:['sorry','apologize','my bad','i was wrong','i made a mistake','forgive me','pardon','excuse me','oops','i messed up'],
+    responses:[
+      "No worries at all! Everyone makes mistakes — it's part of being human.",
+      "Don't stress about it! These things happen. What's important is that you caught it.",
+      "That's totally fine! I appreciate the honesty though.",
+      "No need to apologize! We're just having a casual chat. What were you saying?",
+    ]
+  },
+  confused:{
+    triggers:['confused','confusing',"don't understand",'not sure what you mean','what do you mean','can you explain','unclear','lost','complicated','hard to understand','explain','clarify'],
+    responses:[
+      "Happy to clarify! Which part was confusing — let me try to explain it differently.",
+      "Sorry if I wasn't clear! What specifically confused you?",
+      "Good question — sometimes things aren't as straightforward as they seem. What part should I explain?",
+      "No worries at all. Can you point to what's unclear? I'll do my best to break it down.",
+    ]
+  },
+  thanks:{
+    triggers:['thanks','thank you','thx','appreciate','grateful','cheers','ty','many thanks','much appreciated'],
+    responses:[
+      "You're very welcome! Always happy to chat.",
+      "Anytime! That's what I'm here for.",
+      "Of course! Hope it was helpful in some way.",
+      "My pleasure! Don't hesitate to reach out anytime.",
+      "Happy to help! Is there anything else on your mind?",
+    ]
+  },
+  bye:{
+    triggers:['bye','goodbye','see you','gotta go','talk later','take care','goodnight','good night','cya','catch you later','leaving','gtg','ttyl','have to go'],
+    responses:[
+      "Take care! Come back and chat anytime. 👋",
+      "Goodbye! Hope the rest of your day goes really well.",
+      "See you around! Keep practicing your English — you're doing great.",
+      "Catch you later! It was genuinely great talking with you.",
+      "Take care of yourself! The door's always open whenever you want to chat.",
+      "Bye for now! Don't forget — little conversations like this add up over time. See you soon!",
+    ]
+  },
+};
+
+const PROACTIVE_OPENERS=[
+  "Hey! It's been a while. How have things been going for you lately?",
+  "Hello! I noticed you haven't stopped by in a bit. What's new with you?",
+  "Hey there! Hope your day is going well. Anything interesting happen recently?",
+  "Hi! Just checking in. What's been keeping you busy?",
+  "Good to see you! It feels like it's been forever. What have you been up to?",
+  "Hey! Life keeping you occupied? I'd love to catch up.",
+  "Hello! Hope everything's going smoothly. What's on your mind today?",
+];
+
+// ══════════════════════════════════════════════
+// CONTEXT ENGINE (記憶前 5 輪對話)
+// ══════════════════════════════════════════════
+const CTX={
+  history:[],   // [{role:'user'|'bot', text, topic}]
+  maxLen:5,
+  push(role,text,topic=null){
+    this.history.push({role,text,topic,ts:Date.now()});
+    if(this.history.length>this.maxLen*2) this.history=this.history.slice(-this.maxLen*2);
+  },
+  lastUserTopic(){
+    for(let i=this.history.length-1;i>=0;i--){
+      if(this.history[i].role==='user'&&this.history[i].topic) return this.history[i].topic;
+    }
+    return null;
+  },
+  lastBotText(){
+    for(let i=this.history.length-1;i>=0;i--){
+      if(this.history[i].role==='bot') return this.history[i].text;
+    }
+    return '';
+  },
+  recentTopics(){
+    return this.history.filter(h=>h.topic).map(h=>h.topic).slice(-4);
+  },
+  botJustAskedQuestion(){
+    const last=this.lastBotText();
+    return last.endsWith('?');
+  },
+};
+
+// ── Negation detector ──
+const NEGATIONS=['not','no','never','nothing','nobody','nowhere','neither','nor','dont','doesnt','didnt','wont','wouldnt','cant','couldnt','shouldnt','isnt','arent','wasnt','werent','hardly','barely','scarcely'];
+function hasNegation(text){
+  const lower=text.toLowerCase();
+  return NEGATIONS.some(n=>lower.includes(' '+n+' ')||lower.startsWith(n+' '));
+}
+
+// ── Sentiment detector ──
+const POS_WORDS=['great','good','amazing','wonderful','fantastic','excellent','happy','love','enjoy','excited','thrilled','glad','pleased','awesome','brilliant','perfect','nice','fun','interesting'];
+const NEG_WORDS=['bad','terrible','awful','horrible','sad','hate','dislike','angry','frustrated','miserable','depressed','upset','disappointed','annoyed','stressed','worried','scared','nervous','anxious','exhausted','lonely'];
+function getSentiment(text){
+  const lower=text.toLowerCase();
+  const pos=POS_WORDS.filter(w=>lower.includes(w)).length;
+  const neg=NEG_WORDS.filter(w=>lower.includes(w)).length;
+  if(neg>pos) return 'negative';
+  if(pos>neg) return 'positive';
+  return 'neutral';
+}
+
+// ── Topic-continuation follow-up responses ──
+const FOLLOWUPS={
+  tired:[
+    "Still feeling that way, or has it gotten better?",
+    "On top of the tiredness, is anything else bothering you?",
+    "Did you manage to rest at all since we last talked about this?",
+  ],
+  busy:[
+    "Still swamped, or has it calmed down a bit?",
+    "With everything on your plate, are you at least finding moments to breathe?",
+    "Has anything come off your to-do list since we talked?",
+  ],
+  study:[
+    "How has the studying been going? Making progress?",
+    "Have you tried any new study techniques lately?",
+    "What's the next big thing you're working toward with your English?",
+  ],
+  work:[
+    "Things any easier at work since we last chatted?",
+    "Did that work situation resolve itself?",
+    "How are things with your colleagues these days?",
+  ],
+  feeling:[
+    "How are you feeling now compared to a little while ago?",
+    "Has anything helped shift that mood a bit?",
+    "Is the feeling still as strong as before?",
+  ],
+  travel:[
+    "Still thinking about that trip, or have plans changed?",
+    "Have you started planning the details yet?",
+    "What's the part you're most looking forward to?",
+  ],
+  health:[
+    "Feeling any better than before?",
+    "Are you making sure to take care of yourself?",
+    "How has your energy been lately?",
+  ],
+  relationships:[
+    "How are things with that person now?",
+    "Have you had a chance to talk to them since?",
+    "How did that situation develop?",
+  ],
+  motivation:[
+    "Still working toward that goal?",
+    "Have you made any progress since we last talked about it?",
+    "What's been the biggest challenge so far?",
+  ],
+};
+
+// ── Negation-aware response modifier ──
+const NEGATION_OVERRIDES={
+  happy:["Oh, so things aren't great right now? What's been going on?","I hear you — sometimes we're just not feeling it. What's bringing you down?","That makes sense. What's making it feel like that?"],
+  busy:["Actually not that busy? Nice! How are you spending the free time?","Good to hear you have some breathing room! What are you doing with it?"],
+  tired:["Oh, you're actually doing okay? That's great to hear! What's keeping your energy up?","Not tired at all? Lucky you! What's your secret?"],
+  work:["Not working right now? How are you finding that?","Taking a break from work? How's that going?"],
+  study:["Not studying right now? Taking a break is sometimes the best thing you can do.","No studying today? Sometimes the mind needs to rest too."],
+};
+
+// ══════════════════════════════════════════════
+// USER MEMORY
+// ══════════════════════════════════════════════
+const UMEM={
+  data:{},
+  set(key,val){this.data[key]=val},
+  get(key){return this.data[key]||null},
+  extract(text){
+    const lower=text.toLowerCase();
+    const nameMatch=lower.match(/(?:i'm|i am|my name is|call me)\s+([a-z]+)/);
+    if(nameMatch&&!this.get('name'))this.set('name',nameMatch[1]);
+    const jobMatch=lower.match(/i(?:'m| am) (?:a |an )?([a-z\s]+(?:designer|developer|teacher|student|engineer|doctor|nurse|manager|writer|chef|artist|lawyer|accountant))/);
+    if(jobMatch)this.set('job',jobMatch[1].trim());
+    const locMatch=lower.match(/(?:i live in|i'm from|i'm in|based in)\s+([a-z\s]+?)(?:\.|,|$)/);
+    if(locMatch)this.set('location',locMatch[1].trim());
+  },
+  personalTouch(){
+    const name=this.get('name');
+    if(name&&Math.random()<0.25)return name.charAt(0).toUpperCase()+name.slice(1)+', ';
+    return '';
+  }
+};
+
+const PROACTIVE_SHIFTS=[
+  "By the way, have you been keeping up with your English practice lately?",
+  "On a different note — what's something you're looking forward to this week?",
+  "Random thought: what's one thing that's made you smile recently?",
+  "Quick question — what's the last good book, show, or movie you got into?",
+  "Side note: if you could learn any new skill right now, what would it be?",
+  "Also curious — what does your ideal day off look like?",
+  "Just thought of something — what's a goal you've been quietly working on?",
+];
+let shiftCooldown=0;
+
+function buildCallbackPrefix(currentTopic){
+  const recentTopics=CTX.recentTopics();
+  const prevTopic=recentTopics[recentTopics.length-2];
+  if(!prevTopic||prevTopic===currentTopic)return '';
+  const CALLBACKS={
+    tired:['Speaking of feeling drained earlier — ','Given what you said about being tired — '],
+    busy:['With everything you had going on — ','Since you mentioned being swamped — '],
+    work:['Coming back to the work stuff — '],
+    study:['On the note of learning — ','Picking up from your studies — '],
+    feeling:['Given what you shared earlier — '],
+    travel:['Since you were talking about travel — '],
+    health:['On the health note — '],
+  };
+  const opts=CALLBACKS[prevTopic];
+  if(!opts)return '';
+  return Math.random()<0.25?opts[Math.floor(Math.random()*opts.length)]:'';
+}
+
+function getBotResponse(userText,quoteText=null,grammarMatches=[]){
+  // Grammar-linked opening: naturally acknowledge error before continuing
+  const hasErrors=grammarMatches&&grammarMatches.length>0;
+  const GRAMMAR_OPENERS=[
+    "I get what you mean — just a small thing worth noting! ",
+    "I understood you perfectly! Quick language note: ",
+    "Nice effort! One small tweak: ",
+    "Got it! By the way, ",
+  ];
+  const grammarPrefix=hasErrors&&Math.random()<0.55
+    ?GRAMMAR_OPENERS[Math.floor(Math.random()*GRAMMAR_OPENERS.length)]
+    :'';
+  // If user quoted a bot message, inject it as context
+  if(quoteText){
+    const quoteLower=quoteText.toLowerCase();
+    // Score quoted text against topics to extract topic
+    let qBest=null,qScore=0;
+    for(const [key,topic] of Object.entries(TOPICS)){
+      let s=0;
+      for(const t of topic.triggers){if(quoteLower.includes(t))s+=t.split(' ').length}
+      if(s>qScore){qScore=s;qBest=key}
+    }
+    if(qBest&&qScore>0){
+      // Push quoted topic into context so continuation logic picks it up
+      CTX.push('user','[quoted: '+quoteText.slice(0,60)+']',qBest);
+    }
+    // Prepend acknowledgement
+    const acks=[
+      "Coming back to what I said earlier — ",
+      "Right, on that point — ",
+      "Good call bringing that up again — ",
+      "Picking up from that — ",
+    ];
+    const ack=acks[Math.floor(Math.random()*acks.length)];
+    // Get normal response and prepend ack
+    const base=_getBotResponseCore(userText);
+    return grammarPrefix+ack+base;
+  }
+  return grammarPrefix+_getBotResponseCore(userText);
+}
+function _getBotResponseCore(userText){
+  const lower=userText.toLowerCase().trim();
+  const words=lower.split(/\s+/);
+  const isNegated=NEGATIONS.some(n=>lower.includes(' '+n+' ')||lower.startsWith(n+' '));
+  const sentiment=getSentiment(lower);
+  const lastTopic=CTX.lastUserTopic();
+  const recentTopics=CTX.recentTopics();
+  const botAskedQ=CTX.botJustAskedQuestion();
+  shiftCooldown=Math.max(0,shiftCooldown-1);
+  UMEM.extract(userText);
+  const prefix=UMEM.personalTouch();
+
+  // -1. Celebrate if user naturally used a vocab word
+  const usedVocab=VOCAB.find(v=>
+    lower.includes(v.word.toLowerCase())&&
+    !lower.startsWith('what')&&!lower.startsWith('define')&&
+    !lower.includes('use the word')&&words.length>3
+  );
+  if(usedVocab&&Math.random()<0.45){
+    // Celebrate + ask a natural follow-up (no vocab injection after this)
+    const c=[
+      `Nice use of "${usedVocab.word}"! That's exactly the right context.`,
+      `I noticed you used "${usedVocab.word}" — great vocabulary!`,
+      `Good one — "${usedVocab.word}" fits perfectly there.`,
+    ][Math.floor(Math.random()*3)];
+    CTX.push('user',userText,null);
+    CTX._lastCelebrated=usedVocab.word; // prevent double-mention
+    const f=[
+      " What's going on exactly?",
+      " Tell me more about the situation.",
+      " What made you realize that?",
+      " How are you planning to handle it?",
+    ][Math.floor(Math.random()*4)];
+    return c+f;
+  }
+
+  // 0. Vocab command — "use X in a sentence" / "what does X mean" / "example of X"
+  const vocabCmdMatch=lower.match(/(?:use|using|example of|what (?:is|does)|define|meaning of|tell me about)\s+(?:the word\s+)?['""]?([a-z]+)['""]?/);
+  if(vocabCmdMatch){
+    const reqWord=vocabCmdMatch[1].toLowerCase();
+    const found=VOCAB.find(v=>v.word.toLowerCase()===reqWord);
+    if(found){
+      const sentences=[
+        `Sure! Here's an example: "${found.example}" — ${found.word} means to ${found.definition}.`,
+        `Of course! "${found.example}" — that's a great use of ${found.word}, which means to ${found.definition}.`,
+        `Happy to! "${found.example}" — ${found.word} (${found.pos}): ${found.definition}.`,
+        `Here you go: "${found.example}" — use "${found.word}" when you mean: ${found.definition}.`,
+      ];
+      CTX.push('user',userText,'vocab_cmd');
+      return sentences[Math.floor(Math.random()*sentences.length)];
+    }
+  }
+
+  // 0b. Pure vocab question — "what is abandon" / "define analyze"
+  const defineMatch=lower.match(/^(?:what(?:'s| is) |define |meaning of |tell me about )([a-z]+)\??$/);
+  if(defineMatch){
+    const reqWord=defineMatch[1].toLowerCase();
+    const found=VOCAB.find(v=>v.word.toLowerCase()===reqWord);
+    if(found){
+      CTX.push('user',userText,'vocab_cmd');
+      return `${found.word} (${found.pos}): ${found.definition}. Example: "${found.example}"`;
+    }
+  }
+
+  // 1. Short reply after bot asked a question
+  if(botAskedQ&&words.length<=5){
+    if(sentiment==='positive')return [
+      prefix+"That's good to hear! What's been the best part?",
+      "Nice! I'm glad things are going okay. What else is on your mind?",
+      prefix+"Love that! Keep it up. What's next for you?",
+      "Great! That must feel good. How long has it been that way?",
+    ][Math.floor(Math.random()*4)];
+    if(sentiment==='negative')return [
+      prefix+"Aw, I'm sorry to hear that. Want to talk about what's going on?",
+      "That sounds tough. What's been the hardest part of it?",
+      "I hear you. Is there anything that's been helping, even a little?",
+      prefix+"That's rough. How long has it been like this?",
+      "I'm sorry. Does it feel like things might improve soon, or does it feel stuck?",
+    ][Math.floor(Math.random()*5)];
+    return [
+      "I see! That's interesting. Can you say more about that?",
+      prefix+"Got it. And how do you feel about it overall?",
+      "Okay! What's your take on it?",
+      "Fair enough. What led you to that?",
+      "Interesting. Is that something that's been on your mind for a while?",
+    ][Math.floor(Math.random()*5)];
+  }
+
+  // 2. Negation overrides
+  if(isNegated){
+    for(const [key,resps] of Object.entries(NEGATION_OVERRIDES)){
+      if(lower.includes(key))return resps[Math.floor(Math.random()*resps.length)];
+    }
+    if(words.length<=6)return [
+      "Oh interesting — so it's more the opposite? Tell me more.",
+      "Ah I see — not quite that. What's it actually like?",
+      "Got it, so that's not quite right. How would you describe it?",
+    ][Math.floor(Math.random()*3)];
+  }
+
+  // 3. Topic continuation
+  if(lastTopic&&recentTopics.filter(t=>t===lastTopic).length>=1&&FOLLOWUPS[lastTopic]){
+    if(Math.random()<0.38){
+      const pool=FOLLOWUPS[lastTopic];
+      return pool[Math.floor(Math.random()*pool.length)];
+    }
+  }
+
+  // 4. Score and match topics
+  const hasQuestionStructure=lower.includes('?')||['what','who','where','when','why','how','can you','could you','do you','would you'].some(q=>lower.startsWith(q));
+  let bestTopic=null,bestScore=0;
+  for(const [key,topic] of Object.entries(TOPICS)){
+    let score=0;
+    for(const trigger of topic.triggers){
+      if(lower.includes(trigger))score+=trigger.split(' ').length;
+    }
+    for(const word of words){
+      for(const trigger of topic.triggers){
+        if(trigger===word)score+=0.5;
+      }
+    }
+    // Penalize greeting if sentence is long or has question structure
+    if(key==='greeting'&&(words.length>4||hasQuestionStructure)) score*=0.2;
+    if(score>bestScore){bestScore=score;bestTopic={key,topic};}
+  }
+  if(bestTopic&&bestScore>0){
+    const pool=bestTopic.topic.responses;
+    const cb=buildCallbackPrefix(bestTopic.key);
+    const base=pool[Math.floor(Math.random()*pool.length)];
+    CTX.push('user',userText,bestTopic.key);
+    if(shiftCooldown===0&&Math.random()<0.12){shiftCooldown=4;return base+' '+PROACTIVE_SHIFTS[Math.floor(Math.random()*PROACTIVE_SHIFTS.length)];}
+    return cb+base;
+  }
+  CTX.push('user',userText,null);
+
+  // 5. Sentiment fallbacks
+  if(sentiment==='negative')return [
+    prefix+"That doesn't sound great. What's been happening?",
+    "I'm sorry to hear that. Do you want to talk about what's going on?",
+    "That sounds rough. What's been the hardest part?",
+    prefix+"I hear that. How long has it been like this for you?",
+    "That's a lot. Is there anything that's been helping, even a little?",
+    "Oof. Sometimes things just pile up. What would make the biggest difference right now?",
+  ][Math.floor(Math.random()*6)];
+  if(sentiment==='positive')return [
+    prefix+"That's great to hear! What's been making things feel good?",
+    "Love the positivity! What's been the highlight?",
+    "That's really nice! How did that come about?",
+    prefix+"Great! It's always good to hear when things go well. What's next?",
+    "Sounds like you're in a good place! What's been the best part?",
+  ][Math.floor(Math.random()*5)];
+
+  // 6. Structure-aware
+  const questionWords=['what','who','where','when','why','how','do you','are you','can you','have you','did you','would you'];
+  if(lower.endsWith('?')||questionWords.some(q=>lower.startsWith(q)))return [
+    "That's a great question! What's your own take on it?",
+    "Hmm, it really depends. What made you think of that?",
+    "Good question! What do you think the answer might be?",
+    "I'd love to explore that. What's your gut feeling?",
+    "Interesting question — have you been thinking about this for a while?",
+  ][Math.floor(Math.random()*5)];
+  if(words.length<=4)return [
+    "Tell me more! I'd love to hear your full thoughts.",
+    "Interesting! Can you expand on that a bit?",
+    "Go on — I'm all ears!",
+    "Really? What do you mean exactly?",
+    "Say more! What's behind that?",
+    "I want to hear more. What's the context?",
+  ][Math.floor(Math.random()*6)];
+
+  // 7. Rich general fallbacks
+  const base=[
+    prefix+"That's really interesting! How did that come about?",
+    "I see what you mean. How do you feel about it overall?",
+    "Interesting perspective! What made you think about that?",
+    "I hadn't considered that angle. Can you tell me more?",
+    "That sounds like quite an experience. What happened next?",
+    prefix+"I'd love to understand more. What's your take on it?",
+    "That's a great point. Has it always been like that for you?",
+    "I appreciate you sharing that. What would you do differently?",
+    "Fascinating! Does that come up often?",
+    "Sounds like there's more to it. What's the backstory?",
+    "Wow, that's a lot to sit with. How are you processing it?",
+    "That really resonates. What do you think the next step is?",
+    "I like how you put that. Do others around you see it the same way?",
+    "That's worth thinking about. What does that mean for you going forward?",
+  ][Math.floor(Math.random()*14)];
+  if(shiftCooldown===0&&Math.random()<0.10){shiftCooldown=4;return base+' '+PROACTIVE_SHIFTS[Math.floor(Math.random()*PROACTIVE_SHIFTS.length)];}
+  return base;
+}
+
+
+// ══════════════════════════════════════════════
+// RENDER HELPERS
+// ══════════════════════════════════════════════
+function formatTime(date){
+  return date.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:true});
+}
+
+function highlightVocab(text){
+  if(!VOCAB.length)return escapeHtml(text);
+  // Build word set for O(1) lookup
+  const wordSet=new Set(VOCAB.map(v=>v.word.toLowerCase()));
+  // Split text into tokens preserving spaces and punctuation
+  const tokens=text.split(/([\s\.,!?;:'"\-()]+)/);
+  return tokens.map(token=>{
+    const lower=token.toLowerCase().replace(/[^a-z]/g,'');
+    if(wordSet.has(lower)){
+      const safe=escapeHtml(token);
+      return `<span class="vocab-word" onclick="handleVocabClick(this,'${lower}')" onmouseenter="showTooltip(this,'${lower}')" onmouseleave="hideTooltip()">${safe}</span>`;
+    }
+    return escapeHtml(token);
+  }).join('');
+}
+
+function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function escapeRegex(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
+
+function handleVocabClick(el,word){showTooltip(el,word)}
+
+function renderGrammarFixes(matches,originalText){
+  if(!matches.length)return'';
+  const fixes=matches.slice(0,3).map(m=>{
+    const wrong=originalText.substr(m.offset,m.length);
+    const right=m.replacements?.[0]?.value||'—';
+    return`<div style="margin-bottom:4px">
+      <span class="fix-wrong">${escapeHtml(wrong)}</span>→
+      <span class="fix-right">${escapeHtml(right)}</span>
+      <div class="fix-explain">${escapeHtml(m.message||'')}</div>
+    </div>`;
+  }).join('');
+  return`<div class="grammar-fix">
+    <div class="fix-label">💡 Quick fix</div>
+    ${fixes}
+  </div>`;
+}
+
+// ══════════════════════════════════════════════
+// MESSAGE RENDERING
+// ══════════════════════════════════════════════
+const messagesEl=document.getElementById('messages');
+
+function appendMessage(role,text,grammarFixes=[],quoteText=null){
+  const row=document.createElement('div');
+  row.className=`msg-row ${role}`;
+  const avatar=document.createElement('div');
+  avatar.className=`msg-avatar ${role}`;
+  avatar.textContent=role==='bot'?'🤖':'🙂';
+  const bubble=document.createElement('div');
+  bubble.className=`bubble ${role}`;
+
+  // Quote reference (if this message quotes a previous one)
+  if(quoteText){
+    const qRef=document.createElement('div');
+    qRef.className='quote-ref';
+    qRef.textContent=quoteText;
+    bubble.appendChild(qRef);
+  }
+
+  const content=document.createElement('div');
+  content.innerHTML=role==='bot'?highlightVocab(text):escapeHtml(text);
+  bubble.appendChild(content);
+
+  // Translate area (bot only)
+  if(role==='bot'){
+    const transEl=document.createElement('div');
+    transEl.className='translated-text';
+    bubble.appendChild(transEl);
+  }
+
+  if(grammarFixes.length){
+    const fix=document.createElement('div');
+    fix.innerHTML=renderGrammarFixes(grammarFixes,text);
+    bubble.appendChild(fix);
+  }
+
+  const time=document.createElement('span');
+  time.className='time';
+  time.textContent=formatTime(new Date());
+  bubble.appendChild(time);
+
+  // Actions toolbar (bot only)
+  if(role==='bot'){
+    const actions=document.createElement('div');
+    actions.className='bubble-actions';
+
+    const transBtn=document.createElement('button');
+    transBtn.textContent='🌐 譯';
+    transBtn.title='翻譯成中文';
+    transBtn.onclick=()=>toggleTranslate(transBtn,bubble,text);
+
+    const quoteBtn=document.createElement('button');
+    quoteBtn.textContent='💬 引用';
+    quoteBtn.title='引用這條訊息';
+    quoteBtn.onclick=()=>quoteMessage(text);
+
+    actions.appendChild(transBtn);
+    actions.appendChild(quoteBtn);
+    bubble.appendChild(actions);
+  }
+
+  row.appendChild(avatar);
+  row.appendChild(bubble);
+  messagesEl.appendChild(row);
+  messagesEl.scrollTop=messagesEl.scrollHeight;
+  return bubble;
+}
+
+function showTyping(){
+  const row=document.createElement('div');
+  row.className='msg-row bot';row.id='typing-row';
+  const avatar=document.createElement('div');
+  avatar.className='msg-avatar bot';avatar.textContent='🤖';
+  const bubble=document.createElement('div');
+  bubble.className='bubble bot';
+  bubble.innerHTML='<div class="typing-dots"><span></span><span></span><span></span></div>';
+  row.appendChild(avatar);row.appendChild(bubble);
+  messagesEl.appendChild(row);
+  messagesEl.scrollTop=messagesEl.scrollHeight;
+}
+function hideTyping(){
+  const el=document.getElementById('typing-row');
+  if(el)el.remove();
+}
+
+// ══════════════════════════════════════════════
+// CHAT LOGIC
+// ══════════════════════════════════════════════
+const LS_LAST_CHAT='wr_chat_last';
+const LS_HISTORY='wr_chat_history';
+let isProcessing=false;
+
+// ── SMART VOCAB INTEGRATION ──
+// Use vocab example sentences as natural conversation injections
+function maybeInjectVocab(botText,userText){
+  if(Math.random()>0.22||!VOCAB.length)return botText;
+  const lower=userText.toLowerCase();
+
+  // 1. Try to find a word directly mentioned by user
+  // Skip if we just celebrated this word (avoid double-mention)
+  let pick=VOCAB.find(v=>
+    lower.includes(v.word.toLowerCase())&&
+    v.word!==CTX._lastCelebrated
+  );
+  CTX._lastCelebrated=null; // reset after one use
+
+  // 2. Try topic-relevance: match vocab tags to current topic
+  if(!pick){
+    const lastTopic=CTX.lastUserTopic();
+    const topicTagMap={
+      study:['academic','education'],work:['business'],
+      health:['health','science'],money:['finance','economics'],
+      technology:['technology'],feeling:['psychology'],
+      motivation:['common'],hobby:['art'],travel:['common'],
+    };
+    const tags=topicTagMap[lastTopic]||[];
+    if(tags.length){
+      const candidates=VOCAB.filter(v=>(v.tags||[]).some(t=>tags.includes(t)));
+      if(candidates.length) pick=candidates[Math.floor(Math.random()*candidates.length)];
+    }
+  }
+
+  // 3. Fallback: random from first 60 words
+  if(!pick) pick=VOCAB[Math.floor(Math.random()*Math.min(VOCAB.length,60))];
+
+  // Use vocab example sentence as bridge — grammatically guaranteed correct
+  const bridges=[
+    w=>`By the way, here's a vocab word that comes to mind: "${w.word}" — as in, "${w.example}"`,
+    w=>`This reminds me of the word "${w.word}" (${w.definition}). For example: "${w.example}"`,
+    w=>`Random vocab note: "${w.word}" — ${w.definition}. Example: "${w.example}"`,
+    w=>`Speaking of which — the word "${w.word}" fits here nicely. "${w.example}"`,
+  ];
+  const bridge=bridges[Math.floor(Math.random()*bridges.length)];
+  return botText+' '+bridge(pick);
+}
+
+// ── TRANSLATE ──
+// Try multiple free APIs in sequence
+async function translateText(text){
+  // 1. MyMemory API
+  try{
+    const url=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-TW`;
+    const r=await fetch(url,{signal:AbortSignal.timeout(6000)});
+    if(r.ok){
+      const d=await r.json();
+      if(d.responseStatus===200&&d.responseData?.translatedText&&
+         !d.responseData.translatedText.includes('QUERY LENGTH')){
+        return d.responseData.translatedText;
+      }
+    }
+  }catch{}
+  // 2. Lingva Translate (open source Google Translate frontend)
+  try{
+    const url=`https://lingva.ml/api/v1/en/zh/${encodeURIComponent(text)}`;
+    const r=await fetch(url,{signal:AbortSignal.timeout(6000)});
+    if(r.ok){
+      const d=await r.json();
+      if(d.translation) return d.translation;
+    }
+  }catch{}
+  // 3. Fallback: use browser's built-in if available
+  return null;
+}
+
+async function toggleTranslate(btn,bubble,originalText){
+  const transEl=bubble.querySelector('.translated-text');
+  if(transEl.classList.contains('show')){
+    transEl.classList.remove('show');
+    btn.textContent='🌐 譯';
+    btn.classList.remove('active');
+    return;
+  }
+  btn.textContent='⏳';btn.disabled=true;
+  if(transEl.dataset.cached){
+    transEl.textContent=transEl.dataset.cached;
+    transEl.classList.add('show');
+    btn.textContent='🌐 譯';btn.classList.add('active');btn.disabled=false;
+    return;
+  }
+  const result=await translateText(originalText);
+  if(result){
+    transEl.textContent=result;
+    transEl.dataset.cached=result;
+    transEl.classList.add('show');
+    btn.classList.add('active');
+  }else{
+    transEl.textContent='翻譯服務暫時無法使用，請稍後再試。';
+    transEl.classList.add('show');
+  }
+  btn.textContent='🌐 譯';btn.disabled=false;
+}
+
+// ── QUOTE ──
+let quotedMessage=null;
+function quoteMessage(text){
+  quotedMessage=text;
+  document.getElementById('quotedText').textContent=text;
+  document.getElementById('quote-bar').classList.add('show');
+  document.getElementById('msgInput').focus();
+}
+function cancelQuote(){
+  quotedMessage=null;
+  document.getElementById('quote-bar').classList.remove('show');
+}
+
+function saveLastChat(){localStorage.setItem(LS_LAST_CHAT,new Date().toISOString())}
+
+async function sendMessage(){
+  const input=document.getElementById('msgInput');
+  const text=input.value.trim();
+  if(!text||isProcessing)return;
+  isProcessing=true;
+  input.value='';
+  autoResize(input);
+  document.getElementById('send-btn').disabled=true;
+
+  // Hide quick phrases on first message
+  hideQuickPhrases();
+  // User bubble — include quote reference if active
+  const activeQuote=quotedMessage;
+  appendMessage('user',text,[],activeQuote);
+  saveLastChat();
+
+  // Grammar check + bot response in parallel
+  showTyping();
+  const [grammarMatches]=await Promise.all([checkGrammar(text)]);
+  if(activeQuote) cancelQuote();
+
+  // Grammar-linked response: if errors found, bot weaves correction into reply
+  let botText=getBotResponse(text,activeQuote,grammarMatches);
+  botText=maybeInjectVocab(botText,text);
+
+  // Simulate natural typing delay (600–1400ms)
+  await new Promise(r=>setTimeout(r,600+Math.random()*800));
+  hideTyping();
+
+  // Bot reply
+  appendMessage('bot',botText);
+  CTX.push('bot',botText);
+
+  // Grammar fix bubble (separate, only for multiple errors or complex ones)
+  const complexErrors=grammarMatches.filter(m=>m.replacements&&m.replacements.length>0&&m.message);
+  if(complexErrors.length>1||(complexErrors.length===1&&text.split(' ').length>6)){
+    await new Promise(r=>setTimeout(r,420));
+    const fixBubble=document.createElement('div');
+    fixBubble.className='msg-row bot';
+    const av=document.createElement('div');av.className='msg-avatar bot';av.textContent='🤖';
+    const bu=document.createElement('div');bu.className='bubble bot';
+    bu.innerHTML=renderGrammarFixes(complexErrors,text);
+    const ti=document.createElement('span');ti.className='time';ti.textContent=formatTime(new Date());
+    bu.appendChild(ti);
+    fixBubble.appendChild(av);fixBubble.appendChild(bu);
+    messagesEl.appendChild(fixBubble);
+    messagesEl.scrollTop=messagesEl.scrollHeight;
+  }
+
+  isProcessing=false;
+  document.getElementById('send-btn').disabled=false;
+  input.focus();
+}
+
+// ══════════════════════════════════════════════
+// PROACTIVE MESSAGE (if no chat for >24h)
+// ══════════════════════════════════════════════
+function checkProactive(){
+  const last=localStorage.getItem(LS_LAST_CHAT);
+  if(!last)return; // first visit — let greeting handle it
+  const diff=Date.now()-new Date(last).getTime();
+  const h24=24*60*60*1000;
+  if(diff>h24){
+    const msg=PROACTIVE_OPENERS[Math.floor(Math.random()*PROACTIVE_OPENERS.length)];
+    setTimeout(()=>{
+      const banner=document.createElement('div');
+      banner.className='proactive-banner';
+      banner.textContent="WordBot missed you! 👋";
+      messagesEl.appendChild(banner);
+      messagesEl.scrollTop=messagesEl.scrollHeight;
+      setTimeout(()=>appendMessage('bot',msg),800);
+    },500);
+  }
+}
+
+// ══════════════════════════════════════════════
+// INPUT HANDLING
+// ══════════════════════════════════════════════
+function autoResize(el){
+  el.style.height='auto';
+  el.style.height=Math.min(el.scrollHeight,120)+'px';
+}
+const input=document.getElementById('msgInput');
+input.addEventListener('input',()=>autoResize(input));
+input.addEventListener('keydown',e=>{
+  if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage()}
+});
+
+// ══════════════════════════════════════════════
+// BOOT
+// ══════════════════════════════════════════════
+const QUICK_PHRASES=[
+  {label:"👋  How are you?",           text:"Hey! How are you doing today?"},
+  {label:"📚  Talk about studying",    text:"I've been studying English lately. Any tips?"},
+  {label:"💼  Talk about work",        text:"Work has been pretty hectic for me recently."},
+  {label:"🌍  Use a vocab word",       text:"Can you use the word 'analyze' in a sentence?"},
+  {label:"😄  Just chat",             text:"I just want to have a casual conversation!"},
+];
+
+function showQuickPhrases(){
+  const container=document.getElementById('quick-phrases');
+  container.innerHTML='';
+  QUICK_PHRASES.forEach(p=>{
+    const chip=document.createElement('button');
+    chip.className='qp-chip';
+    chip.textContent=p.label;
+    chip.onclick=()=>{
+      hideQuickPhrases();
+      document.getElementById('msgInput').value=p.text;
+      sendMessage();
+    };
+    container.appendChild(chip);
+  });
+}
+
+function hideQuickPhrases(){
+  const container=document.getElementById('quick-phrases');
+  container.style.transition='opacity .25s';
+  container.style.opacity='0';
+  setTimeout(()=>{container.innerHTML='';container.style.opacity='';container.style.transition='';},260);
+}
+
+window.addEventListener('load',()=>{
+  const greetings=[
+    "Hey! Welcome back. Feel free to chat with me in English about anything.",
+    "Hello! I'm WordBot. Chat with me in English — I'll gently correct any grammar issues I spot.",
+    "Hi there! Let's have a conversation. Don't worry about mistakes — that's how we learn!",
+    "Hey! Great to have you here. What's on your mind today?",
+  ];
+  const isFirstVisit=!localStorage.getItem(LS_LAST_CHAT);
+  if(isFirstVisit){
+    setTimeout(()=>{
+      appendMessage('bot',greetings[Math.floor(Math.random()*greetings.length)]);
+      setTimeout(showQuickPhrases,300);
+    },400);
+  } else {
+    checkProactive();
+  }
+  input.focus();
+});
+</script>
+</body>
+</html>
