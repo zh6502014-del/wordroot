@@ -843,6 +843,95 @@ const UMEM={
   }
 };
 
+// ══════════════════════════════════════════════
+// VOCAB QUIZ ENGINE
+// ══════════════════════════════════════════════
+const QUIZ={
+  active:false,
+  word:null,
+  type:null, // 'meaning' | 'brutal'
+  opts:[],   // [{word, definition_zh}] for brutal
+
+  // Start a meaning quiz
+  startMeaning(){
+    if(!VOCAB.length)return null;
+    const w=VOCAB[Math.floor(Math.random()*VOCAB.length)];
+    this.active=true;this.word=w;this.type='meaning';this.opts=[];
+    return w;
+  },
+
+  // Start brutal 2-choice (needs mistakes from localStorage)
+  startBrutal(){
+    const raw=localStorage.getItem('wr_mistakes');
+    if(!raw)return null;
+    const mistakes=Object.entries(JSON.parse(raw));
+    if(!mistakes.length)return null;
+    const [correctWord,data]=mistakes[Math.floor(Math.random()*mistakes.length)];
+    const correctVocab=VOCAB.find(v=>v.word===correctWord);
+    const wrongVocab=VOCAB.find(v=>v.word===data.wrongWord);
+    if(!correctVocab||!wrongVocab)return null;
+    this.active=true;this.word=correctVocab;this.type='brutal';
+    this.opts=shuffle([
+      {word:correctVocab.word,def:correctVocab.definition_zh},
+      {word:wrongVocab.word,def:wrongVocab.definition_zh},
+    ]);
+    return {correct:correctVocab,wrong:wrongVocab,opts:this.opts};
+  },
+
+  // Check answer
+  checkMeaning(userAnswer){
+    if(!this.active||!this.word)return null;
+    const w=this.word;
+    this.active=false;this.word=null;this.type=null;
+    const synonyms=[...(w.synonyms||[])];
+    const correct=synonyms.some(s=>userAnswer.toLowerCase().includes(s.toLowerCase()))||
+      userAnswer.toLowerCase().includes(w.word.toLowerCase())||
+      userAnswer.toLowerCase().includes(w.definition.toLowerCase().split(' ').slice(0,3).join(' '));
+    return{word:w,isCorrect:correct};
+  },
+
+  checkBrutal(userAnswer){
+    if(!this.active||!this.word)return null;
+    const correct=this.word;
+    const chosen=this.opts.find(o=>
+      userAnswer.includes('a')&&this.opts.indexOf(o)===0||
+      userAnswer.includes('b')&&this.opts.indexOf(o)===1||
+      userAnswer.toLowerCase().includes(o.def.substring(0,8).toLowerCase())||
+      userAnswer.toLowerCase().includes(o.word.toLowerCase())
+    );
+    this.active=false;this.word=null;this.type=null;
+    const isCorrect=chosen&&chosen.word===correct.word;
+    // Update localStorage streak
+    if(isCorrect){
+      const raw=localStorage.getItem('wr_mistakes');
+      if(raw){
+        const all=JSON.parse(raw);
+        if(all[correct.word]){
+          all[correct.word].streak=(all[correct.word].streak||0)+1;
+          if(all[correct.word].streak>=2)delete all[correct.word];
+          localStorage.setItem('wr_mistakes',JSON.stringify(all));
+        }
+      }
+    } else {
+      const raw=localStorage.getItem('wr_mistakes');
+      if(raw){
+        const all=JSON.parse(raw);
+        if(all[correct.word])all[correct.word].streak=0;
+        localStorage.setItem('wr_mistakes',JSON.stringify(all));
+      }
+    }
+    return{word:correct,isCorrect,chosen};
+  },
+
+  hasMistakes(){
+    const raw=localStorage.getItem('wr_mistakes');
+    if(!raw)return false;
+    return Object.keys(JSON.parse(raw)).length>0;
+  },
+};
+
+function shuffle(arr){return[...arr].sort(()=>Math.random()-.5)}
+
 const PROACTIVE_SHIFTS=[
   "By the way, have you been keeping up with your English practice lately?",
   "On a different note — what's something you're looking forward to this week?",
@@ -851,6 +940,9 @@ const PROACTIVE_SHIFTS=[
   "Side note: if you could learn any new skill right now, what would it be?",
   "Also curious — what does your ideal day off look like?",
   "Just thought of something — what's a goal you've been quietly working on?",
+  "Quick vocab check — what does the word 'persist' mean to you?",
+  "Let me test you! What's a synonym for 'analyze'?",
+  "Pop quiz: can you use the word 'inevitable' in a sentence?",
 ];
 let shiftCooldown=0;
 
@@ -965,6 +1057,50 @@ function _getBotResponseCore(userText){
     }
   }
 
+  // 0a. Quiz answer detection
+  if(QUIZ.active){
+    if(QUIZ.type==='meaning'){
+      const result=QUIZ.checkMeaning(userText);
+      if(result){
+        CTX.push('user',userText,'quiz');
+        if(result.isCorrect){
+          return `✅ Exactly right! "${result.word.word}" means ${result.word.definition}. Great job — your vocabulary is strong!`;
+        } else {
+          return `Not quite! "${result.word.word}" means: ${result.word.definition} (${result.word.definition_zh}). The example: "${result.word.example}" — now you know!`;
+        }
+      }
+    }
+    if(QUIZ.type==='brutal'){
+      const result=QUIZ.checkBrutal(userText);
+      if(result){
+        CTX.push('user',userText,'quiz');
+        if(result.isCorrect){
+          return `💪 Correct! "${result.word.word}" — ${result.word.definition_zh}. You're chipping away at your mistake list!`;
+        } else {
+          return `💀 Not this time! The correct answer was "${result.word.word}" — ${result.word.definition_zh}. Example: "${result.word.example}". Keep at it!`;
+        }
+      }
+    }
+  }
+
+  // Explicit quiz request
+  const quizMatch=lower.match(/(?:quiz|test|challenge|check|ask)\s*(?:me|my vocab)?/);
+  if(quizMatch||lower==='quiz'||lower==='test me'||lower==='challenge me'){
+    // Prefer brutal if mistakes exist
+    if(QUIZ.hasMistakes()&&Math.random()<0.6){
+      const data=QUIZ.startBrutal();
+      if(data){
+        CTX.push('user',userText,'quiz');
+        return `💀 Brutal mode! You got this one wrong before. Which definition is correct for "${data.correct.word}"?\nA. ${data.opts[0].def}\nB. ${data.opts[1].def}`;
+      }
+    }
+    const w=QUIZ.startMeaning();
+    if(w){
+      CTX.push('user',userText,'quiz');
+      return `🎯 Vocab quiz! What does the word "${w.word}" (${w.pos}) mean? Just tell me in your own words!`;
+    }
+  }
+
   // 0b. Pure vocab question — "what is abandon" / "define analyze"
   const defineMatch=lower.match(/^(?:what(?:'s| is) |define |meaning of |tell me about )([a-z]+)\??$/);
   if(defineMatch){
@@ -1037,12 +1173,44 @@ function _getBotResponseCore(userText){
     if(key==='greeting'&&(words.length>4||hasQuestionStructure)) score*=0.2;
     if(score>bestScore){bestScore=score;bestTopic={key,topic};}
   }
+  // Boost score if user mentioned a vocab word related to a topic
+  if(VOCAB.length){
+    for(const [key,topic] of Object.entries(TOPICS)){
+      const tagMap={
+        study:['academic','language','math'],work:['business','economics'],
+        health:['science','psychology'],money:['finance','economics'],
+        technology:['technology'],feeling:['psychology'],
+        legal:['law','politics'],motivation:['common'],
+      };
+      const tags=tagMap[key]||[];
+      const vocabHit=VOCAB.find(v=>
+        lower.includes(v.word.toLowerCase())&&
+        tags.some(t=>(v.tags||[]).includes(t))
+      );
+      if(vocabHit&&(!bestTopic||bestScore<2)){
+        bestTopic={key,topic};bestScore=2;
+      }
+    }
+  }
+
   if(bestTopic&&bestScore>0){
     const pool=bestTopic.topic.responses;
     const cb=buildCallbackPrefix(bestTopic.key);
     const base=pool[Math.floor(Math.random()*pool.length)];
     CTX.push('user',userText,bestTopic.key);
-    if(shiftCooldown===0&&Math.random()<0.12){shiftCooldown=4;return base+' '+PROACTIVE_SHIFTS[Math.floor(Math.random()*PROACTIVE_SHIFTS.length)];}
+    if(shiftCooldown===0&&Math.random()<0.12){
+      shiftCooldown=4;
+      // 30% chance of proactive quiz instead of shift phrase
+      if(Math.random()<0.3&&VOCAB.length){
+        if(QUIZ.hasMistakes()&&Math.random()<0.5){
+          const data=QUIZ.startBrutal();
+          if(data) return base+' 💀 By the way — brutal quiz time! Which is correct for "'+data.correct.word+'"?\nA. '+data.opts[0].def+'\nB. '+data.opts[1].def;
+        }
+        const w=QUIZ.startMeaning();
+        if(w) return base+' 🎯 Quick vocab check: what does "'+w.word+'" mean?';
+      }
+      return base+' '+PROACTIVE_SHIFTS[Math.floor(Math.random()*PROACTIVE_SHIFTS.length)];
+    }
     return cb+base;
   }
   CTX.push('user',userText,null);
@@ -1262,10 +1430,17 @@ function maybeInjectVocab(botText,userText){
   if(!pick){
     const lastTopic=CTX.lastUserTopic();
     const topicTagMap={
-      study:['academic','education'],work:['business'],
-      health:['health','science'],money:['finance','economics'],
-      technology:['technology'],feeling:['psychology'],
-      motivation:['common'],hobby:['art'],travel:['common'],
+      study:['academic','language','math'],
+      work:['business','economics','finance'],
+      health:['science','psychology'],
+      money:['finance','economics','business'],
+      technology:['technology','science'],
+      feeling:['psychology','philosophy'],
+      motivation:['common','psychology'],
+      hobby:['art','language'],
+      travel:['common','history'],
+      relationships:['psychology','social'],
+      opinion:['philosophy','politics'],
     };
     const tags=topicTagMap[lastTopic]||[];
     if(tags.length){
@@ -1275,7 +1450,7 @@ function maybeInjectVocab(botText,userText){
   }
 
   // 3. Fallback: random from first 60 words
-  if(!pick) pick=VOCAB[Math.floor(Math.random()*Math.min(VOCAB.length,60))];
+  if(!pick) pick=VOCAB[Math.floor(Math.random()*VOCAB.length)];
 
   // Use vocab example sentence as bridge — grammatically guaranteed correct
   const bridges=[
