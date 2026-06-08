@@ -1036,7 +1036,15 @@ function App(){
       "./data/vocab_05_201-250.json",
       "./data/vocab_06_251-300.json",
       "./data/vocab_07_301-350.json",
-      // "./data/vocab_batch_002.json",
+      "./data/vocab_08_351-400.json",
+      // "./data/vocab_09_401-450.json",
+      // "./data/vocab_10_451-500.json",
+      // "./data/vocab_11_501-550.json",
+      // "./data/vocab_12_551-600.json",
+      // "./data/vocab_13_601-650.json",
+      // "./data/vocab_14_651-700.json",
+      // "./data/vocab_15_701-750.json",
+      // "./data/vocab_16_751-800.json",
     ];
     Promise.all(urls.map(u=>fetch(u).then(r=>{
       if(!r.ok)throw new Error(u);
