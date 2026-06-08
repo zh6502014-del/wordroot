@@ -79,6 +79,20 @@
       "college",
       "academic",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "ad",
+        "origin": "Latin",
+        "meaning": "to, toward",
+        "meaning_zh": "向、朝向"
+      },
+      {
+        "root": "voc / vocare",
+        "origin": "Latin",
+        "meaning": "to call",
+        "meaning_zh": "呼喊、叫"
+      }
     ]
   },
   {
@@ -165,6 +179,20 @@
       "college",
       "academic",
       "TOEFL"
+    ],
+    "roots": [
+      {
+        "root": "ambi",
+        "origin": "Latin",
+        "meaning": "both, around",
+        "meaning_zh": "兩者、周圍"
+      },
+      {
+        "root": "ag / ig / agere",
+        "origin": "Latin",
+        "meaning": "to drive, lead, act",
+        "meaning_zh": "驅使、引導、做"
+      }
     ]
   },
   {
@@ -250,6 +278,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "ad",
+        "origin": "Latin",
+        "meaning": "to, toward",
+        "meaning_zh": "向、給予"
+      },
+      {
+        "root": "tribut / tribuere",
+        "origin": "Latin",
+        "meaning": "to assign, give, pay",
+        "meaning_zh": "分配、給予"
+      }
     ]
   },
   {
@@ -336,6 +378,20 @@
       "college",
       "technology",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "auto",
+        "origin": "Greek",
+        "meaning": "self",
+        "meaning_zh": "自己、自身"
+      },
+      {
+        "root": "nomos",
+        "origin": "Greek",
+        "meaning": "law, custom",
+        "meaning_zh": "法律、管理"
+      }
     ]
   },
   {
@@ -422,6 +478,20 @@
       "college",
       "academic",
       "language"
+    ],
+    "roots": [
+      {
+        "root": "co",
+        "origin": "Latin",
+        "meaning": "together",
+        "meaning_zh": "共同、一起"
+      },
+      {
+        "root": "her / haerere",
+        "origin": "Latin",
+        "meaning": "to stick",
+        "meaning_zh": "黏貼、緊貼"
+      }
     ]
   },
   {
@@ -508,6 +578,20 @@
       "college",
       "business",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "com",
+        "origin": "Latin",
+        "meaning": "together, thoroughly",
+        "meaning_zh": "共同、徹底"
+      },
+      {
+        "root": "pens / pendere",
+        "origin": "Latin",
+        "meaning": "to weigh, pay",
+        "meaning_zh": "稱重、衡量、支付"
+      }
     ]
   },
   {
@@ -590,6 +674,20 @@
       "college",
       "academic",
       "art"
+    ],
+    "roots": [
+      {
+        "root": "com",
+        "origin": "Latin",
+        "meaning": "together, completely",
+        "meaning_zh": "共同、完全"
+      },
+      {
+        "root": "ple / plere",
+        "origin": "Latin",
+        "meaning": "to fill",
+        "meaning_zh": "填滿、充滿"
+      }
     ]
   },
   {
@@ -680,6 +778,20 @@
       "college",
       "academic",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "com",
+        "origin": "Latin",
+        "meaning": "together",
+        "meaning_zh": "共同、一起"
+      },
+      {
+        "root": "prehens / prehendere",
+        "origin": "Latin",
+        "meaning": "to seize, grasp",
+        "meaning_zh": "抓住、抓取"
+      }
     ]
   },
   {
@@ -762,6 +874,20 @@
       "college",
       "academic",
       "psychology"
+    ],
+    "roots": [
+      {
+        "root": "con",
+        "origin": "Latin",
+        "meaning": "together",
+        "meaning_zh": "共同、一起"
+      },
+      {
+        "root": "duc / ducere",
+        "origin": "Latin",
+        "meaning": "to lead",
+        "meaning_zh": "引導、帶領"
+      }
     ]
   },
   {
@@ -848,6 +974,20 @@
       "college",
       "politics",
       "social"
+    ],
+    "roots": [
+      {
+        "root": "contra",
+        "origin": "Latin",
+        "meaning": "against, opposite",
+        "meaning_zh": "反對、相反"
+      },
+      {
+        "root": "vers / vertere",
+        "origin": "Latin",
+        "meaning": "to turn",
+        "meaning_zh": "轉向"
+      }
     ]
   },
   {
@@ -934,6 +1074,20 @@
       "college",
       "academic",
       "math"
+    ],
+    "roots": [
+      {
+        "root": "cor",
+        "origin": "Latin",
+        "meaning": "together",
+        "meaning_zh": "共同、一起"
+      },
+      {
+        "root": "relat / referre",
+        "origin": "Latin",
+        "meaning": "brought back, related",
+        "meaning_zh": "帶回、關聯"
+      }
     ]
   },
   {
@@ -1020,6 +1174,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down, away from",
+        "meaning_zh": "向下、離開、減少"
+      },
+      {
+        "root": "fic / fac / facere",
+        "origin": "Latin",
+        "meaning": "to make, do",
+        "meaning_zh": "做、製造"
+      }
     ]
   },
   {
@@ -1106,6 +1274,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "completely, thoroughly",
+        "meaning_zh": "完全、徹底"
+      },
+      {
+        "root": "monstr / monstrare",
+        "origin": "Latin",
+        "meaning": "to show, point out",
+        "meaning_zh": "展示、指出"
+      }
     ]
   },
   {
@@ -1192,6 +1374,20 @@
       "college",
       "economics",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "completely, down",
+        "meaning_zh": "向下、完全"
+      },
+      {
+        "root": "min / minuere",
+        "origin": "Latin",
+        "meaning": "to make small",
+        "meaning_zh": "變小、使小"
+      }
     ]
   },
   {
@@ -1278,6 +1474,20 @@
       "college",
       "social",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, away",
+        "meaning_zh": "分開、偏離"
+      },
+      {
+        "root": "crim / cernere",
+        "origin": "Latin",
+        "meaning": "to separate, sift",
+        "meaning_zh": "分開、篩選、判定"
+      }
     ]
   },
   {
@@ -1364,6 +1574,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "en / em",
+        "origin": "Greek",
+        "meaning": "in, into",
+        "meaning_zh": "在…之中、進入"
+      },
+      {
+        "root": "peira",
+        "origin": "Greek",
+        "meaning": "trial, experiment, attempt",
+        "meaning_zh": "嘗試、實驗"
+      }
     ]
   },
   {
@@ -1446,6 +1670,20 @@
       "college",
       "math",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "equi",
+        "origin": "Latin",
+        "meaning": "equal",
+        "meaning_zh": "相等的、平等的"
+      },
+      {
+        "root": "val / valere",
+        "origin": "Latin",
+        "meaning": "to be strong, be worth",
+        "meaning_zh": "強壯、有價值"
+      }
     ]
   },
   {
@@ -1531,6 +1769,20 @@
       "college",
       "academic",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "ex / e",
+        "origin": "Latin",
+        "meaning": "out",
+        "meaning_zh": "向外、出來"
+      },
+      {
+        "root": "valu / valere",
+        "origin": "Latin",
+        "meaning": "to be worth",
+        "meaning_zh": "有價值"
+      }
     ]
   },
   {
@@ -1617,6 +1869,20 @@
       "college",
       "language",
       "social"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "thoroughly, out",
+        "meaning_zh": "徹底、向外"
+      },
+      {
+        "root": "agger",
+        "origin": "Latin",
+        "meaning": "heap, pile, mound",
+        "meaning_zh": "堆、土堆"
+      }
     ]
   },
   {
@@ -1697,6 +1963,14 @@
       "college",
       "business",
       "technology"
+    ],
+    "roots": [
+      {
+        "root": "feas / fac / facere",
+        "origin": "Latin / Old French",
+        "meaning": "to do, make",
+        "meaning_zh": "做、製造"
+      }
     ]
   },
   {
@@ -1773,6 +2047,14 @@
       "college",
       "economics",
       "finance"
+    ],
+    "roots": [
+      {
+        "root": "fluct / fluere",
+        "origin": "Latin",
+        "meaning": "to flow, wave",
+        "meaning_zh": "流動、波浪"
+      }
     ]
   },
   {
@@ -1858,6 +2140,20 @@
       "college",
       "social",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "hieros",
+        "origin": "Greek",
+        "meaning": "sacred, holy",
+        "meaning_zh": "神聖的"
+      },
+      {
+        "root": "arkhein / archy",
+        "origin": "Greek",
+        "meaning": "to rule",
+        "meaning_zh": "統治、管理"
+      }
     ]
   },
   {
@@ -1944,6 +2240,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "hypo",
+        "origin": "Greek",
+        "meaning": "under, beneath",
+        "meaning_zh": "在…之下"
+      },
+      {
+        "root": "tithenai / thesis",
+        "origin": "Greek",
+        "meaning": "to place, a proposition",
+        "meaning_zh": "放置、論點"
+      }
     ]
   },
   {
@@ -2026,6 +2336,20 @@
       "college",
       "business",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "in / im",
+        "origin": "Latin",
+        "meaning": "in, into",
+        "meaning_zh": "進入、在…內"
+      },
+      {
+        "root": "ple / plere",
+        "origin": "Latin",
+        "meaning": "to fill",
+        "meaning_zh": "填滿、充滿"
+      }
     ]
   },
   {
@@ -2112,6 +2436,20 @@
       "college",
       "language",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "in / im",
+        "origin": "Latin",
+        "meaning": "in, into",
+        "meaning_zh": "在…內、包裹"
+      },
+      {
+        "root": "ply / plicare",
+        "origin": "Latin",
+        "meaning": "to fold",
+        "meaning_zh": "折疊"
+      }
     ]
   },
   {
@@ -2194,6 +2532,20 @@
       "college",
       "business",
       "economics"
+    ],
+    "roots": [
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "into, upon",
+        "meaning_zh": "進入、對抗"
+      },
+      {
+        "root": "cent / canere",
+        "origin": "Latin",
+        "meaning": "to sing, play a tune",
+        "meaning_zh": "歌唱、奏樂"
+      }
     ]
   },
   {
@@ -2280,6 +2632,20 @@
       "college",
       "business",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "into",
+        "meaning_zh": "進入、投入"
+      },
+      {
+        "root": "corpor / corpus",
+        "origin": "Latin",
+        "meaning": "body",
+        "meaning_zh": "身體、團體"
+      }
     ]
   },
   {
@@ -2372,6 +2738,26 @@
       "college",
       "philosophy",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "not",
+        "meaning_zh": "不、非"
+      },
+      {
+        "root": "e / ex",
+        "origin": "Latin",
+        "meaning": "out, away",
+        "meaning_zh": "向外、離開"
+      },
+      {
+        "root": "vit / vitare",
+        "origin": "Latin",
+        "meaning": "to avoid",
+        "meaning_zh": "躲避"
+      }
     ]
   },
   {
@@ -2452,6 +2838,20 @@
       "college",
       "economics",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "infra",
+        "origin": "Latin",
+        "meaning": "below, underneath",
+        "meaning_zh": "在…之下、底層"
+      },
+      {
+        "root": "struct / struere",
+        "origin": "Latin",
+        "meaning": "to build",
+        "meaning_zh": "建造、建築"
+      }
     ]
   },
   {
@@ -2538,6 +2938,20 @@
       "college",
       "academic",
       "philosophy"
+    ],
+    "roots": [
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "in, within",
+        "meaning_zh": "在…內部"
+      },
+      {
+        "root": "her / haerere",
+        "origin": "Latin",
+        "meaning": "to stick",
+        "meaning_zh": "黏貼、緊貼"
+      }
     ]
   },
   {
@@ -2628,6 +3042,20 @@
       "college",
       "business",
       "technology"
+    ],
+    "roots": [
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "into, thoroughly",
+        "meaning_zh": "進入、徹底"
+      },
+      {
+        "root": "nov / novus",
+        "origin": "Latin",
+        "meaning": "new",
+        "meaning_zh": "新的"
+      }
     ]
   },
   {
@@ -2712,6 +3140,14 @@
       "college",
       "academic",
       "social"
+    ],
+    "roots": [
+      {
+        "root": "integr / integer",
+        "origin": "Latin",
+        "meaning": "whole, untouched, complete",
+        "meaning_zh": "完整的、未受觸碰的"
+      }
     ]
   },
   {
@@ -2798,6 +3234,20 @@
       "college",
       "academic",
       "language"
+    ],
+    "roots": [
+      {
+        "root": "inter",
+        "origin": "Latin",
+        "meaning": "between, among",
+        "meaning_zh": "在…之間"
+      },
+      {
+        "root": "pret / pres",
+        "origin": "Latin",
+        "meaning": "trader, negotiator, price broker",
+        "meaning_zh": "交易者、中間商、說明價值者"
+      }
     ]
   },
   {
@@ -2884,6 +3334,20 @@
       "college",
       "law",
       "philosophy"
+    ],
+    "roots": [
+      {
+        "root": "just / jus",
+        "origin": "Latin",
+        "meaning": "law, right, correct",
+        "meaning_zh": "法律、正義、正確"
+      },
+      {
+        "root": "fy / fac / facere",
+        "origin": "Latin",
+        "meaning": "to make, do",
+        "meaning_zh": "做、使得"
+      }
     ]
   },
   {
@@ -2964,6 +3428,14 @@
       "college",
       "law",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "leg / lex",
+        "origin": "Latin",
+        "meaning": "law",
+        "meaning_zh": "法律"
+      }
     ]
   },
   {
@@ -3050,6 +3522,20 @@
       "college",
       "psychology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "manus",
+        "origin": "Latin",
+        "meaning": "hand",
+        "meaning_zh": "手"
+      },
+      {
+        "root": "festus",
+        "origin": "Latin",
+        "meaning": "struck, seized, caught",
+        "meaning_zh": "被抓住的、被碰觸的"
+      }
     ]
   },
   {
@@ -3135,6 +3621,20 @@
       "college",
       "politics",
       "psychology"
+    ],
+    "roots": [
+      {
+        "root": "manus",
+        "origin": "Latin",
+        "meaning": "hand",
+        "meaning_zh": "手"
+      },
+      {
+        "root": "plere",
+        "origin": "Latin",
+        "meaning": "to fill",
+        "meaning_zh": "填滿、充滿"
+      }
     ]
   },
   {
@@ -3219,6 +3719,14 @@
       "college",
       "economics",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "margo",
+        "origin": "Latin",
+        "meaning": "border, edge, brink",
+        "meaning_zh": "邊緣、邊界"
+      }
     ]
   },
   {
@@ -3305,6 +3813,20 @@
       "college",
       "technology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "mod / modus",
+        "origin": "Latin",
+        "meaning": "measure, limit, manner",
+        "meaning_zh": "衡量、限制、限度"
+      },
+      {
+        "root": "fy / fac / facere",
+        "origin": "Latin",
+        "meaning": "to make, do",
+        "meaning_zh": "做、使得"
+      }
     ]
   },
   {
@@ -3394,6 +3916,20 @@
       "college",
       "business",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "neg",
+        "origin": "Latin",
+        "meaning": "not",
+        "meaning_zh": "不、非"
+      },
+      {
+        "root": "ot / otium",
+        "origin": "Latin",
+        "meaning": "leisure, ease, rest",
+        "meaning_zh": "閒暇、休息"
+      }
     ]
   },
   {
@@ -3480,6 +4016,20 @@
       "college",
       "academic",
       "philosophy"
+    ],
+    "roots": [
+      {
+        "root": "ob",
+        "origin": "Latin",
+        "meaning": "against, toward, in front of",
+        "meaning_zh": "對著、朝向、在…前面"
+      },
+      {
+        "root": "ject / jacere",
+        "origin": "Latin",
+        "meaning": "to throw",
+        "meaning_zh": "投、擲、扔"
+      }
     ]
   },
   {
@@ -3562,6 +4112,20 @@
       "college",
       "academic",
       "history"
+    ],
+    "roots": [
+      {
+        "root": "ob",
+        "origin": "Latin",
+        "meaning": "over, thoroughly",
+        "meaning_zh": "在…之上、徹底"
+      },
+      {
+        "root": "scur / scurus",
+        "origin": "Latin",
+        "meaning": "covered, dark",
+        "meaning_zh": "覆蓋、黑暗"
+      }
     ]
   },
   {
@@ -3647,6 +4211,20 @@
       "college",
       "philosophy",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "para",
+        "origin": "Greek",
+        "meaning": "contrary to, beside",
+        "meaning_zh": "相反、偏離、在旁"
+      },
+      {
+        "root": "doxa",
+        "origin": "Greek",
+        "meaning": "opinion, belief",
+        "meaning_zh": "觀點、信念"
+      }
     ]
   },
   {
@@ -3727,6 +4305,14 @@
       "college",
       "academic",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "plaus / plaudere",
+        "origin": "Latin",
+        "meaning": "to clap, applaud, approve",
+        "meaning_zh": "鼓掌、拍手、讚同"
+      }
     ]
   },
   {
@@ -3811,6 +4397,14 @@
       "college",
       "business",
       "philosophy"
+    ],
+    "roots": [
+      {
+        "root": "pragma",
+        "origin": "Greek",
+        "meaning": "deed, act, concrete matter",
+        "meaning_zh": "行為、做過的事、具體物"
+      }
     ]
   },
   {
@@ -3893,6 +4487,20 @@
       "college",
       "academic",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "pre",
+        "origin": "Latin",
+        "meaning": "before",
+        "meaning_zh": "在…之前"
+      },
+      {
+        "root": "clud / claudere",
+        "origin": "Latin",
+        "meaning": "to shut, close",
+        "meaning_zh": "關閉、關上"
+      }
     ]
   },
   {
@@ -3971,6 +4579,14 @@
       "college",
       "academic",
       "social"
+    ],
+    "roots": [
+      {
+        "root": "qual / qualis",
+        "origin": "Latin",
+        "meaning": "of what kind, property",
+        "meaning_zh": "何種類型、屬性"
+      }
     ]
   },
   {
@@ -4053,6 +4669,20 @@
       "college",
       "language",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "re",
+        "origin": "Latin",
+        "meaning": "again, back",
+        "meaning_zh": "再次、向後"
+      },
+      {
+        "root": "und / unda",
+        "origin": "Latin",
+        "meaning": "wave",
+        "meaning_zh": "波浪、水流"
+      }
     ]
   },
   {
@@ -4141,6 +4771,26 @@
       "college",
       "psychology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "re",
+        "origin": "Latin",
+        "meaning": "again",
+        "meaning_zh": "再次"
+      },
+      {
+        "root": "in",
+        "origin": "Latin",
+        "meaning": "into",
+        "meaning_zh": "投入、進入"
+      },
+      {
+        "root": "forc / fortis",
+        "origin": "Latin",
+        "meaning": "strong",
+        "meaning_zh": "強壯、力量"
+      }
     ]
   },
   {
@@ -4227,6 +4877,20 @@
       "college",
       "academic",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "re",
+        "origin": "Latin",
+        "meaning": "again, back",
+        "meaning_zh": "再次、向後"
+      },
+      {
+        "root": "lev / levare",
+        "origin": "Latin",
+        "meaning": "to lift, raise",
+        "meaning_zh": "抬起、舉起"
+      }
     ]
   }
 ]
