@@ -1,0 +1,3758 @@
+[
+  {
+    "word": "catalyze",
+    "pos": "verb",
+    "phonetic": "/ˈkætəlaɪz/",
+    "definition": "To accelerate a process or action, or to cause a reaction to happen significantly faster, either in chemical reactions or social/political events.",
+    "definition_zh": "催化；促進；加速",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cata",
+          "origin": "Greek",
+          "meaning": "down, thoroughly",
+          "meaning_zh": "向下、徹底"
+        },
+        {
+          "root": "lyse",
+          "origin": "Greek",
+          "meaning": "to loosen, untie",
+          "meaning_zh": "鬆開、分解"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CATA（徹底）+ LYSE（鬆開）→ 徹底打破障礙以加速反應",
+      "story_en": "The introduction of the internet helped CATALYZE the global communication revolution by breaking down geographic barriers.",
+      "story_zh": "網際網路的引入藉由徹底打破地理障礙，幫助「催化（CATALYZE）」了全球通訊革命。",
+      "emojis": [
+        "🧪",
+        "⚡",
+        "🚀"
+      ]
+    },
+    "example": "The global financial crisis served to catalyze major regulatory reforms across the banking sector.",
+    "example_zh": "全球金融危機促成了整個銀行業重大監管改革的催化。",
+    "collocations": [
+      "catalyze a reaction",
+      "catalyze change",
+      "catalyze economic growth",
+      "catalyze the process",
+      "serve to catalyze"
+    ],
+    "synonyms": [
+      "accelerate",
+      "stimulate",
+      "precipitate",
+      "instigate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cause",
+        "difference": "cause simply means to make something happen; catalyze emphasizes accelerating or initiating a process that might have happened slowly or not at all."
+      }
+    ],
+    "antonyms": [
+      "inhibit",
+      "hinder",
+      "retard"
+    ],
+    "word_family": [
+      {
+        "word": "catalyze",
+        "pos": "verb"
+      },
+      {
+        "word": "catalyst",
+        "pos": "noun"
+      },
+      {
+        "word": "catalytic",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 451,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "cognitive",
+    "pos": "adjective",
+    "phonetic": "/ˈkɑːɡnətɪv/",
+    "definition": "Relating to the mental processes of perception, memory, judgment, and reasoning, as opposed to emotional or volitional processes.",
+    "definition_zh": "認知的；感知能力的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cogn",
+          "origin": "Latin",
+          "meaning": "to know, get to know",
+          "meaning_zh": "知道、認識"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COGN（認識、知道）→ 與大腦獲取知識的能力有關",
+      "story_en": "Psychologists study COGNITIVE processes to understand how our brains acquire and recognize knowledge.",
+      "story_zh": "心理學家研究「認知（COGNITIVE）」過程，以了解我們的大腦如何獲取和認識知識。",
+      "emojis": [
+        "🧠",
+        "💡",
+        "🧩"
+      ]
+    },
+    "example": "Sleep deprivation has a direct, negative impact on an individual's cognitive performance.",
+    "example_zh": "睡眠不足對個人的認知表現有直接的負面影響。",
+    "collocations": [
+      "cognitive development",
+      "cognitive impairment",
+      "cognitive therapy",
+      "cognitive bias",
+      "cognitive dissonance"
+    ],
+    "synonyms": [
+      "mental",
+      "intellectual",
+      "rational"
+    ],
+    "near_synonyms": [
+      {
+        "word": "perceptual",
+        "difference": "perceptual refers strictly to sensory awareness; cognitive encompasses a broader range of thinking, reasoning, and memory."
+      }
+    ],
+    "antonyms": [
+      "emotional",
+      "instinctive",
+      "physical"
+    ],
+    "word_family": [
+      {
+        "word": "cognitive",
+        "pos": "adjective"
+      },
+      {
+        "word": "cognition",
+        "pos": "noun"
+      },
+      {
+        "word": "cognizant",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 452,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "concede",
+    "pos": "verb",
+    "phonetic": "/kənˈsiːd/",
+    "definition": "To admit that something is true, valid, or proper, often reluctantly or after initial denial; to yield or surrender a right or privilege.",
+    "definition_zh": "承認（屬實）；（勉強）讓步；認輸",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ced",
+          "origin": "Latin",
+          "meaning": "to go, yield, withdraw",
+          "meaning_zh": "行走、退讓、撤回"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同、完全）+ CED（退讓）→ 完全向對方的論點退讓",
+      "story_en": "After hours of debate, the candidate had to CONCEDE defeat and yield to the opponent.",
+      "story_zh": "經過數小時的辯論，候選人不得不「承認（CONCEDE）」失敗，並向對手退讓。",
+      "emojis": [
+        "🏳️",
+        "🤝",
+        "🗣️"
+      ]
+    },
+    "example": "Although the government refused to change the law, it did concede that some adjustments were necessary.",
+    "example_zh": "儘管政府拒絕修改法律，但它的確承認有必要做出一些調整。",
+    "collocations": [
+      "concede defeat",
+      "concede a point",
+      "refuse to concede",
+      "concede that",
+      "concede a goal"
+    ],
+    "synonyms": [
+      "admit",
+      "acknowledge",
+      "yield",
+      "grant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "confess",
+        "difference": "confess implies admitting a fault, crime, or secret; concede implies admitting the validity of an opponent's argument or victory."
+      }
+    ],
+    "antonyms": [
+      "deny",
+      "contest",
+      "dispute"
+    ],
+    "word_family": [
+      {
+        "word": "concede",
+        "pos": "verb"
+      },
+      {
+        "word": "concession",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 453,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ]
+  },
+  {
+    "word": "concur",
+    "pos": "verb",
+    "phonetic": "/kənˈkɜːr/",
+    "definition": "To be of the same opinion or agree; to happen or happen at the same time.",
+    "definition_zh": "同意、贊同；同時發生",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cur",
+          "origin": "Latin",
+          "meaning": "to run",
+          "meaning_zh": "跑"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同）+ CUR（跑）→ 跑在同一個軌道上，想法一致",
+      "story_en": "All board members CONCURRED with the CEO's plan, as their opinions ran in the same direction.",
+      "story_zh": "所有董事會成員都「贊同（CONCUR）」執行長的計劃，因為他們的意見朝著同一個方向奔跑（CUR）。",
+      "emojis": [
+        "👍",
+        "🕒",
+        "🏃"
+      ]
+    },
+    "example": "Scientists generally concur that human activity is the primary driver of modern climate change.",
+    "example_zh": "科學家普遍贊同人類活動是現代氣候變遷的主要驅動力。",
+    "collocations": [
+      "concur with an opinion",
+      "generally concur",
+      "strongly concur",
+      "concurring view",
+      "events concur"
+    ],
+    "synonyms": [
+      "agree",
+      "coincide",
+      "assent",
+      "acquiesce"
+    ],
+    "near_synonyms": [
+      {
+        "word": "agree",
+        "difference": "agree is the standard, everyday word; concur is more formal and often used in official, legal, or academic contexts."
+      }
+    ],
+    "antonyms": [
+      "disagree",
+      "dissent",
+      "differ"
+    ],
+    "word_family": [
+      {
+        "word": "concur",
+        "pos": "verb"
+      },
+      {
+        "word": "concurrence",
+        "pos": "noun"
+      },
+      {
+        "word": "concurrent",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 454,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ]
+  },
+  {
+    "word": "condense",
+    "pos": "verb",
+    "phonetic": "/kənˈdens/",
+    "definition": "To make something more dense or compact; to reduce a text or speech to a shorter form while retaining the essential meaning.",
+    "definition_zh": "濃縮；壓縮（文字等）；凝結",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dens",
+          "origin": "Latin",
+          "meaning": "thick, dense",
+          "meaning_zh": "濃密的、緊密的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（完全）+ DENS（緊密）→ 使其變得完全緊密、濃縮",
+      "story_en": "The editor asked the author to CONDENSE the long chapter into a few DENSE paragraphs.",
+      "story_zh": "編輯要求作者將長章節「濃縮（CONDENSE）」成幾個緊密（DENS）的段落。",
+      "emojis": [
+        "💧",
+        "📝",
+        "🗜️"
+      ]
+    },
+    "example": "The author managed to condense a complex historical period into a single readable volume.",
+    "example_zh": "作者成功地將一個複雜的歷史時期濃縮成一本可讀性高的單冊書中。",
+    "collocations": [
+      "condense into",
+      "condense a report",
+      "condensed milk",
+      "water vapor condenses",
+      "condense information"
+    ],
+    "synonyms": [
+      "summarize",
+      "compress",
+      "abridge",
+      "consolidate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shorten",
+        "difference": "shorten simply means to reduce length, sometimes by cutting parts out; condense implies making something compact while preserving its substance."
+      }
+    ],
+    "antonyms": [
+      "expand",
+      "dilute",
+      "lengthen"
+    ],
+    "word_family": [
+      {
+        "word": "condense",
+        "pos": "verb"
+      },
+      {
+        "word": "condensation",
+        "pos": "noun"
+      },
+      {
+        "word": "condenser",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 455,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ]
+  },
+  {
+    "word": "connotations",
+    "pos": "noun",
+    "phonetic": "/ˌkɑːnəˈteɪʃnz/",
+    "definition": "The ideas, feelings, or meanings associated with a word or phrase in addition to its literal or primary dictionary definition.",
+    "definition_zh": "內涵；隱含意義；聯想（常用複數）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "not",
+          "origin": "Latin",
+          "meaning": "to mark, note",
+          "meaning_zh": "標記、注意"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同）+ NOT（標記）→ 共同記在字面下的額外標記",
+      "story_en": "While the word 'shrewd' literally means clever, it carries negative CONNOTATIONS of being deceitful.",
+      "story_zh": "雖然 'shrewd' 這個字字面意思是聰明，但它帶有欺騙的負面「內涵（CONNOTATIONS）」標記。",
+      "emojis": [
+        "💬",
+        "💭",
+        "🧠"
+      ]
+    },
+    "example": "For many people, the word 'vantage' has positive connotations of success and superiority.",
+    "example_zh": "對許多人來說，'vantage' 這個詞帶有成功和優越的正面內涵。",
+    "collocations": [
+      "negative connotations",
+      "positive connotations",
+      "political connotations",
+      "carry connotations",
+      "cultural connotations"
+    ],
+    "synonyms": [
+      "implication",
+      "undertone",
+      "nuance",
+      "association"
+    ],
+    "near_synonyms": [
+      {
+        "word": "denotation",
+        "difference": "denotation is the literal, objective dictionary definition of a word; connotation is the emotional or cultural association."
+      }
+    ],
+    "antonyms": [
+      "denotations",
+      "literal meanings"
+    ],
+    "word_family": [
+      {
+        "word": "connote",
+        "pos": "verb"
+      },
+      {
+        "word": "connotation",
+        "pos": "noun"
+      },
+      {
+        "word": "connotative",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 456,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "language",
+      "academic"
+    ]
+  },
+  {
+    "word": "consensus",
+    "pos": "noun",
+    "phonetic": "/kənˈsensəs/",
+    "definition": "A general agreement among a group of people, representing shared opinion or consensus of opinion.",
+    "definition_zh": "共識；一致的意見",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sens",
+          "origin": "Latin",
+          "meaning": "to feel, think",
+          "meaning_zh": "感覺、思考"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同）+ SENS（感覺、想法）→ 大家有一致的感覺和想法",
+      "story_en": "The committee reached a CONSENSUS when everyone shared the same SENSation and thought about the issue.",
+      "story_zh": "當每個人對這個問題有相同的感覺（SENS）和想法時，委員會達成了「共識（CONSENSUS）」。",
+      "emojis": [
+        "🤝",
+        "👥",
+        "🗳️"
+      ]
+    },
+    "example": "After hours of intense debate, the committee finally reached a consensus on the new budget proposal.",
+    "example_zh": "經過數小時的激烈辯論，委員會終於就新的預算提案達成了共識。",
+    "collocations": [
+      "reach a consensus",
+      "general consensus",
+      "scientific consensus",
+      "build a consensus",
+      "lack of consensus"
+    ],
+    "synonyms": [
+      "agreement",
+      "unanimity",
+      "accord",
+      "concord"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compromise",
+        "difference": "compromise involves parties giving up some demands to reach an agreement; consensus implies broad, collective agreement where everyone's core interests align."
+      }
+    ],
+    "antonyms": [
+      "disagreement",
+      "dissent",
+      "discord"
+    ],
+    "word_family": [
+      {
+        "word": "consensus",
+        "pos": "noun"
+      },
+      {
+        "word": "consensual",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 457,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ]
+  },
+  {
+    "word": "constituent",
+    "pos": "noun",
+    "phonetic": "/kənˈstɪtʃuənt/",
+    "definition": "A component part of something; a person who lives and votes in a particular area or district represented by an elected official.",
+    "definition_zh": "成分；組成要素；選民",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stitu",
+          "origin": "Latin",
+          "meaning": "to stand, set up",
+          "meaning_zh": "站立、設置"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同）+ STITU（站立、設置）→ 共同站在一起組合成一個整體",
+      "story_en": "Hydrogen is a CONSTITUENT element of water, standing together with oxygen to form the molecule.",
+      "story_zh": "氫是水的「組成成分（CONSTITUENT）」，與氧共同站立（STITU）在一起形成水分子。",
+      "emojis": [
+        "🧪",
+        "🗳️",
+        "🧱"
+      ]
+    },
+    "example": "The senator received thousands of letters from her constituents demanding action on environmental policy.",
+    "example_zh": "參議員收到了選民寄來的數千封信，要求對環境政策採取行動。",
+    "collocations": [
+      "constituent elements",
+      "constituent parts",
+      "serve constituents",
+      "constituent assembly",
+      "constituent components"
+    ],
+    "synonyms": [
+      "component",
+      "element",
+      "ingredient",
+      "voter",
+      "elector"
+    ],
+    "near_synonyms": [
+      {
+        "word": "component",
+        "difference": "component is a general term for any part of a mechanical or abstract system; constituent often emphasizes an essential, defining part or an electoral voter."
+      }
+    ],
+    "antonyms": [
+      "whole",
+      "aggregate",
+      "entirety"
+    ],
+    "word_family": [
+      {
+        "word": "constituent",
+        "pos": "noun"
+      },
+      {
+        "word": "constitute",
+        "pos": "verb"
+      },
+      {
+        "word": "constitution",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 458,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "science"
+    ]
+  },
+  {
+    "word": "constrain",
+    "pos": "verb",
+    "phonetic": "/kənˈstreɪn/",
+    "definition": "To severely restrict the scope, extent, or activity of something; to compel or force someone to follow a particular course of action.",
+    "definition_zh": "限制；約束；強迫",
+    "etymology": {
+      "roots": [
+        {
+          "root": "strain / string",
+          "origin": "Latin",
+          "meaning": "to bind, draw tight",
+          "meaning_zh": "綁緊、拉緊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（完全）+ STRAIN（拉緊）→ 緊緊綁住，限制自由",
+      "story_en": "Financial limitations CONSTRAIN the company's growth, drawing their budget too tight to expand.",
+      "story_zh": "財務限制「約束（CONSTRAIN）」了公司的增長，把預算拉得太緊（STRAIN）而無法擴張。",
+      "emojis": [
+        "⛓️",
+        "🛑",
+        "📉"
+      ]
+    },
+    "example": "Rising energy costs continue to constrain economic growth across the country.",
+    "example_zh": "不斷上漲的能源成本繼續限制著全國的經濟增長。",
+    "collocations": [
+      "feel constrained to",
+      "budgetary constraints",
+      "severely constrain",
+      "constrain development",
+      "be constrained by"
+    ],
+    "synonyms": [
+      "restrict",
+      "limit",
+      "confine",
+      "compel"
+    ],
+    "near_synonyms": [
+      {
+        "word": "restrict",
+        "difference": "restrict implies setting boundaries or rules; constrain suggests a tight, physical or external pressure that prevents free action."
+      }
+    ],
+    "antonyms": [
+      "liberate",
+      "release",
+      "encourage"
+    ],
+    "word_family": [
+      {
+        "word": "constrain",
+        "pos": "verb"
+      },
+      {
+        "word": "constraint",
+        "pos": "noun"
+      },
+      {
+        "word": "constrained",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 459,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "economics"
+    ]
+  },
+  {
+    "word": "contemplate",
+    "pos": "verb",
+    "phonetic": "/ˈkɑːntəmpleɪt/",
+    "definition": "To look at or think about something thoughtfully and at length; to consider a future action or possibility thoroughly.",
+    "definition_zh": "沉思；冥想；深思熟慮；打算",
+    "etymology": {
+      "roots": [
+        {
+          "root": "templ",
+          "origin": "Latin",
+          "meaning": "temple, place for observation",
+          "meaning_zh": "神殿、觀測所"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（完全）+ TEMPL（神殿）→ 像在神殿裡一樣靜心冥想、深思",
+      "story_en": "Monks sit in the TEMPLE to CONTEMPLATE the meaning of life for hours.",
+      "story_zh": "僧侶坐在神殿（TEMPL）裡，花幾個小時「沉思（CONTEMPLATE）」生命的意義。",
+      "emojis": [
+        "🧘",
+        "🤔",
+        "🏛️"
+      ]
+    },
+    "example": "The executive board met to contemplate the legal ramifications of the proposed merger.",
+    "example_zh": "執行董事會召開會議，深思熟慮擬議合併的法律後果。",
+    "collocations": [
+      "contemplate suicide",
+      "contemplate a move",
+      "seriously contemplate",
+      "contemplate the future",
+      "contemplate a change"
+    ],
+    "synonyms": [
+      "ponder",
+      "meditate",
+      "consider",
+      "deliberate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "think",
+        "difference": "think is a general term for any mental activity; contemplate implies deep, quiet, and prolonged continuous thought."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "disregard"
+    ],
+    "word_family": [
+      {
+        "word": "contemplate",
+        "pos": "verb"
+      },
+      {
+        "word": "contemplation",
+        "pos": "noun"
+      },
+      {
+        "word": "contemplative",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 460,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "philosophy",
+      "academic"
+    ]
+  },
+  {
+    "word": "contradict",
+    "pos": "verb",
+    "phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "definition": "To assert or say the opposite of a statement made by someone; to be in conflict with or inconsistent with another fact or statement.",
+    "definition_zh": "反駁；與…矛盾；抵觸",
+    "etymology": {
+      "roots": [
+        {
+          "root": "contra",
+          "origin": "Latin",
+          "meaning": "against, opposite",
+          "meaning_zh": "反對、相反"
+        },
+        {
+          "root": "dict",
+          "origin": "Latin",
+          "meaning": "to say, speak",
+          "meaning_zh": "說、言語"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CONTRA（相反）+ DICT（說）→ 說相反的話，唱反調",
+      "story_en": "The witness's statements CONTRADICT each other because he DICTated opposite accounts to the police.",
+      "story_zh": "證人的陳述互相「矛盾（CONTRADICT）」，因為他對警方說了（DICT）截然相反（CONTRA）的說詞。",
+      "emojis": [
+        "🗣️",
+        "❌",
+        "⚖️"
+      ]
+    },
+    "example": "The new laboratory data directly contradict the theories published by the senior researcher last year.",
+    "example_zh": "新的實驗數據直接與資深研究員去年發表的理論相矛盾。",
+    "collocations": [
+      "directly contradict",
+      "contradict each other",
+      "contradict a statement",
+      "evidence contradicts",
+      "tend to contradict"
+    ],
+    "synonyms": [
+      "deny",
+      "gainsay",
+      "oppose",
+      "clash"
+    ],
+    "near_synonyms": [
+      {
+        "word": "refute",
+        "difference": "refute means to prove a statement false using evidence; contradict simply means stating or being the opposite, without necessarily proving it."
+      }
+    ],
+    "antonyms": [
+      "confirm",
+      "corroborate",
+      "support",
+      "agree"
+    ],
+    "word_family": [
+      {
+        "word": "contradict",
+        "pos": "verb"
+      },
+      {
+        "word": "contradiction",
+        "pos": "noun"
+      },
+      {
+        "word": "contradictory",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 461,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ]
+  },
+  {
+    "word": "convene",
+    "pos": "verb",
+    "phonetic": "/kənˈviːn/",
+    "definition": "To come together or assemble for an official meeting, assembly, or activity; to cause people to gather in a formal session.",
+    "definition_zh": "召集（會議）；集合；開會",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ven",
+          "origin": "Latin",
+          "meaning": "to come",
+          "meaning_zh": "來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CON（共同）+ VEN（來）→ 大家共同來到同一個地方開會",
+      "story_en": "The committee will CONVENE tomorrow, asking members from all branches to VENe (come) to the headquarters.",
+      "story_zh": "委員會將在明天「召集開會（CONVENE）」，要求所有分部的成員都來到（VEN）總部。",
+      "emojis": [
+        "📅",
+        "👥",
+        "🏢"
+      ]
+    },
+    "example": "The prime minister decided to convene an emergency cabinet meeting to discuss the national security crisis.",
+    "example_zh": "首相決定召集緊急內閣會議，討論國家安全危機。",
+    "collocations": [
+      "convene a meeting",
+      "convene a session",
+      "convene a panel",
+      "scheduled to convene",
+      "convene a conference"
+    ],
+    "synonyms": [
+      "assemble",
+      "summon",
+      "gather",
+      "convoke"
+    ],
+    "near_synonyms": [
+      {
+        "word": "gather",
+        "difference": "gather is informal and can be casual or accidental; convene is strictly formal, implying an official or scheduled assembly."
+      }
+    ],
+    "antonyms": [
+      "adjourn",
+      "dismiss",
+      "disperse"
+    ],
+    "word_family": [
+      {
+        "word": "convene",
+        "pos": "verb"
+      },
+      {
+        "word": "convention",
+        "pos": "noun"
+      },
+      {
+        "word": "convener",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 462,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "business"
+    ]
+  },
+  {
+    "word": "cynical",
+    "pos": "adjective",
+    "phonetic": "/ˈsɪnɪkl/",
+    "definition": "Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity; skeptical of conventional values.",
+    "definition_zh": "憤世嫉俗的；懷疑人性的；冷嘲熱諷的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "kynikos",
+          "origin": "Greek",
+          "meaning": "dog-like, churlish",
+          "meaning_zh": "像狗一樣的、粗魯的（源於古希臘犬儒學派）"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "源於希臘文 kyon（狗）→ 古代犬儒學派（Cynics）像狗一樣鄙視世俗名利",
+      "story_en": "A CYNICAL critic doubts the sincerity of the politician's charity, seeing it only as a PR stunt.",
+      "story_zh": "一個「懷疑人性（CYNICAL）」的評論家懷疑政客慈善行為的真誠性，認為這只是公關噱頭。",
+      "emojis": [
+        "😒",
+        "🙄",
+        "🐕"
+      ]
+    },
+    "example": "Many young voters have grown cynical about politics after years of unfulfilled campaign promises.",
+    "example_zh": "在經歷了多年未兌現的競選承諾後，許多新一代選民對政治變得十分憤世嫉俗。",
+    "collocations": [
+      "cynical view",
+      "cynical attitude",
+      "become cynical",
+      "cynical humor",
+      "cynical manipulation"
+    ],
+    "synonyms": [
+      "skeptical",
+      "distrustful",
+      "misanthropic",
+      "sardonic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "skeptical",
+        "difference": "skeptical means doubting the truth or validity of facts until proven; cynical implies a deep-seated belief that human motives are always selfish."
+      }
+    ],
+    "antonyms": [
+      "optimistic",
+      "trusting",
+      "naive",
+      "gullible"
+    ],
+    "word_family": [
+      {
+        "word": "cynical",
+        "pos": "adjective"
+      },
+      {
+        "word": "cynicism",
+        "pos": "noun"
+      },
+      {
+        "word": "cynic",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 463,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "philosophy",
+      "social"
+    ]
+  },
+  {
+    "word": "defying",
+    "pos": "verb",
+    "phonetic": "/dɪˈfaɪɪŋ/",
+    "definition": "Openly resisting, refusing to obey, or challenging a authority, law, rule, or expectation; making something seemingly impossible happen.",
+    "definition_zh": "違抗；反抗；使…成為不可能（現在分詞作動詞/形容詞）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fid",
+          "origin": "Latin",
+          "meaning": "faith, trust",
+          "meaning_zh": "信任、信仰"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（解除、相反）+ FID（信任、忠誠）→ 解除忠誠，公開反叛反抗",
+      "story_en": "By DEFYING the tyrant's laws, the rebels broke their faith (FID) with the oppressive government.",
+      "story_zh": "藉由「違抗（DEFYING）」暴君的法律，反抗者打破了對壓迫政府的忠誠（FID）。",
+      "emojis": [
+        "✊",
+        "🛑",
+        "🌪️"
+      ]
+    },
+    "example": "Defying all expectations, the small startup managed to outperform the industry giant.",
+    "example_zh": "「違抗（不顧）」所有人的預期，這家小新創公司成功超越了行業巨頭。",
+    "collocations": [
+      "defying authority",
+      "defying gravity",
+      "defying expectations",
+      "defying the ban",
+      "defying orders"
+    ],
+    "synonyms": [
+      "resisting",
+      "challenging",
+      "flouting",
+      "disobeying"
+    ],
+    "near_synonyms": [
+      {
+        "word": "opposing",
+        "difference": "opposing implies disagreement or arguing against something; defying involves active, courageous, or stubborn resistance to a dominant force."
+      }
+    ],
+    "antonyms": [
+      "obeying",
+      "complying",
+      "submitting"
+    ],
+    "word_family": [
+      {
+        "word": "defy",
+        "pos": "verb"
+      },
+      {
+        "word": "defying",
+        "pos": "adjective / verb"
+      },
+      {
+        "word": "defiance",
+        "pos": "noun"
+      },
+      {
+        "word": "defiant",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 464,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "politics"
+    ]
+  },
+  {
+    "word": "deprive",
+    "pos": "verb",
+    "phonetic": "/dɪˈpraɪv/",
+    "definition": "To deny someone or something from having or enjoying something, especially essential resources, rights, or privileges.",
+    "definition_zh": "剝奪；使喪失",
+    "etymology": {
+      "roots": [
+        {
+          "root": "priv",
+          "origin": "Latin",
+          "meaning": "single, private, one's own",
+          "meaning_zh": "單獨的、私人的、自己的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（剝奪、分開）+ PRIV（私有物）→ 拿走某人的私有財產或權利",
+      "story_en": "The dictator attempted to DEPRIVE citizens of their PRIVate property and essential freedom.",
+      "story_zh": "獨裁者企圖「剝奪（DEPRIVE）」公民的私有（PRIV）財產與基本自由。",
+      "emojis": [
+        "🚫",
+        "🔒",
+        "🥀"
+      ]
+    },
+    "example": "You cannot deprive a citizen of their constitutional right to vote without due process of law.",
+    "example_zh": "未經正當法律程序，你不能剝奪公民享有的憲法投票權。",
+    "collocations": [
+      "deprive of oxygen",
+      "deprive of sleep",
+      "deprive of rights",
+      "be deprived of",
+      "deprive of resources"
+    ],
+    "synonyms": [
+      "strip",
+      "divest",
+      "rob",
+      "dispossess"
+    ],
+    "near_synonyms": [
+      {
+        "word": "deny",
+        "difference": "deny means to refuse a request or access to something; deprive implies taking away something that is already possessed or fundamentally needed."
+      }
+    ],
+    "antonyms": [
+      "provide",
+      "endow",
+      "bestow",
+      "supply"
+    ],
+    "word_family": [
+      {
+        "word": "deprive",
+        "pos": "verb"
+      },
+      {
+        "word": "deprivation",
+        "pos": "noun"
+      },
+      {
+        "word": "deprived",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 465,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "social"
+    ]
+  },
+  {
+    "word": "discreet",
+    "pos": "adjective",
+    "phonetic": "/dɪˈskriːt/",
+    "definition": "Careful and circumspect in one's speech or actions, especially to avoid causing offense, revealing private information, or gaining unwanted attention.",
+    "definition_zh": "謹慎的；不引人注目的；守口如瓶的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cret / cern",
+          "origin": "Latin",
+          "meaning": "to separate, distinguish",
+          "meaning_zh": "分開、區分"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（分開）+ CRET（區分）→ 有能力區分場合，知道什麼該說、什麼不該說",
+      "story_en": "The double 'ee' in DISCREET looks like two eyes looking around carefully to keep a secret.",
+      "story_zh": "想著 DISCREET 中間的兩個 'e' 就像兩隻眼睛小心地環顧四周，說話做事保持「謹慎（DISCREET）」以保守秘密。",
+      "emojis": [
+        "🤫",
+        "🕵️",
+        "👀"
+      ]
+    },
+    "example": "The diplomat made a discreet inquiry about the political prisoner's health status.",
+    "example_zh": "外交官對該政治犯的健康狀況進行了謹慎（低調）的詢問。",
+    "collocations": [
+      "discreet inquiry",
+      "discreet silence",
+      "be discreet",
+      "discreet distance",
+      "discreet manner"
+    ],
+    "synonyms": [
+      "circumspect",
+      "cautious",
+      "tactful",
+      "unobtrusive"
+    ],
+    "near_synonyms": [
+      {
+        "word": "discrete",
+        "difference": "discrete (ending in -ete) means separate and distinct; discreet (ending in -eet) means cautious and secretive."
+      }
+    ],
+    "antonyms": [
+      "indiscreet",
+      "brash",
+      "reckless",
+      "blatant"
+    ],
+    "word_family": [
+      {
+        "word": "discreet",
+        "pos": "adjective"
+      },
+      {
+        "word": "discreetly",
+        "pos": "adverb"
+      },
+      {
+        "word": "discretion",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 466,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "business"
+    ]
+  },
+  {
+    "word": "distort",
+    "pos": "verb",
+    "phonetic": "/dɪˈstɔːrt/",
+    "definition": "To pull or twist out of shape; to give a misleading or false account or impression of facts or reality.",
+    "definition_zh": "扭曲；歪曲（事實、聲音等）；使變形",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tort",
+          "origin": "Latin",
+          "meaning": "to twist",
+          "meaning_zh": "扭曲、旋轉"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（向各方）+ TORT（扭曲）→ 向各個方向扭曲事實，使其失真",
+      "story_en": "The media was accused of trying to DISTORT the truth by twisting (TORT) the politician's words.",
+      "story_zh": "媒體被指責企圖藉由扭曲（TORT）政客的話來「歪曲（DISTORT）」事實。",
+      "emojis": [
+        "🌀",
+        "❌",
+        "📢"
+      ]
+    },
+    "example": "Some tabloids deliberately distort the truth to create more sensational headlines.",
+    "example_zh": "一些小報故意歪曲事實，以製造更多聳人聽聞的標題。",
+    "collocations": [
+      "distort the truth",
+      "distort facts",
+      "distort the market",
+      "distorted reality",
+      "distort the image"
+    ],
+    "synonyms": [
+      "misrepresent",
+      "falsify",
+      "warp",
+      "pervert"
+    ],
+    "near_synonyms": [
+      {
+        "word": "change",
+        "difference": "change is neutral and general; distort always implies altering something into an unnatural, ugly, or incorrect state."
+      }
+    ],
+    "antonyms": [
+      "clarify",
+      "rectify",
+      "preserve",
+      "represent accurately"
+    ],
+    "word_family": [
+      {
+        "word": "distort",
+        "pos": "verb"
+      },
+      {
+        "word": "distortion",
+        "pos": "noun"
+      },
+      {
+        "word": "distorted",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 467,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "language",
+      "academic"
+    ]
+  },
+  {
+    "word": "diversity",
+    "pos": "noun",
+    "phonetic": "/daɪˈvɜːrsəti/",
+    "definition": "The state or quality of being diverse; a range of different things, cultures, viewpoints, or components within a group or system.",
+    "definition_zh": "多樣性；多元化；差異",
+    "etymology": {
+      "roots": [
+        {
+          "root": "vers / vert",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "轉動、轉向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DI（分開、朝不同方向）+ VERS（轉向）→ 轉向不同的方向，形成多元化",
+      "story_en": "The university promotes DIVERSITY by turning (VERS) its attention in DIfferent directions to recruit international students.",
+      "story_zh": "這所大學藉由將注意力轉向（VERS）不同的（DI）方向招收國際學生來促進「多樣性（DIVERSITY）」。",
+      "emojis": [
+        "🌈",
+        "🌍",
+        "🤝"
+      ]
+    },
+    "example": "Cultural diversity enrichment programs can help reduce prejudice in multinational corporations.",
+    "example_zh": "文化多樣性增強計畫有助於減少跨國公司中的偏見。",
+    "collocations": [
+      "cultural diversity",
+      "biodiversity",
+      "promote diversity",
+      "unity in diversity",
+      "ethnic diversity"
+    ],
+    "synonyms": [
+      "variety",
+      "multiplicity",
+      "heterogeneity",
+      "diversification"
+    ],
+    "near_synonyms": [
+      {
+        "word": "variety",
+        "difference": "variety refers to a collection of different types of objects or items; diversity is more often used in social and political contexts to describe inclusive representation."
+      }
+    ],
+    "antonyms": [
+      "uniformity",
+      "homogeneity",
+      "sameness"
+    ],
+    "word_family": [
+      {
+        "word": "diversify",
+        "pos": "verb"
+      },
+      {
+        "word": "diverse",
+        "pos": "adjective"
+      },
+      {
+        "word": "diversity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 468,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "academic"
+    ]
+  },
+  {
+    "word": "equilibrium",
+    "pos": "noun",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "definition": "A state in which opposing forces, influences, or physical quantities are perfectly balanced.",
+    "definition_zh": "平衡；均衡；（心情）平靜",
+    "etymology": {
+      "roots": [
+        {
+          "root": "equi",
+          "origin": "Latin",
+          "meaning": "equal",
+          "meaning_zh": "相等的、平等的"
+        },
+        {
+          "root": "libra",
+          "origin": "Latin",
+          "meaning": "balance, scale",
+          "meaning_zh": "天平、秤"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EQUI（相等）+ LIBRA（天平）→ 天平兩端重量相等，達到平衡",
+      "story_en": "When the weights on the LIBRA (scale) are EQUIal, the entire system reaches an EQUILIBRIUM.",
+      "story_zh": "當天平（LIBRA）兩端的重量相等（EQUI）時，整個系統就達到了「平衡（EQUILIBRIUM）」狀態。",
+      "emojis": [
+        "⚖️",
+        "🧗",
+        "🧘"
+      ]
+    },
+    "example": "Supply and demand will naturally bring the market price toward a point of economic equilibrium.",
+    "example_zh": "供給與需求自然會使市場價格走向經濟平衡點。",
+    "collocations": [
+      "chemical equilibrium",
+      "economic equilibrium",
+      "maintain equilibrium",
+      "disturb the equilibrium",
+      "unstable equilibrium"
+    ],
+    "synonyms": [
+      "balance",
+      "stability",
+      "symmetry",
+      "poise"
+    ],
+    "near_synonyms": [
+      {
+        "word": "balance",
+        "difference": "balance is the general, everyday word for equal distribution; equilibrium is more technical, scientific, or formal, often describing dynamic systems."
+      }
+    ],
+    "antonyms": [
+      "imbalance",
+      "disequilibrium",
+      "instability"
+    ],
+    "word_family": [
+      {
+        "word": "equilibrium",
+        "pos": "noun"
+      },
+      {
+        "word": "equilibrate",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 469,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "economics"
+    ]
+  },
+  {
+    "word": "ethical",
+    "pos": "adjective",
+    "phonetic": "/ˈeθɪkl/",
+    "definition": "Relating to moral principles or the branch of philosophy dealing with values; conforming to accepted professional standards of conduct.",
+    "definition_zh": "倫理的；道德的；合乎道德規範的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ethos",
+          "origin": "Greek",
+          "meaning": "custom, character, moral nature",
+          "meaning_zh": "風俗、性格、道德本質"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "源於希臘文 ETHOS（道德性格）→ 指符合社會或職業的道德標準",
+      "story_en": "Doctors follow an ETHICAL code based on their professional ETHOS to ensure they never harm patients.",
+      "story_zh": "醫生遵循基於其職業道德本質（ETHOS）的「道德（ETHICAL）」準則，以確保不傷害病人。",
+      "emojis": [
+        "⚖️",
+        "🤝",
+        "😇"
+      ]
+    },
+    "example": "Many consumers now prefer to support companies that maintain ethical standards in their supply chains.",
+    "example_zh": "許多消費者現在更傾向於支持在其供應鏈中維持道德標準的公司。",
+    "collocations": [
+      "ethical investment",
+      "ethical standards",
+      "ethical considerations",
+      "medical ethics",
+      "ethical dilemmas"
+    ],
+    "synonyms": [
+      "moral",
+      "principled",
+      "righteous",
+      "scrupulous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "moral",
+        "difference": "moral relates to personal or religious definitions of right and wrong; ethical often relates to professional codes or societal systems of rules."
+      }
+    ],
+    "antonyms": [
+      "unethical",
+      "immoral",
+      "unprincipled"
+    ],
+    "word_family": [
+      {
+        "word": "ethical",
+        "pos": "adjective"
+      },
+      {
+        "word": "ethics",
+        "pos": "noun"
+      },
+      {
+        "word": "ethically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 470,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "philosophy",
+      "business"
+    ]
+  },
+  {
+    "word": "evade",
+    "pos": "verb",
+    "phonetic": "/ɪˈveɪd/",
+    "definition": "To escape or avoid something, especially by cleverness or deceit; to elude a duty, question, responsibility, or pursuer.",
+    "definition_zh": "逃避；規避（法律、稅收）；避開",
+    "etymology": {
+      "roots": [
+        {
+          "root": "vad",
+          "origin": "Latin",
+          "meaning": "to go, walk",
+          "meaning_zh": "走、去"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "E（出來、向外）+ VAD（走）→ 往外走，逃離原本該面對的範圍",
+      "story_en": "The corrupt billionaire tried to EVADE taxes by finding loopholes and walking (VAD) away from his obligations.",
+      "story_zh": "這個腐敗的億萬富翁試圖藉由尋找漏洞並走開（VAD）來「逃避（EVADE）」稅款。",
+      "emojis": [
+        "🏃",
+        "📉",
+        "🕵️"
+      ]
+    },
+    "example": "The politician deliberately tried to evade the journalist's direct question about corruption scandals.",
+    "example_zh": "這名政客故意試圖逃避記者關於貪腐醜聞的直接提問。",
+    "collocations": [
+      "evade taxes",
+      "evade responsibility",
+      "evade a question",
+      "evade capture",
+      "evade the law"
+    ],
+    "synonyms": [
+      "elude",
+      "avoid",
+      "dodge",
+      "sidestep"
+    ],
+    "near_synonyms": [
+      {
+        "word": "avoid",
+        "difference": "avoid is a general term for staying away from something; evade specifically implies using cleverness, trickery, or strategy to escape an obligation or capture."
+      }
+    ],
+    "antonyms": [
+      "confront",
+      "face",
+      "encounter",
+      "tackle"
+    ],
+    "word_family": [
+      {
+        "word": "evade",
+        "pos": "verb"
+      },
+      {
+        "word": "evasion",
+        "pos": "noun"
+      },
+      {
+        "word": "evasive",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 471,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "evoke",
+    "pos": "verb",
+    "phonetic": "/ɪˈvoʊk/",
+    "definition": "To bring or recall a feeling, memory, or image to the conscious mind; to elicit a response or reaction.",
+    "definition_zh": "喚起（記憶、感情）；引起；激起",
+    "etymology": {
+      "roots": [
+        {
+          "root": "vok / voc",
+          "origin": "Latin",
+          "meaning": "to call",
+          "meaning_zh": "呼喊、召喚"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "E（出來）+ VOK（呼喊）→ 將心深處的記憶、情感呼喚出來",
+      "story_en": "The old photographs managed to EVOKE sweet childhood memories, calling (VOC) them out from the past.",
+      "story_zh": "老照片成功「喚起（EVOKE）」了甜蜜的童年記憶，將它們從過去呼喚（VOC）出來。",
+      "emojis": [
+        "📸",
+        "💭",
+        "🎻"
+      ]
+    },
+    "example": "The novelist's descriptions of the countryside evoke memories of a simpler time.",
+    "example_zh": "小說家對鄉村的描寫喚起了人們對更單純時代的記憶。",
+    "collocations": [
+      "evoke memories",
+      "evoke a response",
+      "evoke sympathy",
+      "evoke emotions",
+      "powerfully evoke"
+    ],
+    "synonyms": [
+      "elicit",
+      "provoke",
+      "awaken",
+      "conjure up"
+    ],
+    "near_synonyms": [
+      {
+        "word": "provoke",
+        "difference": "provoke implies triggering a strong, often negative, emotional or physical reaction; evoke gently brings thoughts or abstract feelings to mind."
+      }
+    ],
+    "antonyms": [
+      "suppress",
+      "repress",
+      "stifle"
+    ],
+    "word_family": [
+      {
+        "word": "evoke",
+        "pos": "verb"
+      },
+      {
+        "word": "evocation",
+        "pos": "noun"
+      },
+      {
+        "word": "evocative",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 472,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "academic"
+    ]
+  },
+  {
+    "word": "exclusion",
+    "pos": "noun",
+    "phonetic": "/ɪkˈskluːʒn/",
+    "definition": "The act of shutting out or preventing someone or something from entering a place, group, or participating in an activity.",
+    "definition_zh": "排除；排斥；被排除在外",
+    "etymology": {
+      "roots": [
+        {
+          "root": "clud / clus",
+          "origin": "Latin",
+          "meaning": "to shut, close",
+          "meaning_zh": "關閉"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（向外）+ CLUS（關閉）→ 把大門關上，將人拒之門外",
+      "story_en": "The club's EXCLUSION policy means they shut (CLUS) the door on non-members, leaving them outside (EX).",
+      "story_zh": "該俱樂部的「排他（EXCLUSION）」政策意味著他們對非會員關閉（CLUS）大門，將其留在外面（EX）。",
+      "emojis": [
+        "🚫",
+        "🚪",
+        "🔒"
+      ]
+    },
+    "example": "Social exclusion can lead to psychological problems, including severe anxiety and depression.",
+    "example_zh": "社會排斥可能導致心理問題，包括嚴重的焦慮和抑鬱。",
+    "collocations": [
+      "social exclusion",
+      "to the exclusion of",
+      "exclusion zone",
+      "mutual exclusion",
+      "order of exclusion"
+    ],
+    "synonyms": [
+      "barring",
+      "rejection",
+      "elimination",
+      "ostracism"
+    ],
+    "near_synonyms": [
+      {
+        "word": "isolation",
+        "difference": "isolation is the state of being alone, which can be accidental or by choice; exclusion is the active, social act of shutting someone out."
+      }
+    ],
+    "antonyms": [
+      "inclusion",
+      "admission",
+      "acceptance"
+    ],
+    "word_family": [
+      {
+        "word": "exclude",
+        "pos": "verb"
+      },
+      {
+        "word": "exclusion",
+        "pos": "noun"
+      },
+      {
+        "word": "exclusive",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 473,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "academic"
+    ]
+  },
+  {
+    "word": "exempt",
+    "pos": "adjective",
+    "phonetic": "/ɪɡˈzempt/",
+    "definition": "Free from an obligation, duty, rule, or liability imposed on others.",
+    "definition_zh": "免除的；豁免的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "empt",
+          "origin": "Latin",
+          "meaning": "to buy, take",
+          "meaning_zh": "買、拿、取"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（出來）+ EMPT（拿、取）→ 從原有的義務清單中「拿出來」，表示免除",
+      "story_en": "Charities are EXEMPT from income tax, as the government takes (EMPT) them out (EX) of the taxing obligation.",
+      "story_zh": "慈善機構「免除（EXEMPT）」繳納所得稅，因為政府將其從課稅義務中拿出來（EX）。",
+      "emojis": [
+        "🆓",
+        "📜",
+        "💼"
+      ]
+    },
+    "example": "Small businesses with low annual revenues may be exempt from the new municipal tax rules.",
+    "example_zh": "年收入較低的微型企業可能可以豁免於新的市稅法規。",
+    "collocations": [
+      "tax exempt",
+      "exempt from military service",
+      "be exempt from",
+      "exempt status",
+      "completely exempt"
+    ],
+    "synonyms": [
+      "excused",
+      "immune",
+      "excepted",
+      "spared"
+    ],
+    "near_synonyms": [
+      {
+        "word": "immune",
+        "difference": "immune emphasizes biological protection or absolute legal safety from prosecution; exempt typically means being legally freed from a standard financial or civil duty."
+      }
+    ],
+    "antonyms": [
+      "liable",
+      "subject to",
+      "obligated"
+    ],
+    "word_family": [
+      {
+        "word": "exempt",
+        "pos": "verb / adjective"
+      },
+      {
+        "word": "exemption",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 474,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "exotic",
+    "pos": "adjective",
+    "phonetic": "/ɪɡˈzɑːtɪk/",
+    "definition": "Originating in or characteristic of a distant foreign country, especially when introduced into an environment where it is not native; strikingly unusual or strange.",
+    "definition_zh": "異國風情的；外來的；奇特的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "exo",
+          "origin": "Greek",
+          "meaning": "outside, external",
+          "meaning_zh": "外面、外部"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EXO（外部、外面）→ 來自外部世界的、外來的",
+      "story_en": "The botanical garden features many EXOTIC plants brought from outside (EXO) the country.",
+      "story_zh": "這個植物園展示了許多從國外（外部 EXO）帶來的「異國風情（EXOTIC）」植物。",
+      "emojis": [
+        "🌴",
+        "🦜",
+        "🌍"
+      ]
+    },
+    "example": "The local market is famous for selling exotic spices imported from Madagascar and India.",
+    "example_zh": "當地的市場以販售從馬達加斯加和印度進口的異國香料而聞名。",
+    "collocations": [
+      "exotic plants",
+      "exotic pets",
+      "exotic location",
+      "exotic fruits",
+      "look exotic"
+    ],
+    "synonyms": [
+      "foreign",
+      "alien",
+      "unfamiliar",
+      "bizarre"
+    ],
+    "near_synonyms": [
+      {
+        "word": "foreign",
+        "difference": "foreign simply means from another country (neutral); exotic carries a connotation of being fascinating, colorful, beautiful, or unusual."
+      }
+    ],
+    "antonyms": [
+      "native",
+      "indigenous",
+      "domestic",
+      "ordinary"
+    ],
+    "word_family": [
+      {
+        "word": "exotic",
+        "pos": "adjective"
+      },
+      {
+        "word": "exoticism",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 475,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "social"
+    ]
+  },
+  {
+    "word": "faculty",
+    "pos": "noun",
+    "phonetic": "/ˈfæklti/",
+    "definition": "The teaching staff at a university or college; an inherent mental or physical power or ability.",
+    "definition_zh": "（大學的）全體教職員；（高等院校的）系、院；官能、能力",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fac",
+          "origin": "Latin",
+          "meaning": "to do, make",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FAC（做）→ 具有「做」某事、進行教學的特殊技能或群體",
+      "story_en": "The university hired new FACULTY members who have the mental FACULTY (ability) to perform (FAC) complex research.",
+      "story_zh": "大學聘請了新的「教職員（FACULTY）」，他們有心智「能力（FACULTY）」來做（FAC）複雜的研究。",
+      "emojis": [
+        "🎓",
+        "👨‍🏫",
+        "🧠"
+      ]
+    },
+    "example": "Professor Vance is one of the most respected members of the law school faculty.",
+    "example_zh": "范斯教授是法學院全體教職員中最受尊敬的成員之一。",
+    "collocations": [
+      "faculty members",
+      "mental faculty",
+      "faculty of arts",
+      "join the faculty",
+      "faculty advisor"
+    ],
+    "synonyms": [
+      "staff",
+      "academics",
+      "ability",
+      "capability",
+      "aptitude"
+    ],
+    "near_synonyms": [
+      {
+        "word": "staff",
+        "difference": "staff refers to all employees in any business or school (including administrative workers); faculty specifically refers to the academic teaching/research staff in higher education."
+      }
+    ],
+    "antonyms": [
+      "students",
+      "inability",
+      "incapacity"
+    ],
+    "word_family": [
+      {
+        "word": "faculty",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 476,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic"
+    ]
+  },
+  {
+    "word": "finite",
+    "pos": "adjective",
+    "phonetic": "/ˈfaɪnaɪt/",
+    "definition": "Having limits or bounds; measurable and limited in size, space, or time.",
+    "definition_zh": "有限的；有盡的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fin",
+          "origin": "Latin",
+          "meaning": "end, limit, boundary",
+          "meaning_zh": "結束、限制、邊界"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FIN（結束、邊界）→ 有終點的、受到邊界限制的",
+      "story_en": "Fossil fuels are a FINITE resource, meaning their supply will eventually come to a FINish.",
+      "story_zh": "化石燃料是「有限的（FINITE）」資源，意味著它們的供應最終會迎來結束（FIN）。",
+      "emojis": [
+        "⏳",
+        "🛑",
+        "📊"
+      ]
+    },
+    "example": "The earth has a finite supply of natural resources, which demands sustainable management.",
+    "example_zh": "地球的自然資源供應是有限的，這需要永續的管理。",
+    "collocations": [
+      "finite resources",
+      "finite amount",
+      "finite number",
+      "finite supply",
+      "finite space"
+    ],
+    "synonyms": [
+      "limited",
+      "bounded",
+      "restricted",
+      "terminable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "limited",
+        "difference": "limited can refer to a small amount or set conditions; finite is more precise, philosophically or mathematically indicating that boundaries definitely exist."
+      }
+    ],
+    "antonyms": [
+      "infinite",
+      "endless",
+      "boundless"
+    ],
+    "word_family": [
+      {
+        "word": "finite",
+        "pos": "adjective"
+      },
+      {
+        "word": "infinite",
+        "pos": "adjective"
+      },
+      {
+        "word": "infinity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 477,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "math",
+      "science"
+    ]
+  },
+  {
+    "word": "formulate",
+    "pos": "verb",
+    "phonetic": "/ˈfɔːrmjuleɪt/",
+    "definition": "To create, express, or develop a strategy, plan, formula, or system systematically and precisely.",
+    "definition_zh": "制定（政策、計畫）；構想；系统地闡述",
+    "etymology": {
+      "roots": [
+        {
+          "root": "form",
+          "origin": "Latin",
+          "meaning": "shape, mold",
+          "meaning_zh": "形狀、模式"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FORM（形狀、模式）→ 給予思想、計畫一個清晰的形式與框架",
+      "story_en": "The military generals met to FORMULATE a new plan, putting their thoughts into a structured FORM.",
+      "story_zh": "軍事將領會面以「制定（FORMULATE）」新計畫，將他們的想法放入一個結構化的形式（FORM）中。",
+      "emojis": [
+        "📝",
+        "🧠",
+        "🔬"
+      ]
+    },
+    "example": "The government is working with economic experts to formulate a new monetary policy.",
+    "example_zh": "政府正與經濟專家合作制定新的貨幣政策。",
+    "collocations": [
+      "formulate a plan",
+      "formulate a policy",
+      "formulate a strategy",
+      "formulate a question",
+      "formulate theories"
+    ],
+    "synonyms": [
+      "devise",
+      "prepare",
+      "frame",
+      "systematize",
+      "articulate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "create",
+        "difference": "create means to bring something new into existence generally; formulate implies an organized, careful, and step-by-step mental design process."
+      }
+    ],
+    "antonyms": [
+      "destroy",
+      "disorganize",
+      "improvise"
+    ],
+    "word_family": [
+      {
+        "word": "formulate",
+        "pos": "verb"
+      },
+      {
+        "word": "formula",
+        "pos": "noun"
+      },
+      {
+        "word": "formulation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 478,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "framework",
+    "pos": "noun",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "definition": "An underlying basic structure, system, or set of ideas that supports or guides the development of something larger.",
+    "definition_zh": "架構；框架；體制；（理論）體系",
+    "etymology": {
+      "roots": [
+        {
+          "root": "frame",
+          "origin": "Old English",
+          "meaning": "to construct, profit, prepare",
+          "meaning_zh": "建造、構造"
+        },
+        {
+          "root": "work",
+          "origin": "Old English",
+          "meaning": "action, deed, structure",
+          "meaning_zh": "行動、結構"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FRAME（外框）+ WORK（工作、結構）→ 支撐整個龐大計畫或工程的最核心框架",
+      "story_en": "The theoretical FRAMEWORK provides a solid structure for the research project, just like steel beams support a house.",
+      "story_zh": "理論「架構（FRAMEWORK）」為研究項目提供了堅固的結構，就像鋼樑支撐房子一樣。",
+      "emojis": [
+        "🏗️",
+        "📐",
+        "📝"
+      ]
+    },
+    "example": "This textbook provides a conceptual framework for understanding international trade agreements.",
+    "example_zh": "這本教科書為理解國際貿易協定提供了一個概念性架構。",
+    "collocations": [
+      "conceptual framework",
+      "legal framework",
+      "theoretical framework",
+      "regulatory framework",
+      "within the framework of"
+    ],
+    "synonyms": [
+      "structure",
+      "skeleton",
+      "architecture",
+      "infrastructure",
+      "schema"
+    ],
+    "near_synonyms": [
+      {
+        "word": "theory",
+        "difference": "theory is an explanation of phenomena; framework is a structural model or set of rules used to organize and analyze those theories."
+      }
+    ],
+    "antonyms": [
+      "disorganization",
+      "chaos"
+    ],
+    "word_family": [
+      {
+        "word": "frame",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "framework",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 479,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "function",
+    "pos": "noun",
+    "phonetic": "/ˈfʌŋkʃn/",
+    "definition": "An activity, purpose, or role natural to or intended for a person or thing; a formal social event.",
+    "definition_zh": "功能；職責；功能函數；社交聚會",
+    "etymology": {
+      "roots": [
+        {
+          "root": "funct",
+          "origin": "Latin",
+          "meaning": "to perform, execute",
+          "meaning_zh": "執行、履行"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FUNCT（執行、履行）→ 一個物體被設計用來「執行」的特定任務",
+      "story_en": "The main FUNCTION of the lungs is to perform (FUNCT) gas exchange, bringing oxygen into the body.",
+      "story_zh": "肺部的核心「功能（FUNCTION）」是執行（FUNCT）氣體交換，將氧氣帶入體內。",
+      "emojis": [
+        "⚙️",
+        "📱",
+        "📊"
+      ]
+    },
+    "example": "The main function of the kidneys is to filter waste products from the bloodstream.",
+    "example_zh": "腎臟的主要功能是過濾血液中的廢物。",
+    "collocations": [
+      "primary function",
+      "fulfill a function",
+      "executive function",
+      "social function",
+      "mathematical function"
+    ],
+    "synonyms": [
+      "purpose",
+      "role",
+      "capacity",
+      "duty",
+      "operation"
+    ],
+    "near_synonyms": [
+      {
+        "word": "purpose",
+        "difference": "purpose is the ultimate reason why something was created; function is the mechanical or natural action it performs to achieve that reason."
+      }
+    ],
+    "antonyms": [
+      "malfunction",
+      "inactivity"
+    ],
+    "word_family": [
+      {
+        "word": "function",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "functional",
+        "pos": "adjective"
+      },
+      {
+        "word": "functionality",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 480,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "generate",
+    "pos": "verb",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "definition": "To cause something to arise or come into existence; to produce energy, ideas, wealth, or electrical power.",
+    "definition_zh": "產生、引起（效果或情緒）；發（電）；造就",
+    "etymology": {
+      "roots": [
+        {
+          "root": "gen",
+          "origin": "Latin",
+          "meaning": "to produce, give birth to",
+          "meaning_zh": "產生、出生"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "GEN（產生、出生）→ 如同生孩子一樣將新事物帶到世界上",
+      "story_en": "Wind turbines are used to GENERATE clean electricity, producing (GEN) power from nature.",
+      "story_zh": "風力發電機用於「產生（GENERATE）」乾淨的電力，從大自然中生產（GEN）能源。",
+      "emojis": [
+        "💡",
+        "⚡",
+        "⚙️"
+      ]
+    },
+    "example": "The advertising campaign is expected to generate significant consumer interest in the new product.",
+    "example_zh": "這場廣告活動預計會引起（產生）消費者對新產品的極大興趣。",
+    "collocations": [
+      "generate revenue",
+      "generate electricity",
+      "generate interest",
+      "generate debate",
+      "generate employment"
+    ],
+    "synonyms": [
+      "produce",
+      "create",
+      "engender",
+      "provoke",
+      "yield"
+    ],
+    "near_synonyms": [
+      {
+        "word": "produce",
+        "difference": "produce often implies physically manufacturing or bringing forth an object; generate is more commonly used for abstract concepts like energy, debate, or revenue."
+      }
+    ],
+    "antonyms": [
+      "extinguish",
+      "destroy",
+      "stifle",
+      "suppress"
+    ],
+    "word_family": [
+      {
+        "word": "generate",
+        "pos": "verb"
+      },
+      {
+        "word": "generation",
+        "pos": "noun"
+      },
+      {
+        "word": "generator",
+        "pos": "noun"
+      },
+      {
+        "word": "generative",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 481,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "business",
+      "science"
+    ]
+  },
+  {
+    "word": "grant",
+    "pos": "verb",
+    "phonetic": "/ɡrænt/",
+    "definition": "To agree to give or allow something requested; to formally bestow or transfer a legal right or fund to someone.",
+    "definition_zh": "同意給予；授予（權利或獎學金）；補助金、撥款",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cred / credere",
+          "origin": "Latin",
+          "meaning": "to believe, entrust",
+          "meaning_zh": "相信、委託（經由古法語變體型態演變）"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "源於古法語 graanter（承諾、保證），本源為拉近信任關係",
+      "story_en": "The university decided to GRANT a research funding allowance, formally allowing the professor to start the project.",
+      "story_zh": "大學決定「授予（GRANT）」一筆研究經費撥款，正式允許教授啟動該項目。",
+      "emojis": [
+        "💰",
+        "📜",
+        "🤝"
+      ]
+    },
+    "example": "The government refused to grant permission for the construction of the chemical plant near the river.",
+    "example_zh": "政府拒絕批准（給予）在河流附近建造化工廠的許可。",
+    "collocations": [
+      "grant permission",
+      "research grant",
+      "government grant",
+      "take for granted",
+      "grant a wish"
+    ],
+    "synonyms": [
+      "bestow",
+      "award",
+      "concede",
+      "allocate",
+      "allow"
+    ],
+    "near_synonyms": [
+      {
+        "word": "give",
+        "difference": "give is the basic, everyday term; grant implies a formal, legal, or official act of giving by an authority figure."
+      }
+    ],
+    "antonyms": [
+      "deny",
+      "refuse",
+      "withhold"
+    ],
+    "word_family": [
+      {
+        "word": "grant",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "grantee",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 482,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "guideline",
+    "pos": "noun",
+    "phonetic": "/ˈɡaɪdlaɪn/",
+    "definition": "A general rule, principle, or piece of advice that sets standard practices or policy for an action or conduct.",
+    "definition_zh": "指導方針；準則；行動綱領（常用複數）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "guide",
+          "origin": "Old French",
+          "meaning": "to lead, direct",
+          "meaning_zh": "引導、導向"
+        },
+        {
+          "root": "line",
+          "origin": "Latin",
+          "meaning": "string, thread",
+          "meaning_zh": "線、繩"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "GUIDE（引導）+ LINE（線條）→ 引導前進方向的參考線框",
+      "story_en": "The government issued safety GUIDELINES, drawing a clear LINE to GUIDE factories during the pandemic.",
+      "story_zh": "政府發布了安全「指導方針（GUIDELINES）」，劃出一條明確的界線（LINE）來引導（GUIDE）工廠度過疫情。",
+      "emojis": [
+        "📋",
+        "🛣️",
+        "📐"
+      ]
+    },
+    "example": "The World Health Organization issued new guidelines on healthy dietary habits for children.",
+    "example_zh": "世界衛生組織發布了關於兒童健康飲食習慣的新指導方針。",
+    "collocations": [
+      "strict guidelines",
+      "safety guidelines",
+      "issue guidelines",
+      "follow guidelines",
+      "established guidelines"
+    ],
+    "synonyms": [
+      "recommendation",
+      "principle",
+      "instruction",
+      "directive",
+      "protocol"
+    ],
+    "near_synonyms": [
+      {
+        "word": "rule",
+        "difference": "rule is mandatory and carries penalties if broken; guideline is a strong recommendation meant to assist or steer behavior, but is technically flexible."
+      }
+    ],
+    "antonyms": [
+      "lawlessness",
+      "randomness"
+    ],
+    "word_family": [
+      {
+        "word": "guide",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "guideline",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 483,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "academic",
+      "medical"
+    ]
+  },
+  {
+    "word": "hence",
+    "pos": "adverb",
+    "phonetic": "/hens/",
+    "definition": "As a consequence; for this reason; from this time forward.",
+    "definition_zh": "因此、所以；從此之後",
+    "etymology": {
+      "roots": [
+        {
+          "root": "heonan",
+          "origin": "Old English",
+          "meaning": "from here",
+          "meaning_zh": "自此處"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "源自古英文意指 'from here'（由這裡出發引出結論）",
+      "story_en": "The laboratory equipment was ancient, HENCE the high margin of error in the experiment's final results.",
+      "story_zh": "實驗室設備非常古老，「因此（HENCE）」在實驗最終結果中產生了極高的誤差率。",
+      "emojis": [
+        "➡️",
+        "🧠",
+        "📉"
+      ]
+    },
+    "example": "The company failed to upgrade its security systems; hence, the data breach was almost inevitable.",
+    "example_zh": "該公司未能升級其安全系統；因此，數據外洩幾乎是不可避免的。",
+    "collocations": [
+      "hence the name",
+      "hence the need for",
+      "a week hence",
+      "henceforth",
+      "it is hence logical"
+    ],
+    "synonyms": [
+      "therefore",
+      "thus",
+      "consequently",
+      "accordingly"
+    ],
+    "near_synonyms": [
+      {
+        "word": "therefore",
+        "difference": "therefore is the most common word for logical conclusion; hence often means 'from this fact follows' and can be used without a verb (e.g., 'hence the name')."
+      }
+    ],
+    "antonyms": [
+      "nevertheless",
+      "however"
+    ],
+    "word_family": [
+      {
+        "word": "hence",
+        "pos": "adverb"
+      },
+      {
+        "word": "henceforth",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 484,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic"
+    ]
+  },
+  {
+    "word": "identical",
+    "pos": "adjective",
+    "phonetic": "/aɪˈdentɪkl/",
+    "definition": "Similar in every detail; exactly alike; referring to twins developed from a single fertilized ovum.",
+    "definition_zh": "完全相同的；同一的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "idem",
+          "origin": "Latin",
+          "meaning": "the same",
+          "meaning_zh": "相同"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IDEM（相同）→ 與 identity、identify 同源，表示本質完全一樣",
+      "story_en": "The two text messages were IDENTICAL, sharing the exact same words and punctuation.",
+      "story_zh": "這兩條簡訊「完全相同（IDENTICAL）」，共享完全一樣（IDEM）的文字和標點符號。",
+      "emojis": [
+        "👥",
+        "♊",
+        "👯"
+      ]
+    },
+    "example": "The two test results were virtually identical, confirming the reliability of the clinical procedure.",
+    "example_zh": "這兩次測試結果幾乎完全相同，證實了該臨床程序的可靠性。",
+    "collocations": [
+      "identical twins",
+      "virtually identical",
+      "identical to",
+      "nearly identical",
+      "identical copy"
+    ],
+    "synonyms": [
+      "indistinguishable",
+      "alike",
+      "matching",
+      "interchangeable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "similar",
+        "difference": "similar means having common qualities but not exactly the same; identical means there is absolutely no difference between them."
+      }
+    ],
+    "antonyms": [
+      "different",
+      "distinct",
+      "dissimilar"
+    ],
+    "word_family": [
+      {
+        "word": "identical",
+        "pos": "adjective"
+      },
+      {
+        "word": "identify",
+        "pos": "verb"
+      },
+      {
+        "word": "identity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 485,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "ideology",
+    "pos": "noun",
+    "phonetic": "/ˌaɪdiˈɑːlədʒi/",
+    "definition": "A system of ideas, beliefs, and ideals, especially one that forms the basis of economic or political theory and policy.",
+    "definition_zh": "意識形態；思想體系",
+    "etymology": {
+      "roots": [
+        {
+          "root": "idea",
+          "origin": "Greek",
+          "meaning": "form, pattern, ideal",
+          "meaning_zh": "思想、概念"
+        },
+        {
+          "root": "logy",
+          "origin": "Greek",
+          "meaning": "study of, theory",
+          "meaning_zh": "學說、研究"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IDEA（觀念）+ LOGY（學說體系）→ 關於政治或社會觀念的完整體系",
+      "story_en": "Political IDEOLOGY shapes how individuals believe a government should manage society's wealth.",
+      "story_zh": "政治「意識形態（IDEOLOGY）」型塑了個人如何看待政府該如何管理社會財富的觀念（IDEA）學說。",
+      "emojis": [
+        "🏛️",
+        "🧠",
+        "🗳️"
+      ]
+    },
+    "example": "The conflict between the two nations was rooted deeply in political and economic ideology.",
+    "example_zh": "兩國之間的衝突深植於政治和經濟意識形態之中。",
+    "collocations": [
+      "political ideology",
+      "dominant ideology",
+      "economic ideology",
+      "communist ideology",
+      "religious ideology"
+    ],
+    "synonyms": [
+      "creed",
+      "doctrine",
+      "dogma",
+      "beliefs",
+      "philosophy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "philosophy",
+        "difference": "philosophy is a broad, critical intellectual search for wisdom; ideology is a rigid framework of beliefs often used to justify political or social action."
+      }
+    ],
+    "antonyms": [
+      "pragmatism",
+      "skepticism"
+    ],
+    "word_family": [
+      {
+        "word": "ideology",
+        "pos": "noun"
+      },
+      {
+        "word": "ideological",
+        "pos": "adjective"
+      },
+      {
+        "word": "ideologue",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 486,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "social"
+    ]
+  },
+  {
+    "word": "ignorance",
+    "pos": "noun",
+    "phonetic": "/ˈɪɡnərəns/",
+    "definition": "Lack of knowledge, information, or education about a particular subject or in general.",
+    "definition_zh": "無知；不知情",
+    "etymology": {
+      "roots": [
+        {
+          "root": "gno",
+          "origin": "Latin / Greek",
+          "meaning": "to know",
+          "meaning_zh": "知道、認識"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "I / IN（不）+ GNO（知道）→ 不知道、缺乏了解的狀態",
+      "story_en": "The judge stated that IGNORANCE of the law is no excuse for criminal behavior.",
+      "story_zh": "法官表示，對法律的「無知（IGNORANCE，不知道 GNO）」不能成為犯罪行為的藉口。",
+      "emojis": [
+        "🤷",
+        "🙈",
+        "📚"
+      ]
+    },
+    "example": "Public ignorance about how the virus spreads contributed to widespread panic in the city.",
+    "example_zh": "大眾對該病毒傳播途徑的無知導致了城市中蔓延的恐慌。",
+    "collocations": [
+      "ignorance of the law",
+      "sheer ignorance",
+      "display ignorance",
+      "admit ignorance",
+      "widespread ignorance"
+    ],
+    "synonyms": [
+      "unawareness",
+      "illiteracy",
+      "incomprehension"
+    ],
+    "near_synonyms": [
+      {
+        "word": "innocence",
+        "difference": "innocence implies pure, harmless lack of knowledge about evil; ignorance implies a harmful or negligent lack of factual information."
+      }
+    ],
+    "antonyms": [
+      "knowledge",
+      "awareness",
+      "education",
+      "wisdom"
+    ],
+    "word_family": [
+      {
+        "word": "ignore",
+        "pos": "verb"
+      },
+      {
+        "word": "ignorance",
+        "pos": "noun"
+      },
+      {
+        "word": "ignorant",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 487,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "academic"
+    ]
+  },
+  {
+    "word": "illustrate",
+    "pos": "verb",
+    "phonetic": "/ˈɪləstreɪt/",
+    "definition": "To explain or make something clear by using examples, charts, diagrams, or pictures.",
+    "definition_zh": "（用例子或圖表）說明、闡明；插圖於",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lustr",
+          "origin": "Latin",
+          "meaning": "light, shine",
+          "meaning_zh": "光亮、照亮"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IL（進入）+ LUSTR（光亮）→ 點亮抽象概念，使複雜的道理變得易懂清晰",
+      "story_en": "The professor used a case study to ILLUSTRATE the principle, making it shine (LUSTR) with clarity for the students.",
+      "story_zh": "教授用案例研究來「說明（ILLUSTRATE）」這個原理，讓它在學生面前散發清晰的光芒（LUSTR）。",
+      "emojis": [
+        "📊",
+        "🎨",
+        "💡"
+      ]
+    },
+    "example": "To illustrate my point, let us look closely at the statistical charts on the screen.",
+    "example_zh": "為了說明我的觀點，讓我們仔細看螢幕上的統計圖表。",
+    "collocations": [
+      "illustrate a point",
+      "clearly illustrate",
+      "illustrate with examples",
+      "serve to illustrate",
+      "diagrams illustrate"
+    ],
+    "synonyms": [
+      "demonstrate",
+      "exemplify Clarify",
+      "depict",
+      "elucidate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "explain",
+        "difference": "explain means to make clear through words and logic; illustrate specifically means making clear by using visual aids, comparisons, or specific concrete examples."
+      }
+    ],
+    "antonyms": [
+      "obscure",
+      "confuse",
+      "complicate"
+    ],
+    "word_family": [
+      {
+        "word": "illustrate",
+        "pos": "verb"
+      },
+      {
+        "word": "illustration",
+        "pos": "noun"
+      },
+      {
+        "word": "illustrative",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 488,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ]
+  },
+  {
+    "word": "immigration",
+    "pos": "noun",
+    "phonetic": "/ˌɪmɪˈɡreɪʃn/",
+    "definition": "The action of coming to live permanently in a foreign country.",
+    "definition_zh": "（自外國移入的）移民；移居境內",
+    "etymology": {
+      "roots": [
+        {
+          "root": "migr",
+          "origin": "Latin",
+          "meaning": "to move, wander",
+          "meaning_zh": "移動、遷移"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IM / IN（進入）+ MIGR（搬遷）→ 搬遷進入一個新的國家定居",
+      "story_en": "The country updated its IMMIGRATION laws to control the number of people migrating (MIGR) in (IM) every year.",
+      "story_zh": "該國更新了「移民（IMMIGRATION）」法，以控制每年搬遷（MIGR）進入（IM）該國的人數。",
+      "emojis": [
+        "🛃",
+        "✈️",
+        "🌍"
+      ]
+    },
+    "example": "Economic opportunities remain the primary driver of global immigration trends.",
+    "example_zh": "經濟機會仍是全球移民趨勢的主要驅動力。",
+    "collocations": [
+      "immigration policy",
+      "illegal immigration",
+      "immigration controls",
+      "minister of immigration",
+      "rate of immigration"
+    ],
+    "synonyms": [
+      "migration",
+      "colonization",
+      "settlement"
+    ],
+    "near_synonyms": [
+      {
+        "word": "emigration",
+        "difference": "emigration is the act of leaving one's native country (moving out); immigration is the act of entering a foreign country to live (moving in)."
+      }
+    ],
+    "antonyms": [
+      "emigration",
+      "deportation"
+    ],
+    "word_family": [
+      {
+        "word": "immigrate",
+        "pos": "verb"
+      },
+      {
+        "word": "immigration",
+        "pos": "noun"
+      },
+      {
+        "word": "immigrant",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 489,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "social",
+      "politics"
+    ]
+  },
+  {
+    "word": "impact",
+    "pos": "noun",
+    "phonetic": "/ˈɪmpækt/",
+    "definition": "The action of one object coming forcibly into contact with another; a marked effect or powerful influence on something.",
+    "definition_zh": "巨大影響；衝擊；撞擊",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pact",
+          "origin": "Latin",
+          "meaning": "to fasten, drive in",
+          "meaning_zh": "緊密固定、釘入"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IM / IN（進入）+ PACT（打入、緊密結合）→ 強力撞擊進去，造成深刻印記或影響",
+      "story_en": "The sudden meteor IMPACT sent shockwaves through the soil, driving (PACT) energy deep into (IM) the crust.",
+      "story_zh": "突如其來的流星「撞擊（IMPACT）」在土壤中發出衝擊波，將能量深深打入（PACT）地殼中。",
+      "emojis": [
+        "💥",
+        "📉",
+        "🌍"
+      ]
+    },
+    "example": "Artificial intelligence will undoubtedly have a profound impact on the future job market.",
+    "example_zh": "人工智慧無疑將對未來的就業市場產生深遠的影響。",
+    "collocations": [
+      "profound impact",
+      "environmental impact",
+      "negative impact",
+      "have an impact on",
+      "economic impact"
+    ],
+    "synonyms": [
+      "effect",
+      "influence",
+      "collision",
+      "repercussion"
+    ],
+    "near_synonyms": [
+      {
+        "word": "effect",
+        "difference": "effect is a general word for a result or consequence; impact implies a sudden, powerful, or dramatic consequence or physical blow."
+      }
+    ],
+    "antonyms": [
+      "insignificance",
+      "negligibility"
+    ],
+    "word_family": [
+      {
+        "word": "impact",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "impactful",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 490,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "implicit",
+    "pos": "adjective",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "definition": "Implied though not plainly or directly expressed; essentially connected with though not explicitly stated.",
+    "definition_zh": "不言明而含蓄的；內含的；無保留的（信任等）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "plic",
+          "origin": "Latin",
+          "meaning": "to fold",
+          "meaning_zh": "摺疊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IM / IN（在內）+ PLIC（摺疊）→ 將真正含意摺疊在話語內部，不直接露出來",
+      "story_en": "There was an IMPLICIT agreement between the partners, with the true meaning folded (PLIC) inside (IM) their smiles.",
+      "story_zh": "夥伴之間有一種「默契（IMPLICIT 隱含的協定）」，真正的含意摺疊（PLIC）在他們的笑容中。",
+      "emojis": [
+        "🤫",
+        "📦",
+        "🤝"
+      ]
+    },
+    "example": "Although she never said it out loud, her implicit approval was clear from her supportive nod.",
+    "example_zh": "儘管她從未大聲說出來，但從她支持的點頭中可以看出她含蓄的（默許）批准。",
+    "collocations": [
+      "implicit trust",
+      "implicit agreement",
+      "implicit bias",
+      "implicit memory",
+      "remain implicit"
+    ],
+    "synonyms": [
+      "implied",
+      "tacit",
+      "unspoken",
+      "inherent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "tacit",
+        "difference": "tacit strictly applies to unspoken social agreements or silences that imply consent; implicit can describe any meaning, data, or state that is hidden inside another thing."
+      }
+    ],
+    "antonyms": [
+      "explicit",
+      "stated",
+      "overt"
+    ],
+    "word_family": [
+      {
+        "word": "imply",
+        "pos": "verb"
+      },
+      {
+        "word": "implicit",
+        "pos": "adjective"
+      },
+      {
+        "word": "implicitly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 491,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "language",
+      "academic"
+    ]
+  },
+  {
+    "word": "incentive",
+    "pos": "noun",
+    "phonetic": "/ɪnˈsentɪv/",
+    "definition": "A thing that motivates or encourages someone to do something; a payment or concession stimulated to increase productivity.",
+    "definition_zh": "激勵；刺激；動機；獎勵金",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cant / cent",
+          "origin": "Latin",
+          "meaning": "to sing, sound",
+          "meaning_zh": "唱歌、發聲"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在內、促使）+ CENT（唱歌、吹奏樂器）→ 像吹奏號角或唱戰歌一樣，在內部激勵前進",
+      "story_en": "The manager offered a cash bonus as an INCENTIVE, singing (CENT) a tune of reward to motivate the sales team.",
+      "story_zh": "經理提供現金獎勵作為「激勵（INCENTIVE）」，促使（IN）團隊朝著目標前進。",
+      "emojis": [
+        "💰",
+        "🎯",
+        "📈"
+      ]
+    },
+    "example": "The government offers tax incentives to encourage homeowners to install solar panels.",
+    "example_zh": "政府提供稅收優惠（激勵措施）以鼓勵屋主安裝太陽能板。",
+    "collocations": [
+      "financial incentive",
+      "tax incentive",
+      "economic incentive",
+      "provide an incentive",
+      "strong incentive"
+    ],
+    "synonyms": [
+      "motivation",
+      "inducement",
+      "stimulus",
+      "encouragement"
+    ],
+    "near_synonyms": [
+      {
+        "word": "motive",
+        "difference": "motive is the inner reason or emotion that drives someone to act; incentive is an external reward offered to encourage someone to act."
+      }
+    ],
+    "antonyms": [
+      "deterrent",
+      "discouragement",
+      "disincentive"
+    ],
+    "word_family": [
+      {
+        "word": "incentive",
+        "pos": "noun"
+      },
+      {
+        "word": "incentivize",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 492,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "economics"
+    ]
+  },
+  {
+    "word": "incorporate",
+    "pos": "verb",
+    "phonetic": "/ɪnˈkɔːrpəreɪt/",
+    "definition": "To take something in or include it as a part of a whole or a larger system; to form a legal corporation.",
+    "definition_zh": "納入；併入；包含；註冊成立公司",
+    "etymology": {
+      "roots": [
+        {
+          "root": "corpor",
+          "origin": "Latin",
+          "meaning": "body",
+          "meaning_zh": "身體、群體"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ CORPOR（身體、主體）→ 將新元素吸入到原本的主體軀幹中",
+      "story_en": "The designer decided to INCORPORATE sustainable wood into the body (CORPOR) of the furniture line.",
+      "story_zh": "設計師決定將永續木材「納入（INCORPORATE）」到家具產品線的主體（CORPOR）中。",
+      "emojis": [
+        "🏢",
+        "➕",
+        "🧱"
+      ]
+    },
+    "example": "We plan to incorporate your valuable suggestions into the final version of the proposal.",
+    "example_zh": "我們計劃將您寶貴的建議納入提案的最終版本中。",
+    "collocations": [
+      "incorporate into",
+      "fully incorporate",
+      "incorporate features",
+      "incorporate changes",
+      "legally incorporate"
+    ],
+    "synonyms": [
+      "integrate",
+      "include",
+      "assimilate",
+      "embody",
+      "absorb"
+    ],
+    "near_synonyms": [
+      {
+        "word": "include",
+        "difference": "include simply means to contain something along with other parts; incorporate implies blending or integrating it deeply so it becomes an organic part of the whole."
+      }
+    ],
+    "antonyms": [
+      "exclude",
+      "separate",
+      "segregate",
+      "divest"
+    ],
+    "word_family": [
+      {
+        "word": "incorporate",
+        "pos": "verb"
+      },
+      {
+        "word": "incorporation",
+        "pos": "noun"
+      },
+      {
+        "word": "corporate",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 493,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "index",
+    "pos": "noun",
+    "phonetic": "/ˈɪndeks/",
+    "definition": "An alphabetical list of names, subjects, or keywords with references to the places where they occur, typically found at the end of a book; an indicator, sign, or measure of something.",
+    "definition_zh": "索引；指數；指標",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dic / dicare",
+          "origin": "Latin",
+          "meaning": "to show, point out",
+          "meaning_zh": "顯示、指出"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "源於拉丁文 index（指出的手指）→ 與 indicate 同源，用來指向、查閱的系統",
+      "story_en": "The forefinger is called the INDEX finger because we use it to point out (DIC) objects.",
+      "story_zh": "食指被稱為「INDEX（食指/索引）」，因為我們用它來指出（DIC）物體的位置。",
+      "emojis": [
+        "👉",
+        "📊",
+        "📚"
+      ]
+    },
+    "example": "The consumer price index is widely regarded as a reliable measurement of inflation.",
+    "example_zh": "消費者物價指數被廣泛視為衡量通貨膨脹的可靠指標。",
+    "collocations": [
+      "price index",
+      "book index",
+      "index of industrial production",
+      "refractive index",
+      "card index"
+    ],
+    "synonyms": [
+      "indicator",
+      "pointer",
+      "register",
+      "catalogue",
+      "gauge"
+    ],
+    "near_synonyms": [
+      {
+        "word": "indicator",
+        "difference": "indicator is any generic sign or mark that shows a condition; index is often a mathematically compiled or structured reference tool (like a database index or economic metric)."
+      }
+    ],
+    "antonyms": [],
+    "word_family": [
+      {
+        "word": "index",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "indicate",
+        "pos": "verb"
+      },
+      {
+        "word": "indication",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 494,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "economics",
+      "finance"
+    ]
+  },
+  {
+    "word": "indigenous",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈdɪdʒənəs/",
+    "definition": "Originating or occurring naturally in a particular place; native to a specific geographical area.",
+    "definition_zh": "土著的；本土的；土生土長的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "indi / endo",
+          "origin": "Latin",
+          "meaning": "in, within",
+          "meaning_zh": "在內部"
+        },
+        {
+          "root": "gen",
+          "origin": "Latin",
+          "meaning": "to produce, give birth to",
+          "meaning_zh": "產生、出生"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INDI（內部）+ GEN（出生）→ 在本地內部出生的，代表最道地的本土特有種",
+      "story_en": "The kangaroo is INDIGENOUS to Australia, born (GEN) within (INDI) the unique ecosystem of the continent.",
+      "story_zh": "袋鼠是澳大利亞「土生土長的（INDIGENOUS）」，出生（GEN）在該大陸內部（INDI）獨特生態圈中。",
+      "emojis": [
+        "🪶",
+        "🌴",
+        "🦘"
+      ]
+    },
+    "example": "The rainforest is home to many indigenous tribes who have preserved their ancient traditions.",
+    "example_zh": "這片雨林是許多保留了古老傳統的土著（原住民）部落的家園。",
+    "collocations": [
+      "indigenous peoples",
+      "indigenous plants",
+      "indigenous culture",
+      "native and indigenous",
+      "indigenous species"
+    ],
+    "synonyms": [
+      "native",
+      "aboriginal",
+      "autochthonous",
+      "domestic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "native",
+        "difference": "native can mean born in a place (e.g., 'a native New Yorker'); indigenous is more scientific or formal, emphasizing deep ancestral or natural history roots in a specific ecology."
+      }
+    ],
+    "antonyms": [
+      "exotic",
+      "foreign",
+      "introduced",
+      "alien"
+    ],
+    "word_family": [
+      {
+        "word": "indigenous",
+        "pos": "adjective"
+      },
+      {
+        "word": "indigene",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 455,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "science"
+    ]
+  },
+  {
+    "word": "induce",
+    "pos": "verb",
+    "phonetic": "/ɪnˈduːs/",
+    "definition": "To succeed in persuading or influencing someone to do something; to bring about, cause, or stimulate a physical or medical condition.",
+    "definition_zh": "引誘；勸導；導致；催產",
+    "etymology": {
+      "roots": [
+        {
+          "root": "duc",
+          "origin": "Latin",
+          "meaning": "to lead",
+          "meaning_zh": "引導"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ DUC（引導）→ 引導某人進入某種想法，或引導某個結果發生",
+      "story_en": "The advertisements were designed to INDUCE customers to buy, leading (DUC) them into making a purchase.",
+      "story_zh": "這些廣告旨在「引誘（INDUCE）」消費者購買，引導（DUC）他們進入掏錢消費的狀態。",
+      "emojis": [
+        "🧲",
+        "🤰",
+        "💊"
+      ]
+    },
+    "example": "High levels of stress can induce physical symptoms such as chronic headaches and insomnia.",
+    "example_zh": "高水平的壓力會導致（引起）身體症狀，如慢性頭痛和失眠。",
+    "collocations": [
+      "induce labor",
+      "induce panic",
+      "induce sleep",
+      "induce vomiting",
+      "nothing could induce me"
+    ],
+    "synonyms": [
+      "cause",
+      "provoke",
+      "persuade",
+      "prompt",
+      "instigate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cause",
+        "difference": "cause means to bring about an effect directly; induce often implies an indirect influence, subtle persuasion, or artificial medical stimulation."
+      }
+    ],
+    "antonyms": [
+      "prevent",
+      "deter",
+      "dissuade",
+      "inhibit"
+    ],
+    "word_family": [
+      {
+        "word": "induce",
+        "pos": "verb"
+      },
+      {
+        "word": "induction",
+        "pos": "noun"
+      },
+      {
+        "word": "inducement",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 496,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "medical",
+      "academic"
+    ]
+  },
+  {
+    "word": "inevitable",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "definition": "Certain to happen; completely unavoidable due to natural laws or circumstances.",
+    "definition_zh": "不可避免的；必然發生的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "evit",
+          "origin": "Latin",
+          "meaning": "to avoid",
+          "meaning_zh": "避免"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ EVIT（避免）→ 無法躲避、必然會發生的",
+      "story_en": "With the dark clouds rolling in, a heavy downpour became INEVITABLE and could not be avoided (EVIT).",
+      "story_zh": "隨著烏雲翻滾而來，一場大暴雨變得「不可避免（INEVITABLE）」，完全無法躲避（EVIT）。",
+      "emojis": [
+        "🌪️",
+        "🏹",
+        "⏳"
+      ]
+    },
+    "example": "As a company expands, a certain amount of bureaucratic restructuring becomes virtually inevitable.",
+    "example_zh": "隨著公司的擴張，一定程度的官僚架構重組幾乎是不可避免的。",
+    "collocations": [
+      "inevitable consequence",
+      "virtually inevitable",
+      "seem inevitable",
+      "inevitable outcome",
+      "accept the inevitable"
+    ],
+    "synonyms": [
+      "unavoidable",
+      "inescapable",
+      "fated",
+      "certain"
+    ],
+    "near_synonyms": [
+      {
+        "word": "certain",
+        "difference": "certain simply states that something is 100% true or bound to happen; inevitable emphasizes that despite any human effort to avoid it, it will still occur."
+      }
+    ],
+    "antonyms": [
+      "avoidable",
+      "evadable",
+      "preventable",
+      "uncertain"
+    ],
+    "word_family": [
+      {
+        "word": "inevitable",
+        "pos": "adjective"
+      },
+      {
+        "word": "inevitability",
+        "pos": "noun"
+      },
+      {
+        "word": "inevitably",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 497,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "pos": "noun",
+    "phonetic": "/ˈɪnfrəstrʌktʃər/",
+    "definition": "The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies) needed for the operation of a society or enterprise.",
+    "definition_zh": "基礎建設；底層基礎設施",
+    "etymology": {
+      "roots": [
+        {
+          "root": "infra",
+          "origin": "Latin",
+          "meaning": "below, underneath",
+          "meaning_zh": "在下面、底層"
+        },
+        {
+          "root": "struct",
+          "origin": "Latin",
+          "meaning": "to build",
+          "meaning_zh": "建造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INFRA（在下面）+ STRUCT（建造）→ 建造在社會地底下的、最根本的鋼筋基石",
+      "story_en": "The government allocated billions to build INFRASTRUCTURE, supporting the city from underneath (INFRA) with solid bridges.",
+      "story_zh": "政府撥款數十億元興建「基礎建設（INFRASTRUCTURE）」，用堅固的橋樑從底層（INFRA）支撐城市。",
+      "emojis": [
+        "🏗️",
+        "🛣️",
+        "🚇"
+      ]
+    },
+    "example": "The country needs urgent investment to modernize its aging transport and energy infrastructure.",
+    "example_zh": "該國需要緊急投資以使其老舊的交通和能源基礎設施現代化。",
+    "collocations": [
+      "critical infrastructure",
+      "aging infrastructure",
+      "transport infrastructure",
+      "infrastructure development",
+      "digital infrastructure"
+    ],
+    "synonyms": [
+      "substructure",
+      "foundation Clarify",
+      "framework",
+      "base"
+    ],
+    "near_synonyms": [
+      {
+        "word": "foundation",
+        "difference": "foundation usually refers to the concrete base beneath a single building or an abstract idea; infrastructure refers to the vast, interconnected network serving an entire nation."
+      }
+    ],
+    "antonyms": [
+      "superstructure"
+    ],
+    "word_family": [
+      {
+        "word": "structure",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "infrastructure",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 498,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "economics",
+      "politics"
+    ]
+  },
+  {
+    "word": "inherent",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈhɪrənt/",
+    "definition": "Existing in something as a permanent, essential, or characteristic attribute from the very beginning.",
+    "definition_zh": "固有的；內在的；與生俱來的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "her",
+          "origin": "Latin",
+          "meaning": "to stick, cling",
+          "meaning_zh": "黏附、緊貼"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在裡面）+ HER（黏附）→ 緊緊黏在事物內部的特質，無法抽離",
+      "story_en": "Every investment carries an INHERENT risk that sticks (HER) inside (IN) the transaction from day one.",
+      "story_zh": "每項投資都帶有「固有的（INHERENT）」風險，該風險從第一天起就緊緊黏在（HER）交易內部（IN）。",
+      "emojis": [
+        "🧬",
+        "🔒",
+        "🧗"
+      ]
+    },
+    "example": "Exploration of deep space carries inherent risks that astronauts must accept before leaving Earth.",
+    "example_zh": "深空探索帶有太空人在離開地球前必須接受的固有風險。",
+    "collocations": [
+      "inherent risk",
+      "inherent danger",
+      "inherent part of",
+      "inherent bias",
+      "inherently unstable"
+    ],
+    "synonyms": [
+      "intrinsic",
+      "innate",
+      "ingrained",
+      "essential",
+      "immanent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "innate",
+        "difference": "innate is usually restricted to biological qualities or talents born within a living creature; inherent describes essential characteristics inside both objects and abstract systems."
+      }
+    ],
+    "antonyms": [
+      "extrinsic",
+      "acquired",
+      "incidental",
+      "superficial"
+    ],
+    "word_family": [
+      {
+        "word": "inherent",
+        "pos": "adjective"
+      },
+      {
+        "word": "inhere",
+        "pos": "verb"
+      },
+      {
+        "word": "inherently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 499,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "inhibited",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈhɪbɪtɪd/",
+    "definition": "Unable to act in a relaxed and natural way because of self-consciousness, social anxiety, or external constraints.",
+    "definition_zh": "拘謹的；受抑制的；有壓抑感的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hab / hib",
+          "origin": "Latin",
+          "meaning": "to hold, possess",
+          "meaning_zh": "握住、持有"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在內、拉回）+ HIB（握住）→ 把自己的行為死死握在心裡拉回來，顯得不自然",
+      "story_en": "The shy child felt INHIBITED at the party, holding (HIB) back her desire to play inside (IN) the group.",
+      "story_zh": "這個害羞的孩子在派對上感到「拘謹（INHIBITED）」，把想玩的慾望死死克制握在（HIB）內心（IN）。",
+      "emojis": [
+        "🫣",
+        "🤐",
+        "🛑"
+      ]
+    },
+    "example": "Boys are often taught to be emotionally inhibited, making it difficult for them to express grief.",
+    "example_zh": "男孩往往被教育要在情感上保持拘謹（壓抑），這使得他們很難表達悲傷。",
+    "collocations": [
+      "feel inhibited",
+      "emotionally inhibited",
+      "socially inhibited",
+      "inhibited behavior",
+      "become less inhibited"
+    ],
+    "synonyms": [
+      "repressed",
+      "constrained",
+      "self-conscious",
+      "reserved",
+      "reticent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shy",
+        "difference": "shy is a general, emotional word describing fear of social mixing; inhibited implies a psychological blocking or structural restriction preventing free expression."
+      }
+    ],
+    "antonyms": [
+      "uninhibited",
+      "spontaneous",
+      "expressive",
+      "confident"
+    ],
+    "word_family": [
+      {
+        "word": "inhibit",
+        "pos": "verb"
+      },
+      {
+        "word": "inhibited",
+        "pos": "adjective"
+      },
+      {
+        "word": "inhibition",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 500,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  }
+]
