@@ -608,7 +608,7 @@ function BookScreen({vocab}){
   };
 
   const allInitials=[...new Set(vocab.map(w=>w.word[0].toUpperCase()))].sort();
-  const allRoots=[...new Set(vocab.flatMap(w=>w.roots.map(r=>r.root)))].sort();
+  const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root)))].sort();
   const allTags=[...new Set(vocab.flatMap(w=>w.tags||[]))].sort();
   const allSynonyms=[...new Set(vocab.flatMap(w=>w.synonyms||[]))].sort();
 
@@ -1029,11 +1029,8 @@ function App(){
 
   useEffect(()=>{
     const urls=[
-      "./data/vocab_01_001-050.json",
-      "./data/vocab_02_051-100.json",
-      "./data/vocab_03_101-150.json",
-      "./data/vocab_04_151-200.json",
-      "./data/vocab_05_201-250.json",
+      "./data/vocab_01_001-050.json","./data/vocab_02_051-100.json",
+      // "./data/vocab_batch_002.json",
     ];
     Promise.all(urls.map(u=>fetch(u).then(r=>{
       if(!r.ok)throw new Error(u);
