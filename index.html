@@ -245,7 +245,18 @@ function RootChips({roots}){
 
 // ── LEARN ──
 function LearnScreen({vocab,resumeData,onDone}){
-  const[deck]=useState(()=>resumeData?resumeData.deck:buildDeck(vocab));
+  const deckData=resumeData?resumeData.deck:buildDeck(vocab);
+  if(!resumeData&&deckData.length===0){
+    return(
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
+        <div style={{fontSize:44}}>🎉</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有待學的單字</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>所有單字都已複習過，明天再來！</div>
+        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      </div>
+    );
+  }
+  const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[flipped,setFlipped]=useState(false);
   const[stats,setStats]=useState({again:0,hard:0,good:0,easy:0,skip:0});
@@ -305,7 +316,7 @@ function LearnScreen({vocab,resumeData,onDone}){
           再複習 {stats.again}　有點難 {stats.hard}　記住了 {stats.good}　太簡單 {stats.easy}　跳過 {stats.skip}<br/>
           <span style={{color:"var(--dim)",fontSize:14}}>累計 {s.total} 字　熟練 {s.mastered} 字</span>
         </div>
-        <button onClick={onDone} style={{padding:"10px 28px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+        <button onClick={()=>{SESSION.clear("learn");onDone()}} style={{padding:"10px 28px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
       </div>
     );
   }
@@ -338,38 +349,40 @@ function LearnScreen({vocab,resumeData,onDone}){
           </div>
           {/* BACK */}
           <div className="flip-face flip-back"
-            style={{background:"#0e1a0f",display:"flex",flexDirection:"column",userSelect:"none"}}>
-            <div style={{position:"absolute",inset:0,background:"radial-gradient(ellipse at 70% 30%,rgba(200,240,96,.07),transparent 60%)",borderRadius:16,pointerEvents:"none"}}/>
-            <div style={{padding:"16px 20px 12px",borderBottom:"1px solid var(--border)",display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:12,flexShrink:0}}>
-              <div>
-                <div style={{fontSize:16,color:"var(--text)",lineHeight:1.5}}>{w.definition}</div>
-                <div style={{fontSize:14,color:"var(--muted)",marginTop:2}}>{w.definition_zh}</div>
-              </div>
-              <div style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--accent)",whiteSpace:"nowrap",flexShrink:0}}>{w.word}</div>
-            </div>
-            <div style={{flex:1,padding:"12px 20px",display:"flex",flexDirection:"column",gap:10,overflow:"hidden",overflowY:"auto"}}>
-              <RootChips roots={w.roots}/>
-              <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.05),rgba(200,240,96,.02))",border:"1px solid rgba(200,240,96,.15)",borderRadius:10,padding:"10px 12px",display:"flex",flexDirection:"column",gap:5}}>
-                <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--accent)",textTransform:"uppercase",letterSpacing:".08em",opacity:.7}}>🧠 記憶聯想</div>
-                <div style={{fontSize:17,letterSpacing:5}}>{w.mnemonic.emojis.join("  ")}</div>
-                <div style={{fontSize:14,color:"var(--text)",lineHeight:1.6}}>{w.mnemonic.story_en}</div>
-                <div className="divider"/>
-                <div style={{fontSize:16.5,color:"var(--muted)",lineHeight:1.6}}>{w.mnemonic.story_zh}</div>
-              </div>
-              <div style={{display:"flex",gap:6}}>
-                <span style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--accent)",opacity:.4,flexShrink:0}}>"</span>
-                <span style={{fontSize:14,color:"var(--muted)",fontStyle:"italic",lineHeight:1.6}}>{w.example}</span>
-              </div>
-              {w.synonyms&&w.synonyms.length>0&&(
-                <div style={{display:"flex",flexWrap:"wrap",gap:5,alignItems:"center"}}>
-                  <span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",letterSpacing:".06em",flexShrink:0}}>同義</span>
-                  {w.synonyms.map(s=>(
-                    <span key={s} style={{fontFamily:"var(--mono)",fontSize:16,background:"var(--surface)",border:"1px solid var(--border)",borderRadius:4,padding:"1px 7px",color:"var(--muted)"}}>{s}</span>
-                  ))}
+            style={{background:"#0e1a0f",display:"flex",flexDirection:"column",userSelect:"none",overflow:"hidden"}}>
+            <div style={{position:"absolute",inset:0,background:"radial-gradient(ellipse at 70% 30%,rgba(200,240,96,.07),transparent 60%)",borderRadius:16,pointerEvents:"none",zIndex:0}}/>
+            <div style={{flex:1,overflowY:"auto",overflowX:"hidden",display:"flex",flexDirection:"column",position:"relative",zIndex:1}}>
+              <div style={{padding:"16px 20px 12px",borderBottom:"1px solid var(--border)",display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:12,flexShrink:0}}>
+                <div>
+                  <div style={{fontSize:16,color:"var(--text)",lineHeight:1.5}}>{w.definition}</div>
+                  <div style={{fontSize:14,color:"var(--muted)",marginTop:2}}>{w.definition_zh}</div>
                 </div>
-              )}
+                <div style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--accent)",whiteSpace:"nowrap",flexShrink:0}}>{w.word}</div>
+              </div>
+              <div style={{padding:"12px 20px",display:"flex",flexDirection:"column",gap:10}}>
+                <RootChips roots={w.roots}/>
+                <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.05),rgba(200,240,96,.02))",border:"1px solid rgba(200,240,96,.15)",borderRadius:10,padding:"10px 12px",display:"flex",flexDirection:"column",gap:5}}>
+                  <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--accent)",textTransform:"uppercase",letterSpacing:".08em",opacity:.7}}>🧠 記憶聯想</div>
+                  <div style={{fontSize:17,letterSpacing:5}}>{w.mnemonic.emojis.join("  ")}</div>
+                  <div style={{fontSize:14,color:"var(--text)",lineHeight:1.6}}>{w.mnemonic.story_en}</div>
+                  <div className="divider"/>
+                  <div style={{fontSize:16.5,color:"var(--muted)",lineHeight:1.6}}>{w.mnemonic.story_zh}</div>
+                </div>
+                <div style={{display:"flex",gap:6}}>
+                  <span style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--accent)",opacity:.4,flexShrink:0}}>"</span>
+                  <span style={{fontSize:14,color:"var(--muted)",fontStyle:"italic",lineHeight:1.6}}>{w.example}</span>
+                </div>
+                {w.synonyms&&w.synonyms.length>0&&(
+                  <div style={{display:"flex",flexWrap:"wrap",gap:5,alignItems:"center"}}>
+                    <span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",letterSpacing:".06em",flexShrink:0}}>同義</span>
+                    {w.synonyms.map(s=>(
+                      <span key={s} style={{fontFamily:"var(--mono)",fontSize:16,background:"var(--surface)",border:"1px solid var(--border)",borderRadius:4,padding:"1px 7px",color:"var(--muted)"}}>{s}</span>
+                    ))}
+                  </div>
+                )}
+                <div style={{textAlign:"right",fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",paddingBottom:8}}>↺ 點擊翻回</div>
+              </div>
             </div>
-            <div style={{position:"absolute",bottom:14,right:18,fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)"}}>↺ 點擊翻回</div>
           </div>
         </div>
       </div>
@@ -417,7 +430,18 @@ function LearnScreen({vocab,resumeData,onDone}){
 
 // ── QUIZ ──
 function QuizScreen({vocab,resumeData,onDone}){
-  const[deck]=useState(()=>resumeData?resumeData.deck:buildDeck(vocab).slice(0,20));
+  const deckData=resumeData?resumeData.deck:buildDeck(vocab);
+  if(!resumeData&&deckData.length===0){
+    return(
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
+        <div style={{fontSize:44}}>🎉</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有可測驗的單字</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>先去學習模式學幾個單字吧！</div>
+        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(96,200,240,.3)",background:"rgba(96,200,240,.06)",color:"var(--accent2)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      </div>
+    );
+  }
+  const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[opts,setOpts]=useState([]);
   const[answered,setAnswered]=useState(false);
@@ -434,7 +458,9 @@ function QuizScreen({vocab,resumeData,onDone}){
 
   useEffect(()=>{
     if(!w)return;
-    const dist=shuffle(vocab.filter(v=>v.word!==w.word)).slice(0,3);
+    const pool=vocab.filter(v=>v.word!==w.word);
+    const dist=shuffle(pool).slice(0,Math.min(3,pool.length));
+    if(dist.length<1){onDone();return;}
     setOpts(shuffle([w,...dist]));
   },[idx]);
 
@@ -477,12 +503,7 @@ function QuizScreen({vocab,resumeData,onDone}){
         <div style={{fontSize:16,color:"var(--muted)",lineHeight:1.8}}>
           答對 <strong style={{color:"var(--accent)"}}>{stats.correct}</strong> / {total} 題　正確率 <strong style={{color:"var(--accent)"}}>{acc}%</strong>
         </div>
-        <button onClick={onDone} style={{padding:"10px 28px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
-      </div>
-    );
-  }
-
-  if(!w||!opts.length)return null;
+        <button onClick={()=>{SESSION.clear("quiz");onDone()}} style={{padding:"10px 28px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
   const keys=["A","B","C","D"],isCorrect=selected===w.word;
 
   return(
@@ -678,7 +699,6 @@ function BookScreen({vocab}){
                 title="播放發音" style={{fontSize:16,cursor:"pointer",color:"var(--dim)",flexShrink:0,userSelect:"none",padding:"2px 4px",borderRadius:4}}>🔊</span>
               <span style={{fontSize:14,color:"var(--muted)",flex:1}}>{w.definition_zh}</span>
               {p.reps>0&&<span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{p.interval}d</span>}
-              <span style={{...statusStyle[status],fontFamily:"var(--mono)",fontSize:14,padding:"2px 8px",borderRadius:4,whiteSpace:"nowrap"}}>{statusLabel[status]}</span>
             </div>
           );
         })
@@ -717,7 +737,10 @@ function BookScreen({vocab}){
             )}
             {(()=>{const p=FSRS.get(modal.word);return p.reps
               ?<div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",marginTop:12}}>複習 {p.reps} 次　間隔 {p.interval} 天</div>
-              :<div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",marginTop:12}}>尚未學習</div>
+              :<div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",marginTop:24,textAlign:"center",lineHeight:2}}>
+              此篩選條件下沒有單字<br/>
+              <span style={{fontSize:13,opacity:.6}}>試試其他篩選條件</span>
+            </div>
             })()}
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginTop:20,paddingTop:14,borderTop:"1px solid var(--border)"}}>
               <button onClick={prevModal} style={{background:"var(--surface2)",border:"1px solid var(--border)",borderRadius:8,padding:"7px 14px",color:"var(--muted)",fontFamily:"var(--sans)",fontSize:16,cursor:"pointer"}}>← 上一個</button>
@@ -867,7 +890,14 @@ function BrutalScreen({vocab,onDone}){
     );
   }
 
-  if(!item||!correctWord)return null;
+  if(!item){return null;}
+  if(!correctWord||!wrongWord){
+    // word no longer in vocab (e.g. vocab updated) — remove from mistakes and skip
+    const all=JSON.parse(localStorage.getItem("wr_mistakes")||"{}");
+    delete all[item.word];
+    localStorage.setItem("wr_mistakes",JSON.stringify(all));
+    next();return null;
+  }
   const isCorrect=selected===item.word;
   const keys=["A","B"];
 
@@ -971,9 +1001,11 @@ function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,qu
           <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--red)"}}>挑戰 →</div>
         </div>
       )}
-      <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)"}}>
-        已學 {s.total} 字　熟練 {s.mastered} 字　資料庫 {vocab.length} 字
-      </div>
+      {vocab.length>0&&(
+        <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)"}}>
+          已學 {s.total} 字　熟練 {s.mastered} 字　資料庫 {vocab.length} 字
+        </div>
+      )}
     </div>
   );
 }
@@ -999,7 +1031,7 @@ function App(){
       return r.json();
     })))
     .then(results=>{setVocab(results.flat());setLoading(false);})
-    .catch(err=>{console.error("Vocab load error:",err);setLoading(false);});
+    .catch(err=>{console.error("Vocab load error:",err);setLoading(false);setVocab(null);});
   },[]);
 
   const refreshSessions=()=>{
@@ -1029,7 +1061,23 @@ function App(){
       </header>
       <div style={{width:"100%",maxWidth:800}}>
         {loading?(
-          <div style={{textAlign:"center",padding:"80px 20px",fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>載入單字資料中…</div>
+          <div style={{textAlign:"center",padding:"80px 20px",fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>
+            <div style={{fontSize:32,marginBottom:12}}>⏳</div>
+            載入單字資料中…
+          </div>
+        ):vocab===null?(
+          <div style={{textAlign:"center",padding:"80px 20px",display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
+            <div style={{fontSize:40}}>⚠️</div>
+            <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>資料載入失敗</div>
+            <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>請確認網路連線並重新整理頁面</div>
+            <button onClick={()=>window.location.reload()} style={{marginTop:8,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>重新整理</button>
+          </div>
+        ):vocab.length===0?(
+          <div style={{textAlign:"center",padding:"80px 20px",display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
+            <div style={{fontSize:40}}>📭</div>
+            <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>單字庫是空的</div>
+            <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>請上傳 vocab_batch_001.json 到 data/ 資料夾</div>
+          </div>
         ):(
           <>
             {tab==="home"&&<HomeScreen
