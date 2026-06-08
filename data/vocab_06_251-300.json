@@ -1,0 +1,3918 @@
+[
+  {
+    "word": "laudable",
+    "pos": "adjective",
+    "phonetic": "/ˈlɔːdəbl/",
+    "definition": "Deserving praise and commendation, even if not entirely successful or effective.",
+    "definition_zh": "值得讚賞的；值得稱讚的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "laud",
+          "origin": "Latin",
+          "meaning": "to praise",
+          "meaning_zh": "讚美"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAUD（讚美）+ ABLE（能夠的）→ 能夠被讚美的",
+      "story_en": "The charity's effort to clear the ocean of plastic was LAUDABLE, receiving high praise from LAUDing environmentalists.",
+      "story_zh": "該慈善機構清除海洋塑膠的努力是「值得讚賞的（LAUDABLE）」，獲得了環保人士的「讚美（LAUD）」。",
+      "emojis": [
+        "👏",
+        "🏆",
+        "🌟"
+      ]
+    },
+    "example": "The committee concluded that while the project failed, the team's underlying intentions were highly laudable.",
+    "example_zh": "委員會得出結論，雖然項目失敗了，但團隊的初衷是非常值得讚賞的。",
+    "collocations": [
+      "highly laudable",
+      "laudable goal",
+      "laudable effort",
+      "laudable ambition",
+      "laudable objective"
+    ],
+    "synonyms": [
+      "praiseworthy",
+      "commendable",
+      "admirable",
+      "meritorious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "meritorious",
+        "difference": "meritorious emphasizes deserving a specific reward or legal recognition; laudable focuses on general moral or social praise."
+      },
+      {
+        "word": "exemplary",
+        "difference": "exemplary means serving as a perfect model to be imitated; laudable simply means worthy of praise."
+      }
+    ],
+    "antonyms": [
+      "blameworthy",
+      "deplorable",
+      "reprehensible"
+    ],
+    "word_family": [
+      {
+        "word": "laud",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "laudable",
+        "pos": "adjective"
+      },
+      {
+        "word": "laudably",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 251,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "lavish",
+    "pos": "adjective",
+    "phonetic": "/ˈlævɪʃ/",
+    "definition": "Sumptuously rich, elaborate, or luxurious; given or produced in an unstinting or extravagant quantity.",
+    "definition_zh": "奢華的；大方的；揮霍的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lav",
+          "origin": "Latin",
+          "meaning": "to wash, pour out",
+          "meaning_zh": "洗、傾倒"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAV（傾倒）→ 把大量金錢或資源像水一樣傾倒出來",
+      "story_en": "The billionaire hosted a LAVISH banquet, LAVishing his guests with gifts as if pouring water out.",
+      "story_zh": "這位億萬富翁舉辦了一場「奢華的（LAVISH）」宴會，像「倒水（LAV）」一樣把禮物慷慨地送給客人。",
+      "emojis": [
+        "💎",
+        "🍾",
+        "🏰"
+      ]
+    },
+    "example": "The hotel is famous for its lavish interior design and world-class service.",
+    "example_zh": "這家酒店以其奢華的室內設計和世界一流的服務而聞名。",
+    "collocations": [
+      "lavish lifestyle",
+      "lavish spending",
+      "lavish gifts",
+      "lavish banquet",
+      "lavish praise"
+    ],
+    "synonyms": [
+      "extravagant",
+      "luxurious",
+      "opulent",
+      "profuse"
+    ],
+    "near_synonyms": [
+      {
+        "word": "opulent",
+        "difference": "opulent highlights heavy, ostentatious wealth and material abundance; lavish focuses on the scale of spending or giving."
+      },
+      {
+        "word": "prodigal",
+        "difference": "prodigal carries a strong negative connotation of wasteful or reckless spending; lavish can be used positively to describe generosity."
+      }
+    ],
+    "antonyms": [
+      "frugal",
+      "austere",
+      "meager"
+    ],
+    "word_family": [
+      {
+        "word": "lavish",
+        "pos": "adjective / verb"
+      },
+      {
+        "word": "lavishly",
+        "pos": "adverb"
+      },
+      {
+        "word": "lavishness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 252,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "TOEFL",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "lax",
+    "pos": "adjective",
+    "phonetic": "/læks/",
+    "definition": "Not sufficiently strict, severe, or careful; loose or slack in discipline or enforcement.",
+    "definition_zh": "鬆懈的；不嚴格的；馬虎的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lax",
+          "origin": "Latin",
+          "meaning": "loose, slack",
+          "meaning_zh": "放鬆、鬆弛"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAX（放鬆）→ 繩子或規則沒有拉緊的狀態",
+      "story_en": "Because security at the border was LAX, the LAXly tied cargo went completely uninspected.",
+      "story_zh": "由於邊境管理「鬆懈（LAX）」，那件「放鬆地（LAX）」綁著的貨物完全沒有受到檢查。",
+      "emojis": [
+        "🔓",
+        "⚠️",
+        "💤"
+      ]
+    },
+    "example": "The airport faced heavy criticism for its lax security measures following the incident.",
+    "example_zh": "事件發生後，該機場因其鬆懈的安全措施而面臨嚴厲批評。",
+    "collocations": [
+      "lax security",
+      "lax discipline",
+      "lax enforcement",
+      "lax attitude",
+      "lax standards"
+    ],
+    "synonyms": [
+      "slack",
+      "negligent",
+      "remiss",
+      "lenient"
+    ],
+    "near_synonyms": [
+      {
+        "word": "lenient",
+        "difference": "lenient implies a conscious choice to be merciful or permissive; lax implies carelessness, laziness, or failure to maintain duty."
+      },
+      {
+        "word": "negligent",
+        "difference": "negligent is a legal or formal term for failing to take proper care; lax describes the general loose atmosphere or standard."
+      }
+    ],
+    "antonyms": [
+      "strict",
+      "rigorous",
+      "stringent"
+    ],
+    "word_family": [
+      {
+        "word": "lax",
+        "pos": "adjective"
+      },
+      {
+        "word": "laxity",
+        "pos": "noun"
+      },
+      {
+        "word": "relax",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 253,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "law"
+    ]
+  },
+  {
+    "word": "legacy",
+    "pos": "noun",
+    "phonetic": "/ˈleɡəsi/",
+    "definition": "An amount of money or property left to someone in a will; also used metaphorically to describe something handed down by a predecessor or from the past.",
+    "definition_zh": "遺產；歷史遺產；留給後世的影響",
+    "etymology": {
+      "roots": [
+        {
+          "root": "leg",
+          "origin": "Latin",
+          "meaning": "law, send as an envoy",
+          "meaning_zh": "法律、委派"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LEG（法律）→ 透過法律（will）程序合法傳承下來的東西",
+      "story_en": "The judge used the LEG (law) to ensure the late leader's LEGACY was distributed fairly to his heirs.",
+      "story_zh": "法官利用「法律（LEG）」來確保這位已故領袖的「遺產（LEGACY）」能公平地分配給他的繼承人。",
+      "emojis": [
+        "📜",
+        "🏛️",
+        "💰"
+      ]
+    },
+    "example": "The retiring professor leaves behind a legacy of pioneering research in molecular biology.",
+    "example_zh": "這位退休教授留下了在分子生物學領域開創性研究的精神遺產。",
+    "collocations": [
+      "leave a legacy",
+      "lasting legacy",
+      "cultural legacy",
+      "enduring legacy",
+      "legacy of debt"
+    ],
+    "synonyms": [
+      "inheritance",
+      "bequest",
+      "heritage",
+      "patrimony"
+    ],
+    "near_synonyms": [
+      {
+        "word": "heritage",
+        "difference": "heritage refers to large-scale cultural, historical, or national traditions; legacy usually stems from a specific person, institution, or event."
+      },
+      {
+        "word": "bequest",
+        "difference": "bequest is strictly a legal term for personal property left via a will; legacy can be abstract, like a reputation or historical impact."
+      }
+    ],
+    "antonyms": [],
+    "word_family": [
+      {
+        "word": "legacy",
+        "pos": "noun"
+      },
+      {
+        "word": "legator",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 254,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "history",
+      "business"
+    ]
+  },
+  {
+    "word": "lethargic",
+    "pos": "adjective",
+    "phonetic": "/ləˈθɑːrdʒɪk/",
+    "definition": "Affected by lethargy; sluggish and apathetic, lacking energy or enthusiasm.",
+    "definition_zh": "微弱的；無精打采的；嗜睡的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lethe",
+          "origin": "Greek",
+          "meaning": "forgetfulness, oblivion",
+          "meaning_zh": "遺忘、忘卻"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LETHE（遺忘河）→ 喝了希臘神話忘川的水後，整個人變得迷糊、沒有活力",
+      "story_en": "After drinking from the LETHE (forgetful river), the soldier became LETHARGIC and forgot how to fight.",
+      "story_zh": "喝了「忘川（LETHE）」的水後，士兵變得「無精打采（LETHARGIC）」且忘記了如何戰鬥。",
+      "emojis": [
+        "🛌",
+        "🥱",
+        "🐢"
+      ]
+    },
+    "example": "The hot weather made everyone feel lethargic and disinclined to work.",
+    "example_zh": "炎熱的天氣讓每個人都感到無精打采，不想工作。",
+    "collocations": [
+      "feel lethargic",
+      "lethargic response",
+      "lethargic economy",
+      "become lethargic",
+      "lethargic state"
+    ],
+    "synonyms": [
+      "sluggish",
+      "apathetic",
+      "listless",
+      "torpid"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sluggish",
+        "difference": "sluggish emphasizes slow physical movement or function; lethargic includes a deeper psychological sense of mental drowsiness and lack of motivation."
+      },
+      {
+        "word": "apathetic",
+        "difference": "apathetic means a complete lack of emotional concern or interest; lethargic specifically roots in physical or mental fatigue."
+      }
+    ],
+    "antonyms": [
+      "energetic",
+      "animated",
+      "vigorous"
+    ],
+    "word_family": [
+      {
+        "word": "lethargy",
+        "pos": "noun"
+      },
+      {
+        "word": "lethargic",
+        "pos": "adjective"
+      },
+      {
+        "word": "lethargically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 255,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "levity",
+    "pos": "noun",
+    "phonetic": "/ˈlevəti/",
+    "definition": "Humor or frivolity, especially the treatment of a serious matter with humor or in the manner of lacking due respect.",
+    "definition_zh": "輕浮；輕率；不嚴肅",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lev",
+          "origin": "Latin",
+          "meaning": "light in weight",
+          "meaning_zh": "輕的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LEV（輕）→ 態度太「輕」，沒有份量，缺乏莊重",
+      "story_en": "His LEVITY during the trial showed he took the charges too LEV (lightly), elevating the judge's anger.",
+      "story_zh": "他在審判中的「輕浮（LEVITY）」態度表明他把指控看得太「輕（LEV）」，這激怒了法官。",
+      "emojis": [
+        "🤡",
+        "🕊️",
+        "🎭"
+      ]
+    },
+    "example": "The professor's witty anecdotes brought a touch of levity to an otherwise solemn lecture.",
+    "example_zh": "教授幽默的小故事為原本嚴肅的講座增添了一絲輕鬆的氣氛。",
+    "collocations": [
+      "add levity",
+      "moment of levity",
+      "treat with levity",
+      "provide levity",
+      "inappropriate levity"
+    ],
+    "synonyms": [
+      "frivolity",
+      "flippancy",
+      "gaiety",
+      "lightheartedness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "flippancy",
+        "difference": "flippancy carries a negative connotation of being disrespectful or rude in serious situations; levity can be a positive tool to relieve stress."
+      },
+      {
+        "word": "frivolity",
+        "difference": "frivolity implies a general preoccupation with useless, silly, or trivial things; levity refers specifically to lightheartedness in an immediate conversation or setting."
+      }
+    ],
+    "antonyms": [
+      "gravity",
+      "seriousness",
+      "solemnity"
+    ],
+    "word_family": [
+      {
+        "word": "levity",
+        "pos": "noun"
+      },
+      {
+        "word": "elevate",
+        "pos": "verb"
+      },
+      {
+        "word": "alleviate",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 256,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "liable",
+    "pos": "adjective",
+    "phonetic": "/ˈlaɪəbl/",
+    "definition": "Legally responsible for something; or likely to do or to be something (usually something undesirable).",
+    "definition_zh": "法律上應負責任的；易於……的；很有可能的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lig",
+          "origin": "Latin",
+          "meaning": "to bind, tie",
+          "meaning_zh": "綁、束縛"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LIG（綁）→ 被合約或法律責任「綁住」無法逃脫",
+      "story_en": "The company was legally LIABLE because they failed to lig (bind) their workers to strict safety protocols.",
+      "story_zh": "公司在法律上「應負責任（LIABLE）」，因為他們未能將員工「綁（LIG）」在嚴格的安全協議中。",
+      "emojis": [
+        "⚖️",
+        "🔗",
+        "⚠️"
+      ]
+    },
+    "example": "If you drive a car without insurance, you are personally liable for any damages caused.",
+    "example_zh": "如果你在沒有保險的情況下開車，你個人必須對造成的任何損失負責。",
+    "collocations": [
+      "held liable",
+      "liable for damages",
+      "liable to change",
+      "personally liable",
+      "jointly liable"
+    ],
+    "synonyms": [
+      "responsible",
+      "accountable",
+      "prone",
+      "susceptible"
+    ],
+    "near_synonyms": [
+      {
+        "word": "accountable",
+        "difference": "accountable implies a moral or organizational duty to explain one's actions; liable focuses heavily on legal or financial consequences."
+      },
+      {
+        "word": "prone",
+        "difference": "prone indicates a natural tendency or biological vulnerability to an illness or habit, whereas liable to implies a logical probability of an event."
+      }
+    ],
+    "antonyms": [
+      "exempt",
+      "immune",
+      "unlikely"
+    ],
+    "word_family": [
+      {
+        "word": "liable",
+        "pos": "adjective"
+      },
+      {
+        "word": "liability",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 257,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "liberal",
+    "pos": "adjective",
+    "phonetic": "/ˈlɪbərəl/",
+    "definition": "Willing to respect or accept behavior or opinions different from one's own; open to new ideas. Also means given, used, or occurring in generous amounts.",
+    "definition_zh": "自由主義的；慷慨的；開明的；寬大的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "liber",
+          "origin": "Latin",
+          "meaning": "free",
+          "meaning_zh": "自由的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LIBER（自由）→ 思想自由開放，或在給予時沒有限制、非常大方",
+      "story_en": "A LIBERAL thinker believes citizens should be LIBER (free) from excessive government constraints.",
+      "story_zh": "一個「自由派的（LIBERAL）」思想家認為，公民應該從過度的政府束縛中「自由（LIBER）」出來。",
+      "emojis": [
+        "🗽",
+        "👐",
+        "🕊️"
+      ]
+    },
+    "example": "The university provides a liberal arts education designed to foster critical thinking rather than narrow specialization.",
+    "example_zh": "這所大學提供博雅（自由）藝術教育，旨在培養批判性思維而非狹隘的專業化。",
+    "collocations": [
+      "liberal education",
+      "liberal democracy",
+      "liberal views",
+      "liberal supply",
+      "liberal policy"
+    ],
+    "synonyms": [
+      "broad-minded",
+      "progressive",
+      "generous",
+      "bountiful"
+    ],
+    "near_synonyms": [
+      {
+        "word": "progressive",
+        "difference": "progressive emphasizes active social change and political reform; liberal emphasizes personal freedom and institutional tolerance."
+      },
+      {
+        "word": "generous",
+        "difference": "generous describes willingness to give money or help; liberal can describe the enormous physical volume of the thing given (e.g., a liberal amount of butter)."
+      }
+    ],
+    "antonyms": [
+      "conservative",
+      "illiberal",
+      "miserly"
+    ],
+    "word_family": [
+      {
+        "word": "liberate",
+        "pos": "verb"
+      },
+      {
+        "word": "liberal",
+        "pos": "adjective"
+      },
+      {
+        "word": "liberally",
+        "pos": "adverb"
+      },
+      {
+        "word": "liberalism",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 258,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "social"
+    ]
+  },
+  {
+    "word": "lucrative",
+    "pos": "adjective",
+    "phonetic": "/ˈluːkrətɪv/",
+    "definition": "Producing a great deal of profit or wealth.",
+    "definition_zh": "賺錢的；有利可圖的；獲利豐厚的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lucr",
+          "origin": "Latin",
+          "meaning": "profit, gain",
+          "meaning_zh": "利潤、獲利"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LUCR（利潤）→ 能夠帶來大量金錢收益的",
+      "story_en": "The tech startup secured a LUCRATIVE deal, bringing massive LUCR (profit) to its early investors.",
+      "story_zh": "這家科技新創公司獲得了一筆「獲利豐厚的（LUCRATIVE）」交易，為早期投資者帶來了巨大的「利潤（LUCR）」。",
+      "emojis": [
+        "💵",
+        "📈",
+        "💎"
+      ]
+    },
+    "example": "She gave up her career as a corporate lawyer to pursue a less lucrative but more fulfilling job in teaching.",
+    "example_zh": "她放棄了公司律師的職業，轉而從事一份賺錢較少但更有成就感的教學工作。",
+    "collocations": [
+      "lucrative business",
+      "lucrative market",
+      "lucrative contract",
+      "lucrative career",
+      "highly lucrative"
+    ],
+    "synonyms": [
+      "profitable",
+      "remunerative",
+      "gainful",
+      "moneymaking"
+    ],
+    "near_synonyms": [
+      {
+        "word": "profitable",
+        "difference": "profitable means making more money than spent, regardless of the scale; lucrative implies massive, substantial wealth generation."
+      },
+      {
+        "word": "remunerative",
+        "difference": "remunerative is a formal term focusing on fair compensation for work done or services rendered."
+      }
+    ],
+    "antonyms": [
+      "unprofitable",
+      "unproductive",
+      "loss-making"
+    ],
+    "word_family": [
+      {
+        "word": "lucre",
+        "pos": "noun"
+      },
+      {
+        "word": "lucrative",
+        "pos": "adjective"
+      },
+      {
+        "word": "lucratively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 259,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "economics"
+    ]
+  },
+  {
+    "word": "luminous",
+    "pos": "adjective",
+    "phonetic": "/ˈluːmɪnəs/",
+    "definition": "Full of or shedding light; bright or shining, especially in the dark.",
+    "definition_zh": "發光的；明亮的；清晰易懂的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lumin",
+          "origin": "Latin",
+          "meaning": "light",
+          "meaning_zh": "光"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LUMIN（光）→ 充滿光芒、在暗處會自己發光的",
+      "story_en": "The deep-sea jellyfish was LUMINOUS, casting a beautiful LUMIN (light) in the pitch-black water.",
+      "story_zh": "深海地水母是「發光的（LUMINOUS）」，在漆黑的水中散發出美麗的「光芒（LUMIN）」。",
+      "emojis": [
+        "💡",
+        "🌌",
+        "🌟"
+      ]
+    },
+    "example": "The watch dial has luminous hands so that you can read the time in total darkness.",
+    "example_zh": "這款手錶的錶盤指針是夜光的，以便你在完全黑暗中也能看清時間。",
+    "collocations": [
+      "luminous dial",
+      "luminous intensity",
+      "luminous smile",
+      "luminous prose",
+      "luminous object"
+    ],
+    "synonyms": [
+      "radiant",
+      "shining",
+      "phosphorescent",
+      "luminescent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "phosphorescent",
+        "difference": "phosphorescent specifies glowing in the dark by absorbing light beforehand; luminous is a general term for any bright, light-emitting surface."
+      },
+      {
+        "word": "vivid",
+        "difference": "vivid refers to high intensity of color or mental imagery; luminous focuses strictly on physical light emission."
+      }
+    ],
+    "antonyms": [
+      "dark",
+      "dim",
+      "opaque",
+      "somber"
+    ],
+    "word_family": [
+      {
+        "word": "lumen",
+        "pos": "noun"
+      },
+      {
+        "word": "illuminate",
+        "pos": "verb"
+      },
+      {
+        "word": "luminous",
+        "pos": "adjective"
+      },
+      {
+        "word": "luminosity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 260,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "art"
+    ]
+  },
+  {
+    "word": "magnanimous",
+    "pos": "adjective",
+    "phonetic": "/mæɡˈnænɪməs/",
+    "definition": "Generous or forgiving, especially toward a rival or less powerful person.",
+    "definition_zh": "寬宏大量的；度量大的；慷慨的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "magn",
+          "origin": "Latin",
+          "meaning": "great, large",
+          "meaning_zh": "巨大的"
+        },
+        {
+          "root": "anim",
+          "origin": "Latin",
+          "meaning": "soul, mind, spirit",
+          "meaning_zh": "靈魂、心智"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MAGN（大）+ ANIM（心胸）→ 擁有巨大心胸的人",
+      "story_en": "The MAGNANIMOUS king showed a MAGN (great) ANIM (spirit) by pardoning the captured rebels.",
+      "story_zh": "這位「寬宏大量的（MAGNANIMOUS）」國王展現了「宏大（MAGN）」的「胸懷（ANIM）」，赦免了被捕的叛軍。",
+      "emojis": [
+        "🦁",
+        "👑",
+        "🤝"
+      ]
+    },
+    "example": "It was very magnanimous of you to overlook his rude remarks and offer him help.",
+    "example_zh": "你能忽視他粗魯的言論並向他提供幫助，真是太寬宏大量了。",
+    "collocations": [
+      "magnanimous gesture",
+      "magnanimous winner",
+      "magnanimous act",
+      "remain magnanimous",
+      "magnanimous toward"
+    ],
+    "synonyms": [
+      "generous",
+      "charitable",
+      "forgiving",
+      "noble-minded"
+    ],
+    "near_synonyms": [
+      {
+        "word": "generous",
+        "difference": "generous usually relates to giving money, gifts, or time; magnanimous refers specifically to loftiness of spirit and forgiving injuries or rivals."
+      },
+      {
+        "word": "altruistic",
+        "difference": "altruistic focuses on unselfish concern for the material welfare of others; magnanimous emphasizes emotional dignity and lack of pettiness."
+      }
+    ],
+    "antonyms": [
+      "petty",
+      "vindictive",
+      "mean-spirited"
+    ],
+    "word_family": [
+      {
+        "word": "magnanimity",
+        "pos": "noun"
+      },
+      {
+        "word": "magnanimous",
+        "pos": "adjective"
+      },
+      {
+        "word": "magnanimously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 261,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "malice",
+    "pos": "noun",
+    "phonetic": "/ˈmælɪs/",
+    "definition": "The intention or desire to do evil; ill will.",
+    "definition_zh": "惡意；怨恨；蓄意傷人",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mal",
+          "origin": "Latin",
+          "meaning": "bad, evil",
+          "meaning_zh": "壞的、邪惡的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MAL（壞、惡）→ 心中懷著壞的、邪惡的念頭",
+      "story_en": "The villain's heart was full of MALICE, planning MAL (bad) schemes to ruin the innocent town.",
+      "story_zh": "惡棍的心中充滿了「惡意（MALICE）」，策劃著「邪惡的（MAL）」陰謀來毀滅這個無辜的小鎮。",
+      "emojis": [
+        "👿",
+        "🗡️",
+        "🐍"
+      ]
+    },
+    "example": "The defense attorney argued that the defendant acted without malice and that the shooting was purely accidental.",
+    "example_zh": "辯護律師辯稱被告並非蓄意（無惡意），槍擊純屬意外。",
+    "collocations": [
+      "bear no malice",
+      "act with malice",
+      "malice aforethought",
+      "pure malice",
+      "harbor malice"
+    ],
+    "synonyms": [
+      "malevolence",
+      "spite",
+      "animosity",
+      "ill will"
+    ],
+    "near_synonyms": [
+      {
+        "word": "spite",
+        "difference": "spite is a petty, personal desire to annoy or hurt someone over a small matter; malice can be a deep-seated or legally binding intent to cause serious harm."
+      },
+      {
+        "word": "animosity",
+        "difference": "animosity is a strong, open feeling of active hostility or hatred; malice is the secret internal intent to do actual evil."
+      }
+    ],
+    "antonyms": [
+      "benevolence",
+      "goodwill",
+      "kindness"
+    ],
+    "word_family": [
+      {
+        "word": "malice",
+        "pos": "noun"
+      },
+      {
+        "word": "malicious",
+        "pos": "adjective"
+      },
+      {
+        "word": "maliciously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 262,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "psychology"
+    ]
+  },
+  {
+    "word": "mandatory",
+    "pos": "adjective",
+    "phonetic": "/ˈmændətɔːri/",
+    "definition": "Required by law or rules; compulsory.",
+    "definition_zh": "強制的；義務的；命令的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mand",
+          "origin": "Latin",
+          "meaning": "to order, entrust",
+          "meaning_zh": "命令、託付"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MAND（命令）→ 來自上級權威的命令，必須執行",
+      "story_en": "The general issued a MAND (order) making physical training MANDATORY for all new soldiers.",
+      "story_zh": "將軍下達了「命令（MAND）」，規定所有新兵「必須進行（MANDATORY）」體能訓練。",
+      "emojis": [
+        "📋",
+        "🛑",
+        "⚖️"
+      ]
+    },
+    "example": "In many countries, it is mandatory to wear a seatbelt while driving.",
+    "example_zh": "在許多國家，開車時繫安全帶是強制性的。",
+    "collocations": [
+      "mandatory requirement",
+      "mandatory sentence",
+      "mandatory drug testing",
+      "become mandatory",
+      "mandatory attendance"
+    ],
+    "synonyms": [
+      "compulsory",
+      "obligatory",
+      "required",
+      "binding"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compulsory",
+        "difference": "compulsory often implies a top-down systematic system (like compulsory education); mandatory emphasizes rules, laws, or legal commands that must be fulfilled."
+      },
+      {
+        "word": "obligatory",
+        "difference": "obligatory can stem from moral duty, social etiquette, or custom, not strictly written law."
+      }
+    ],
+    "antonyms": [
+      "optional",
+      "voluntary",
+      "discretionary"
+    ],
+    "word_family": [
+      {
+        "word": "command",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "mandate",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "mandatory",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 263,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "law"
+    ]
+  },
+  {
+    "word": "mediocre",
+    "pos": "adjective",
+    "phonetic": "/ˌmiːdiˈoʊkər/",
+    "definition": "Of only moderate to low quality; not very good; ordinary.",
+    "definition_zh": "平庸的；普普通通的；二流的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "medi",
+          "origin": "Latin",
+          "meaning": "middle",
+          "meaning_zh": "中間"
+        },
+        {
+          "root": "ocris",
+          "origin": "Latin",
+          "meaning": "rugged mountain",
+          "meaning_zh": "崎嶇的山"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MEDI（中間）+ OCRIS（山）→ 只爬到山的一半，不上不下，流於平庸",
+      "story_en": "He only reached the MEDI (middle) of the rugged mountain (ocris), resulting in a MEDIOCRE performance.",
+      "story_zh": "他只爬到了崎嶇山路的「中間（MEDI）」，卡在半路，表現顯得十分「平庸（MEDIOCRE）」。",
+      "emojis": [
+        "😐",
+        "⛰️",
+        "📉"
+      ]
+    },
+    "example": "The restaurant received mediocre reviews from critics, who described the food as bland.",
+    "example_zh": "這家餐廳收到了評論家平庸的評價，他們形容食物淡而無味。",
+    "collocations": [
+      "mediocre performance",
+      "mediocre results",
+      "accept mediocrity",
+      "mediocre talent",
+      "rather mediocre"
+    ],
+    "synonyms": [
+      "ordinary",
+      "average",
+      "run-of-the-mill",
+      "unexceptional"
+    ],
+    "near_synonyms": [
+      {
+        "word": "average",
+        "difference": "average is a neutral description of the statistical middle; mediocre carries a distinctly negative, disappointed tone regarding quality."
+      },
+      {
+        "word": "inferior",
+        "difference": "inferior means distinctly below standard or bad; mediocre means just barely acceptable but uninspiring."
+      }
+    ],
+    "antonyms": [
+      "excellent",
+      "exceptional",
+      "outstanding"
+    ],
+    "word_family": [
+      {
+        "word": "mediocre",
+        "pos": "adjective"
+      },
+      {
+        "word": "mediocrity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 264,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "academic"
+    ]
+  },
+  {
+    "word": "melancholy",
+    "pos": "noun",
+    "phonetic": "/ˈmelənkɑːli/",
+    "definition": "A feeling of pensive sadness, typically with no obvious cause.",
+    "definition_zh": "憂鬱；傷感 / 憂鬱的；令人傷感的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "melan",
+          "origin": "Greek",
+          "meaning": "black",
+          "meaning_zh": "黑色的"
+        },
+        {
+          "root": "chole",
+          "origin": "Greek",
+          "meaning": "bile",
+          "meaning_zh": "膽汁"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MELAN（黑）+ CHOLE（膽汁）→ 古代醫學認為「黑膽汁」過多會引發憂鬱情緒",
+      "story_en": "Ancient doctors believed an excess of MELAN (black) CHOLE (bile) triggered a state of deep MELANCHOLY.",
+      "story_zh": "古代醫生認為，過多的「黑（MELAN）膽汁（CHOLE）」會引發深深的「憂鬱（MELANCHOLY）」情緒。",
+      "emojis": [
+        "😢",
+        "🌧️",
+        "🖤"
+      ]
+    },
+    "example": "A deep sense of melancholy descended over the house after the family left.",
+    "example_zh": "家人離開後，一種深深的憂鬱感籠罩了整個房子。",
+    "collocations": [
+      "deep melancholy",
+      "air of melancholy",
+      "melancholy mood",
+      "melancholy music",
+      "feel melancholy"
+    ],
+    "synonyms": [
+      "sadness",
+      "gloom",
+      "despondency",
+      "wistfulness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "depression",
+        "difference": "depression is a clinical, severe medical condition or intense biological state; melancholy is a softer, romanticized, or reflective sadness."
+      },
+      {
+        "word": "gloom",
+        "difference": "gloom refers to an external, dark atmosphere or a heavy, pessimistic emotional outlook."
+      }
+    ],
+    "antonyms": [
+      "joy",
+      "exuberance",
+      "cheerfulness"
+    ],
+    "word_family": [
+      {
+        "word": "melancholy",
+        "pos": "noun / adjective"
+      },
+      {
+        "word": "melancholic",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 265,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "art"
+    ]
+  },
+  {
+    "word": "meticulous",
+    "pos": "adjective",
+    "phonetic": "/məˈtɪkjələs/",
+    "definition": "Showing great attention to detail; very careful and precise.",
+    "definition_zh": "一絲不苟的；小心翼翼的；微細的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "metus",
+          "origin": "Latin",
+          "meaning": "fear",
+          "meaning_zh": "恐懼"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "METUS（恐懼）→ 害怕犯錯、出差錯，所以做任何細節都小心翼翼",
+      "story_en": "Driven by a METUS (fear) of making any errors, the scientist was METICULOUS in recording data.",
+      "story_zh": "出於對犯錯的「恐懼（METUS）」，科學家在記錄數據時顯得「一絲不苟（METICULOUS）」。",
+      "emojis": [
+        "🔬",
+        "🧐",
+        "📐"
+      ]
+    },
+    "example": "The researcher kept meticulous records of the temperature fluctuations throughout the experiment.",
+    "example_zh": "研究人員對整個實驗過程中的溫度波動進行了一絲不苟的記錄。",
+    "collocations": [
+      "meticulous planning",
+      "meticulous attention to detail",
+      "meticulous preparation",
+      "meticulous research",
+      "highly meticulous"
+    ],
+    "synonyms": [
+      "scrupulous",
+      "painstaking",
+      "fastidious",
+      "exacting"
+    ],
+    "near_synonyms": [
+      {
+        "word": "scrupulous",
+        "difference": "scrupulous combines precision with a strong sense of moral integrity or duty; meticulous focuses strictly on formal or functional correctness."
+      },
+      {
+        "word": "fastidious",
+        "difference": "fastidious implies being overly fussy, hard to please, or hyper-concerned with cleanliness and order."
+      }
+    ],
+    "antonyms": [
+      "careless",
+      "negligent",
+      "slapdash"
+    ],
+    "word_family": [
+      {
+        "word": "meticulous",
+        "pos": "adjective"
+      },
+      {
+        "word": "meticulously",
+        "pos": "adverb"
+      },
+      {
+        "word": "meticulousness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 266,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "mitigate",
+    "pos": "verb",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "definition": "To make something bad, painful, or serious less severe, serious, or painful.",
+    "definition_zh": "緩和；減輕；使平息",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mitis",
+          "origin": "Latin",
+          "meaning": "gentle, mild",
+          "meaning_zh": "溫和的、輕微的"
+        },
+        {
+          "root": "agere",
+          "origin": "Latin",
+          "meaning": "to do, drive",
+          "meaning_zh": "做、驅動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MITIS（溫和）+ AGERE（做）→ 採取行動使局勢變得比較溫和",
+      "story_en": "We must act to MITIGATE the crisis, making conditions MITIS (mild) before things spiral out of control.",
+      "story_zh": "我們必須採取行動來「緩和（MITIGATE）」危機，在事態失控前讓情況變得「溫和（MITIS）」下來。",
+      "emojis": [
+        "🧯",
+        "🩹",
+        "🛡️"
+      ]
+    },
+    "example": "The government implemented new soil conservation measures to mitigate the effects of the drought.",
+    "example_zh": "政府實施了新的土壤保持措施，以減輕乾旱帶來的影響。",
+    "collocations": [
+      "mitigate risk",
+      "mitigate the effects",
+      "mitigate environmental impact",
+      "measures to mitigate",
+      "mitigate climate change"
+    ],
+    "synonyms": [
+      "alleviate",
+      "attenuate",
+      "assuage",
+      "moderate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "alleviate",
+        "difference": "alleviate specifically applies to physical pain, suffering, or heavy mental burdens; mitigate is broader and applies heavily to abstract risks, penalties, and structural damage."
+      },
+      {
+        "word": "palliate",
+        "difference": "palliate means to ease symptoms or mask a problem superficially without curing the underlying disease or root cause."
+      }
+    ],
+    "antonyms": [
+      "exacerbate",
+      "aggravate",
+      "intensify"
+    ],
+    "word_family": [
+      {
+        "word": "mitigate",
+        "pos": "verb"
+      },
+      {
+        "word": "mitigation",
+        "pos": "noun"
+      },
+      {
+        "word": "mitigating",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 267,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "monotone",
+    "pos": "noun",
+    "phonetic": "/ˈmɑːnətoʊn/",
+    "definition": "A continuing sound, especially of a person's voice, that is unchanging in pitch and without intonation; lacking in variety.",
+    "definition_zh": "單調的聲音 / 單調的；無生氣的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mono",
+          "origin": "Greek",
+          "meaning": "single, alone",
+          "meaning_zh": "單一"
+        },
+        {
+          "root": "tonos",
+          "origin": "Greek",
+          "meaning": "tone, sound",
+          "meaning_zh": "聲音、音調"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MONO（單一）+ TONOS（音調）→ 只有一個音調，毫無起伏變化",
+      "story_en": "The speaker talked in a dull MONOTONE, using a single MONO pitch that put the audience to sleep.",
+      "story_zh": "演講者用枯燥的「單調聲音（MONOTONE）」講話，「單一（MONO）」的音調讓聽眾昏昏欲睡。",
+      "emojis": [
+        "🥱",
+        "🎤",
+        "📉"
+      ]
+    },
+    "example": "He delivered his speech in a flat monotone, putting half the audience to sleep.",
+    "example_zh": "他用平淡、單調的聲音發表了演講，讓一半的聽眾都睡著了。",
+    "collocations": [
+      "flat monotone",
+      "speak in a monotone",
+      "dull monotone",
+      "robotic monotone",
+      "monotone voice"
+    ],
+    "synonyms": [
+      "droning",
+      "tedious",
+      "unvarying",
+      "humdrum"
+    ],
+    "near_synonyms": [
+      {
+        "word": "monotonous",
+        "difference": "monotone is the noun referring specifically to the physical acoustic sound; monotonous is the adjective that describes anything broadly boring and repetitious."
+      }
+    ],
+    "antonyms": [
+      "expressive",
+      "modulated",
+      "vibrant"
+    ],
+    "word_family": [
+      {
+        "word": "monotone",
+        "pos": "noun"
+      },
+      {
+        "word": "monotonous",
+        "pos": "adjective"
+      },
+      {
+        "word": "monotony",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 268,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "language"
+    ]
+  },
+  {
+    "word": "morbid",
+    "pos": "adjective",
+    "phonetic": "/ˈmɔːrbɪd/",
+    "definition": "Characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease.",
+    "definition_zh": "病態的；恐怖的；（心理）不健康的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "morbus",
+          "origin": "Latin",
+          "meaning": "disease",
+          "meaning_zh": "疾病"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MORBUS（疾病）→ 像生病一樣，思想陷入對死亡或血腥等不健康事物的迷戀",
+      "story_en": "His MORBID obsession with ghosts stemmed from a fear of a fatal MORBUS (disease).",
+      "story_zh": "他對鬼魂「病態的（MORBID）」迷戀，源於對致命「疾病（MORBUS）」的恐懼。",
+      "emojis": [
+        "💀",
+        "🧟",
+        "🩸"
+      ]
+    },
+    "example": "Out of morbid curiosity, a crowd gathered at the scene of the car crash to look at the wreckage.",
+    "example_zh": "出於病態的好奇心，人群聚集在車禍現場觀看殘骸。",
+    "collocations": [
+      "morbid curiosity",
+      "morbid fascination",
+      "morbid symptoms",
+      "morbid thoughts",
+      "grow morbid"
+    ],
+    "synonyms": [
+      "ghastly",
+      "macabre",
+      "gothic",
+      "unhealthy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "macabre",
+        "difference": "macabre describes external artistic representations or settings dealing grimly with death; morbid describes an internal psychological state or unhealthy human curiosity."
+      }
+    ],
+    "antonyms": [
+      "wholesome",
+      "healthy",
+      "cheerful"
+    ],
+    "word_family": [
+      {
+        "word": "morbidity",
+        "pos": "noun"
+      },
+      {
+        "word": "morbid",
+        "pos": "adjective"
+      },
+      {
+        "word": "morbidly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 269,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "mundane",
+    "pos": "adjective",
+    "phonetic": "/mʌnˈdeɪn/",
+    "definition": "Lacking interest or excitement; dull. Of this earthly world rather than a heavenly or spiritual one.",
+    "definition_zh": "世俗的；平凡的；乏味的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mundus",
+          "origin": "Latin",
+          "meaning": "world",
+          "meaning_zh": "世界"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MUNDUS（世界）→ 屬於這個物質世界的事情，通常非常瑣碎、平凡且無聊",
+      "story_en": "Tired of MUNDANE household chores, the monk left the MUNDUS (earthly world) behind to seek enlightenment.",
+      "story_zh": "厭倦了「世俗平凡的（MUNDANE）」家務事，僧侶離開了「塵世（MUNDUS）」去尋求啟蒙。",
+      "emojis": [
+        "🧹",
+        "🌍",
+        "🥱"
+      ]
+    },
+    "example": "Despite his fame, the artist still found pleasure in the mundane activities of daily life, like cooking and gardening.",
+    "example_zh": "儘管名聲顯赫，這位藝術家依然在做飯和園藝等日常生活的平凡瑣事中找到了樂趣。",
+    "collocations": [
+      "mundane chores",
+      "mundane task",
+      "mundane existence",
+      "escape the mundane",
+      "seem mundane"
+    ],
+    "synonyms": [
+      "humdrum",
+      "prosaic",
+      "earthly",
+      "banal"
+    ],
+    "near_synonyms": [
+      {
+        "word": "earthly",
+        "difference": "earthly strictly contrasts with spiritual or cosmic realms without necessarily implying that the thing is boring; mundane heavily denotes boredom and lack of inspiration."
+      },
+      {
+        "word": "banal",
+        "difference": "banal refers to ideas, cliches, or remarks that lack originality; mundane refers to regular life events or daily physical duties."
+      }
+    ],
+    "antonyms": [
+      "extraordinary",
+      "spiritual",
+      "exotic"
+    ],
+    "word_family": [
+      {
+        "word": "mundane",
+        "pos": "adjective"
+      },
+      {
+        "word": "mundanely",
+        "pos": "adverb"
+      },
+      {
+        "word": "mundaneness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 270,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "philosophy",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "munificent",
+    "pos": "adjective",
+    "phonetic": "/mjuːˈnɪfɪsnt/",
+    "definition": "Larger or more generous than is usual or necessary (used to describe gifts or a giver).",
+    "definition_zh": "慷慨的；大方的；豐厚的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "munus",
+          "origin": "Latin",
+          "meaning": "gift, service",
+          "meaning_zh": "禮物、服務"
+        },
+        {
+          "root": "facere",
+          "origin": "Latin",
+          "meaning": "to make",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MUNUS（禮物）+ FACERE（做）→ 不斷製造並送出大量的禮物",
+      "story_en": "The MUNIFICENT donor loves to make (facere) a MUNUS (gift) to universities anonymous.",
+      "story_zh": "這位「慷慨的（MUNIFICENT）」捐贈者喜歡向大學匿名送出「禮物（MUNUS）」。",
+      "emojis": [
+        "🎁",
+        "👑",
+        "🤝"
+      ]
+    },
+    "example": "Thanks to a munificent donation from an alumnus, the university was able to build a new library.",
+    "example_zh": "得益於一位校友的慷慨捐款，這所大學得以建造一座新圖書館。",
+    "collocations": [
+      "munificent gift",
+      "munificent patron",
+      "munificent sum",
+      "munificent gesture",
+      "extraordinarily munificent"
+    ],
+    "synonyms": [
+      "bountiful",
+      "magnanimous",
+      "openhanded",
+      "lavish"
+    ],
+    "near_synonyms": [
+      {
+        "word": "generous",
+        "difference": "generous is the standard word for giving freely; munificent is a formal, high-level term that implies a truly spectacular or princely scale of giving."
+      }
+    ],
+    "antonyms": [
+      "stingy",
+      "parsimonious",
+      "penurious"
+    ],
+    "word_family": [
+      {
+        "word": "munificence",
+        "pos": "noun"
+      },
+      {
+        "word": "munificent",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 271,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "mutability",
+    "pos": "noun",
+    "phonetic": "/ˌmjuːtəˈbɪləti/",
+    "definition": "Liability or tendency to change or be changed.",
+    "definition_zh": "可變性；易變性；不穩定性",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mut",
+          "origin": "Latin",
+          "meaning": "to change",
+          "meaning_zh": "改變"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "MUT（改變）+ ABILITY（能力）→ 具有發生改變的能力",
+      "story_en": "The MUTABILITY of a virus means its genetic code will MUT (change) constantly over time.",
+      "story_zh": "病毒的「易變性（MUTABILITY）」意味著其遺傳密碼會隨著時間不斷「改變（MUT）」。",
+      "emojis": [
+        "🧬",
+        "🔄",
+        "🌊"
+      ]
+    },
+    "example": "Her poetry often reflects on the mutability of human emotions and the passage of time.",
+    "example_zh": "她的詩歌經常反思人類情感的易變性以及時間的流逝。",
+    "collocations": [
+      "constant mutability",
+      "mutability of life",
+      "mutability of fashion",
+      "inherent mutability",
+      "genetic mutability"
+    ],
+    "synonyms": [
+      "alterability",
+      "instability",
+      "fickleness",
+      "variability"
+    ],
+    "near_synonyms": [
+      {
+        "word": "instability",
+        "difference": "instability implies a dangerous tendency to collapse or fail; mutability is a neutral philosophical or scientific description of the quality of being able to change."
+      }
+    ],
+    "antonyms": [
+      "immutability",
+      "permanence",
+      "stability"
+    ],
+    "word_family": [
+      {
+        "word": "mutate",
+        "pos": "verb"
+      },
+      {
+        "word": "mutable",
+        "pos": "adjective"
+      },
+      {
+        "word": "mutability",
+        "pos": "noun"
+      },
+      {
+        "word": "immutable",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 272,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "naive",
+    "pos": "adjective",
+    "phonetic": "/naɪˈiːv/",
+    "definition": "Showing a lack of experience, wisdom, or judgment; innocent and easily trusting others.",
+    "definition_zh": "天真的；幼稚的；缺乏經驗的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "nat",
+          "origin": "Latin",
+          "meaning": "born",
+          "meaning_zh": "出生"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NAT（出生）→ 像剛出生的嬰兒一樣，對世界的險惡一無所知",
+      "story_en": "Being newly born (nat), the NAIVE child genuinely believed that money grew on trees.",
+      "story_zh": "就像剛「出生（NAT）」一樣，這個「天真的（NAIVE）」孩子居然相信錢是從樹上長出來的。",
+      "emojis": [
+        "👶",
+        "🌻",
+        "🎈"
+      ]
+    },
+    "example": "It would be naive to think that political leaders always keep their campaign promises.",
+    "example_zh": "如果認為政治領袖總是會兌現競選承諾，那就太天真了。",
+    "collocations": [
+      "naive belief",
+      "somewhat naive",
+      "politically naive",
+      "naive assumption",
+      "naive optimism"
+    ],
+    "synonyms": [
+      "ingenuous",
+      "innocent",
+      "gullible",
+      "credulous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "gullible",
+        "difference": "gullible directly implies being easily tricked or cheated by bad actors; naive means a broader lack of life experience or critical judgment."
+      },
+      {
+        "word": "innocent",
+        "difference": "innocent is a highly positive term for purity and freedom from guilt; naive usually carries a critical edge of social foolishness."
+      }
+    ],
+    "antonyms": [
+      "sophisticated",
+      "shrewd",
+      "cynical"
+    ],
+    "word_family": [
+      {
+        "word": "naive",
+        "pos": "adjective"
+      },
+      {
+        "word": "naively",
+        "pos": "adverb"
+      },
+      {
+        "word": "naivety",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 273,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  },
+  {
+    "word": "nefarious",
+    "pos": "adjective",
+    "phonetic": "/nɪˈferiəs/",
+    "definition": "Wicked, villainous, or criminal, especially when referring to an action or activity.",
+    "definition_zh": "邪惡的；極壞的；不法的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ne",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "fas",
+          "origin": "Latin",
+          "meaning": "divine law, right",
+          "meaning_zh": "神聖法律、正義"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NE（不）+ FAS（天道、正義）→ 違反天理、不合正道的事務",
+      "story_en": "The hacker engaged in NEFARIOUS activities, completely violating NE (not) FAS (divine law) or basic ethics.",
+      "story_zh": "該駭客從事「邪惡的（NEFARIOUS）」活動，完全違反了「神聖正義（FAS）」與「非（NE）」法底線。",
+      "emojis": [
+        "🦹",
+        "🎭",
+        "🕸️"
+      ]
+    },
+    "example": "The movie features a corporate villain who hatches a nefarious plot to control the city's water supply.",
+    "example_zh": "這部電影講述了一位公司惡棍策劃了一個控制城市水源的邪惡陰謀。",
+    "collocations": [
+      "nefarious plot",
+      "nefarious scheme",
+      "nefarious activities",
+      "nefarious purposes",
+      "reputation for nefarious"
+    ],
+    "synonyms": [
+      "wicked",
+      "villainous",
+      "heinous",
+      "iniquitous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "wicked",
+        "difference": "wicked is a broad, common word for moral badness; nefarious applies specifically to hidden, calculated, and highly organized criminal operations or plots."
+      }
+    ],
+    "antonyms": [
+      "righteous",
+      "virtuous",
+      "admirable"
+    ],
+    "word_family": [
+      {
+        "word": "nefarious",
+        "pos": "adjective"
+      },
+      {
+        "word": "nefariously",
+        "pos": "adverb"
+      },
+      {
+        "word": "nefariousness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 274,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "GRE"
+    ]
+  },
+  {
+    "word": "negligent",
+    "pos": "adjective",
+    "phonetic": "/ˈneɡlɪdʒənt/",
+    "definition": "Failing to take proper care in doing something, resulting in standard failures or legal liabilities.",
+    "definition_zh": "疏忽的；大意的；玩忽職守的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "neg",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "legere",
+          "origin": "Latin",
+          "meaning": "to pick up, choose",
+          "meaning_zh": "拾取、選擇、注意"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NEG（不）+ LEGERE（注意、選取）→ 不去挑選注意、不當一回事",
+      "story_en": "The guard was NEGLIGENT because he chose to NEG (not) legere (pick up) his tools or check the gate.",
+      "story_zh": "警衛顯得「疏忽大意（NEGLIGENT）」，因為他「不（NEG）」去「拾起（LEGERE）」他的工具或檢查大門。",
+      "emojis": [
+        "⚠️",
+        "❌",
+        "⚖️"
+      ]
+    },
+    "example": "The court found the construction company negligent for failing to provide proper safety equipment.",
+    "example_zh": "法院裁定該建築公司因未能提供適當的安全設備而犯有疏忽罪。",
+    "collocations": [
+      "grossly negligent",
+      "negligent behavior",
+      "found negligent",
+      "negligent driving",
+      "medical professional negligent"
+    ],
+    "synonyms": [
+      "careless",
+      "remiss",
+      "slack",
+      "derelict"
+    ],
+    "near_synonyms": [
+      {
+        "word": "careless",
+        "difference": "careless is a casual term for anyone making small mistakes; negligent is a formal, often legal term denoting a serious, costly breach of official duty."
+      }
+    ],
+    "antonyms": [
+      "careful",
+      "conscientious",
+      "attentive"
+    ],
+    "word_family": [
+      {
+        "word": "neglect",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "negligent",
+        "pos": "adjective"
+      },
+      {
+        "word": "negligence",
+        "pos": "noun"
+      },
+      {
+        "word": "negligible",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 275,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "negligible",
+    "pos": "adjective",
+    "phonetic": "/ˈneɡlɪdʒəbl/",
+    "definition": "So small or unimportant as to be not worth considering; insignificant.",
+    "definition_zh": "微不足道的；可忽略的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "neg",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "legere",
+          "origin": "Latin",
+          "meaning": "to pick up, choose",
+          "meaning_zh": "拾取、選擇、注意"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NEG（不）+ LEGERE（注意）→ 小到根本不需要去理會或注意的事物",
+      "story_en": "The error was NEGLIGIBLE, so small that the manager decided to NEG (not) legere (pay attention to) it.",
+      "story_zh": "這個錯誤是「微不足道的（NEGLIGIBLE）」，小到經理決定「不（NEG）」去「注意（LEGERE）」它。",
+      "emojis": [
+        "🤏",
+        "🔍",
+        "⚪"
+      ]
+    },
+    "example": "The difference between the two statistical models was negligible, so they used the simpler one.",
+    "example_zh": "這兩個統計模型之間的差異微不足道，因此他們使用了較簡單的那一個。",
+    "collocations": [
+      "negligible cost",
+      "negligible impact",
+      "virtually negligible",
+      "negligible amount",
+      "reduce to negligible"
+    ],
+    "synonyms": [
+      "insignificant",
+      "trivial",
+      "imperceptible",
+      "trifling"
+    ],
+    "near_synonyms": [
+      {
+        "word": "trivial",
+        "difference": "trivial implies that something lacks intellectual depth or qualitative importance; negligible implies that the physical quantity or numerical effect is so close to zero that it can be ignored mathematically."
+      }
+    ],
+    "antonyms": [
+      "significant",
+      "substantial",
+      "considerable"
+    ],
+    "word_family": [
+      {
+        "word": "neglect",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "negligent",
+        "pos": "adjective"
+      },
+      {
+        "word": "negligible",
+        "pos": "adjective"
+      },
+      {
+        "word": "negligibly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 276,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "math",
+      "science"
+    ]
+  },
+  {
+    "word": "novice",
+    "pos": "noun",
+    "phonetic": "/ˈnɑːvɪs/",
+    "definition": "A person new to and inexperienced in a job or situation; a beginner.",
+    "definition_zh": "新手；初學者",
+    "etymology": {
+      "roots": [
+        {
+          "root": "nov",
+          "origin": "Latin",
+          "meaning": "new",
+          "meaning_zh": "新的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NOV（新）→ 剛進入某個領域的「新」人",
+      "story_en": "As a NOVICE in chess, every tactic felt completely NOV (new) and overwhelming to him.",
+      "story_zh": "作為一個西洋棋的「新手（NOVICE）」，每一種戰術對他來說都完全是「新（NOV）」的。",
+      "emojis": [
+        "🔰",
+        "🎮",
+        "👶"
+      ]
+    },
+    "example": "The training program is carefully designed for both novices and intermediate computer programmers.",
+    "example_zh": "該培訓計劃是為電腦編程的新手和中級程式設計師精心設計的。",
+    "collocations": [
+      "complete novice",
+      "novice programmer",
+      "novice driver",
+      "from novice to expert",
+      "novice tournament"
+    ],
+    "synonyms": [
+      "beginner",
+      "neophyte",
+      "tyro",
+      "amateur"
+    ],
+    "near_synonyms": [
+      {
+        "word": "amateur",
+        "difference": "amateur refers to someone who pursues an activity for pleasure rather than as a profession, regardless of skill level; novice focuses purely on being inexperienced and new."
+      },
+      {
+        "word": "neophyte",
+        "difference": "neophyte is a more formal or academic word, often used in religious or deep philosophical contexts for a new convert."
+      }
+    ],
+    "antonyms": [
+      "expert",
+      "veteran",
+      "professional"
+    ],
+    "word_family": [
+      {
+        "word": "novel",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "novice",
+        "pos": "noun"
+      },
+      {
+        "word": "innovate",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 277,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "technology",
+      "sports"
+    ]
+  },
+  {
+    "word": "noxious",
+    "pos": "adjective",
+    "phonetic": "/ˈnɑːkʃəs/",
+    "definition": "Harmful, poisonous, or very unpleasant to living things.",
+    "definition_zh": "有毒的；有害的；令人厭惡的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "nox / noc",
+          "origin": "Latin",
+          "meaning": "harm, hurt",
+          "meaning_zh": "傷害"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NOX（傷害）→ 會對人體或健康造成嚴重傷害的毒氣或物質",
+      "story_en": "The chemical plant leaked NOXIOUS fumes that threatened to NOX (harm) the local residents.",
+      "story_zh": "化學工廠洩漏了「有毒的（NOXIOUS）」氣體，威脅並「傷害（NOX）」了當地居民。",
+      "emojis": [
+        "☣️",
+        "🤢",
+        "🏭"
+      ]
+    },
+    "example": "Firefighters wore special breathing apparatus to protect themselves from the noxious gases.",
+    "example_zh": "消防員配戴了特殊的呼吸裝備，以保護自己免受有毒氣體的傷害。",
+    "collocations": [
+      "noxious fumes",
+      "noxious weed",
+      "noxious waste",
+      "noxious odor",
+      "highly noxious"
+    ],
+    "synonyms": [
+      "toxic",
+      "poisonous",
+      "pernicious",
+      "harmful"
+    ],
+    "near_synonyms": [
+      {
+        "word": "toxic",
+        "difference": "toxic strictly implies a chemical substance that acts as a poison; noxious can refer to things that are physically poisonous or morally destructive and deeply unpleasant."
+      }
+    ],
+    "antonyms": [
+      "innocuous",
+      "harmless",
+      "wholesome"
+    ],
+    "word_family": [
+      {
+        "word": "innocent",
+        "pos": "adjective"
+      },
+      {
+        "word": "noxious",
+        "pos": "adjective"
+      },
+      {
+        "word": "obnoxious",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 278,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "nullify",
+    "pos": "verb",
+    "phonetic": "/ˈnʌlɪfaɪ/",
+    "definition": "To make legally null and void; invalidate. To wipe out or cancel the effect of something.",
+    "definition_zh": "使無效；取消；廢除",
+    "etymology": {
+      "roots": [
+        {
+          "root": "nullus",
+          "origin": "Latin",
+          "meaning": "none, not any",
+          "meaning_zh": "沒有、無"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "NULLUS（無）+ FY（使成為）→ 使其價值或效力歸零、變成沒有",
+      "story_en": "The judge chose to NULLIFY the illegal contract, reducing its economic value to NULLUS (none).",
+      "story_zh": "法官選擇「使無效（NULLIFY）」這份非法合約，將其經濟價值歸為「零（NULLUS）」。",
+      "emojis": [
+        "❌",
+        "🚫",
+        "⚖️"
+      ]
+    },
+    "example": "A single technical error in the filing could nullify the entire legal agreement.",
+    "example_zh": "文件提交中的一個技術性錯誤就可能使整個法律協議失效。",
+    "collocations": [
+      "nullify a contract",
+      "nullify the effects",
+      "effectively nullify",
+      "nullify a verdict",
+      "seek to nullify"
+    ],
+    "synonyms": [
+      "invalidate",
+      "cancel",
+      "annul",
+      "void"
+    ],
+    "near_synonyms": [
+      {
+        "word": "annul",
+        "difference": "annul is primarily used for official declarations that declare something never existed (like annulling a marriage); nullify can mean canceling out an effect or power that was already active."
+      },
+      {
+        "word": "invalidate",
+        "difference": "invalidate means to prove that something is technically incorrect or lacks a logical foundation."
+      }
+    ],
+    "antonyms": [
+      "validate",
+      "confirm",
+      "enforce"
+    ],
+    "word_family": [
+      {
+        "word": "null",
+        "pos": "adjective"
+      },
+      {
+        "word": "nullify",
+        "pos": "verb"
+      },
+      {
+        "word": "nullification",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 279,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "obdurate",
+    "pos": "adjective",
+    "phonetic": "/ˈɑːbdjərət/",
+    "definition": "Stubbornly refusing to change one's opinion or course of action, often in the face of persuasion or gentle requests.",
+    "definition_zh": "頑固的；固執的；冷酷無情的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "durus",
+          "origin": "Latin",
+          "meaning": "hard",
+          "meaning_zh": "堅硬的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DURUS（硬）→ 內心像石頭一樣硬，拒絕做出任何改變",
+      "story_en": "The dictator remained OBDURATE, showing a durus (hard) heart that refused to listen to protesters.",
+      "story_zh": "獨裁者依然「頑固不化（OBDURATE）」，展現出一顆「堅硬（DURUS）」的心，拒絕聽取抗議者的聲音。",
+      "emojis": [
+        "🗿",
+        "🧱",
+        "🙅"
+      ]
+    },
+    "example": "Despite hours of intense political negotiation, the leadership remained obdurate and refused to lower taxes.",
+    "example_zh": "儘管經過了數小時的激烈政治談判，領導層依然固執己見，拒絕降稅。",
+    "collocations": [
+      "remain obdurate",
+      "obdurate refusal",
+      "obdurate attitude",
+      "obdurate opponent",
+      "seem obdurate"
+    ],
+    "synonyms": [
+      "stubborn",
+      "obstinate",
+      "inflexible",
+      "unyielding"
+    ],
+    "near_synonyms": [
+      {
+        "word": "stubborn",
+        "difference": "stubborn is the standard everyday word for refusing to change; obdurate is more formal and implies a deeply entrenched, harsh, or unsympathetic lack of human feeling."
+      },
+      {
+        "word": "obstinate",
+        "difference": "obstinate implies an unreasonable, annoying adherence to an opinion despite obvious counter-evidence."
+      }
+    ],
+    "antonyms": [
+      "compliant",
+      "amenable",
+      "yielding"
+    ],
+    "word_family": [
+      {
+        "word": "durable",
+        "pos": "adjective"
+      },
+      {
+        "word": "obdurate",
+        "pos": "adjective"
+      },
+      {
+        "word": "obdurately",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 280,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "politics",
+      "GRE"
+    ]
+  },
+  {
+    "word": "oblivion",
+    "pos": "noun",
+    "phonetic": "/əˈblɪviən/",
+    "definition": "The state of being unaware or unconscious of what is happening around oneself; the state of being completely forgotten or destroyed.",
+    "definition_zh": "被遺忘；湮沒；失去知覺的狀態",
+    "etymology": {
+      "roots": [
+        {
+          "root": "obliviscor",
+          "origin": "Latin",
+          "meaning": "to forget",
+          "meaning_zh": "遺忘"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OBLIVISCOR（遺忘）→ 陷入徹底被世人忘記或者失去意識的黑洞中",
+      "story_en": "The ancient city faded into OBLIVION as historians began to OBLIVISCOR (forget) its location.",
+      "story_zh": "隨著歷史學家開始「遺忘（OBLIVISCOR）」其位置，這座古城便遁入了「湮沒（OBLIVION）」之中。",
+      "emojis": [
+        "🕳️",
+        "💨",
+        "🌫️"
+      ]
+    },
+    "example": "The once-famous pop singer sank into public oblivion after he retired to a remote village.",
+    "example_zh": "這位曾經紅極一時的流行歌手在隱退到偏遠村莊後，便被大眾完全遺忘了。",
+    "collocations": [
+      "fade into oblivion",
+      "sink into oblivion",
+      "rescue from oblivion",
+      "drink oneself into oblivion",
+      "utter oblivion"
+    ],
+    "synonyms": [
+      "obscurity",
+      "nothingness",
+      "forgetfulness",
+      "insensibility"
+    ],
+    "near_synonyms": [
+      {
+        "word": "obscurity",
+        "difference": "obscurity means the state of being unknown or hard to see clearly; oblivion implies a complete, total erasing or wiping out from memory."
+      }
+    ],
+    "antonyms": [
+      "fame",
+      "celebrity",
+      "remembrance"
+    ],
+    "word_family": [
+      {
+        "word": "oblivion",
+        "pos": "noun"
+      },
+      {
+        "word": "oblivious",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 281,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "history",
+      "literature"
+    ]
+  },
+  {
+    "word": "oblivious",
+    "pos": "adjective",
+    "phonetic": "/əˈblɪviəs/",
+    "definition": "Not aware of or concerned with what is happening around oneself.",
+    "definition_zh": "未察覺的；健忘的；不在意的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "obliviscor",
+          "origin": "Latin",
+          "meaning": "to forget",
+          "meaning_zh": "遺忘"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OBLIVISCOR（遺忘）→ 把周遭正在發生的事情都「忘」得一乾二淨，毫無察覺",
+      "story_en": "Absorbed in his phone, the boy was OBLIVIOUS to the traffic, having OBLIVISCOR (forgotten) his surroundings.",
+      "story_zh": "沉迷於手機的男孩對交通「毫無察覺（OBLIVIOUS）」，早就把周圍環境「遺忘（OBLIVISCOR）」得一乾二淨。",
+      "emojis": [
+        "🎧",
+        "🚶",
+        "❓"
+      ]
+    },
+    "example": "She fell asleep on the train, totally oblivious to the loud conversation of the passengers around her.",
+    "example_zh": "她在火車上睡著了，完全沒有察覺到周圍乘客大聲的談話。",
+    "collocations": [
+      "seem oblivious to",
+      "remain oblivious",
+      "totally oblivious",
+      "oblivious of danger",
+      "oblivious to criticism"
+    ],
+    "synonyms": [
+      "unaware",
+      "unconscious",
+      "heedless",
+      "ignorant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unaware",
+        "difference": "unaware is the generic term for not knowing a fact; oblivious implies that one is actively ignoring or heavily distracted from highly visible environmental cues."
+      },
+      {
+        "word": "heedless",
+        "difference": "heedless carries a critical tone of being deliberately reckless and refusing to listen to explicit warnings."
+      }
+    ],
+    "antonyms": [
+      "aware",
+      "conscious",
+      "mindful"
+    ],
+    "word_family": [
+      {
+        "word": "oblivion",
+        "pos": "noun"
+      },
+      {
+        "word": "oblivious",
+        "pos": "adjective"
+      },
+      {
+        "word": "obliviously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 282,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "obnoxious",
+    "pos": "adjective",
+    "phonetic": "/əbˈnɑːkʃəs/",
+    "definition": "Extremely unpleasant, offensive, or objectionable, especially in behavior or social manners.",
+    "definition_zh": "令人討厭的；可憎的；粗俗的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ob",
+          "origin": "Latin",
+          "meaning": "against, toward",
+          "meaning_zh": "對抗、向著"
+        },
+        {
+          "root": "noc / nox",
+          "origin": "Latin",
+          "meaning": "harm, hurt",
+          "meaning_zh": "傷害"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OB（朝向）+ NOX（傷害）→ 故意把傷害和冒犯扔向別人，行為極度令人反感",
+      "story_en": "The drunk man's OBNOXIOUS shouting was an offense against (ob) others, threatening to nox (hurt) the peaceful dinner.",
+      "story_zh": "那個醉漢「令人討厭的（OBNOXIOUS）」喊叫是對「抗（OB）」他人的冒犯，並「傷害（NOX）」了平靜的晚餐氣氛。",
+      "emojis": [
+        "🤬",
+        "🤮",
+        "👎"
+      ]
+    },
+    "example": "The customer was asked to leave the store due to his obnoxious behavior toward the staff.",
+    "example_zh": "該顧客因對員工粗俗討厭的行為而被要求離開商店。",
+    "collocations": [
+      "obnoxious behavior",
+      "obnoxious habit",
+      "find it obnoxious",
+      "obnoxious individual",
+      "loud and obnoxious"
+    ],
+    "synonyms": [
+      "offensive",
+      "objectionable",
+      "loathsome",
+      "insufferable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "offensive",
+        "difference": "offensive implies a direct insult to moral standards, race, or religion; obnoxious focuses heavily on annoying, loud, or poorly-mannered social behavior."
+      }
+    ],
+    "antonyms": [
+      "pleasant",
+      "delightful",
+      "charming"
+    ],
+    "word_family": [
+      {
+        "word": "noxious",
+        "pos": "adjective"
+      },
+      {
+        "word": "obnoxious",
+        "pos": "adjective"
+      },
+      {
+        "word": "obnoxiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 283,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "psychology"
+    ]
+  },
+  {
+    "word": "offset",
+    "pos": "verb",
+    "phonetic": "/ˈɔːfset/",
+    "definition": "To counteract something by having an opposing force or contrary effect; to balance or compensate for.",
+    "definition_zh": "抵消；補償；彌補",
+    "etymology": {
+      "roots": [
+        {
+          "root": "off",
+          "origin": "Old English",
+          "meaning": "away from",
+          "meaning_zh": "離開"
+        },
+        {
+          "root": "settan",
+          "origin": "Old English",
+          "meaning": "to place, set",
+          "meaning_zh": "放置"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OFF（分開）+ SET（放置）→ 將一個天平反向放置，以達到分開、抵消重力的平衡效果",
+      "story_en": "The airline allowed passengers to OFFSET their carbon footprint by paying to set (settan) trees off (away) in new forests.",
+      "story_zh": "航空公司允許乘客透過付費在森林中種樹來「抵消（OFFSET）」他們的碳足跡。",
+      "emojis": [
+        "⚖️",
+        "🔄",
+        "📉"
+      ]
+    },
+    "example": "The gains made in the technology sector were offset by heavy losses in the energy industry.",
+    "example_zh": "科技板塊獲得的收益被能源行業的慘重損失所抵消。",
+    "collocations": [
+      "offset the cost",
+      "partially offset",
+      "offset carbon emissions",
+      "offset losses",
+      "be offset by"
+    ],
+    "synonyms": [
+      "counterbalance",
+      "compensate",
+      "neutralize",
+      "counteract"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compensate",
+        "difference": "compensate often means making a payment or doing a favor to make up for a human error or injury; offset is used for numbers, forces, or financial budgets balancing each other out."
+      }
+    ],
+    "antonyms": [
+      "aggravate",
+      "intensify",
+      "disbalance"
+    ],
+    "word_family": [
+      {
+        "word": "offset",
+        "pos": "verb / noun"
+      }
+    ],
+    "frequency_rank": 284,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "economics",
+      "business"
+    ]
+  },
+  {
+    "word": "omniscience",
+    "pos": "noun",
+    "phonetic": "/ɑːmˈnɪʃəns/",
+    "definition": "The state of knowing everything; infinite knowledge.",
+    "definition_zh": "全知；無所不知",
+    "etymology": {
+      "roots": [
+        {
+          "root": "omni",
+          "origin": "Latin",
+          "meaning": "all",
+          "meaning_zh": "全、所有"
+        },
+        {
+          "root": "sci",
+          "origin": "Latin",
+          "meaning": "to know",
+          "meaning_zh": "知道"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OMNI（所有）+ SCI（知道）→ 知道所有一切的事情",
+      "story_en": "In many mythologies, the supreme deity possesses OMNISCIENCE, a capacity to sci (know) omni (all) secrets.",
+      "story_zh": "在許多神話中，至高無上的神明擁有「全知（OMNISCIENCE）」能力，能夠「知道（SCI）」原屬「所有（OMNI）」的秘密。",
+      "emojis": [
+        "👁️",
+        "🧠",
+        "🌌"
+      ]
+    },
+    "example": "The authorial voice in the novel claims a sort of omniscience, describing the secret thoughts of every character.",
+    "example_zh": "小說中的作者敘事視角展現了一種全知，描述了每個角色的內心秘密想法。",
+    "collocations": [
+      "divine omniscience",
+      "claim omniscience",
+      "illusion of omniscience",
+      "narrative omniscience",
+      "absolute omniscience"
+    ],
+    "synonyms": [
+      "all-knowingness",
+      "infinite knowledge"
+    ],
+    "near_synonyms": [
+      {
+        "word": "erudition",
+        "difference": "erudition refers to extensive, deep knowledge gained by human study and books; omniscience is the literal, total capacity to know everything in existence."
+      }
+    ],
+    "antonyms": [
+      "nescience",
+      "ignorance"
+    ],
+    "word_family": [
+      {
+        "word": "science",
+        "pos": "noun"
+      },
+      {
+        "word": "omniscience",
+        "pos": "noun"
+      },
+      {
+        "word": "omniscient",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 285,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "philosophy",
+      "GRE"
+    ]
+  },
+  {
+    "word": "onerous",
+    "pos": "adjective",
+    "phonetic": "/ˈoʊnərəs/",
+    "definition": "Involving an amount of effort and difficulty that is oppressively burdensome (of a task, duty, or responsibility).",
+    "definition_zh": "繁重的；艱巨的；麻煩的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "onus",
+          "origin": "Latin",
+          "meaning": "burden, load",
+          "meaning_zh": "負擔、重擔"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ONUS（重擔）→ 背負著沈重的負擔去完成任務",
+      "story_en": "Managing the factory budget became an ONEROUS task, placing a heavy ONUS (burden) on the young accountant.",
+      "story_zh": "管理工廠預算成了一項「繁重的（ONEROUS）」任務，把沈重的「負擔（ONUS）」壓在了這位年輕會計身上。",
+      "emojis": [
+        "🏋️",
+        "🧗",
+        "💼"
+      ]
+    },
+    "example": "The data entry job proved to be far more onerous than she had initially expected.",
+    "example_zh": "事實證明，這項數據輸入工作比她最初預期的要繁重得多。",
+    "collocations": [
+      "onerous task",
+      "onerous duty",
+      "onerous responsibility",
+      "become onerous",
+      "onerous conditions"
+    ],
+    "synonyms": [
+      "burdensome",
+      "arduous",
+      "laborious",
+      "taxing"
+    ],
+    "near_synonyms": [
+      {
+        "word": "arduous",
+        "difference": "arduous highlights the immense physical or structural energy required to complete a mountain climb or task; onerous focuses on the exhausting, annoying weight of an obligation or regulation."
+      }
+    ],
+    "antonyms": [
+      "effortless",
+      "light",
+      "easy"
+    ],
+    "word_family": [
+      {
+        "word": "onus",
+        "pos": "noun"
+      },
+      {
+        "word": "onerous",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 286,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "business",
+      "law"
+    ]
+  },
+  {
+    "word": "opaque",
+    "pos": "adjective",
+    "phonetic": "/oʊˈpeɪk/",
+    "definition": "Not able to be seen through; not transparent. Metaphorically means hard or impossible to understand.",
+    "definition_zh": "不透明的；難懂的；晦澀的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "opacus",
+          "origin": "Latin",
+          "meaning": "shaded, dark",
+          "meaning_zh": "陰暗的、遮蔽的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OPACUS（陰暗、遮蔽）→ 光線穿透不過去，後面形成一片黑暗陰影",
+      "story_en": "The corporate financial reports were OPAQUE, deliberately kept OPACUS (shaded) to hide tax fraud.",
+      "story_zh": "這家公司的財務報告是「晦澀難懂的（OPAQUE）」，故意保持「隱蔽（OPACUS）」以隱瞞稅務欺詐。",
+      "emojis": [
+        "🧱",
+        "🕶️",
+        "❓"
+      ]
+    },
+    "example": "The windows were covered with an opaque film to protect the privacy of the office workers.",
+    "example_zh": "窗戶上覆蓋了一層不透明的薄膜，以保護辦公人員的隱私。",
+    "collocations": [
+      "opaque glass",
+      "opaque language",
+      "opaque regulations",
+      "highly opaque",
+      "opaque market"
+    ],
+    "synonyms": [
+      "nontransparent",
+      "obscure",
+      "impenetrable",
+      "unfathomable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "obscure",
+        "difference": "obscure means something is hidden away or not well known; opaque means the text or substance itself actively blocks light or understanding."
+      }
+    ],
+    "antonyms": [
+      "transparent",
+      "clear",
+      "translucent"
+    ],
+    "word_family": [
+      {
+        "word": "opaque",
+        "pos": "adjective"
+      },
+      {
+        "word": "opacity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 287,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "opulent",
+    "pos": "adjective",
+    "phonetic": "/ˈɑːpjələnt/",
+    "definition": "Ostentatiously rich and luxurious or lavish.",
+    "definition_zh": "豪華的；富裕的；豐裕的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ops",
+          "origin": "Latin",
+          "meaning": "wealth, power, resources",
+          "meaning_zh": "財富、力量、資源"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OPS（財富、資源）→ 擁有極為龐大的資源和金錢展示",
+      "story_en": "The palace featured OPULENT golden walls, demonstrating the king's unmatched OPS (wealth).",
+      "story_zh": "宮殿內部有著「豪華的（OPULENT）」金牆，展示了國王無可比擬的「財富（OPS）」。",
+      "emojis": [
+        "🏰",
+        "💎",
+        "👑"
+      ]
+    },
+    "example": "The movie mogul lived an opulent lifestyle, flying in private jets and owning multiple villas around the world.",
+    "example_zh": "這位電影大亨過著奢侈的生活，乘坐私人飛機，並在世界各地擁有多棟別墅。",
+    "collocations": [
+      "opulent lifestyle",
+      "opulent palace",
+      "opulent banquet",
+      "opulent surroundings",
+      "lavish and opulent"
+    ],
+    "synonyms": [
+      "luxurious",
+      "sumptuous",
+      "palatial",
+      "wealthy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "lavish",
+        "difference": "lavish emphasizes the act of spending heavily and giving generously; opulent emphasizes the passive, visible display of massive material luxury and wealth."
+      }
+    ],
+    "antonyms": [
+      "impoverished",
+      "poor",
+      "austere"
+    ],
+    "word_family": [
+      {
+        "word": "opulence",
+        "pos": "noun"
+      },
+      {
+        "word": "opulent",
+        "pos": "adjective"
+      },
+      {
+        "word": "opulently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 288,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "social",
+      "art"
+    ]
+  },
+  {
+    "word": "orthodoxy",
+    "pos": "noun",
+    "phonetic": "/ˈɔːrθədɑːksi/",
+    "definition": "Authorized or generally accepted theory, doctrine, or practice, especially in religion or politics.",
+    "definition_zh": "正統觀念；正教；公認的做法",
+    "etymology": {
+      "roots": [
+        {
+          "root": "orthos",
+          "origin": "Greek",
+          "meaning": "straight, correct",
+          "meaning_zh": "筆直的、正確的"
+        },
+        {
+          "root": "doxa",
+          "origin": "Greek",
+          "meaning": "opinion, praise",
+          "meaning_zh": "觀點、讚美"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ORTHOS（正確）+ DOXA（觀點）→ 符合「正確、官方正統」的觀點",
+      "story_en": "The academic was punished for challenging the economic ORTHODOXY, which dictated the only orthos (correct) doxa (opinion).",
+      "story_zh": "這位學者因挑戰經濟學的「正統觀念（ORTHODOXY）」而受到懲罰，該觀念規定了唯一「正確（ORTHOS）」的「觀點（DOXA）」。",
+      "emojis": [
+        "⛪",
+        "📜",
+        "🏛️"
+      ]
+    },
+    "example": "The young economist challenged the political orthodoxy of the time, proposing radical market reforms.",
+    "example_zh": "這位年輕的經濟學家挑戰了當時的正統政治觀念，提出了激進的市場改革方案。",
+    "collocations": [
+      "economic orthodoxy",
+      "challenge the orthodoxy",
+      "religious orthodoxy",
+      "political orthodoxy",
+      "rigid orthodoxy"
+    ],
+    "synonyms": [
+      "dogma",
+      "doctrine",
+      "conformity",
+      "traditionalism"
+    ],
+    "near_synonyms": [
+      {
+        "word": "dogma",
+        "difference": "dogma carries a highly critical connotation of uncritical, blind belief demanded by an authority; orthodoxy simply denotes the standard, officially accepted tradition."
+      }
+    ],
+    "antonyms": [
+      "heterodoxy",
+      "heresy",
+      "unconventionality"
+    ],
+    "word_family": [
+      {
+        "word": "orthodox",
+        "pos": "adjective"
+      },
+      {
+        "word": "orthodoxy",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 289,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "ostentatious",
+    "pos": "adjective",
+    "phonetic": "/ˌɑːstənˈteɪʃəs/",
+    "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+    "definition_zh": "炫耀的；賣弄的；鋪張的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ostendere",
+          "origin": "Latin",
+          "meaning": "to show, display",
+          "meaning_zh": "展示"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "OSTENDERE（展示）→ 拼命想展示、拿出來秀給別人看以吸引注意力",
+      "story_en": "Wearing a diamond suit was OSTENTATIOUS, meant purely to ostendere (show off) wealth to the crowd.",
+      "story_zh": "穿著鑽石西裝是非常「炫耀賣弄的（OSTENTATIOUS）」行為，純粹是為了向人群「展示（OSTENDERE）」財富。",
+      "emojis": [
+        "🦚",
+        "💎",
+        "🏎️"
+      ]
+    },
+    "example": "The tycoon built an ostentatious mansion that completely overshadowed the modest houses in the neighborhood.",
+    "example_zh": "這位大亨建造了一座炫耀張揚的豪宅，讓社區裡其他樸素的房子相形失色。",
+    "collocations": [
+      "ostentatious display",
+      "ostentatious wealth",
+      "avoid ostentatious",
+      "ostentatious style",
+      "rather ostentatious"
+    ],
+    "synonyms": [
+      "pretentious",
+      "showy",
+      "flamboyant",
+      "gaudy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "showy",
+        "difference": "showy is an everyday word for bright things that attract notice; ostentatious implies a heavy, deliberate social pretension meant to establish superiority."
+      },
+      {
+        "word": "flamboyant",
+        "difference": "flamboyant describes a colorful, high-energy personality or style that is genuinely expressive rather than purely showing off wealth."
+      }
+    ],
+    "antonyms": [
+      "modest",
+      "unpretentious",
+      "understated"
+    ],
+    "word_family": [
+      {
+        "word": "ostentation",
+        "pos": "noun"
+      },
+      {
+        "word": "ostentatious",
+        "pos": "adjective"
+      },
+      {
+        "word": "ostentatiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 290,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "social",
+      "art"
+    ]
+  },
+  {
+    "word": "pacify",
+    "pos": "verb",
+    "phonetic": "/ˈpæsɪfaɪ/",
+    "definition": "To quell the anger, agitation, or excitement of someone; to bring peace to a country or warring factions.",
+    "definition_zh": "平息；撫慰；使平靜；綏靖",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pax",
+          "origin": "Latin",
+          "meaning": "peace",
+          "meaning_zh": "和平"
+        },
+        {
+          "root": "facere",
+          "origin": "Latin",
+          "meaning": "to make",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PAX（和平）+ FACERE（做）→ 採取行動，製造和平的狀態",
+      "story_en": "The diplomat managed to PACIFY the angry rioters, making (facere) a temporary pax (peace) contract.",
+      "story_zh": "外交官成功「平息（PACIFY）」了憤怒的暴動者，製造了（FACERE）一個短暫的「和平（PAX）」協議。",
+      "emojis": [
+        "🕊️",
+        "🤫",
+        "👶"
+      ]
+    },
+    "example": "The government sent troops to pacify the rebellious province and restore law and order.",
+    "example_zh": "政府派兵前去平息反叛的省份，以恢復法律與秩序。",
+    "collocations": [
+      "pacify a crying baby",
+      "pacify angry customers",
+      "pacify the rebels",
+      "seek to pacify",
+      "pacify critics"
+    ],
+    "synonyms": [
+      "appease",
+      "placate",
+      "mollify",
+      "soothe"
+    ],
+    "near_synonyms": [
+      {
+        "word": "appease",
+        "difference": "appease carries a historical negative nuance of giving in to an aggressor's unfair demands out of weakness or fear."
+      },
+      {
+        "word": "placate",
+        "difference": "placate focuses strictly on altering an individual's psychological state of anger or resentment through kind gestures."
+      }
+    ],
+    "antonyms": [
+      "provoke",
+      "incite",
+      "enrage"
+    ],
+    "word_family": [
+      {
+        "word": "peace",
+        "pos": "noun"
+      },
+      {
+        "word": "pacify",
+        "pos": "verb"
+      },
+      {
+        "word": "pacifist",
+        "pos": "noun"
+      },
+      {
+        "word": "pacification",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 291,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "history"
+    ]
+  },
+  {
+    "word": "painstaking",
+    "pos": "adjective",
+    "phonetic": "/ˈpeɪnzteɪkɪŋ/",
+    "definition": "Done with or employing great care and thoroughness; involving hard, meticulous work.",
+    "definition_zh": "煞費苦心的；精細的；辛苦的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pain",
+          "origin": "Old English",
+          "meaning": "suffering, punishment",
+          "meaning_zh": "痛苦"
+        },
+        {
+          "root": "take",
+          "origin": "Old Norse",
+          "meaning": "to grasp, accept",
+          "meaning_zh": "拿取、承擔"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PAIN（痛苦）+ TAKING（承擔）→ 願意承擔、忍受極大的麻煩與「痛苦」去完成精細的工作",
+      "story_en": "Restoring the ancient painting required PAINSTAKING labor, taking the pain of matching every millimeter.",
+      "story_zh": "修復這幅古畫需要「煞費苦心的（PAINSTAKING）」勞動，必須承受精密對齊每一毫米的痛苦與繁瑣。",
+      "emojis": [
+        "🎨",
+        "🧐",
+        "🧱"
+      ]
+    },
+    "example": "After months of painstaking research, the historians finally uncovered the identity of the mysterious author.",
+    "example_zh": "經過數月煞費苦心的研究，歷史學家們終於揭開了這位神秘作者的身份。",
+    "collocations": [
+      "painstaking work",
+      "painstaking accuracy",
+      "painstaking detail",
+      "painstaking investigation",
+      "highly painstaking"
+    ],
+    "synonyms": [
+      "meticulous",
+      "thorough",
+      "scrupulous",
+      "industrious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "meticulous",
+        "difference": "meticulous emphasizes a cognitive focus on microscopic precision and logic; painstaking emphasizes the sheer physical or mental stamina and exhaustion needed."
+      }
+    ],
+    "antonyms": [
+      "careless",
+      "slapdash",
+      "negligent"
+    ],
+    "word_family": [
+      {
+        "word": "painstaking",
+        "pos": "adjective"
+      },
+      {
+        "word": "painstakingly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 292,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "history"
+    ]
+  },
+  {
+    "word": "panacea",
+    "pos": "noun",
+    "phonetic": "/ˌpænəˈsiːə/",
+    "definition": "A solution or remedy for all difficulties or diseases; a universal cure.",
+    "definition_zh": "萬靈藥；解決萬事的奇方",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pan",
+          "origin": "Greek",
+          "meaning": "all",
+          "meaning_zh": "全、所有"
+        },
+        {
+          "root": "akos",
+          "origin": "Greek",
+          "meaning": "cure, remedy",
+          "meaning_zh": "治療、治癒"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PAN（所有）+ AKOS（治療）→ 可以治療所有一切疾病的藥方",
+      "story_en": "The fraud sold a chemical fluid as a PANACEA, promising it would cure (akos) pan (all) body pain.",
+      "story_zh": "騙子將一種化學液體當作「萬靈藥（PANACEA）」販賣，承諾它能「治癒（AKOS）」「所有（PAN）」身體疼痛。",
+      "emojis": [
+        "🧪",
+        "🔮",
+        "🩹"
+      ]
+    },
+    "example": "Technology is a useful tool, but it should not be viewed as a panacea for all educational problems.",
+    "example_zh": "技術是一個有用的工具，但不應被視為解決所有教育問題的萬靈藥。",
+    "collocations": [
+      "not a panacea",
+      "universal panacea",
+      "panacea for all ills",
+      "economic panacea",
+      "seek a panacea"
+    ],
+    "synonyms": [
+      "cure-all",
+      "universal remedy",
+      "magic bullet"
+    ],
+    "near_synonyms": [
+      {
+        "word": "nostrum",
+        "difference": "nostrum refers specifically to an ineffective, fake patent medicine pushed by a quack doctor; panacea is a general conceptual term for a universal solution."
+      }
+    ],
+    "antonyms": [],
+    "word_family": [
+      {
+        "word": "panacea",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 293,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "politics"
+    ]
+  },
+  {
+    "word": "paradigmatic",
+    "pos": "adjective",
+    "phonetic": "/ˌpærədɪɡˈmætɪk/",
+    "definition": "Serving as a typical example or pattern of something; traditional model.",
+    "definition_zh": "典範的；作為樣板的；詞形變化的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "para",
+          "origin": "Greek",
+          "meaning": "beside",
+          "meaning_zh": "在……旁邊"
+        },
+        {
+          "root": "deiknynai",
+          "origin": "Greek",
+          "meaning": "to show",
+          "meaning_zh": "展示"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PARA（旁邊）+ DEIKNYNAI（展示）→ 擺在旁邊展示給眾人看，作為效法的標準模範",
+      "story_en": "The case was PARADIGMATIC; the teacher kept it beside (para) the board to show (deiknynai) the ideal essay structure.",
+      "story_zh": "這個案例是「典範的（PARADIGMATIC）」；老師把它放在黑板「旁邊（PARA）」，向大家「展示（DEIKNYNAI）」理想的文章結構。",
+      "emojis": [
+        "📊",
+        "🎯",
+        "🏛️"
+      ]
+    },
+    "example": "The rise of Silicon Valley is often cited as the paradigmatic case of a successful tech innovation hub.",
+    "example_zh": "矽谷的崛起經常被引用為成功科技創新中心的一個典範案例。",
+    "collocations": [
+      "paradigmatic example",
+      "paradigmatic shift",
+      "paradigmatic status",
+      "paradigmatic case",
+      "highly paradigmatic"
+    ],
+    "synonyms": [
+      "exemplary",
+      "archetypal",
+      "prototypical",
+      "standard"
+    ],
+    "near_synonyms": [
+      {
+        "word": "exemplary",
+        "difference": "exemplary highlights high moral praise and quality that is worthy of being copied; paradigmatic is a neutral academic description of an industry pattern or macro structural model."
+      }
+    ],
+    "antonyms": [
+      "anomalous",
+      "atypical",
+      "unique"
+    ],
+    "word_family": [
+      {
+        "word": "paradigm",
+        "pos": "noun"
+      },
+      {
+        "word": "paradigmatic",
+        "pos": "adjective"
+      },
+      {
+        "word": "paradigmatically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 294,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "paramount",
+    "pos": "adjective",
+    "phonetic": "/ˈpærəmaʊnt/",
+    "definition": "More important than anything else; supreme; having supreme power.",
+    "definition_zh": "至高無上的；最卓越的；首要的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Anglo-French",
+          "meaning": "through, thoroughly",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "amont",
+          "origin": "Anglo-French",
+          "meaning": "upward, to the top",
+          "meaning_zh": "向上、頂端"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AMONT（頂端）→ 一路向上直達最顛峰，超越所有其他事物",
+      "story_en": "In mountain climbing, safety is PARAMOUNT, placed at the absolute top (amont) above speed.",
+      "story_zh": "在登山中，安全是「首要的（PARAMONT）」，被置於絕對的「頂端（AMONT）」，重要性超越速度。",
+      "emojis": [
+        "🏔️",
+        "👑",
+        "🎯"
+      ]
+    },
+    "example": "During a crisis, protecting public health and safety is of paramount importance to the government.",
+    "example_zh": "在危機期間，保護公眾健康與安全對政府而言具有至高無上的重要性。",
+    "collocations": [
+      "paramount importance",
+      "paramount consideration",
+      "paramount concern",
+      "of paramount interest",
+      "remain paramount"
+    ],
+    "synonyms": [
+      "supreme",
+      "uppermost",
+      "foremost",
+      "predominant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "essential",
+        "difference": "essential means absolutely necessary for a system to work; paramount means holding the single highest priority rank among multiple choices."
+      }
+    ],
+    "antonyms": [
+      "minor",
+      "trivial",
+      "subordinate"
+    ],
+    "word_family": [
+      {
+        "word": "paramountcy",
+        "pos": "noun"
+      },
+      {
+        "word": "paramount",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 295,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "parsimonious",
+    "pos": "adjective",
+    "phonetic": "/ˌpɑːrsɪˈmoʊniəs/",
+    "definition": "Very unwilling to spend money or use resources; stingy or frugal to an extreme degree.",
+    "definition_zh": "吝嗇的；過於儉省的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "parcere",
+          "origin": "Latin",
+          "meaning": "to spare",
+          "meaning_zh": "放過、節省"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PARCERE（節省）→ 每一分錢都要刻意節省下來、不肯花出去",
+      "story_en": "The PARSIMONIOUS landlord refused to fix the heater to parcere (spare) his cash.",
+      "story_zh": "這位「吝嗇的（PARSIMONIOUS）」房東拒絕修理暖氣，只是為了「省下（PARCERE）」他的現金。",
+      "emojis": [
+        "💰",
+        "🙅",
+        "📉"
+      ]
+    },
+    "example": "The company's parsimonious attitude toward employee benefits led to widespread low morale.",
+    "example_zh": "公司對員工福利過於吝嗇的態度導致了普遍的士氣低落。",
+    "collocations": [
+      "parsimonious budget",
+      "parsimonious nature",
+      "extremely parsimonious",
+      "parsimonious employer",
+      "frugal and parsimonious"
+    ],
+    "synonyms": [
+      "stingy",
+      "miserly",
+      "penurious",
+      "frugal"
+    ],
+    "near_synonyms": [
+      {
+        "word": "frugal",
+        "difference": "frugal is a positive descriptor for someone who is wise and careful with expenditures; parsimonious is critical, implying stinginess that hurts others or degrades quality."
+      },
+      {
+        "word": "miserly",
+        "difference": "miserly implies an intense psychological hoarding of money purely to love the cash itself, accompanied by poor living conditions."
+      }
+    ],
+    "antonyms": [
+      "generous",
+      "extravagant",
+      "lavish"
+    ],
+    "word_family": [
+      {
+        "word": "parsimony",
+        "pos": "noun"
+      },
+      {
+        "word": "parsimonious",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 296,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "business",
+      "GRE"
+    ]
+  },
+  {
+    "word": "partisan",
+    "pos": "noun / adjective",
+    "phonetic": "/ˈpɑːrtəzn/",
+    "definition": "A strong supporter of a party, cause, or person, especially one showing biased, uncritical allegiance.",
+    "definition_zh": "狂熱的支持者；黨派偏見的 / 盲目支持的；偏袒的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pars / part",
+          "origin": "Latin",
+          "meaning": "part, share",
+          "meaning_zh": "部分、派別"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PART（部分、派別）→ 只站在自己所屬的「這一派（part）」，完全失去客觀中立",
+      "story_en": "The journalist's report was highly PARTISAN, taking the side of his political part (faction) blindly.",
+      "story_zh": "該記者的報導帶有強烈的「黨派偏見（PARTISAN）」，盲目地站在自己政治「派別（PART）」那邊。",
+      "emojis": [
+        "🤼",
+        "🗳️",
+        "🚩"
+      ]
+    },
+    "example": "The newspapers offered highly partisan accounts of the debate, each claiming their own candidate won.",
+    "example_zh": "報紙對這場辯論進行了帶有強烈黨派偏見的報導，各自聲稱自己的候選人贏了。",
+    "collocations": [
+      "partisan politics",
+      "highly partisan",
+      "bipartisan support",
+      "partisan bias",
+      "fierce partisan warfare"
+    ],
+    "synonyms": [
+      "biased",
+      "prejudiced",
+      "fractional",
+      "sectarian"
+    ],
+    "near_synonyms": [
+      {
+        "word": "biased",
+        "difference": "biased is a generic term for any personal preference or psychological leaning; partisan specifically implies formal political alignment or group faction conflict."
+      }
+    ],
+    "antonyms": [
+      "impartial",
+      "neutral",
+      "bipartisan"
+    ],
+    "word_family": [
+      {
+        "word": "party",
+        "pos": "noun"
+      },
+      {
+        "word": "partisan",
+        "pos": "noun / adjective"
+      },
+      {
+        "word": "partisanship",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 297,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ]
+  },
+  {
+    "word": "pathological",
+    "pos": "adjective",
+    "phonetic": "/ˌpæθəˈlɑːdʒɪkl/",
+    "definition": "Involving, caused by, or of the nature of a physical or mental disease. In daily speech, it describes a behavior that is compulsive and obsessive.",
+    "definition_zh": "病理學的；病態的；無法控制的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pathos",
+          "origin": "Greek",
+          "meaning": "suffering, disease",
+          "meaning_zh": "痛苦、疾病"
+        },
+        {
+          "root": "logia",
+          "origin": "Greek",
+          "meaning": "study of",
+          "meaning_zh": "研究"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PATHOS（疾病）+ LOGIA（研究）→ 有關身體或心理「疾病」狀態的",
+      "story_en": "His lying became PATHOLOGICAL, a mental pathos (disease) that he could no longer study or control.",
+      "story_zh": "他的說謊行為已經變成了「病態的（PATHOLOGICAL）」，這是一種他自己都無法控制的心理「疾病（PATHOS）」。",
+      "emojis": [
+        "🧠",
+        "🔬",
+        "🤥"
+      ]
+    },
+    "example": "He is a pathological liar who invents elaborate stories about his past achievements without any guilt.",
+    "example_zh": "他是一個病態的說謊者，會為自己過去的成就編造出複雜的故事且毫無愧疚感。",
+    "collocations": [
+      "pathological liar",
+      "pathological fear",
+      "pathological changes",
+      "pathological laboratory",
+      "pathological obsession"
+    ],
+    "synonyms": [
+      "diseased",
+      "morbid",
+      "compulsive",
+      "obsessive"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compulsive",
+        "difference": "compulsive refers strictly to an uncontrollable psychological urge to perform an action repetitively; pathological implies that the behavior is so severe it acts as a clinical, diagnostic disease."
+      }
+    ],
+    "antonyms": [
+      "healthy",
+      "normal",
+      "wholesome"
+    ],
+    "word_family": [
+      {
+        "word": "pathos",
+        "pos": "noun"
+      },
+      {
+        "word": "pathology",
+        "pos": "noun"
+      },
+      {
+        "word": "pathological",
+        "pos": "adjective"
+      },
+      {
+        "word": "pathologically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 298,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "psychology"
+    ]
+  },
+  {
+    "word": "paucity",
+    "pos": "noun",
+    "phonetic": "/ˈpɔːsəti/",
+    "definition": "The presence of something only in small or insufficient quantities or amounts; scarcity.",
+    "definition_zh": "缺乏；貧乏；少量",
+    "etymology": {
+      "roots": [
+        {
+          "root": "paucus",
+          "origin": "Latin",
+          "meaning": "few, little",
+          "meaning_zh": "很少、微少"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PAUCUS（少）→ 數量稀少、完全不夠用的狀態",
+      "story_en": "The court dismissed the case due to a PAUCITY of evidence, finding only a paucis (few) traces.",
+      "story_zh": "由於證據「匱乏（PAUCITY）」，法院駁回了此案，現場只找到了「極少（PAUCUS）」的痕跡。",
+      "emojis": [
+        "📉",
+        "🪹",
+        "⚪"
+      ]
+    },
+    "example": "There is a paucity of reliable data regarding the long-term health risks of the new chemical compound.",
+    "example_zh": "關於這種新化合物的長期健康風險，目前缺乏可靠的數據。",
+    "collocations": [
+      "paucity of information",
+      "paucity of evidence",
+      "relative paucity",
+      "severe paucity",
+      "paucity of resources"
+    ],
+    "synonyms": [
+      "scarcity",
+      "dearth",
+      "shortage",
+      "insufficiency"
+    ],
+    "near_synonyms": [
+      {
+        "word": "scarcity",
+        "difference": "scarcity implies an economic market condition where a high demand faces a limited supply; paucity is a formal academic term for a generic, distinct lack of items or qualitative data."
+      },
+      {
+        "word": "dearth",
+        "difference": "dearth often suggests a costly or disastrous lack of something that was previously abundant, like food during a famine."
+      }
+    ],
+    "antonyms": [
+      "abundance",
+      "surplus",
+      "plethora"
+    ],
+    "word_family": [
+      {
+        "word": "paucity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 299,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "peccadillo",
+    "pos": "noun",
+    "phonetic": "/ˌpekəˈdɪloʊ/",
+    "definition": "A small, relatively unimportant offense or sin.",
+    "definition_zh": "小過失；小瑕疵；無傷大雅的缺點",
+    "etymology": {
+      "roots": [
+        {
+          "root": "peccare",
+          "origin": "Latin",
+          "meaning": "to sin",
+          "meaning_zh": "犯錯、犯罪"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PECCARE（犯錯）+ ILLOS（西班牙語小綴詞）→ 犯了一個非常「小」的錯誤",
+      "story_en": "The politician's critics tried to turn his youthful PECCADILLO into a massive crime, though it was just a tiny mistake (peccare).",
+      "story_zh": "批評者試圖將這位政治家年輕時的「小過失（PECCADILLO）」擴大為大罪，儘管那只是一個微小的「犯錯（PECCARE）」行為。",
+      "emojis": [
+        "👌",
+        "🪵",
+        "🦎"
+      ]
+    },
+    "example": "The manager chose to overlook his star employee's occasional peccadilloes, such as arriving ten minutes late.",
+    "example_zh": "經理選擇忽略他明星員工偶爾的小過失，比如遲到十分鐘。",
+    "collocations": [
+      "youthful peccadillo",
+      "minor peccadillo",
+      "overlook a peccadillo",
+      "personal peccadillo",
+      "mere peccadillo"
+    ],
+    "synonyms": [
+      "misdemeanor",
+      "indiscretion",
+      "infraction",
+      "small fault"
+    ],
+    "near_synonyms": [
+      {
+        "word": "crime",
+        "difference": "crime refers to a serious violation of formal statutory laws carrying heavy punishment; peccadillo refers to a minor social or moral slip that harms almost no one."
+      },
+      {
+        "word": "indiscretion",
+        "difference": "indiscretion implies a small failure in social judgment or tact, often regarding secrets or romance."
+      }
+    ],
+    "antonyms": [
+      "felony",
+      "cardinal sin",
+      "grave crime"
+    ],
+    "word_family": [
+      {
+        "word": "impeccable",
+        "pos": "adjective"
+      },
+      {
+        "word": "peccadillo",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 300,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "law",
+      "GRE"
+    ]
+  }
+]

@@ -1,0 +1,3920 @@
+[
+  {
+    "word": "perceptive",
+    "pos": "adjective",
+    "phonetic": "/pərˈseptɪv/",
+    "definition": "Having or showing sensitive insight, keen intelligence, and an ability to notice or understand things quickly that are not obvious to others.",
+    "definition_zh": "敏銳的；洞察力強的；知覺的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "thoroughly, completely",
+          "meaning_zh": "徹底、完全"
+        },
+        {
+          "root": "cap / cept",
+          "origin": "Latin",
+          "meaning": "to take, seize, grasp",
+          "meaning_zh": "拿、抓、理解"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（徹底）+ CEPT（抓住）→ 徹底抓住事物的核心本質",
+      "story_en": "The PERCEPTIVE researcher was able to PER (thoroughly) CEPT (grasp) the hidden trends that others missed completely.",
+      "story_zh": "那位「敏銳的（PERCEPTIVE）」研究員能夠徹底（PER）抓住（CEPT）大眾完全忽略的隱藏趨勢。",
+      "emojis": [
+        "👁️",
+        "💡",
+        "🧠"
+      ]
+    },
+    "example": "Her perceptive analysis of the psychological trauma of war survivors earned her international recognition.",
+    "example_zh": "她對戰爭倖存者心理創傷的敏銳分析為她贏得了國際認可。",
+    "collocations": [
+      "perceptive analysis",
+      "highly perceptive",
+      "perceptive observation",
+      "perceptive comment",
+      "perceptive individual"
+    ],
+    "synonyms": [
+      "insightful",
+      "discerning",
+      "astute",
+      "penetrating"
+    ],
+    "near_synonyms": [
+      {
+        "word": "observant",
+        "difference": "observant focus on paying attention to external details; perceptive implies deeper analytical insight beyond mere seeing."
+      },
+      {
+        "word": "intelligent",
+        "difference": "intelligent refers to general mental capability; perceptive highlights specialized sensitivity to subtle nuances."
+      }
+    ],
+    "antonyms": [
+      "unperceptive",
+      "obtuse",
+      "oblivious"
+    ],
+    "word_family": [
+      {
+        "word": "perceive",
+        "pos": "verb"
+      },
+      {
+        "word": "perception",
+        "pos": "noun"
+      },
+      {
+        "word": "perceptive",
+        "pos": "adjective"
+      },
+      {
+        "word": "perceptively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 301,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "psychology"
+    ]
+  },
+  {
+    "word": "perennial",
+    "pos": "adjective",
+    "phonetic": "/pəˈreniəl/",
+    "definition": "Lasting or existing for a long or apparently infinite time; enduring or continually recurring year after year.",
+    "definition_zh": "終年的；長期的；不斷髮生的；（植物）多年生的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through, throughout",
+          "meaning_zh": "穿過、貫穿"
+        },
+        {
+          "root": "ann / enn",
+          "origin": "Latin",
+          "meaning": "year",
+          "meaning_zh": "年"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（貫穿）+ ENN（年）→ 貫穿一整年，年年如此",
+      "story_en": "The PERENNIAL water shortage issue has troubled the town PER (throughout) every ENN (year) for a decade.",
+      "story_zh": "這個「長期的（PERENNIAL）」缺水問題，在過去十年中貫穿（PER）了每一「年（ENN）」困擾著小鎮。",
+      "emojis": [
+        "🔄",
+        "🌱",
+        "⏳"
+      ]
+    },
+    "example": "Traffic congestion remains a perennial problem for major metropolitan areas around the world.",
+    "example_zh": "交通擁堵依然是全球各大都會區長期存在且無法徹底解決的問題。",
+    "collocations": [
+      "perennial problem",
+      "perennial favorite",
+      "perennial source",
+      "perennial plant",
+      "perennial debate"
+    ],
+    "synonyms": [
+      "enduring",
+      "perpetual",
+      "ceaseless",
+      "chronic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "eternal",
+        "difference": "eternal relates to timelessness outside of time; perennial refers to something that recurs or lasts continuously within human time or seasons."
+      },
+      {
+        "word": "annual",
+        "difference": "annual means happening once every year; perennial means lasting through multiple years continuously."
+      }
+    ],
+    "antonyms": [
+      "ephemeral",
+      "transient",
+      "fleeting"
+    ],
+    "word_family": [
+      {
+        "word": "perennial",
+        "pos": "adjective"
+      },
+      {
+        "word": "perennially",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 302,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "perfidy",
+    "pos": "noun",
+    "phonetic": "/ˈpɜːrfədi/",
+    "definition": "The deliberate breach of faith or trust; deceitfulness and untrustworthiness.",
+    "definition_zh": "不義；背信棄義；背叛行為",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "ill, detrimental, away (perverted use)",
+          "meaning_zh": "走偏、壞、毀壞"
+        },
+        {
+          "root": "fid",
+          "origin": "Latin",
+          "meaning": "faith, trust",
+          "meaning_zh": "信任、信仰"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（毀壞）+ FID（信任）→ 毀壞信任，做出背叛的勾當",
+      "story_en": "The advisor's PERFIDY was exposed when he went PER (against) his oath of FID (faith) and sold secrets to the enemy.",
+      "story_zh": "這位顧問的「背叛（PERFIDY）」在非正當（PER）對待其「信任（FID）」誓言、將祕密賣給敵方時被揭發。",
+      "emojis": [
+        "🗡️",
+        "💔",
+        "🎭"
+      ]
+    },
+    "example": "The general was shocked by the sheer perfidy of his closest ally, who defected at the climax of the battle.",
+    "example_zh": "將軍對他最親密盟友的背信棄義感到震驚，後者在戰鬥的高潮階段倒戈了。",
+    "collocations": [
+      "act of perfidy",
+      "sheer perfidy",
+      "political perfidy",
+      "accuse of perfidy",
+      "unparalleled perfidy"
+    ],
+    "synonyms": [
+      "treachery",
+      "betrayal",
+      "duplicity",
+      "infidelity"
+    ],
+    "near_synonyms": [
+      {
+        "word": "disloyalty",
+        "difference": "disloyalty is a passive failure to be loyal; perfidy implies active, calculated deception and breach of trust."
+      }
+    ],
+    "antonyms": [
+      "fidelity",
+      "loyalty",
+      "faithfulness"
+    ],
+    "word_family": [
+      {
+        "word": "perfidy",
+        "pos": "noun"
+      },
+      {
+        "word": "perfidious",
+        "pos": "adjective"
+      },
+      {
+        "word": "perfidiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 303,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "GRE",
+      "history"
+    ]
+  },
+  {
+    "word": "perfunctory",
+    "pos": "adjective",
+    "phonetic": "/pərˈfʌŋktəri/",
+    "definition": "Carried out with a minimum of effort or reflection; done merely as a matter of routine or duty without real interest or care.",
+    "definition_zh": "敷衍的；例行公事的；馬虎的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through, thoroughly",
+          "meaning_zh": "穿過、過度"
+        },
+        {
+          "root": "funct",
+          "origin": "Latin",
+          "meaning": "to perform, execute",
+          "meaning_zh": "履行、執行"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（虛晃過去）+ FUNCT（執行）→ 只是流於形式地做完，毫無誠意",
+      "story_en": "He gave a PERFUNCTORY nod to PER (through) the crowd and quickly FUNCT (performed) his duty before leaving early.",
+      "story_zh": "他「敷衍地（PERFUNCTORY）」對群眾點了點頭，走個過場（PER）並匆匆履行（FUNCT）完職責就提早離場。",
+      "emojis": [
+        "🥱",
+        "🙄",
+        "📋"
+      ]
+    },
+    "example": "The security guards gave the bags a perfunctory glance rather than a thorough inspection.",
+    "example_zh": "保安人員只是敷衍地看了一眼那些提包，而沒有進行徹底的檢查。",
+    "collocations": [
+      "perfunctory nod",
+      "perfunctory glance",
+      "perfunctory response",
+      "in a perfunctory manner",
+      "perfunctory inspection"
+    ],
+    "synonyms": [
+      "cursory",
+      "superficial",
+      "mechanical",
+      "token"
+    ],
+    "near_synonyms": [
+      {
+        "word": "careless",
+        "difference": "careless refers to a general lack of attention; perfunctory emphasizes a strict adherence to boring routine without any enthusiasm."
+      }
+    ],
+    "antonyms": [
+      "thorough",
+      "meticulous",
+      "diligent"
+    ],
+    "word_family": [
+      {
+        "word": "perfunctory",
+        "pos": "adjective"
+      },
+      {
+        "word": "perfunctorily",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 304,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ]
+  },
+  {
+    "word": "perilous",
+    "pos": "adjective",
+    "phonetic": "/ˈperələs/",
+    "definition": "Full of danger, risk, or extreme vulnerability to destruction and injury.",
+    "definition_zh": "危險的；冒險的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "peri",
+          "origin": "Latin / Greek",
+          "meaning": "trial, attempt, danger",
+          "meaning_zh": "嘗試、試驗、危險"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PERI（危險、試煉）→ 面臨極大的生死考驗",
+      "story_en": "Crossing the collapsing rope bridge during a storm was a PERILOUS journey full of immediate PERIL.",
+      "story_zh": "暴風雨中穿越坍塌的繩橋是一段極度「危險的（PERILOUS）」旅程，充滿了（PERIL）致命危機。",
+      "emojis": [
+        "⚠️",
+        "🌋",
+        "🧗"
+      ]
+    },
+    "example": "The refugees embarked on a perilous journey across the stormy sea in a fragile wooden boat.",
+    "example_zh": "難民們乘坐一艘脆弱的木船，踏上了穿過狂風暴雨之海的危險旅程。",
+    "collocations": [
+      "perilous journey",
+      "perilous situation",
+      "perilous adventure",
+      "highly perilous",
+      "perilous waters"
+    ],
+    "synonyms": [
+      "hazardous",
+      "precarious",
+      "treacherous",
+      "risky"
+    ],
+    "near_synonyms": [
+      {
+        "word": "dangerous",
+        "difference": "dangerous is the general word for unsafe; perilous is a more literary or high-level term emphasizing imminent and severe risk of disaster."
+      }
+    ],
+    "antonyms": [
+      "safe",
+      "secure",
+      "harmless"
+    ],
+    "word_family": [
+      {
+        "word": "peril",
+        "pos": "noun"
+      },
+      {
+        "word": "perilous",
+        "pos": "adjective"
+      },
+      {
+        "word": "perilously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 305,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "TOEFL",
+      "academic"
+    ]
+  },
+  {
+    "word": "permeate",
+    "pos": "verb",
+    "phonetic": "/ˈpɜːrmieɪt/",
+    "definition": "To spread, flow, or diffuse throughout all parts of something; to saturate or penetrate every corner.",
+    "definition_zh": "滲透；擴散；瀰漫；充滿",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through",
+          "meaning_zh": "穿過"
+        },
+        {
+          "root": "meare",
+          "origin": "Latin",
+          "meaning": "to pass, go",
+          "meaning_zh": "通過、流動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（穿過）+ MEARE（流動）→ 液體或氣體完全穿過並滲入物體內部",
+      "story_en": "The scent of fresh coffee began to PERMEATE the office, moving PER (through) every cubicle as the aroma MEARE (passed).",
+      "story_zh": "新鮮咖啡的香味開始「瀰漫（PERMEATE）」辦公室，穿過（PER）每個隔間並在其中流動（MEARE）。",
+      "emojis": [
+        "💧",
+        "💨",
+        "☕"
+      ]
+    },
+    "example": "A sense of deep cynicism and distrust began to permeate the political discourse before the election.",
+    "example_zh": "在大選前，一股深深的憤世嫉俗與不信任感開始瀰漫在政治論述中。",
+    "collocations": [
+      "permeate the atmosphere",
+      "permeate society",
+      "completely permeate",
+      "permeate through",
+      "permeate the market"
+    ],
+    "synonyms": [
+      "pervade",
+      "saturate",
+      "infuse",
+      "penetrate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "soak",
+        "difference": "soak applies strictly to physical liquids absorbing into solids; permeate can apply to smells, ideas, and abstract emotions."
+      }
+    ],
+    "antonyms": [
+      "repel",
+      "exclude",
+      "isolate"
+    ],
+    "word_family": [
+      {
+        "word": "permeate",
+        "pos": "verb"
+      },
+      {
+        "word": "permeable",
+        "pos": "adjective"
+      },
+      {
+        "word": "permeation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 306,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "pernicious",
+    "pos": "adjective",
+    "phonetic": "/pərˈnɪʃəs/",
+    "definition": "Having a harmful, subtle, or destructive effect, especially in a gradual, hidden, or unnoticeable way over time.",
+    "definition_zh": "有害的；致命的；惡性的（尤指隱蔽、漸進的危害）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "thoroughly, completely",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "nex / necis",
+          "origin": "Latin",
+          "meaning": "death, slaughter",
+          "meaning_zh": "死亡、殺戮"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（徹底）+ NIC（殺戮、致命）→ 帶來極為隱密而徹底的毀滅",
+      "story_en": "Fake news has a PERNICIOUS impact on democracy, as it PER (thoroughly) brings about the death (NECIS) of objective truth.",
+      "story_zh": "假新聞對民主具有「有害的（PERNICIOUS）」影響，因為它徹底（PER）促成了客觀事實的消亡（NECIS）。",
+      "emojis": [
+        "🦠",
+        "☠️",
+        "📉"
+      ]
+    },
+    "example": "The internet can spread pernicious rumors that ruin a person's reputation in a matter of minutes.",
+    "example_zh": "網路可能會散播惡毒的謠言，並在幾分鐘之內毀掉一個人的名譽。",
+    "collocations": [
+      "pernicious influence",
+      "pernicious effect",
+      "pernicious habit",
+      "pernicious rumors",
+      "pernicious anemia"
+    ],
+    "synonyms": [
+      "deleterious",
+      "detrimental",
+      "insidious",
+      "malignant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "toxic",
+        "difference": "toxic implies immediate, overt poisonous effects; pernicious implies a slow, creeping, and disguised damage."
+      }
+    ],
+    "antonyms": [
+      "beneficial",
+      "salutary",
+      "harmless"
+    ],
+    "word_family": [
+      {
+        "word": "pernicious",
+        "pos": "adjective"
+      },
+      {
+        "word": "perniciously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 307,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ]
+  },
+  {
+    "word": "perpetual",
+    "pos": "adjective",
+    "phonetic": "/pərˈpetʃuəl/",
+    "definition": "Never ending or changing; occurring so frequently as to seem continuous, uninterrupted, and permanent.",
+    "definition_zh": "永久的；長期的；無休止的；連續不斷的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through, thoroughly",
+          "meaning_zh": "穿過、完全"
+        },
+        {
+          "root": "petere",
+          "origin": "Latin",
+          "meaning": "to aim for, seek, rush at",
+          "meaning_zh": "尋求、奔向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（一路穿過）+ PETUAL（尋求、前進）→ 一直向前衝不停歇",
+      "story_en": "Scientists have long dreamed of creating a PERPETUAL motion machine that moves PER (through) time without ever stopping.",
+      "story_zh": "科學家長期以來一直夢想創造出一台「永無休止的（PERPETUAL）」永動機，可以穿過（PER）時間永遠不停運轉。",
+      "emojis": [
+        "⏰",
+        "♾️",
+        "🔄"
+      ]
+    },
+    "example": "The dense rain forest lived in a state of perpetual twilight because the thick canopy blocked most of the sunlight.",
+    "example_zh": "茂密的雨林處於一片永久的微光狀態，因為厚密的樹冠阻擋了大部分陽光。",
+    "collocations": [
+      "perpetual motion",
+      "perpetual fear",
+      "in perpetual conflict",
+      "perpetual state",
+      "perpetual dynamic"
+    ],
+    "synonyms": [
+      "constant",
+      "eternal",
+      "ceaseless",
+      "everlasting"
+    ],
+    "near_synonyms": [
+      {
+        "word": "continuous",
+        "difference": "continuous describes an action uninterrupted in space or a short timeframe; perpetual describes something that goes on forever timeline-wise."
+      }
+    ],
+    "antonyms": [
+      "temporary",
+      "intermittent",
+      "ephemeral"
+    ],
+    "word_family": [
+      {
+        "word": "perpetuate",
+        "pos": "verb"
+      },
+      {
+        "word": "perpetual",
+        "pos": "adjective"
+      },
+      {
+        "word": "perpetually",
+        "pos": "adverb"
+      },
+      {
+        "word": "perpetuation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 308,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "perquisite",
+    "pos": "noun",
+    "phonetic": "/ˈpɜːrkwɪzɪt/",
+    "definition": "A privilege, gain, or profit incidental to regular salary or wages; a bonus or benefit that comes with a specific job or social position.",
+    "definition_zh": "額外補貼；特權；（隨職位而來的）利益、小費",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "thoroughly",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "quaerere",
+          "origin": "Latin",
+          "meaning": "to seek, ask, search",
+          "meaning_zh": "尋求、探索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（徹底）+ QUISITE（尋求）→ 努力尋求並爭取到的額外好處",
+      "story_en": "Company cars and free gym memberships are typical PERQUISITES that workers PER (thoroughly) look to acQUIRE.",
+      "story_zh": "公司配車和免費健身房會員是員工努力去尋求（QUAERERE）並獲取的典型職位「額外福利（PERQUISITE）」。",
+      "emojis": [
+        "🎁",
+        "💼",
+        "💳"
+      ]
+    },
+    "example": "Free travel is one of the major perquisites enjoyed by airline employees and their immediate families.",
+    "example_zh": "免費旅遊是航空公司員工及其直系親屬所享受的主要額外特權之一。",
+    "collocations": [
+      "job perquisites",
+      "perquisites of office",
+      "executive perquisites",
+      "enjoy perquisites",
+      "additional perquisites"
+    ],
+    "synonyms": [
+      "perk",
+      "privilege",
+      "fringe benefit",
+      "bonus"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prerequisite",
+        "difference": "prerequisite means a requirement that must be met beforehand; perquisite is an extra reward or privilege received on the job."
+      }
+    ],
+    "antonyms": [
+      "disadvantage",
+      "requirement",
+      "penalty"
+    ],
+    "word_family": [
+      {
+        "word": "perquisite",
+        "pos": "noun"
+      },
+      {
+        "word": "perk",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In modern business English, 'perquisite' is almost always shortened to 'perk' in daily conversations.",
+    "frequency_rank": 309,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "business",
+      "GRE"
+    ]
+  },
+  {
+    "word": "perspicacious",
+    "pos": "adjective",
+    "phonetic": "/ˌpɜːrspɪˈkeɪʃəs/",
+    "definition": "Having ready insight into and clear understanding of things; mentally sharp and astute.",
+    "definition_zh": "有洞察力的；聰穎的；敏銳的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through",
+          "meaning_zh": "穿過"
+        },
+        {
+          "root": "spec / spic",
+          "origin": "Latin",
+          "meaning": "to look, see",
+          "meaning_zh": "看"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（穿過）+ SPIC（看）→ 能一眼看穿表象、直達真相的",
+      "story_en": "The PERSPICACIOUS detective could look PER (through) the suspect's lies and SPIC (see) the real motive.",
+      "story_zh": "「有洞察力的（PERSPICACIOUS）」偵探可以看穿（PER）嫌疑人的謊言，並看透（SPIC）其真正的動機。",
+      "emojis": [
+        "🔍",
+        "🧠",
+        "🎯"
+      ]
+    },
+    "example": "Thanks to a perspicacious financial advisor, the family invested in tech stocks right before the boom.",
+    "example_zh": "多虧了一位有遠見的財務顧問，這家人在股市繁榮前及時投資了科技股。",
+    "collocations": [
+      "perspicacious advisor",
+      "perspicacious observation",
+      "perspicacious investor",
+      "highly perspicacious",
+      "perspicacious mind"
+    ],
+    "synonyms": [
+      "astute",
+      "shrewd",
+      "discerning",
+      "acute"
+    ],
+    "near_synonyms": [
+      {
+        "word": "smart",
+        "difference": "smart is a general term for quick intelligence; perspicacious specifically implies a penetrating vision that sees through trickery or obscurity."
+      }
+    ],
+    "antonyms": [
+      "obtuse",
+      "ignorant",
+      "undiscerning"
+    ],
+    "word_family": [
+      {
+        "word": "perspicacious",
+        "pos": "adjective"
+      },
+      {
+        "word": "perspicacity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 310,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "GRE",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "pertain",
+    "pos": "verb",
+    "phonetic": "/pərˈteɪn/",
+    "definition": "To be appropriate, related, or applicable to a specific matter, object, or situation.",
+    "definition_zh": "有關；附屬；適合；適用於",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through, thoroughly",
+          "meaning_zh": "貫穿、徹底"
+        },
+        {
+          "root": "ten / tain",
+          "origin": "Latin",
+          "meaning": "to hold",
+          "meaning_zh": "抓住、保持"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（徹底）+ TAIN（抓住）→ 緊緊相扣、和某事物相連繫",
+      "story_en": "Please limit your comments to evidence that PERTAINS directly to this legal case and TAIN (holds) relevance.",
+      "story_zh": "請將您的發言限制在與本案直接「相關（PERTAIN）」且能維持（TAIN）關聯的證據上。",
+      "emojis": [
+        "🔗",
+        "📌",
+        "⚖️"
+      ]
+    },
+    "example": "The laws pertaining to digital privacy and data protection are currently undergoing major revisions.",
+    "example_zh": "與數位隱私和數據保護相關的法律目前正在進行重大修改。",
+    "collocations": [
+      "pertain to",
+      "laws pertaining to",
+      "matters pertaining to",
+      "directly pertain",
+      "facts pertaining to the case"
+    ],
+    "synonyms": [
+      "relate",
+      "apply",
+      "concern",
+      "refer"
+    ],
+    "near_synonyms": [
+      {
+        "word": "belong",
+        "difference": "belong implies physical or formal ownership; pertain implies a conceptual, topical, or logical relationship."
+      }
+    ],
+    "antonyms": [
+      "disconnect",
+      "irrelevant",
+      "differ"
+    ],
+    "word_family": [
+      {
+        "word": "pertain",
+        "pos": "verb"
+      },
+      {
+        "word": "pertinent",
+        "pos": "adjective"
+      },
+      {
+        "word": "pertinence",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Pertain is almost always used in the phrase 'pertain to [something]'. It is rarely used as a standalone verb.",
+    "frequency_rank": 311,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ]
+  },
+  {
+    "word": "pervade",
+    "pos": "verb",
+    "phonetic": "/pərˈveɪd/",
+    "definition": "To spread through and be perceived in every part of a place, atmosphere, or group.",
+    "definition_zh": "瀰漫；普及；遍及；充斥",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through",
+          "meaning_zh": "穿過"
+        },
+        {
+          "root": "vadere",
+          "origin": "Latin",
+          "meaning": "to go, walk",
+          "meaning_zh": "走、進軍"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（穿過）+ VADE（走）→ 走到每一個角落，全面擴散",
+      "story_en": "As the news broke, a feeling of anxiety began to PERVADE the office, as if fear was VADing (walking) PER (through) the walls.",
+      "story_zh": "消息傳出後，一股焦慮感開始「瀰漫（PERVADE）」整個辦公室，就好像恐懼正穿過（PER）牆壁四處走動（VADE）。",
+      "emojis": [
+        "💨",
+        "🌫️",
+        "🌍"
+      ]
+    },
+    "example": "A spirit of collaboration and optimism pervades the entire research department.",
+    "example_zh": "一種合作與樂觀的精神瀰漫在整個研究部門中。",
+    "collocations": [
+      "pervade the atmosphere",
+      "pervade society",
+      "pervade the culture",
+      "sense of doom pervades",
+      "thoroughly pervade"
+    ],
+    "synonyms": [
+      "permeate",
+      "suffuse",
+      "saturate",
+      "infuse"
+    ],
+    "near_synonyms": [
+      {
+        "word": "spread",
+        "difference": "spread can describe outward horizontal motion; pervade emphasizes total immersion and presence in every internal nook and cranny."
+      }
+    ],
+    "antonyms": [
+      "drain",
+      "deplete",
+      "concentrate"
+    ],
+    "word_family": [
+      {
+        "word": "pervade",
+        "pos": "verb"
+      },
+      {
+        "word": "pervasive",
+        "pos": "adjective"
+      },
+      {
+        "word": "pervasiveness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 312,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "social"
+    ]
+  },
+  {
+    "word": "perverse",
+    "pos": "adjective",
+    "phonetic": "/pərˈvɜːrs/",
+    "definition": "Showing a deliberate and obstinate desire to behave in a way that is unreasonable, unacceptable, or contrary to what is expected or standard.",
+    "definition_zh": "反常的；乖張的；任性的；故意作對的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "away, wrongly",
+          "meaning_zh": "偏離、錯誤"
+        },
+        {
+          "root": "vertere",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "轉動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER（偏離）+ VERSE（轉）→ 故意轉往錯誤或相反的方向",
+      "story_en": "It seemed PERVERSE that she decided to drive into the storm, willfully turning (VERSE) away (PER) from safety.",
+      "story_zh": "她決定開車衝進暴風雨中，故意轉向（VERSE）遠離（PER）安全的地方，這看起來非常「反常與任性（PERVERSE）」。",
+      "emojis": [
+        "🔄",
+        "🙅‍♂️",
+        "🥴"
+      ]
+    },
+    "example": "The dictator took a perverse pleasure in making his officials wait in the rain for hours.",
+    "example_zh": "那名獨裁者從讓他的官員們在雨中等待數小時中獲得了一種病態、反常的樂趣。",
+    "collocations": [
+      "perverse pleasure",
+      "perverse incentive",
+      "perverse logic",
+      "perverse behavior",
+      "perverse decision"
+    ],
+    "synonyms": [
+      "contrary",
+      "wayward",
+      "stubborn",
+      "obstinate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "wicked",
+        "difference": "wicked means morally evil; perverse means twisted and specifically going against common sense or expected social logic."
+      }
+    ],
+    "antonyms": [
+      "reasonable",
+      "compliant",
+      "standard"
+    ],
+    "word_family": [
+      {
+        "word": "pervert",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "perverse",
+        "pos": "adjective"
+      },
+      {
+        "word": "perversely",
+        "pos": "adverb"
+      },
+      {
+        "word": "perversity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 313,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "psychology"
+    ]
+  },
+  {
+    "word": "pessimism",
+    "pos": "noun",
+    "phonetic": "/ˈpesɪmɪzəm/",
+    "definition": "A tendency to see the worst aspect of things or believe that the worst will happen; a lack of hope or confidence in the future.",
+    "definition_zh": "悲觀主義；悲觀情緒",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pessimus",
+          "origin": "Latin",
+          "meaning": "worst",
+          "meaning_zh": "最壞的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PESSIMUS（最壞）+ ISM（主義）→ 凡事都作最壞打算的思想",
+      "story_en": "His deep PESSIMISM led him to believe that every project would end in the PESSIMUS (worst) possible failure.",
+      "story_zh": "他深刻的「悲觀主義（PESSIMISM）」讓他相信每個項目都會以最壞的（PESSIMUS）失敗告終。",
+      "emojis": [
+        "😞",
+        "🌧️",
+        "📉"
+      ]
+    },
+    "example": "Despite the general economic pessimism, the tech sector reported record-breaking profits this quarter.",
+    "example_zh": "儘管經濟普遍存在悲觀情緒，科技行業本季度仍報告了創紀錄的利潤。",
+    "collocations": [
+      "economic pessimism",
+      "widespread pessimism",
+      "grow into pessimism",
+      "temper one's pessimism",
+      "pessimism about the future"
+    ],
+    "synonyms": [
+      "negativity",
+      "gloom",
+      "defeatism",
+      "cynicism"
+    ],
+    "near_synonyms": [
+      {
+        "word": "realism",
+        "difference": "realism aims to see facts exactly as they are; pessimism heavily skews interpretation toward the worst outcomes."
+      }
+    ],
+    "antonyms": [
+      "optimism",
+      "hopefulness",
+      "idealism"
+    ],
+    "word_family": [
+      {
+        "word": "pessimism",
+        "pos": "noun"
+      },
+      {
+        "word": "pessimist",
+        "pos": "noun"
+      },
+      {
+        "word": "pessimistic",
+        "pos": "adjective"
+      },
+      {
+        "word": "pessimistically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 314,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "pious",
+    "pos": "adjective",
+    "phonetic": "/ˈpaɪəs/",
+    "definition": "Deeply religious and devoted to divine worship; can also describe hypocritical virtue or insincere expressions of correctness.",
+    "definition_zh": "虔誠的；敬神的；（貶）道貌岸然的、虛善的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pius",
+          "origin": "Latin",
+          "meaning": "dutiful, devout, kind",
+          "meaning_zh": "盡責的、虔誠的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PIUS（虔誠、盡責）→ 對宗教或信仰展現極大的敬畏和服從",
+      "story_en": "The PIOUS monk spent hours in the temple, demonstrating true PIUS devotion through prayer.",
+      "story_zh": "這位「虔誠的（PIOUS）」僧侶在寺廟裡待了幾個小時，透過祈禱展現了真正的虔誠（PIUS）奉獻。",
+      "emojis": [
+        "🙏",
+        "🧎",
+        "⛪"
+      ]
+    },
+    "example": "The town was populated by pious settlers who structured their entire lives around daily church services.",
+    "example_zh": "這個小鎮居住著虔誠的定居者，他們圍繞著每日的教堂禮拜來安排自己的整個生活。",
+    "collocations": [
+      "pious hope",
+      "pious devotion",
+      "pious platitudes",
+      "deeply pious",
+      "pious family"
+    ],
+    "synonyms": [
+      "devout",
+      "religious",
+      "reverent",
+      "sanctimonious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sanctimonious",
+        "difference": "sanctimonious is strictly derogatory, meaning making a hypocritical show of holiness; pious can be genuinely good and religious, though occasionally used for hypocritical acts."
+      }
+    ],
+    "antonyms": [
+      "impious",
+      "irreverent",
+      "secular"
+    ],
+    "word_family": [
+      {
+        "word": "piety",
+        "pos": "noun"
+      },
+      {
+        "word": "pious",
+        "pos": "adjective"
+      },
+      {
+        "word": "piously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 315,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "history",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "placate",
+    "pos": "verb",
+    "phonetic": "/ˈpleɪkeɪt/",
+    "definition": "To make someone less angry, hostile, or defensive by granting concessions or pacifying them.",
+    "definition_zh": "撫慰；平息；安撫；讓步以求和",
+    "etymology": {
+      "roots": [
+        {
+          "root": "placare",
+          "origin": "Latin",
+          "meaning": "to calm, soothe, quiet",
+          "meaning_zh": "平息、使安靜"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PLACARE（平息）→ 給對方塞滿好處，使對方的怒火化為平靜（calm）",
+      "story_en": "The manager tried to PLACATE the angry customer by offering a full refund and a free PLACid, calm apology.",
+      "story_zh": "經理試圖透過提供全額退款和誠懇的道歉來「安撫（PLACATE）」憤怒的顧客，讓局勢平靜下來。",
+      "emojis": [
+        "🧘",
+        "🤝",
+        "🤫"
+      ]
+    },
+    "example": "The government enacted minor tax cuts in a desperate attempt to placate the protesting citizens.",
+    "example_zh": "政府實施了小幅減稅，試圖以此安撫抗議的民眾。",
+    "collocations": [
+      "placate the critics",
+      "placate an angry crowd",
+      "attempt to placate",
+      "placate voters",
+      "placate demands"
+    ],
+    "synonyms": [
+      "pacify",
+      "appease",
+      "mollify",
+      "conciliate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "appease",
+        "difference": "appease often implies a weak sacrifice of principles to satisfy an aggressor's demands; placate focuses broadly on restoring emotional calm."
+      }
+    ],
+    "antonyms": [
+      "provoke",
+      "infuriate",
+      "enrage"
+    ],
+    "word_family": [
+      {
+        "word": "placate",
+        "pos": "verb"
+      },
+      {
+        "word": "implacable",
+        "pos": "adjective"
+      },
+      {
+        "word": "placatingly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 316,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "politics"
+    ]
+  },
+  {
+    "word": "placid",
+    "pos": "adjective",
+    "phonetic": "/ˈplæsɪd/",
+    "definition": "Not easily upset or excited; calm and peaceful, with little movement or activity.",
+    "definition_zh": "平靜的；寧靜的；溫和的；沉著的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "placere",
+          "origin": "Latin",
+          "meaning": "to please",
+          "meaning_zh": "使高興、滿意"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PLAC（使高興、滿足）→ 內心毫無怨言、非常平靜愉悅",
+      "story_en": "The lake was completely PLACID early in the morning, reflecting the PLACid, pleased and quiet skies.",
+      "story_zh": "清晨的湖面顯得格外「平靜寧靜（PLACID）」如同內心得到滿足（PLAC）那樣毫无波瀾。",
+      "emojis": [
+        "🌅",
+        "🛶",
+        "🍃"
+      ]
+    },
+    "example": "Beneath his placid exterior lay a sharp, highly competitive legal mind.",
+    "example_zh": "在他平靜的外表下，隱藏著一個敏銳且極具競爭力的法律頭腦。",
+    "collocations": [
+      "placid lake",
+      "placid water",
+      "placid exterior",
+      "placid temperament",
+      "remain placid"
+    ],
+    "synonyms": [
+      "calm",
+      "tranquil",
+      "serene",
+      "unruffled"
+    ],
+    "near_synonyms": [
+      {
+        "word": "serene",
+        "difference": "serene implies an elevated, spiritual or poetic peace; placid often describes literal physical stillness or an unbothered, easygoing disposition."
+      }
+    ],
+    "antonyms": [
+      "turbulent",
+      "agitated",
+      "stormy"
+    ],
+    "word_family": [
+      {
+        "word": "placid",
+        "pos": "adjective"
+      },
+      {
+        "word": "placidity",
+        "pos": "noun"
+      },
+      {
+        "word": "placidly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 317,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "literature"
+    ]
+  },
+  {
+    "word": "ponderous",
+    "pos": "adjective",
+    "phonetic": "/ˈpɑːndərəs/",
+    "definition": "Slow, clumsy, and heavy because of great weight; can also refer to a dull, laboured, and excessively serious literary or speaking style.",
+    "definition_zh": "笨重的；沉重的；（文章或談吐）呆板沉悶的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pondus / ponderis",
+          "origin": "Latin",
+          "meaning": "weight",
+          "meaning_zh": "重量"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "POND（重量）→ 像大石頭一樣重，動彈不得、死氣沉沉",
+      "story_en": "The elephant's PONDEROUS steps shook the ground because of its massive POND (weight).",
+      "story_zh": "大象「笨重的（PONDEROUS）」步伐震動了地面，因為牠的體重（POND）實在太巨大了。",
+      "emojis": [
+        "🐘",
+        "🏋️",
+        "🥱"
+      ]
+    },
+    "example": "The academic paper was filled with jargon and possessed a ponderous style that put readers to sleep.",
+    "example_zh": "這篇學術論文充滿了術語，且風格呆板沉悶，令讀者昏昏欲睡。",
+    "collocations": [
+      "ponderous style",
+      "ponderous steps",
+      "ponderous movement",
+      "ponderous thesis",
+      "ponderous bureaucracy"
+    ],
+    "synonyms": [
+      "unwieldy",
+      "cumbersome",
+      "lumbering",
+      "tedious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "heavy",
+        "difference": "heavy describes literal physical mass; ponderous emphasizes that the weight causes clumsy motion or extreme boredom."
+      }
+    ],
+    "antonyms": [
+      "light",
+      "graceful",
+      "lively"
+    ],
+    "word_family": [
+      {
+        "word": "ponder",
+        "pos": "verb"
+      },
+      {
+        "word": "ponderous",
+        "pos": "adjective"
+      },
+      {
+        "word": "ponderously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 318,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "literature"
+    ]
+  },
+  {
+    "word": "potent",
+    "pos": "adjective",
+    "phonetic": "/ˈpoʊtnt/",
+    "definition": "Having great power, influence, or effect; physically or chemically strong and highly effective.",
+    "definition_zh": "強有力的；有效力的；有影響力的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "potis",
+          "origin": "Latin",
+          "meaning": "powerful, able",
+          "meaning_zh": "有力量的、有能力的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "POT（有力量、能力）→ 具備強大潛能（potential）和實力的",
+      "story_en": "The new drug proved to be a POTENT weapon against the disease, showing the POT (power) to kill virus cells quickly.",
+      "story_zh": "這種新藥被證明是對抗該疾病的「強效（POTENT）」武器，展現了快速殺死病毒細胞的力量（POT）。",
+      "emojis": [
+        "💪",
+        "🧪",
+        "⚡"
+      ]
+    },
+    "example": "The advertisement was a potent reminder of the devastating consequences of drunk driving.",
+    "example_zh": "該廣告強烈地提醒人們酒後駕車所帶來的毀滅性後果。",
+    "collocations": [
+      "potent symbol",
+      "potent drug",
+      "potent weapon",
+      "highly potent",
+      "potent reminder"
+    ],
+    "synonyms": [
+      "powerful",
+      "efficacious",
+      "influential",
+      "compelling"
+    ],
+    "near_synonyms": [
+      {
+        "word": "strong",
+        "difference": "strong is a basic term for physical force; potent implies deep effectiveness, concentrated power, or chemical concentration."
+      }
+    ],
+    "antonyms": [
+      "impotent",
+      "weak",
+      "ineffective"
+    ],
+    "word_family": [
+      {
+        "word": "potency",
+        "pos": "noun"
+      },
+      {
+        "word": "potent",
+        "pos": "adjective"
+      },
+      {
+        "word": "impotent",
+        "pos": "adjective"
+      },
+      {
+        "word": "potential",
+        "pos": "noun / adjective"
+      }
+    ],
+    "frequency_rank": 319,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "precipitous",
+    "pos": "adjective",
+    "phonetic": "/prəˈsɪpɪtəs/",
+    "definition": "Dangerously high or steep; used to describe a sudden, dramatic, and rapid decline, rise, or action without careful thought.",
+    "definition_zh": "陡峭的；險峻的；（變化）急劇的、猛烈的；魯莽的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before, forth",
+          "meaning_zh": "在前、向前"
+        },
+        {
+          "root": "caput",
+          "origin": "Latin",
+          "meaning": "head",
+          "meaning_zh": "頭"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（向前）+ CAPUT（頭）→ 頭朝前倒栽蔥摔下去 → 垂直陡峭、急劇下跌",
+      "story_en": "The stock market experienced a PRECIPITOUS drop, falling head (CAPUT) first down the cliff.",
+      "story_zh": "股市經歷了「急劇的（PRECIPITOUS）」下跌，就像頭（CAPUT）朝前（PRAE）直接從懸崖摔落一樣。",
+      "emojis": [
+        "📉",
+        "⛰️",
+        "🦅"
+      ]
+    },
+    "example": "A precipitous decline in oil prices forced the energy company to lay off thousands of employees.",
+    "example_zh": "石油價格的急劇下跌迫使這家能源公司裁減了數千名員工。",
+    "collocations": [
+      "precipitous drop",
+      "precipitous decline",
+      "precipitous cliff",
+      "precipitous rise",
+      "precipitous action"
+    ],
+    "synonyms": [
+      "steep",
+      "abrupt",
+      "sharp",
+      "sudden"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sudden",
+        "difference": "sudden simply implies happening without warning; precipitous adds the element of vertical depth or terrifying speed."
+      }
+    ],
+    "antonyms": [
+      "gradual",
+      "gentle",
+      "slight"
+    ],
+    "word_family": [
+      {
+        "word": "precipitate",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "precipitous",
+        "pos": "adjective"
+      },
+      {
+        "word": "precipitously",
+        "pos": "adverb"
+      },
+      {
+        "word": "precipitation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 320,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "economics",
+      "academic"
+    ]
+  },
+  {
+    "word": "precocious",
+    "pos": "adjective",
+    "phonetic": "/prɪˈkoʊʃəs/",
+    "definition": "Having developed certain abilities or inclinations at an earlier age than usual, especially regarding mental capacities.",
+    "definition_zh": "早熟的；智慧超常的；提早發育的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "在前、提前"
+        },
+        {
+          "root": "coquere",
+          "origin": "Latin",
+          "meaning": "to cook, ripen",
+          "meaning_zh": "烹調、成熟"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（提前）+ COQUERE（成熟、煮）→ 在比常人早的時間就已經煮熟、發育完成了",
+      "story_en": "The PRECOCIOUS child was playing Mozart at age four, having ripened (COQUERE) long before (PRAE) normal children.",
+      "story_zh": "那個「早熟的（PRECOCIOUS）」孩子在四歲時就能演奏莫札特，在正常孩子之前（PRAE）就完成了心智的成熟（COQUERE）。",
+      "emojis": [
+        "👶",
+        "🎹",
+        "🎓"
+      ]
+    },
+    "example": "The precocious young programmer developed her first commercial app while still in middle school.",
+    "example_zh": "這位早熟的年輕程式設計師在讀國中時就開發了她的第一款商用應用程式。",
+    "collocations": [
+      "precocious child",
+      "precocious talent",
+      "precocious maturity",
+      "precocious youth",
+      "remarkably precocious"
+    ],
+    "synonyms": [
+      "advanced",
+      "gifted",
+      "mature",
+      "developed"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prodigious",
+        "difference": "prodigious means vast and extraordinary in talent at any age; precocious specifically focuses on being advanced for one's age group."
+      }
+    ],
+    "antonyms": [
+      "backward",
+      "slow",
+      "delayed"
+    ],
+    "word_family": [
+      {
+        "word": "precocious",
+        "pos": "adjective"
+      },
+      {
+        "word": "precociously",
+        "pos": "adverb"
+      },
+      {
+        "word": "precocity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 321,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "word": "predatory",
+    "pos": "adjective",
+    "phonetic": "/ˈpredətɔːri/",
+    "definition": "Relating to or denoting an animal preying on others; seeking to exploit or oppress others for personal, financial, or sexual gain.",
+    "definition_zh": "捕食性的；掠奪的；掠奪成性的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "praeda",
+          "origin": "Latin",
+          "meaning": "booty, prey, plunder",
+          "meaning_zh": "獵物、戰利品"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAEDA（掠奪、獵物）→ 像野獸捕捉獵物那樣殘忍剝削弱者",
+      "story_en": "Eagles have PREDATORY instincts, flying high to search for their next target or prey (PRAEDA).",
+      "story_zh": "老鷹具有「捕食性的（PREDATORY）」本能，飛得很高來搜尋牠們的下一個獵物（PRAEDA）。",
+      "emojis": [
+        "🦅",
+        "🦈",
+        "💸"
+      ]
+    },
+    "example": "Consumer groups are demanding strict laws to protect vulnerable citizens from predatory lending practices.",
+    "example_zh": "消費者權益團體正要求制定嚴格法律，以保護弱勢群體免受掠奪性貸款行為的侵害。",
+    "collocations": [
+      "predatory pricing",
+      "predatory lending",
+      "predatory animal",
+      "predatory instincts",
+      "predatory behavior"
+    ],
+    "synonyms": [
+      "exploitative",
+      "rapacious",
+      "carnivorous",
+      "ravenous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aggressive",
+        "difference": "aggressive implies a forceful or combative nature; predatory implies an intent to destroy or devour the other party for gain."
+      }
+    ],
+    "antonyms": [
+      "defensive",
+      "protective",
+      "symbiotic"
+    ],
+    "word_family": [
+      {
+        "word": "predator",
+        "pos": "noun"
+      },
+      {
+        "word": "predatory",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 322,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "science"
+    ]
+  },
+  {
+    "word": "predilection",
+    "pos": "noun",
+    "phonetic": "/ˌpriːdɪˈlekʃn/",
+    "definition": "A preference or special liking for something; a bias or tendency to favor a particular option.",
+    "definition_zh": "偏好；偏愛；袒護",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "在先、提前"
+        },
+        {
+          "root": "legere / ligere",
+          "origin": "Latin",
+          "meaning": "to choose, gather",
+          "meaning_zh": "選擇、收集"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（提前）+ LIG（選擇）→ 還沒看清楚就提前選好了，代表特別偏心",
+      "story_en": "Her PREDILECTION for spicy food meant she would always choose (LIG) hot dishes before (PRAE) even reading the full menu.",
+      "story_zh": "她對辣味食物的「偏愛（PREDILECTION）」意味著她甚至在看完整個菜單之前（PRAE），就會先挑選（LIG）辣的菜餚。",
+      "emojis": [
+        "🌶️",
+        "❤️",
+        "📋"
+      ]
+    },
+    "example": "The artistic director had a well-known predilection for avant-garde theater and experimental films.",
+    "example_zh": "這位藝術總監對前衛戲劇和實驗電影有著眾所周知的偏愛。",
+    "collocations": [
+      "predilection for",
+      "particular predilection",
+      "show a predilection",
+      "personal predilection",
+      "predilection toward"
+    ],
+    "synonyms": [
+      "preference",
+      "fondness",
+      "penchant",
+      "partiality"
+    ],
+    "near_synonyms": [
+      {
+        "word": "bias",
+        "difference": "bias often has a negative connotation of unfair prejudice; predilection emphasizes personal taste and favorable inclination."
+      }
+    ],
+    "antonyms": [
+      "aversion",
+      "dislike",
+      "antipathy"
+    ],
+    "word_family": [
+      {
+        "word": "predilection",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 323,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "art"
+    ]
+  },
+  {
+    "word": "preeminent",
+    "pos": "adjective",
+    "phonetic": "/priˈemɪnənt/",
+    "definition": "Surpassing all others; very distinguished, outstanding, and supreme in a particular field or rank.",
+    "definition_zh": "卓越的；傑出的；至高無上的；最優秀的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before, above",
+          "meaning_zh": "在前、在...之上"
+        },
+        {
+          "root": "eminere",
+          "origin": "Latin",
+          "meaning": "to stand out, jut out",
+          "meaning_zh": "突出、顯眼"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（在...之上）+ EMINENT（突出的）→ 站在所有人之上、最突出的菁英",
+      "story_en": "He became the PREEMINENT scholar in physics, standing out (EMINERE) far above (PRAE) his university peers.",
+      "story_zh": "他成為物理學界「卓越超群的（PREEMINENT）」學者，遠遠站在（EMINERE）他的同行之上（PRAE）。",
+      "emojis": [
+        "👑",
+        "🏆",
+        "🌟"
+      ]
+    },
+    "example": "Dr. Smith is recognized as the preeminent authority on ancient Egyptian hieroglyphs.",
+    "example_zh": "史密斯博士被公認為古埃及象形文字領域最傑出的權威。",
+    "collocations": [
+      "preeminent authority",
+      "preeminent position",
+      "preeminent scholar",
+      "preeminent expert",
+      "preeminent field"
+    ],
+    "synonyms": [
+      "supreme",
+      "paramount",
+      "foremost",
+      "distinguished"
+    ],
+    "near_synonyms": [
+      {
+        "word": "famous",
+        "difference": "famous simply means well-known by many people; preeminent means ranking as the absolute best or top authority in a specific domain."
+      }
+    ],
+    "antonyms": [
+      "unimportant",
+      "obscure",
+      "inferior"
+    ],
+    "word_family": [
+      {
+        "word": "preeminence",
+        "pos": "noun"
+      },
+      {
+        "word": "preeminent",
+        "pos": "adjective"
+      },
+      {
+        "word": "preeminently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 324,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "history"
+    ]
+  },
+  {
+    "word": "preempt",
+    "pos": "verb",
+    "phonetic": "/priˈempt/",
+    "definition": "To take action in order to prevent an anticipated event from happening; to forestall or acquire something before others can.",
+    "definition_zh": "先發制人；取代；先佔；比他人先奪取",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "提前"
+        },
+        {
+          "root": "emere",
+          "origin": "Latin",
+          "meaning": "to buy, take",
+          "meaning_zh": "買、拿取"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（提前）+ EMPT（拿取、買）→ 提前把位置或機會拿走，讓別人無路可走",
+      "story_en": "The military decided to PREEMPT the attack by striking first, taking (EMERE) the base before (PRAE) the enemy could move.",
+      "story_zh": "軍隊決定透過首輪打擊來「先發制人（PREEMPT）」，在敵軍行動前（PRAE）就把基地攻下（EMERE）。",
+      "emojis": [
+        "🛡️",
+        "🛑",
+        "⚔️"
+      ]
+    },
+    "example": "The breaking news broadcast will preempt the regularly scheduled sitcom tonight.",
+    "example_zh": "今晚的突發新聞廣播將取代（提前佔用）原本照常排播的情境喜劇。",
+    "collocations": [
+      "preempt an attack",
+      "preempt the schedule",
+      "preemptive strike",
+      "preempt a move",
+      "preempt criticism"
+    ],
+    "synonyms": [
+      "forestall",
+      "anticipate",
+      "prevent",
+      "appropriate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prevent",
+        "difference": "prevent means to stop something from happening; preempt specifically means stopping it by taking strategic action beforehand."
+      }
+    ],
+    "antonyms": [
+      "allow",
+      "follow",
+      "submit"
+    ],
+    "word_family": [
+      {
+        "word": "preempt",
+        "pos": "verb"
+      },
+      {
+        "word": "preemptive",
+        "pos": "adjective"
+      },
+      {
+        "word": "preemptively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 325,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ]
+  },
+  {
+    "word": "prejudice",
+    "pos": "noun",
+    "phonetic": "/ˈpredʒədɪs/",
+    "definition": "An unjustified or incorrect attitude (usually negative) towards an individual based solely on the individual's social group membership, without checking facts.",
+    "definition_zh": "偏見；成見；損害",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "提前"
+        },
+        {
+          "root": "judicium",
+          "origin": "Latin",
+          "meaning": "judgment",
+          "meaning_zh": "審判、判斷"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（提前）+ JUDICE（審判）→ 未經審查、在了解事實前就提前做出判斷",
+      "story_en": "Racism is a form of PREJUDICE because it means passing a judgment (JUDICIUM) before (PRAE) knowing a person.",
+      "story_zh": "種族主義是一種「偏見（PREJUDICE）」，因為它意味著在了解一個人之前（PRAE）就提前做出了判斷（JUDICIUM）。",
+      "emojis": [
+        "🙅‍♀️",
+        "⚖️",
+        "🛑"
+      ]
+    },
+    "example": "Laws alone cannot eradicate deep-seated racial prejudice from the minds of individuals.",
+    "example_zh": "單靠法律無法根除人們心中根深蒂固的種族偏見。",
+    "collocations": [
+      "racial prejudice",
+      "without prejudice",
+      "deep-seated prejudice",
+      "overcome prejudice",
+      "prejudice against"
+    ],
+    "synonyms": [
+      "bias",
+      "biasness",
+      "bigotry",
+      "preconception"
+    ],
+    "near_synonyms": [
+      {
+        "word": "discrimination",
+        "difference": "prejudice refers to internal thoughts and attitudes; discrimination refers to the actual unfair actions and behaviors based on those thoughts."
+      }
+    ],
+    "antonyms": [
+      "fairness",
+      "impartiality",
+      "tolerance"
+    ],
+    "word_family": [
+      {
+        "word": "prejudice",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "prejudicial",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 326,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "psychology"
+    ]
+  },
+  {
+    "word": "preposterous",
+    "pos": "adjective",
+    "phonetic": "/prɪˈpɑːstərəs/",
+    "definition": "Utterly absurd, ridiculous, or contrary to nature, reason, or common sense.",
+    "definition_zh": "荒謬的；可笑的；前後顛倒的；反理性的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "在前"
+        },
+        {
+          "root": "posterus",
+          "origin": "Latin",
+          "meaning": "coming after, behind",
+          "meaning_zh": "在後"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（前）+ POSTERUS（後）→ 把後面的東西放到前面來，前後顛倒，荒謬至極",
+      "story_en": "The idea that the sun revolves around a coin is PREPOSTEROUS, putting the back (POSTERUS) before (PRAE) the front.",
+      "story_zh": "認為太陽圍繞硬幣轉的想法簡直是「荒謬的（PREPOSTEROUS）」，完全把後面（POSTERUS）錯置到前面（PRAE）來顛倒是非。",
+      "emojis": [
+        "🤡",
+        "🤯",
+        "🙃"
+      ]
+    },
+    "example": "The lawyer dismissed the allegations against his client as preposterous and completely unfounded.",
+    "example_zh": "律師駁回了對他委託人的指控，稱其荒謬可笑且完全毫無根據。",
+    "collocations": [
+      "preposterous idea",
+      "preposterous suggestion",
+      "absolutely preposterous",
+      "preposterous notion",
+      "preposterous claim"
+    ],
+    "synonyms": [
+      "absurd",
+      "ludicrous",
+      "ridiculous",
+      "farcical"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unbelievable",
+        "difference": "unbelievable just means hard to credit; preposterous active provokes laughter or anger because it violently violates common sense."
+      }
+    ],
+    "antonyms": [
+      "reasonable",
+      "sensible",
+      "logical"
+    ],
+    "word_family": [
+      {
+        "word": "preposterous",
+        "pos": "adjective"
+      },
+      {
+        "word": "preposterously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 327,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "literature"
+    ]
+  },
+  {
+    "word": "presumptuous",
+    "pos": "adjective",
+    "phonetic": "/prɪˈzʌmptʃuəs/",
+    "definition": "Failing to observe the limits of what is permitted or appropriate; excessively forward, arrogant, or bold without right.",
+    "definition_zh": "專橫的；放肆的；冒昧的；自以為是的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "提前"
+        },
+        {
+          "root": "sumere",
+          "origin": "Latin",
+          "meaning": "to take, choose",
+          "meaning_zh": "拿取、承擔"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（提前）+ SUMP（拿取、假設）→ 還沒被邀請就自己提前採取行動，太過放肆",
+      "story_en": "It was PRESUMPTUOUS of the intern to sit in the CEO's chair, taking (SUMERE) the seat before (PRAE) asking.",
+      "story_zh": "實習生沒問就提前（PRAE）坐下（SUMERE）佔領執行長的辦公椅，這種行為非常「放肆冒昧（PRESUMPTUOUS）」。",
+      "emojis": [
+        "🤨",
+        "🙅‍♂️",
+        "👑"
+      ]
+    },
+    "example": "It would be presumptuous of me to comment on a matter I know so little about.",
+    "example_zh": "對一個我知之甚少的事件發表評論，對我來說將是極其冒昧放肆的。",
+    "collocations": [
+      "presumptuous remark",
+      "presumptuous behavior",
+      "a bit presumptuous",
+      "presumptuous of someone",
+      "presumptuous demand"
+    ],
+    "synonyms": [
+      "audacious",
+      "insolent",
+      "impertinent",
+      "arrogant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "confident",
+        "difference": "confident represents healthy self-assurance; presumptuous represents an annoying and rude overstepping of boundaries."
+      }
+    ],
+    "antonyms": [
+      "modest",
+      "humble",
+      "respectful"
+    ],
+    "word_family": [
+      {
+        "word": "presume",
+        "pos": "verb"
+      },
+      {
+        "word": "presumption",
+        "pos": "noun"
+      },
+      {
+        "word": "presumptuous",
+        "pos": "adjective"
+      },
+      {
+        "word": "presumptuously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 328,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "psychology"
+    ]
+  },
+  {
+    "word": "pretentious",
+    "pos": "adjective",
+    "phonetic": "/prɪˈtenʃəs/",
+    "definition": "Attempting to impress by affecting greater importance, talent, culture, or wealth than is actually possessed.",
+    "definition_zh": "自命不凡的；矯飾的；做作的；炫耀的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before, forth",
+          "meaning_zh": "在前、向外"
+        },
+        {
+          "root": "tendere",
+          "origin": "Latin",
+          "meaning": "to stretch",
+          "meaning_zh": "拉伸、伸展"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（向外）+ TEND（拉伸）→ 把自己的羽毛拼命向外拉伸擴張，裝腔作勢",
+      "story_en": "The critic mocked the PRETENTIOUS movie, which tried to stretch (TENDERE) its basic plot into a grand philosophical epic.",
+      "story_zh": "影評人嘲諷了這部「做作且自命不凡的（PRETENTIOUS）」電影，它試圖向外拉伸（TENDERE）單薄的劇情來偽裝成偉大的哲學史詩。",
+      "emojis": [
+        "🦚",
+        "🎭",
+        "🧐"
+      ]
+    },
+    "example": "He was a pretentious gourmand who dismissed any wine that cost less than three hundred dollars.",
+    "example_zh": "他是個自命不凡的美食家，任何低於三百美元的葡萄酒他都嗤之以鼻。",
+    "collocations": [
+      "pretentious style",
+      "pretentious talk",
+      "pretentious jargon",
+      "sound pretentious",
+      "pretentious person"
+    ],
+    "synonyms": [
+      "ostentatious",
+      "pompous",
+      "affected",
+      "showy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "proud",
+        "difference": "proud means feeling deep satisfaction with actual achievements; pretentious means faking achievements or style just to look superior."
+      }
+    ],
+    "antonyms": [
+      "modest",
+      "unpretentious",
+      "down-to-earth"
+    ],
+    "word_family": [
+      {
+        "word": "pretend",
+        "pos": "verb"
+      },
+      {
+        "word": "pretense",
+        "pos": "noun"
+      },
+      {
+        "word": "pretentious",
+        "pos": "adjective"
+      },
+      {
+        "word": "pretentiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 329,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "literature"
+    ]
+  },
+  {
+    "word": "prevalent",
+    "pos": "adjective",
+    "phonetic": "/ˈprevələnt/",
+    "definition": "Widespread or current in a particular area or at a particular time; commonly accepted or practiced.",
+    "definition_zh": "流行的；普遍的；盛行的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prae",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "在前"
+        },
+        {
+          "root": "valere",
+          "origin": "Latin",
+          "meaning": "to be strong, have power",
+          "meaning_zh": "強壯、有力量"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRAE（在前）+ VAL（強大）→ 力量排在最前面，佔據統治和主流地位",
+      "story_en": "Malaria remains PREVALENT in tropical regions where mosquitoes possess strong (VALERE) survival advantages.",
+      "story_zh": "瘧疾在熱帶地區仍然非常「普遍盛行（PREVALENT）」，在那裡蚊子擁有強大（VALERE）的生存優勢並佔據主導地位。",
+      "emojis": [
+        "🌍",
+        "📈",
+        "🔄"
+      ]
+    },
+    "example": "Depression is unfortunately becoming increasingly prevalent among young adults in urban centers.",
+    "example_zh": "不幸的是，抑鬱症在城市中心的年輕人中正變得越來越普遍。",
+    "collocations": [
+      "prevalent view",
+      "widespread and prevalent",
+      "prevalent condition",
+      "most prevalent",
+      "prevalent rumor"
+    ],
+    "synonyms": [
+      "widespread",
+      "pervasive",
+      "ubiquitous",
+      "rampant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "common",
+        "difference": "common emphasizes frequency of occurrence; prevalent emphasizes being highly dominant or widespread within a specific window of time/location."
+      }
+    ],
+    "antonyms": [
+      "rare",
+      "scarce",
+      "uncommon"
+    ],
+    "word_family": [
+      {
+        "word": "prevail",
+        "pos": "verb"
+      },
+      {
+        "word": "prevalent",
+        "pos": "adjective"
+      },
+      {
+        "word": "prevalence",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 320,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "social"
+    ]
+  },
+  {
+    "word": "pristine",
+    "pos": "adjective",
+    "phonetic": "/ˈprɪstiːn/",
+    "definition": "In its original condition; completely clean, fresh, and unspoiled by human contact or pollution.",
+    "definition_zh": "原始的；清新的；純潔的；未受污染的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pristinus",
+          "origin": "Latin",
+          "meaning": "former, ancient, original",
+          "meaning_zh": "之前的、古老的、原始的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRISTINUS（原始、最初的）→ 如同世界誕生之初那樣乾淨無瑕",
+      "story_en": "The mountain stream was PRISTINE, preserved in its PRISTINUS (original) pure state away from industrial pollution.",
+      "story_zh": "這條山澗顯得極其「純淨未受污染（PRISTINE）」，在遠離工業污染的地方保持著其原始（PRISTINUS）的純潔狀態。",
+      "emojis": [
+        "❄️",
+        "🏔️",
+        "🌊"
+      ]
+    },
+    "example": "The ecotourists hiked through a pristine wilderness that had never been logged or settled.",
+    "example_zh": "生態遊客們徒步穿越了一片從未被砍伐或定居過的原始荒野。",
+    "collocations": [
+      "pristine condition",
+      "pristine beach",
+      "pristine forest",
+      "remain pristine",
+      "pristine white"
+    ],
+    "synonyms": [
+      "unspoiled",
+      "immaculate",
+      "virgin",
+      "untouched"
+    ],
+    "near_synonyms": [
+      {
+        "word": "clean",
+        "difference": "clean just means free from dirt; pristine means perfectly spotless and completely unchanged from its beautiful original state."
+      }
+    ],
+    "antonyms": [
+      "polluted",
+      "spoiled",
+      "contaminated"
+    ],
+    "word_family": [
+      {
+        "word": "pristine",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 331,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "prodigal",
+    "pos": "adjective",
+    "phonetic": "/ˈprɑːdɪɡl/",
+    "definition": "Spending money or resources freely and recklessly; wastefully extravagant.",
+    "definition_zh": "揮霍的；浪費的；慷慨大方的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forth, away",
+          "meaning_zh": "向前、向外"
+        },
+        {
+          "root": "agere",
+          "origin": "Latin",
+          "meaning": "to drive, throw",
+          "meaning_zh": "驅趕、扔、行動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向外）+ AGERE（扔、趕）→ 把錢財拼命往外扔，大肆揮霍",
+      "story_en": "The PRODIGAL heir drove (AGERE) his family fortune away (PRO) by throwing lavish parties every weekend.",
+      "story_zh": "那名「揮霍的（PRODIGAL）」繼承人透過每個週末舉辦奢侈派對，把家族財產拼命朝外（PRO）扔（AGERE）光了。",
+      "emojis": [
+        "💸",
+        "🥂",
+        "📉"
+      ]
+    },
+    "example": "The administration was heavily criticized for its prodigal spending on unnecessary government infrastructure.",
+    "example_zh": "該行政當局因在不必要的政府基礎設施上大肆揮霍開支而遭受強烈批評。",
+    "collocations": [
+      "prodigal son",
+      "prodigal lifestyle",
+      "prodigal spending",
+      "prodigal habits",
+      "be prodigal with"
+    ],
+    "synonyms": [
+      "extravagant",
+      "wasteful",
+      "spendthrift",
+      "improvident"
+    ],
+    "near_synonyms": [
+      {
+        "word": "generous",
+        "difference": "generous means giving kindly to help others; prodigal emphasizes reckless, foolish wasting of resources for self-indulgence."
+      }
+    ],
+    "antonyms": [
+      "frugal",
+      "thrifty",
+      "parsimonious"
+    ],
+    "word_family": [
+      {
+        "word": "prodigal",
+        "pos": "adjective"
+      },
+      {
+        "word": "prodigality",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 332,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "economics"
+    ]
+  },
+  {
+    "word": "prodigious",
+    "pos": "adjective",
+    "phonetic": "/prəˈdɪdʒəs/",
+    "definition": "Remarkably or impressively great in extent, size, or degree; extraordinary and immense.",
+    "definition_zh": "巨大的；驚人的；異常的；（天賦）巨大的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prodigium",
+          "origin": "Latin",
+          "meaning": "omen, monster, prophetic sign",
+          "meaning_zh": "神兆、怪獸、奇蹟"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRODIGIUM（神兆、奇蹟怪獸）→ 規模龐大到令人敬畏、宛如奇蹟現身",
+      "story_en": "The young author displayed PRODIGIOUS talent, writing a massive, beautiful novel that felt like a literary PRODIGIUM (wonder).",
+      "story_zh": "這位年輕作者展現了「驚人的（PRODIGIOUS）」天賦，寫出了一部宏大而優美的長篇小說，簡直像個文學奇蹟（PRODIGIUM）。",
+      "emojis": [
+        "🐘",
+        "🧠",
+        "💥"
+      ]
+    },
+    "example": "The Hoover Dam was a prodigious engineering feat that required millions of tons of concrete.",
+    "example_zh": "胡佛水壩是一項驚人的工程壯舉，消耗了數百萬噸的混凝土。",
+    "collocations": [
+      "prodigious talent",
+      "prodigious memory",
+      "prodigious amount",
+      "prodigious appetite",
+      "prodigious achievement"
+    ],
+    "synonyms": [
+      "immense",
+      "enormous",
+      "colossal",
+      "extraordinary"
+    ],
+    "near_synonyms": [
+      {
+        "word": "large",
+        "difference": "large is a simple descriptor of scale; prodigious implies that the size or talent causes deep amazement and astonishment."
+      }
+    ],
+    "antonyms": [
+      "puny",
+      "minuscule",
+      "unremarkable"
+    ],
+    "word_family": [
+      {
+        "word": "prodigy",
+        "pos": "noun"
+      },
+      {
+        "word": "prodigious",
+        "pos": "adjective"
+      },
+      {
+        "word": "prodigiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 333,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ]
+  },
+  {
+    "word": "proficient",
+    "pos": "adjective",
+    "phonetic": "/prəˈfɪʃnt/",
+    "definition": "Competent or skilled in doing or using something, gained through thorough practice and training.",
+    "definition_zh": "熟練的；精通的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forward, advanced",
+          "meaning_zh": "向前、進步"
+        },
+        {
+          "root": "facere / ficere",
+          "origin": "Latin",
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向前、進步）+ FIC（做）→ 事情做得非常前沿、功力深厚",
+      "story_en": "To become PROFICIENT in coding, you must push forward (PRO) and make (FACERE) programs every single day.",
+      "story_zh": "為了在編程方面變得「精通熟練（PROFICIENT）」，你必須不斷前進（PRO）並每天動手做（FACERE）出程式。",
+      "emojis": [
+        "💻",
+        "🎯",
+        "🎓"
+      ]
+    },
+    "example": "Applicants must be proficient in both written and spoken Mandarin to qualify for the position.",
+    "example_zh": "申請人必須精通中文的聽說讀寫，才符合該職位的資格。",
+    "collocations": [
+      "highly proficient",
+      "proficient in",
+      "become proficient",
+      "proficient user",
+      "language proficient"
+    ],
+    "synonyms": [
+      "skilled",
+      "expert",
+      "adept",
+      "competent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "fluent",
+        "difference": "fluent strictly relates to smooth flow in languages; proficient can apply to any skill, tool, sport, or academic field."
+      }
+    ],
+    "antonyms": [
+      "inept",
+      "unskilled",
+      "amateurish"
+    ],
+    "word_family": [
+      {
+        "word": "proficiency",
+        "pos": "noun"
+      },
+      {
+        "word": "proficient",
+        "pos": "adjective"
+      },
+      {
+        "word": "proficiently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 334,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "language",
+      "business"
+    ]
+  },
+  {
+    "word": "profligate",
+    "pos": "adjective",
+    "phonetic": "/ˈprɑːflɪɡət/",
+    "definition": "Recklessly extravagant or wasteful in the use of resources; licentious or dissolute in moral behavior.",
+    "definition_zh": "極度揮霍的；荒淫的；放蕩的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forward, down",
+          "meaning_zh": "向前、倒下"
+        },
+        {
+          "root": "fligere",
+          "origin": "Latin",
+          "meaning": "to strike, dash",
+          "meaning_zh": "擊打、摧毀"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向下）+ FLIG（擊打、粉碎）→ 把大把大把的鈔票往地上摔碎，毫不在意地糟蹋",
+      "story_en": "The dictator's PROFLIGATE lifestyle dashed (FLIGERE) down (PRO) the entire national budget on gold palaces.",
+      "story_zh": "那名獨裁者「極度揮霍的（PROFLIGATE）」生活方式，把整個國家預算都向下（PRO）砸碎（FLIGERE）在建造黃金宮殿上了。",
+      "emojis": [
+        "💸",
+        "🎰",
+        "💔"
+      ]
+    },
+    "example": "The movie studio failed due to profligate spending on celebrity perks and endless script rewrites.",
+    "example_zh": "該電影製片廠因為在明星特權和沒完沒了的劇本重寫上極度揮霍而倒閉。",
+    "collocations": [
+      "profligate spending",
+      "profligate habits",
+      "profligate government",
+      "profligate lifestyle",
+      "profligate use of energy"
+    ],
+    "synonyms": [
+      "spendthrift",
+      "improvident",
+      "dissolute",
+      "extravagant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prodigal",
+        "difference": "prodigal stresses excessive spending and waste; profligate goes a step further, often implying shamelessly immoral and shameless wild behavior."
+      }
+    ],
+    "antonyms": [
+      "frugal",
+      "ascetic",
+      "economical"
+    ],
+    "word_family": [
+      {
+        "word": "profligate",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "profligacy",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 335,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "GRE",
+      "economics"
+    ]
+  },
+  {
+    "word": "profound",
+    "pos": "adjective",
+    "phonetic": "/prəˈfaʊnd/",
+    "definition": "Very great or intense; showing great knowledge, deep insight, or structural complexity.",
+    "definition_zh": "深刻的；深奧的；極大的；深遠的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forward, forth",
+          "meaning_zh": "向前"
+        },
+        {
+          "root": "fundus",
+          "origin": "Latin",
+          "meaning": "bottom, base",
+          "meaning_zh": "底部、根基"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向前延伸）+ FUND（底部）→ 直達事物的最底部，極深處",
+      "story_en": "The philosopher's books had a PROFOUND impact because they dug down to the very fundus (FUNDUS) or bottom of existence.",
+      "story_zh": "這位哲學家的著作產生了「深遠的（PROFOUND）」影響，因為它們直接挖掘到了存在的最底部（FUNDUS）。",
+      "emojis": [
+        "🌊",
+        "🧠",
+        "📚"
+      ]
+    },
+    "example": "The invention of the printing press had a profound effect on the spread of literacy across Europe.",
+    "example_zh": "印刷術的發明對整個歐洲讀寫能力的普及產生了深遠的影響。",
+    "collocations": [
+      "profound impact",
+      "profound effect",
+      "profound understanding",
+      "profound silence",
+      "profound change"
+    ],
+    "synonyms": [
+      "deep",
+      "insightful",
+      "acute",
+      "intense"
+    ],
+    "near_synonyms": [
+      {
+        "word": "serious",
+        "difference": "serious implies grave importance or lack of humor; profound implies structural depth and far-reaching wisdom or effect."
+      }
+    ],
+    "antonyms": [
+      "superficial",
+      "shallow",
+      "trivial"
+    ],
+    "word_family": [
+      {
+        "word": "profound",
+        "pos": "adjective"
+      },
+      {
+        "word": "profoundly",
+        "pos": "adverb"
+      },
+      {
+        "word": "profundity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 336,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "profuse",
+    "pos": "adjective",
+    "phonetic": "/prəˈfjuːs/",
+    "definition": "Exuberantly plentiful; abundant, pouring out in large, unrestricted quantities.",
+    "definition_zh": "極多的；豐富的；慷慨的；大汗淋漓的；傾注的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forth, forward",
+          "meaning_zh": "向外、向前"
+        },
+        {
+          "root": "fundere / fus",
+          "origin": "Latin",
+          "meaning": "to pour",
+          "meaning_zh": "倒、傾瀉"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向外）+ FUSE（倒、流）→ 大量地向外傾倒傾瀉",
+      "story_en": "After running the marathon in the heat, he offered PROFUSE apologies while dripping with PROFUSE sweat.",
+      "story_zh": "在酷暑中跑完馬拉松後，他一邊「大量地（PROFUSE）」流汗，一邊表達了「連聲（PROFUSE，大批傾瀉）」的歉意。",
+      "emojis": [
+        "💦",
+        "🌋",
+        "💐"
+      ]
+    },
+    "example": "The company offered profuse apologies and financial compensation to all affected users after the major data leak.",
+    "example_zh": "在發生重大數據洩漏後，該公司向所有受影響的用戶表達了誠摯的歉意（連聲道歉）並給予經濟補償。",
+    "collocations": [
+      "profuse apologies",
+      "profuse sweating",
+      "profuse bleeding",
+      "profuse thanks",
+      "profuse growth"
+    ],
+    "synonyms": [
+      "abundant",
+      "copious",
+      "plentiful",
+      "lavish"
+    ],
+    "near_synonyms": [
+      {
+        "word": "excessive",
+        "difference": "excessive has a strictly negative meaning of being too much; profuse can mean beautifully generous, like profuse flowers or thanks."
+      }
+    ],
+    "antonyms": [
+      "scanty",
+      "meager",
+      "sparse"
+    ],
+    "word_family": [
+      {
+        "word": "profuse",
+        "pos": "adjective"
+      },
+      {
+        "word": "profusely",
+        "pos": "adverb"
+      },
+      {
+        "word": "profusion",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 337,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ]
+  },
+  {
+    "word": "prognosis",
+    "pos": "noun",
+    "phonetic": "/prɑːɡˈnoʊsɪs/",
+    "definition": "A forecast of the likely course and outcome of a disease or situation, especially in medical and economic projections.",
+    "definition_zh": "預後（對病情發展的預測）；展望；預測",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Greek",
+          "meaning": "before",
+          "meaning_zh": "提前"
+        },
+        {
+          "root": "gignoskein / gno",
+          "origin": "Greek",
+          "meaning": "to know",
+          "meaning_zh": "知道"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（提前）+ GNO（知道）→ 事情還沒發生就提前預知結果",
+      "story_en": "Thanks to early detection, the doctor gave a positive PROGNOSIS, stating that he GNOs (knows) before (PRO) treatment that the patient will recover.",
+      "story_zh": "多虧了早期發現，醫生給出了樂觀的「預後判斷（PROGNOSIS）」，表示在治療前（PRO）就已經可以預知（GNO）病人能完全康復。",
+      "emojis": [
+        "🩺",
+        "📊",
+        "🔮"
+      ]
+    },
+    "example": "The economic prognosis for the coming year remains bleak due to inflation and geopolitical tensions.",
+    "example_zh": "由於通貨膨脹和地緣政治局勢緊張，未來一年的經濟展望依預測依然黯淡。",
+    "collocations": [
+      "medical prognosis",
+      "economic prognosis",
+      "poor prognosis",
+      "excellent prognosis",
+      "give a prognosis"
+    ],
+    "synonyms": [
+      "forecast",
+      "prediction",
+      "prospect",
+      "projection"
+    ],
+    "near_synonyms": [
+      {
+        "word": "diagnosis",
+        "difference": "diagnosis identifies the current nature of a disease or problem; prognosis predicts the future course and ultimate outcome."
+      }
+    ],
+    "antonyms": [
+      "retrospect",
+      "history"
+    ],
+    "word_family": [
+      {
+        "word": "prognosis",
+        "pos": "noun"
+      },
+      {
+        "word": "prognostic",
+        "pos": "adjective"
+      },
+      {
+        "word": "prognosticate",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 338,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "business"
+    ]
+  },
+  {
+    "word": "prolific",
+    "pos": "adjective",
+    "phonetic": "/prəˈlɪfɪk/",
+    "definition": "Producing much fruit, foliage, or many offspring; highly productive in creative works like writing, art, or music.",
+    "definition_zh": "多產的；高產的；豐富的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "proles",
+          "origin": "Latin",
+          "meaning": "offspring",
+          "meaning_zh": "子嗣、後代"
+        },
+        {
+          "root": "facere / fic",
+          "origin": "Latin",
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROL（後代）+ FIC（做、生產）→ 源源不斷地製造出生產出大量果實或作品",
+      "story_en": "Stephen King is a PROLIFIC writer, making (FIC) a massive number of books as if they were his literary offspring (PROLES).",
+      "story_zh": "史蒂芬·金是一位「多產的（PROLIFIC）」作家，製造（FIC）了大量的書，就好像它們是他的文學後代（PROLES）一樣。",
+      "emojis": [
+        "✍️",
+        "🎨",
+        "🐰"
+      ]
+    },
+    "example": "Picasso was an incredibly prolific artist, creating over 20,000 artworks during his long career.",
+    "example_zh": "畢卡索是一位令人難以置信的多產藝術家，在長期的職業生涯中創作了兩萬多件藝術品。",
+    "collocations": [
+      "prolific writer",
+      "prolific goalscorer",
+      "prolific inventor",
+      "highly prolific",
+      "prolific species"
+    ],
+    "synonyms": [
+      "productive",
+      "fertile",
+      "fruitful",
+      "fecund"
+    ],
+    "near_synonyms": [
+      {
+        "word": "creative",
+        "difference": "creative focuses on the originality and artistic value of ideas; prolific focuses heavily on the massive volume and quantity produced."
+      }
+    ],
+    "antonyms": [
+      "unproductive",
+      "barren",
+      "sterile"
+    ],
+    "word_family": [
+      {
+        "word": "prolific",
+        "pos": "adjective"
+      },
+      {
+        "word": "prolifically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 339,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "academic"
+    ]
+  },
+  {
+    "word": "prolix",
+    "pos": "adjective",
+    "phonetic": "/proʊˈlɪks/",
+    "definition": "Using or containing too many words; tediously lengthy and wordy in speech or writing.",
+    "definition_zh": "冗長的；囉嗦的；話多的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forth, out",
+          "meaning_zh": "向外"
+        },
+        {
+          "root": "liquere",
+          "origin": "Latin",
+          "meaning": "to flow",
+          "meaning_zh": "流動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向外）+ LIX（流動）→ 廢話像水一樣不斷向外漫流，沒完沒了",
+      "story_en": "The politician's PROLIX speech caused the audience to fall asleep as his words kept liquid (LIQUERE) flowing out (PRO) for hours.",
+      "story_zh": "那名政治家「冗長囉嗦的（PROLIX）」演講讓聽眾昏昏欲睡，因為他的廢話像液體（LIQUERE）一樣向外（PRO）流了幾個小時。",
+      "emojis": [
+        "🗣️",
+        "🥱",
+        "📜"
+      ]
+    },
+    "example": "The legal contract was so prolix that even the experienced lawyers struggled to find the main clause.",
+    "example_zh": "這份法律合約是如此冗長，以至於連經驗豐富的律師都很難找到主條款。",
+    "collocations": [
+      "prolix speech",
+      "prolix style",
+      "prolix writer",
+      "prolix legal document",
+      "tediously prolix"
+    ],
+    "synonyms": [
+      "wordy",
+      "verbose",
+      "garrulous",
+      "long-winded"
+    ],
+    "near_synonyms": [
+      {
+        "word": "detailed",
+        "difference": "detailed means containing helpful, necessary facts; prolix implies containing useless, boring extra words that ruin clarity."
+      }
+    ],
+    "antonyms": [
+      "concise",
+      "succinct",
+      "laconic"
+    ],
+    "word_family": [
+      {
+        "word": "prolix",
+        "pos": "adjective"
+      },
+      {
+        "word": "prolixity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 340,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "GRE",
+      "language"
+    ]
+  },
+  {
+    "word": "prominent",
+    "pos": "adjective",
+    "phonetic": "/ˈprɑːmɪnənt/",
+    "definition": "Important or famous; sticking out or projecting physically so as to be easily seen.",
+    "definition_zh": "顯著的；著名的；突出的；重要的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forward",
+          "meaning_zh": "向前"
+        },
+        {
+          "root": "minere",
+          "origin": "Latin",
+          "meaning": "to jut, project",
+          "meaning_zh": "突出、伸出"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向前）+ MIN（突出）→ 往前突出來、讓人一眼就注意到的精英",
+      "story_en": "The tower occupied a PROMINENT position on the hill, jutting (MINERE) forward (PRO) against the city skyline.",
+      "story_zh": "這座高塔在山丘上佔據了「顯著的（PROMINENT）」位置，朝前（PRO）突顯（MINERE）在城市天際線中。",
+      "emojis": [
+        "🏔️",
+        "🌟",
+        "👑"
+      ]
+    },
+    "example": "A prominent human rights lawyer was selected to lead the independent investigation into the scandal.",
+    "example_zh": "一位著名的維權律師被選中來領導對該醜聞的獨立調查。",
+    "collocations": [
+      "prominent feature",
+      "prominent citizen",
+      "prominent role",
+      "prominent position",
+      "play a prominent part"
+    ],
+    "synonyms": [
+      "eminent",
+      "conspicuous",
+      "famous",
+      "noticeable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "famous",
+        "difference": "famous means widely known by the public; prominent focuses on occupying a highly visible, powerful position or physical vantage point."
+      }
+    ],
+    "antonyms": [
+      "obscure",
+      "insignificant",
+      "hidden"
+    ],
+    "word_family": [
+      {
+        "word": "prominence",
+        "pos": "noun"
+      },
+      {
+        "word": "prominent",
+        "pos": "adjective"
+      },
+      {
+        "word": "prominently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 341,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "politics"
+    ]
+  },
+  {
+    "word": "promulgate",
+    "pos": "verb",
+    "phonetic": "/ˈprɑːmlɡeɪt/",
+    "definition": "To promote or make widely known an idea, law, or cause; to officially put a law into effect.",
+    "definition_zh": "頒布（法令）；宣傳；傳播；公佈",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forth, out",
+          "meaning_zh": "向外、公開"
+        },
+        {
+          "root": "mulgere",
+          "origin": "Latin",
+          "meaning": "to milk, bring out (metaphor for exposing)",
+          "meaning_zh": "擠奶、帶出、使顯露"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向外）+ MULG（使顯露、帶出）→ 把隱藏的法令或政策推向大眾公開宣布",
+      "story_en": "The president will PROMULGATE the new constitution tonight, bringing it out (MULGERE) forth (PRO) to the entire nation.",
+      "story_zh": "總統將於今晚「頒布（PROMULGATE）」新憲法，將其向外（PRO）公佈給全國人民、宣告其實施。",
+      "emojis": [
+        "📢",
+        "📜",
+        "⚖️"
+      ]
+    },
+    "example": "The religious sect used social media platforms to promulgate their unusual philosophical doctrines worldwide.",
+    "example_zh": "該宗教派別利用社群媒體平台在全球範圍內傳播他們獨特的哲學教義。",
+    "collocations": [
+      "promulgate a law",
+      "promulgate a decree",
+      "promulgate doctrines",
+      "officially promulgate",
+      "promulgate ideas"
+    ],
+    "synonyms": [
+      "proclaim",
+      "disseminate",
+      "publish",
+      "broadcast"
+    ],
+    "near_synonyms": [
+      {
+        "word": "announce",
+        "difference": "announce is a general term for making something known; promulgate specifically implies official, legal execution of a law or systemic spreading of a dogma."
+      }
+    ],
+    "antonyms": [
+      "suppress",
+      "conceal",
+      "withhold"
+    ],
+    "word_family": [
+      {
+        "word": "promulgate",
+        "pos": "verb"
+      },
+      {
+        "word": "promulgation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 342,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "propensity",
+    "pos": "noun",
+    "phonetic": "/prəˈpensəti/",
+    "definition": "An inclination or natural tendency to behave in a particular way; a strong preference or leaning toward something.",
+    "definition_zh": "傾向；習性；嗜好",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forward",
+          "meaning_zh": "向前"
+        },
+        {
+          "root": "pendere",
+          "origin": "Latin",
+          "meaning": "to hang, weigh",
+          "meaning_zh": "懸掛、下垂、傾斜"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向前）+ PEND（懸掛、傾斜）→ 天平向前嚴重傾斜，表示心意早已有所偏向",
+      "story_en": "He has a PROPENSITY to exaggerate stories, always hanging (PENDERE) forward (PRO) toward fiction rather than plain facts.",
+      "story_zh": "他有一種誇大故事的「傾向（PROPENSITY）」，其言論總是向前（PRO）傾斜（PENDERE）向虛構故事，而非樸實的事實。",
+      "emojis": [
+        "⚖️",
+        "📉",
+        "🧠"
+      ]
+    },
+    "example": "Studies indicate that certain genetic factors can increase an individual's propensity for addiction.",
+    "example_zh": "研究表明，某些基因因素會增加個人成癮的傾向。",
+    "collocations": [
+      "propensity for violence",
+      "natural propensity",
+      "propensity to consume",
+      "increased propensity",
+      "show a propensity"
+    ],
+    "synonyms": [
+      "inclination",
+      "tendency",
+      "penchant",
+      "predilection"
+    ],
+    "near_synonyms": [
+      {
+        "word": "habit",
+        "difference": "habit is an acquired, repetitive behavior; propensity is an inherent internal urge or natural psychological vulnerability toward a behavior."
+      }
+    ],
+    "antonyms": [
+      "aversion",
+      "disinclination",
+      "antipathy"
+    ],
+    "word_family": [
+      {
+        "word": "propensity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 343,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "propinquity",
+    "pos": "noun",
+    "phonetic": "/proʊˈpɪŋkwəti/",
+    "definition": "The state of being close to someone or something in space, time, or kinship; proximity.",
+    "definition_zh": "接近；鄰近；（血緣）親近",
+    "etymology": {
+      "roots": [
+        {
+          "root": "propinquus",
+          "origin": "Latin",
+          "meaning": "near, close",
+          "meaning_zh": "靠近的、鄰近的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROPINQUUS（靠近）→ 物理空間或血緣關係上的極度貼近",
+      "story_en": "The physical PROPINQUITY of their offices naturally led to a close working friendship, since they sat so PROPINQUUS (near).",
+      "story_zh": "他們辦公室物理空間上的「鄰近（PROPINQUITY）」自然催生了親密的同事友誼，因為彼此坐得太靠近（PROPINQUUS）了。",
+      "emojis": [
+        "緊",
+        "🏢",
+        "🔗"
+      ]
+    },
+    "example": "Sociologists argue that geographic propinquity remains a critical factor in how human relationships develop.",
+    "example_zh": "社會學家認為，地理上的鄰近性依然是人類關係發展的一個關鍵因素。",
+    "collocations": [
+      "geographic propinquity",
+      "physical propinquity",
+      "propinquity of birth",
+      "in close propinquity",
+      "propinquity effect"
+    ],
+    "synonyms": [
+      "proximity",
+      "nearness",
+      "closeness",
+      "adjacency"
+    ],
+    "near_synonyms": [
+      {
+        "word": "proximity",
+        "difference": "proximity is the standard technical term for closeness in space/time; propinquity is more literary and can heavily imply emotional or family kinship connection due to that closeness."
+      }
+    ],
+    "antonyms": [
+      "distance",
+      "remoteness",
+      "separation"
+    ],
+    "word_family": [
+      {
+        "word": "propinquity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 344,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "GRE",
+      "social"
+    ]
+  },
+  {
+    "word": "propitious",
+    "pos": "adjective",
+    "phonetic": "/prəˈpɪʃəs/",
+    "definition": "Giving or indicating a good chance of success; favorable and auspicious.",
+    "definition_zh": "吉利的；順利的；有利的；合適的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "propitius",
+          "origin": "Latin",
+          "meaning": "favorable, gracious, well-disposed",
+          "meaning_zh": "有利的、慈悲的、順從的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROPITIUS（有利、神明保佑的）→ 運氣極佳，老天爺都在幫你",
+      "story_en": "The clear skies and gentle breeze offered a PROPITIOUS moment to launch the sailing ship under a PROPITIOUS (favorable) sky.",
+      "story_zh": "晴朗的天空和和煦的微風為帆船的出航提供了一個「吉利有利的（PROPITIOUS）」時刻，得到了上天的眷顧（PROPITIUS）。",
+      "emojis": [
+        "🍀",
+        "☀️",
+        "🚀"
+      ]
+    },
+    "example": "With low interest rates and a surging economy, it was deemed a propitious time to start a new business.",
+    "example_zh": "憑藉著低利率和蓬勃發展的經濟，此時被認為是開創全新事業的有利時機。",
+    "collocations": [
+      "propitious sign",
+      "propitious moment",
+      "highly propitious",
+      "propitious timing",
+      "propitious circumstances"
+    ],
+    "synonyms": [
+      "auspicious",
+      "favorable",
+      "promising",
+      "opportune"
+    ],
+    "near_synonyms": [
+      {
+        "word": "lucky",
+        "difference": "lucky suggests random, accidental good fortune; propitious implies that all external conditions align beautifully to guarantee success."
+      }
+    ],
+    "antonyms": [
+      "unfavorable",
+      "inauspicious",
+      "ominous"
+    ],
+    "word_family": [
+      {
+        "word": "propitiate",
+        "pos": "verb"
+      },
+      {
+        "word": "propitious",
+        "pos": "adjective"
+      },
+      {
+        "word": "propitiously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 345,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ]
+  },
+  {
+    "word": "prosaic",
+    "pos": "adjective",
+    "phonetic": "/proʊˈzeɪɪk/",
+    "definition": "Having the style or diction of prose; lacking poetic beauty, originality, or excitement; ordinary and dull.",
+    "definition_zh": "散文體的；乏味的；平淡的；平凡無奇的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "prosa",
+          "origin": "Latin",
+          "meaning": "prose (straightforward speech)",
+          "meaning_zh": "散文、直白平實的話"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROSA（散文）→ 像白話散文一樣直白，缺乏詩歌（poetry）的浪漫、刺激與美感",
+      "story_en": "The travel brochure promised an exotic paradise, but the reality was a PROSAIC hotel with a view of a PROSA (prose-like) dull wall.",
+      "story_zh": "旅遊手冊承諾了一個充滿異國情調的天堂，但現實卻是一家「乏味平凡的（PROSAIC）」旅館，窗外只有一堵像白話散文（PROSA）一樣死板的牆。",
+      "emojis": [
+        "🥱",
+        "🏢",
+        "🧱"
+      ]
+    },
+    "example": "Despite his grand political ambitions, his daily tasks were limited to prosaic administrative paperwork.",
+    "example_zh": "儘管他有著宏大的政治野心，但他日常的任務僅限於枯燥乏味的行政文書工作。",
+    "collocations": [
+      "prosaic details",
+      "prosaic life",
+      "prosaic style",
+      "prosaic reality",
+      "rather prosaic"
+    ],
+    "synonyms": [
+      "mundane",
+      "commonplace",
+      "humdrum",
+      "pedestrian"
+    ],
+    "near_synonyms": [
+      {
+        "word": "boring",
+        "difference": "boring means anything that causes fatigue; prosaic specifically describes something that lacks imagination, romance, or artistic inspiration."
+      }
+    ],
+    "antonyms": [
+      "poetic",
+      "imaginative",
+      "extraordinary"
+    ],
+    "word_family": [
+      {
+        "word": "prose",
+        "pos": "noun"
+      },
+      {
+        "word": "prosaic",
+        "pos": "adjective"
+      },
+      {
+        "word": "prosaically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 346,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "GRE",
+      "literature"
+    ]
+  },
+  {
+    "word": "proscribe",
+    "pos": "verb",
+    "phonetic": "/proʊˈskraɪb/",
+    "definition": "To forbid or ban by law; to denounce or condemn an action or practice officially.",
+    "definition_zh": "禁止；排斥；剝奪...的法律保護；公佈...為非法",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "in front of, public",
+          "meaning_zh": "在...面前、公開"
+        },
+        {
+          "root": "scribere",
+          "origin": "Latin",
+          "meaning": "to write",
+          "meaning_zh": "寫"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（公開）+ SCRIBE（寫）→ 將違法名單公開寫在大黑板上，昭告天下禁止之",
+      "story_en": "The dictatorship moved to PROSCRIBE free speech, writing (SCRIBERE) the banned books on a public (PRO) blacklist.",
+      "story_zh": "該獨裁政權動手「禁止（PROSCRIBE）」言論自由，將禁書的名字公開（PRO）寫在（SCRIBERE）黑名單上。",
+      "emojis": [
+        "❌",
+        "🚫",
+        "📜"
+      ]
+    },
+    "example": "The sports federation decided to proscribe the use of the performance-enhancing substance immediately.",
+    "example_zh": "體育聯合會決定立即禁止使用這種旨在提高成績的違禁物質。",
+    "collocations": [
+      "proscribe a practice",
+      "legally proscribe",
+      "proscribed organizations",
+      "proscribe weapons",
+      "proscribe by law"
+    ],
+    "synonyms": [
+      "ban",
+      "forbid",
+      "prohibit",
+      "outlaw"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prescribe",
+        "difference": "prescribe means to officially command or recommend a medication/course of action; proscribe means to strictly forbid or ban it."
+      }
+    ],
+    "antonyms": [
+      "allow",
+      "permit",
+      "prescribe"
+    ],
+    "word_family": [
+      {
+        "word": "proscribe",
+        "pos": "verb"
+      },
+      {
+        "word": "proscription",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Be extremely careful not to confuse proscribe (ban) with prescribe (order/recommend). They have exactly opposite legal effects.",
+    "frequency_rank": 347,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "law",
+      "GRE"
+    ]
+  },
+  {
+    "word": "provincial",
+    "pos": "adjective",
+    "phonetic": "/prəˈvɪnʃl/",
+    "definition": "Of or concerning a province of a country; narrow-minded or unsophisticated due to living away from the capital or cultural hubs.",
+    "definition_zh": "省的；地方的；偏狹的；目光短淺的；鄉土氣的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "provincia",
+          "origin": "Latin",
+          "meaning": "territory, charge, province",
+          "meaning_zh": "行省、外地轄區"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROVINCIA（行省、偏遠地方）→ 住在遠離首都大城市的鄉下，眼界容易受限",
+      "story_en": "The critic mocked his PROVINCIAL attitude, claiming his ideas belonged in a remote PROVINCIA rather than a global capital.",
+      "story_zh": "評論家嘲諷他「偏狹、土氣的（PROVINCIAL）」態度，聲稱他的思想屬於偏遠的行省（PROVINCIA），而非國際大都市。",
+      "emojis": [
+        "🏡",
+        "🗺️",
+        "🙅‍♂️"
+      ]
+    },
+    "example": "The global investor struggled to deal with the provincial mindset of the local village council.",
+    "example_zh": "這位全球投資者很難應對當地村委會那種狹隘、地方主義的思維模式。",
+    "collocations": [
+      "provincial government",
+      "provincial town",
+      "provincial attitude",
+      "provincial mindset",
+      "narrow and provincial"
+    ],
+    "synonyms": [
+      "parochial",
+      "insular",
+      "narrow-minded",
+      "local"
+    ],
+    "near_synonyms": [
+      {
+        "word": "rural",
+        "difference": "rural strictly describes physical countryside landscapes; provincial describes an unsophisticated, narrow attitude resulting from isolation."
+      }
+    ],
+    "antonyms": [
+      "cosmopolitan",
+      "sophisticated",
+      "urban"
+    ],
+    "word_family": [
+      {
+        "word": "province",
+        "pos": "noun"
+      },
+      {
+        "word": "provincial",
+        "pos": "adjective"
+      },
+      {
+        "word": "provincialism",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 348,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "politics"
+    ]
+  },
+  {
+    "word": "provocative",
+    "pos": "adjective",
+    "phonetic": "/prəˈvɑːkətɪv/",
+    "definition": "Causing annoyance, anger, or another strong reaction, especially deliberately; intended to arouse sexual desire or intellectual debate.",
+    "definition_zh": "挑釁的；煽動性的；引人思考的；刺激的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pro",
+          "origin": "Latin",
+          "meaning": "forth, forward",
+          "meaning_zh": "向外、向前"
+        },
+        {
+          "root": "vocare",
+          "origin": "Latin",
+          "meaning": "to call",
+          "meaning_zh": "呼喊、召喚"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PRO（向外）+ VOC（喊）→ 大聲向外叫囂挑戰，故意激起巨浪",
+      "story_en": "The artist's PROVOCATIVE painting was designed to call (VOCARE) forth (PRO) fierce public debates about political corruption.",
+      "story_zh": "這位藝術家「具挑釁與煽動性的（PROVOCATIVE）」畫作旨在向外（PRO）激發出（VOCARE）公眾對政治腐敗的激烈辯論。",
+      "emojis": [
+        "🔥",
+        "🗣️",
+        "🎨"
+      ]
+    },
+    "example": "The professor gave a highly provocative lecture that challenged long-held economic assumptions.",
+    "example_zh": "教授進行了一場極具啟發性（引人思考）的演講，挑戰了長期存在的經濟假設。",
+    "collocations": [
+      "provocative question",
+      "provocative dress",
+      "highly provocative",
+      "provocative statement",
+      "provocative behavior"
+    ],
+    "synonyms": [
+      "inciting",
+      "stimulating",
+      "inflammatory",
+      "galling"
+    ],
+    "near_synonyms": [
+      {
+        "word": "offensive",
+        "difference": "offensive means causing pure hurt or disgust; provocative can be positive, meaning it intentionally forces people to think deeply or react."
+      }
+    ],
+    "antonyms": [
+      "soothing",
+      "pacifying",
+      "unexciting"
+    ],
+    "word_family": [
+      {
+        "word": "provoke",
+        "pos": "verb"
+      },
+      {
+        "word": "provocation",
+        "pos": "noun"
+      },
+      {
+        "word": "provocative",
+        "pos": "adjective"
+      },
+      {
+        "word": "provocatively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 349,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "art"
+    ]
+  },
+  {
+    "word": "prudent",
+    "pos": "adjective",
+    "phonetic": "/ˈpruːdnt/",
+    "definition": "Acting with or showing care and thought for the future; wise, cautious, and practical in managing affairs.",
+    "definition_zh": "謹慎的；審慎的；精明的；有先見之明的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "providens",
+          "origin": "Latin",
+          "meaning": "foreseeing, looking ahead",
+          "meaning_zh": "有遠見的、提前看"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PROVIDENS（向前看、遠見）→ 縮寫演變為 prudent。凡事向前看好風險才走",
+      "story_en": "It is PRUDENT to save money for retirement, acting with the PROVIDENS (foreseeing) wisdom to secure the future.",
+      "story_zh": "為退休存錢是「審慎精明的（PRUDENT）」，這展現了提前看（PROVIDENS）並確保未來的遠見智慧。",
+      "emojis": [
+        "🐷",
+        "🛡️",
+        "📉"
+      ]
+    },
+    "example": "In light of the market volatility, it would be prudent to delay our expansion plans for a few months.",
+    "example_zh": "鑑於市場動盪，將我們的擴張計劃推遲幾個月將是審慎的做法。",
+    "collocations": [
+      "prudent financial management",
+      "prudent decision",
+      "it is prudent to",
+      "prudent investment",
+      "highly prudent"
+    ],
+    "synonyms": [
+      "cautious",
+      "judicious",
+      "wise",
+      "circumspect"
+    ],
+    "near_synonyms": [
+      {
+        "word": "careful",
+        "difference": "careful emphasizes avoiding mistakes in the present moment; prudent emphasizes practical, sharp wisdom directed toward long-term future security."
+      }
+    ],
+    "antonyms": [
+      "imprudent",
+      "reckless",
+      "foolish"
+    ],
+    "word_family": [
+      {
+        "word": "prudence",
+        "pos": "noun"
+      },
+      {
+        "word": "prudent",
+        "pos": "adjective"
+      },
+      {
+        "word": "prudently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 350,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "finance"
+    ]
+  }
+]
