@@ -1,0 +1,4259 @@
+[
+  {
+    "word": "dauntless",
+    "pos": "adjective",
+    "phonetic": "/ˈdɔːntləs/",
+    "definition": "Showing determination and no fear when faced with dangerous, difficult, or intimidating situations.",
+    "definition_zh": "勇敢的；無畏的；不屈不撓的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dom",
+          "origin": "Latin",
+          "meaning": "to tame, subdue (via Old French danter)",
+          "meaning_zh": "馴服、克服"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DOM（馴服）+ LESS（無法）→ 無法被馴服、嚇倒的",
+      "story_en": "The DAUNTLESS explorer refused to let the harsh Arctic weather DAUNT or tame his spirit.",
+      "story_zh": "這位「勇敢無畏（DAUNTLESS）」的探險家拒絕讓惡劣的北極天氣嚇倒或馴服他的鬥志。",
+      "emojis": [
+        "🦁",
+        "🧗",
+        "🛡️"
+      ]
+    },
+    "example": "Despite facing severe financial ruin and constant criticism, the entrepreneur remained dauntless in pursuing her vision.",
+    "example_zh": "儘管面臨嚴重的財務危機與不斷的批評，這位企業家在追求夢想的道路上依然無畏無懼。",
+    "collocations": [
+      "dauntless courage",
+      "dauntless spirit",
+      "dauntless warrior",
+      "remain dauntless",
+      "dauntless resolve"
+    ],
+    "synonyms": [
+      "fearless",
+      "intrepid",
+      "undaunted",
+      "valiant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "brave",
+        "difference": "brave is a common, general term for showing courage; dauntless specifically implies remaining resolute and untamed by extreme intimidation."
+      },
+      {
+        "word": "reckless",
+        "difference": "reckless means acting without thinking about danger; dauntless implies facing recognized danger with noble fortitude."
+      }
+    ],
+    "antonyms": [
+      "fearful",
+      "timid",
+      "cowardly"
+    ],
+    "word_family": [
+      {
+        "word": "daunt",
+        "pos": "verb"
+      },
+      {
+        "word": "dauntless",
+        "pos": "adjective"
+      },
+      {
+        "word": "dauntlessly",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Dauntless is highly literary and formal, often used to praise historical figures, explorers, or activists, unlike the everyday word 'brave'.",
+    "frequency_rank": 101,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "decorum",
+    "pos": "noun",
+    "phonetic": "/dɪˈkɔːrəm/",
+    "definition": "Behavior that is controlled, calm, and socially correct, matching the accepted standards of a particular formal occasion.",
+    "definition_zh": "端莊；得體；禮儀；合宜",
+    "etymology": {
+      "roots": [
+        {
+          "root": "decor",
+          "origin": "Latin",
+          "meaning": "beauty, elegance, grace",
+          "meaning_zh": "美、優雅、合適"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DECOR（優雅、合適）→ 行為舉止合乎優雅的標準",
+      "story_en": "The diplomat maintained strict DECORUM to ensure the formal DECOR of the courtroom was respected.",
+      "story_zh": "外交官保持著嚴格的「端莊得體（DECORUM）」，以確保法庭的優雅與莊嚴受到尊重。",
+      "emojis": [
+        "👔",
+        "⚖️",
+        "🤝"
+      ]
+    },
+    "example": "The committee expects all members to conduct themselves with decorum and mutual respect during the debate.",
+    "example_zh": "委員會期望所有成員在辯論期間都能保持舉止得體並相互尊重。",
+    "collocations": [
+      "maintain decorum",
+      "sense of decorum",
+      "strict decorum",
+      "behavioral decorum",
+      "breach of decorum"
+    ],
+    "synonyms": [
+      "propriety",
+      "decency",
+      "etiquette",
+      "politeness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "etiquette",
+        "difference": "etiquette refers to the specific set of written or unwritten rules governing social behavior; decorum is the internal grace and appropriate conduct shown by a person."
+      },
+      {
+        "word": "dignity",
+        "difference": "dignity focuses on personal self-worth and honor; decorum focuses on conforming to social standard and appropriateness."
+      }
+    ],
+    "antonyms": [
+      "impropriety",
+      "indecency",
+      "rudeness"
+    ],
+    "word_family": [
+      {
+        "word": "decorum",
+        "pos": "noun"
+      },
+      {
+        "word": "decorous",
+        "pos": "adjective"
+      },
+      {
+        "word": "decorously",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Decorum is frequently used when discussing behavior in formal institutions like courts, parliaments, or high-stakes business negotiations.",
+    "frequency_rank": 102,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "deference",
+    "pos": "noun",
+    "phonetic": "/ˈdefərəns/",
+    "definition": "Respect and politeness shown toward someone, often leading to compliance with their opinions, wishes, or judgment.",
+    "definition_zh": "尊崇；順從；敬意",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away, down",
+          "meaning_zh": "向下、離開"
+        },
+        {
+          "root": "fer",
+          "origin": "Latin",
+          "meaning": "to carry, bear",
+          "meaning_zh": "帶、承受"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（下）+ FER（帶）→ 將自己的意見放低，帶給別人尊重",
+      "story_en": "Out of DEFERENCE to the senior judge, the young lawyer DEFERred his final argument.",
+      "story_zh": "出於對資深法官的「尊崇（DEFERENCE）」，年輕律師延後（DEFER）了他的最終辯詞並順從其意。",
+      "emojis": [
+        "🙇",
+        "👑",
+        "👔"
+      ]
+    },
+    "example": "The young architect changed the building plan in deference to the historical preservation society's wishes.",
+    "example_zh": "出於對歷史保護協會意願的尊重，這位年輕的建築師修改了建築藍圖。",
+    "collocations": [
+      "in deference to",
+      "show deference",
+      "treat with deference",
+      "blind deference",
+      "deference to authority"
+    ],
+    "synonyms": [
+      "respect",
+      "reverence",
+      "compliance",
+      "submission"
+    ],
+    "near_synonyms": [
+      {
+        "word": "respect",
+        "difference": "respect is a general admiration for someone's qualities; deference involves actively yielding to or complying with another's judgment out of respect."
+      },
+      {
+        "word": "obedience",
+        "difference": "obedience is following orders because one has to; deference is yielding willingly out of respect for status or wisdom."
+      }
+    ],
+    "antonyms": [
+      "disrespect",
+      "defiance",
+      "contempt"
+    ],
+    "word_family": [
+      {
+        "word": "defer",
+        "pos": "verb"
+      },
+      {
+        "word": "deference",
+        "pos": "noun"
+      },
+      {
+        "word": "deferential",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "Most frequently used in the prepositional phrase 'in deference to' followed by a person, rule, or institution.",
+    "frequency_rank": 103,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "deleterious",
+    "pos": "adjective",
+    "phonetic": "/ˌdeləˈtɪriəs/",
+    "definition": "Causing harm, damage, or injury, often in a subtle, unexpected, or gradual manner.",
+    "definition_zh": "有害的；有毒的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "deleis",
+          "origin": "Greek",
+          "meaning": "harmful, destructive",
+          "meaning_zh": "有害的、破壞性的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DELEIS（破壞）→ 音似 delete，把好東西都刪除刪掉",
+      "story_en": "If you DELETE important security files, it will have a DELETERIOUS effect on the whole computer network.",
+      "story_zh": "如果你刪除（DELETE）了重要的安全檔案，將對整個電腦網路產生「有害的（DELETERIOUS）」影響。",
+      "emojis": [
+        "⚠️",
+        "☠️",
+        "📉"
+      ]
+    },
+    "example": "Deforestation has a deleterious effect on global biodiversity, driving countless species to extinction.",
+    "example_zh": "砍伐森林對全球生物多樣性產生了有害的影響，導致無數物種滅絕。",
+    "collocations": [
+      "deleterious effect",
+      "deleterious impact",
+      "highly deleterious",
+      "deleterious consequences",
+      "prove deleterious"
+    ],
+    "synonyms": [
+      "harmful",
+      "detrimental",
+      "adverse",
+      "pernicious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "harmful",
+        "difference": "harmful is a general, everyday word for causing injury; deleterious is more formal and often describes cumulative or indirect damage."
+      },
+      {
+        "word": "toxic",
+        "difference": "toxic specifically implies chemical poisoning; deleterious refers broadly to anything that erodes health, well-being, or systems."
+      }
+    ],
+    "antonyms": [
+      "beneficial",
+      "advantageous",
+      "salutary"
+    ],
+    "word_family": [
+      {
+        "word": "deleterious",
+        "pos": "adjective"
+      },
+      {
+        "word": "deleteriously",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Deleterious is highly academic and is favored in environmental science, economics, and medical literature to discuss negative trends.",
+    "frequency_rank": 104,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "delineate",
+    "pos": "verb",
+    "phonetic": "/dɪˈlɪnieɪt/",
+    "definition": "To describe, portray, or outline something precisely in words, diagrams, or borders.",
+    "definition_zh": "描繪；敘述；勾勒輪廓；劃定界線",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "completely, thoroughly",
+          "meaning_zh": "完全、徹底"
+        },
+        {
+          "root": "line",
+          "origin": "Latin",
+          "meaning": "line",
+          "meaning_zh": "線條"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（完全）+ LINE（劃線）→ 用線條完全勾勒出邊界或細節",
+      "story_en": "The architect used a black LINE to DELINEATE the exact borders of the property.",
+      "story_zh": "建築師用黑色的「線條（LINE）」來「精確劃定（DELINEATE）」這棟資產的確切邊界。",
+      "emojis": [
+        "✍️",
+        "📐",
+        "🗺️"
+      ]
+    },
+    "example": "The report clearly delineates the steps that must be taken to implement the new environmental policy.",
+    "example_zh": "該報告清晰地闡明了實施新環保政策必須採取的步驟。",
+    "collocations": [
+      "clearly delineate",
+      "delineate boundaries",
+      "delineate responsibilities",
+      "delineate a plan",
+      "delineate characters"
+    ],
+    "synonyms": [
+      "outline",
+      "depict",
+      "portray",
+      "define",
+      "specify"
+    ],
+    "near_synonyms": [
+      {
+        "word": "describe",
+        "difference": "describe can be broad and general; delineate emphasizes drawing clear boundaries or detailing specific categories so there is no overlap."
+      },
+      {
+        "word": "sketch",
+        "difference": "sketch implies a rough, preliminary outline; delineate implies a precise and finished detail."
+      }
+    ],
+    "antonyms": [
+      "confuse",
+      "distort",
+      "blur"
+    ],
+    "word_family": [
+      {
+        "word": "delineate",
+        "pos": "verb"
+      },
+      {
+        "word": "delineation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Commonly used in organizational management (delineating roles) and geography/law (delineating physical boundaries).",
+    "frequency_rank": 105,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "demure",
+    "pos": "adjective",
+    "phonetic": "/dɪˈmjuːr/",
+    "definition": "Quiet, modest, and reserved, often used to describe a person's behavior, clothing, or demeanor (sometimes carrying a slight connotation of being affected or playful).",
+    "definition_zh": "端莊的；嫻靜的；裝作端莊的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "demorari",
+          "origin": "Latin",
+          "meaning": "to linger, delay (via Old French demourer)",
+          "meaning_zh": "停留、遲疑"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DEMUR（遲疑、停留）→ 面對他人時腳步遲疑、害羞內斂",
+      "story_en": "Instead of speaking loudly, she would DEMUR (hesitate) and maintain a DEMURE expression during the party.",
+      "story_zh": "她在派對上沒有大聲說話，而是有些「遲疑（DEMUR）」並保持著「嫻靜（DEMURE）」的表情。",
+      "emojis": [
+        "🤫",
+        "👗",
+        "🌸"
+      ]
+    },
+    "example": "She wore a demure navy dress with a high collar to her corporate job interview.",
+    "example_zh": "她穿了一件高領且端莊的深藍色連身裙去參加她的企業求職面試。",
+    "collocations": [
+      "demure smile",
+      "demure look",
+      "demure dress",
+      "quiet and demure",
+      "demure behavior"
+    ],
+    "synonyms": [
+      "modest",
+      "reserved",
+      "coy",
+      "shy",
+      "sedate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "modest",
+        "difference": "modest means not boasting about oneself; demure heavily emphasizes a quiet, traditional, and visually reserved behavioral style."
+      },
+      {
+        "word": "coy",
+        "difference": "coy implies being flirtatiously or artificially shy; demure usually describes genuine calm and propriety, though it can sometimes be perceived as acting."
+      }
+    ],
+    "antonyms": [
+      "bold",
+      "brash",
+      "impudent",
+      "aggressive"
+    ],
+    "word_family": [
+      {
+        "word": "demure",
+        "pos": "adjective"
+      },
+      {
+        "word": "demurely",
+        "pos": "adverb"
+      },
+      {
+        "word": "demureness",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Demure is historically associated with traditional gender roles for women, but in modern contexts, it describes anyone showing extreme reserve or conservative fashion choices.",
+    "frequency_rank": 106,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "language",
+      "art"
+    ]
+  },
+  {
+    "word": "denounce",
+    "pos": "verb",
+    "phonetic": "/dɪˈnaʊns/",
+    "definition": "To publicly declare something or someone to be wrong, evil, or illegal in an official and forceful manner.",
+    "definition_zh": "公開譴責；指責；宣告（條約等）無效",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "down, completely",
+          "meaning_zh": "向下、徹底"
+        },
+        {
+          "root": "nuntiare",
+          "origin": "Latin",
+          "meaning": "to announce, report",
+          "meaning_zh": "宣告、報告"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（向下、壞事）+ NUNTIARE（宣告）→ 宣布某人的惡行，使其名聲下滑",
+      "story_en": "The president chose to anNOUNCE a new law while he publicly DE_NOUNCEd the corrupted officials.",
+      "story_zh": "總統選擇「宣布（ANNOUNCE）」一項新法律，同時公開「譴責（DENOUNCE）」那些腐敗的官員。",
+      "emojis": [
+        "📢",
+        "🛑",
+        "👩‍⚖️"
+      ]
+    },
+    "example": "Human rights organizations around the world immediately gathered to denounce the military coup.",
+    "example_zh": "世界各地的人權組織立即聚集起來，公開譴責這場軍事政變。",
+    "collocations": [
+      "publicly denounce",
+      "denounce violence",
+      "denounce a treaty",
+      "strongly denounce",
+      "denounce corruption"
+    ],
+    "synonyms": [
+      "condemn",
+      "criticize",
+      "censure",
+      "attack",
+      "decry"
+    ],
+    "near_synonyms": [
+      {
+        "word": "criticize",
+        "difference": "criticize can mean pointing out simple mistakes or flaws casually; denounce is a formal, highly public, moral or political condemnation."
+      },
+      {
+        "word": "condemn",
+        "difference": "condemn expresses complete moral disapproval; denounce often includes an element of reporting or exposing a specific wrong action publicly."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "applaud",
+      "endorse",
+      "commend"
+    ],
+    "word_family": [
+      {
+        "word": "denounce",
+        "pos": "verb"
+      },
+      {
+        "word": "denunciation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Commonly used in international relations and politics when governments or organizations issue formal negative statements against an action.",
+    "frequency_rank": 107,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ]
+  },
+  {
+    "word": "depict",
+    "pos": "verb",
+    "phonetic": "/dɪˈpɪkt/",
+    "definition": "To represent or show something by a painting, drawing, or other art form, or to describe it in words.",
+    "definition_zh": "描繪；描述；刻畫",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "down, completely",
+          "meaning_zh": "向下、徹底"
+        },
+        {
+          "root": "pingere",
+          "origin": "Latin",
+          "meaning": "to paint (past participle pictus)",
+          "meaning_zh": "繪畫"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（徹底）+ PICT（畫）→ 用畫筆將場景徹底重現",
+      "story_en": "The ancient artist wanted to DE_PICT the royal battle in a massive PICTure.",
+      "story_zh": "這位古代藝術家想要在一幅巨大的「畫作（PICTURE）」中「描繪（DEPICT）」那場皇家戰役。",
+      "emojis": [
+        "🎨",
+        "🖼️",
+        "📝"
+      ]
+    },
+    "example": "The novel vividly depicts the struggles of working-class families during the Industrial Revolution.",
+    "example_zh": "這部小說生動地描繪了工業革命期間工人階級家庭的掙扎。",
+    "collocations": [
+      "vividly depict",
+      "depict a scene",
+      "be depicted as",
+      "depict characters",
+      "accurately depict"
+    ],
+    "synonyms": [
+      "portray",
+      "describe",
+      "illustrate",
+      "represent",
+      "delineate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "describe",
+        "difference": "describe relies entirely on spoken or written words; depict can refer to either linguistic descriptions or visual art forms like paintings and films."
+      },
+      {
+        "word": "illustrate",
+        "difference": "illustrate usually means adding drawings to clear up text or using an example to prove a point; depict focuses on artistic representation."
+      }
+    ],
+    "antonyms": [
+      "misrepresent",
+      "distort",
+      "hide"
+    ],
+    "word_family": [
+      {
+        "word": "depict",
+        "pos": "verb"
+      },
+      {
+        "word": "depiction",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Often seen in passive voice constructions: 'The character is depicted as a tragic hero.'",
+    "frequency_rank": 108,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "language"
+    ]
+  },
+  {
+    "word": "deplorable",
+    "pos": "adjective",
+    "phonetic": "/dɪˈplɔːrəbl/",
+    "definition": "Very bad, shocking, or deserving strong condemnation, often resulting in grief or moral outrage.",
+    "definition_zh": "悲慘的；可恥的；糟糕至極的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "completely, thoroughly",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "plorare",
+          "origin": "Latin",
+          "meaning": "to weep, wail",
+          "meaning_zh": "哭泣、哀悼"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（徹底）+ PLORARE（哭泣）→ 讓人看見了只想徹底痛哭，處境非常悲慘",
+      "story_en": "The prisoners were kept in DEPLORABLE conditions that made human rights workers de_PLORE (weep for) their fate.",
+      "story_zh": "囚犯們被關押在「極其惡劣悲慘的（DEPLORABLE）」環境中，讓人權工作者不禁為（DEPLORE）他們的命運感到痛哭哀悼。",
+      "emojis": [
+        "🏚️",
+        "😭",
+        "💔"
+      ]
+    },
+    "example": "The refugees were forced to live in deplorable conditions with no clean water or medical access.",
+    "example_zh": "難民們被迫生活在沒有乾淨水源或醫療服務的悲慘極其惡劣環境中。",
+    "collocations": [
+      "deplorable conditions",
+      "deplorable behavior",
+      "absolutely deplorable",
+      "deplorable lack of",
+      "in a deplorable state"
+    ],
+    "synonyms": [
+      "disgraceful",
+      "shameful",
+      "lamentable",
+      "appalling",
+      "wretched"
+    ],
+    "near_synonyms": [
+      {
+        "word": "bad",
+        "difference": "bad is a basic, mild descriptive word; deplorable expresses severe moral condemnation or deep shock at how terrible a situation is."
+      },
+      {
+        "word": "unfortunate",
+        "difference": "unfortunate suggests bad luck or a minor sad event; deplorable implies an unacceptable state that demands reform or blame."
+      }
+    ],
+    "antonyms": [
+      "admirable",
+      "excellent",
+      "commendable"
+    ],
+    "word_family": [
+      {
+        "word": "deplore",
+        "pos": "verb"
+      },
+      {
+        "word": "deplorable",
+        "pos": "adjective"
+      },
+      {
+        "word": "deplorably",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Commonly used in political rhetoric and journalism to describe unacceptable living conditions, human rights abuses, or unethical corporate behavior.",
+    "frequency_rank": 109,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "social",
+      "politics"
+    ]
+  },
+  {
+    "word": "depravity",
+    "pos": "noun",
+    "phonetic": "/dɪˈprævəti/",
+    "definition": "The state of being morally corrupt, wicked, or evil.",
+    "definition_zh": "墮落；腐敗；邪惡",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "pravus",
+          "origin": "Latin",
+          "meaning": "crooked, wicked",
+          "meaning_zh": "扭曲的、邪惡的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（徹底）+ PRAVUS（扭曲邪惡）→ 道德底線完全被扭曲，徹底墮落",
+      "story_en": "The serial killer's crimes showed a level of moral DEPRAVITY that stunned the seasoned detec_TIVE (corrupted from pravus).",
+      "story_zh": "這名連環殺手的罪行展現出了一種讓資深偵探都感到震驚的道德「墮落與邪惡（DEPRAVITY）」。",
+      "emojis": [
+        "😈",
+        "📉",
+        "⛓️"
+      ]
+    },
+    "example": "The movie explores the depth of human depravity during times of lawless warfare.",
+    "example_zh": "這部電影探討了在法律崩潰的戰爭時期，人性墮落邪惡的深淵。",
+    "collocations": [
+      "moral depravity",
+      "depths of depravity",
+      "acts of depravity",
+      "human depravity",
+      "utter depravity"
+    ],
+    "synonyms": [
+      "corruption",
+      "wickedness",
+      "vice",
+      "immorality",
+      "degeneracy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "immorality",
+        "difference": "immorality breaks ethical codes but can be minor; depravity implies a severe, perverse, and complete corruption of character."
+      },
+      {
+        "word": "crime",
+        "difference": "crime refers to breaking written statutory laws; depravity describes a profound failure of basic human moral conscience."
+      }
+    ],
+    "antonyms": [
+      "virtue",
+      "righteousness",
+      "integrity",
+      "purity"
+    ],
+    "word_family": [
+      {
+        "word": "deprave",
+        "pos": "verb"
+      },
+      {
+        "word": "depraved",
+        "pos": "adjective"
+      },
+      {
+        "word": "depravity",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Depravity is a strong word, often reserved for heinous criminal cases, horror contexts, or philosophical discussions on human nature.",
+    "frequency_rank": 110,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "philosophy",
+      "law"
+    ]
+  },
+  {
+    "word": "deprecate",
+    "pos": "verb",
+    "phonetic": "/ˈdeprəkeɪt/",
+    "definition": "To express strong disapproval of something, or to make something seem unimportant or of little value (often used as self-deprecating).",
+    "definition_zh": "反對；輕視；不贊成",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away, off",
+          "meaning_zh": "離開、除去"
+        },
+        {
+          "root": "precari",
+          "origin": "Latin",
+          "meaning": "to pray",
+          "meaning_zh": "祈禱"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（除去）+ PRECARI（祈禱）→ 透過祈禱求神將厄運或壞事移開 → 引申為抗議、反對",
+      "story_en": "The coach would DEPRECATE any lazy habits, praying (PRECA) away bad attitude from the team.",
+      "story_zh": "教練總是「反對且輕視（DEPRECATE）」任何懶惰的習慣，祈求（PRECA）把壞態度從隊伍中移走。",
+      "emojis": [
+        "🙅‍♂️",
+        "👎",
+        "🗣️"
+      ]
+    },
+    "example": "The scientist tended to deprecate her own achievements, insisting that it was a team effort.",
+    "example_zh": "這位科學家傾向於貶低自己的成就，堅稱這是團隊努力的結果。",
+    "collocations": [
+      "self-deprecating humor",
+      "deprecate the value of",
+      "strongly deprecate",
+      "deprecate actions",
+      "deprecating remark"
+    ],
+    "synonyms": [
+      "belittle",
+      "disparage",
+      "depreciate",
+      "disapprove",
+      "undervalue"
+    ],
+    "near_synonyms": [
+      {
+        "word": "criticize",
+        "difference": "criticize directly finds errors; deprecate often means gently putting something down or diminishing its perceived worth, often humorously when applied to oneself."
+      },
+      {
+        "word": "condemn",
+        "difference": "condemn is a harsh, total moral judgment; deprecate can just mean expressing formal or soft disapproval."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "extol",
+      "approve",
+      "commend"
+    ],
+    "word_family": [
+      {
+        "word": "deprecate",
+        "pos": "verb"
+      },
+      {
+        "word": "deprecatingly",
+        "pos": "adverb"
+      },
+      {
+        "word": "deprecation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In modern English, the adjective form 'self-deprecating' (modest or making fun of oneself) is extremely common in business and social contexts.",
+    "frequency_rank": 111,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "deride",
+    "pos": "verb",
+    "phonetic": "/dɪˈraɪd/",
+    "definition": "To laugh at someone or something in a cruel, mocking, or scornful way, showing that you think they are ridiculous or worthless.",
+    "definition_zh": "嘲笑；嘲弄；愚弄",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "down",
+          "meaning_zh": "向下"
+        },
+        {
+          "root": "ridere",
+          "origin": "Latin",
+          "meaning": "to laugh",
+          "meaning_zh": "笑"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（下）+ RIDERE（笑）→ 用笑聲把別人踩在腳下，嘲笑對方",
+      "story_en": "The critics began to DERIDE the new play, laughing (RID) down at the director's poor choices.",
+      "story_zh": "評論家們開始「嘲笑（DERIDE）」這部新劇，用笑聲（RID）貶低導演糟糕的選擇。",
+      "emojis": [
+        "🤡",
+        "🗣️",
+        "👎"
+      ]
+    },
+    "example": "Opponents derided the mayor's new traffic plan, calling it unrealistic and costly.",
+    "example_zh": "反對者嘲弄市長的新交通計劃，稱其不切實際且耗資巨大。",
+    "collocations": [
+      "deride efforts",
+      "publicly deride",
+      "be derided as",
+      "deride opponents",
+      "bitterly deride"
+    ],
+    "synonyms": [
+      "mock",
+      "ridicule",
+      "scorn",
+      "scoff",
+      "taunt"
+    ],
+    "near_synonyms": [
+      {
+        "word": "laugh",
+        "difference": "laugh is a general expression of amusement; deride always carries a cruel intent to make someone look foolish or inferior."
+      },
+      {
+        "word": "criticize",
+        "difference": "criticize uses analytical arguments to show flaws; deride uses mockery and contempt instead of reason."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "respect",
+      "admire",
+      "laud"
+    ],
+    "word_family": [
+      {
+        "word": "deride",
+        "pos": "verb"
+      },
+      {
+        "word": "derision",
+        "pos": "noun"
+      },
+      {
+        "word": "derisive",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "Commonly used in media reports regarding how political proposals or avant-garde art pieces are received by skeptical audiences.",
+    "frequency_rank": 112,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ]
+  },
+  {
+    "word": "derivative",
+    "pos": "adjective",
+    "phonetic": "/dɪˈrɪvətɪv/",
+    "definition": "Unoriginal; obtained or developed from something else rather than being innovative or unique.",
+    "definition_zh": "非原創的；衍生的；模仿他人的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "down, away from",
+          "meaning_zh": "向下、源自"
+        },
+        {
+          "root": "rivus",
+          "origin": "Latin",
+          "meaning": "stream, brook",
+          "meaning_zh": "溪流"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（源自）+ RIVUS（溪流）→ 從主河流衍生出來的小溪流 → 缺乏自身的原創源頭",
+      "story_en": "The critic slammed the movie as DERIVATIVE, because its plot was just de_RIVEd (flowing down) from older films.",
+      "story_zh": "評論家抨擊這部電影「缺乏原創性（DERIVATIVE）」，因為它的劇情只是從舊電影中衍生（DERIVE）過來的。",
+      "emojis": [
+        "🌊",
+        "📋",
+        "🔄"
+      ]
+    },
+    "example": "The software architecture was criticized for being highly derivative of its main competitor's product.",
+    "example_zh": "該軟體架構因高度模仿其主要競爭對手的產品而受到批評。",
+    "collocations": [
+      "derivative work",
+      "highly derivative",
+      "derivative style",
+      "derivative market",
+      "derivative product"
+    ],
+    "synonyms": [
+      "unoriginal",
+      "imitative",
+      "copied",
+      "secondary",
+      "adapted"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unoriginal",
+        "difference": "unoriginal simply states that something isn't new; derivative emphasizes that it is a specific, weak copy flowing from an existing source."
+      },
+      {
+        "word": "fake",
+        "difference": "fake implies a deliberate illegal forgery; derivative works are legal but lack artistic or structural imagination."
+      }
+    ],
+    "antonyms": [
+      "original",
+      "innovative",
+      "novel",
+      "groundbreaking"
+    ],
+    "word_family": [
+      {
+        "word": "derive",
+        "pos": "verb"
+      },
+      {
+        "word": "derivation",
+        "pos": "noun"
+      },
+      {
+        "word": "derivative",
+        "pos": "adjective / noun"
+      }
+    ],
+    "usage_note": "In finance, 'derivative' is used as a noun meaning a financial contract that gets its value from an underlying asset (e.g., options, futures).",
+    "frequency_rank": 113,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "finance"
+    ]
+  },
+  {
+    "word": "desiccate",
+    "pos": "verb",
+    "phonetic": "/ˈdesɪkeɪt/",
+    "definition": "To dry up completely; to remove all moisture from something, leaving it completely dry and withered.",
+    "definition_zh": "使完全乾燥；脫水；使枯竭",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "thoroughly, completely",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "siccus",
+          "origin": "Latin",
+          "meaning": "dry",
+          "meaning_zh": "乾燥"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（徹底）+ SICCUS（乾燥）→ 徹底抽乾水分",
+      "story_en": "The intense desert heat will DESICCATE the plants, leaving them completely dry (SICCA).",
+      "story_zh": "沙漠強烈的酷熱會「使植物徹底乾枯（DESICCATE）」，讓它們變得完全乾燥（SICCA）。",
+      "emojis": [
+        "🌵",
+        "☀️",
+        "🍂"
+      ]
+    },
+    "example": "The archaeological team found desiccated papyrus scrolls hidden inside the arid desert cave.",
+    "example_zh": "考古團隊在乾旱的沙漠洞穴中發現了完全乾燥脫水的莎草紙卷軸。",
+    "collocations": [
+      "desiccated coconut",
+      "desiccated landscape",
+      "completely desiccate",
+      "desiccated tissue",
+      "desiccated remains"
+    ],
+    "synonyms": [
+      "dehydrate",
+      "dry",
+      "wither",
+      "parch",
+      "shrivel"
+    ],
+    "near_synonyms": [
+      {
+        "word": "dry",
+        "difference": "dry is a standard everyday word; desiccate implies a professional, scientific, or absolute removal of every trace of moisture."
+      },
+      {
+        "word": "wither",
+        "difference": "wither implies a plant dying and wrinkling due to lack of water; desiccate can apply to scientific food preservation or tissue processes."
+      }
+    ],
+    "antonyms": [
+      "hydrate",
+      "moisten",
+      "soak"
+    ],
+    "word_family": [
+      {
+        "word": "desiccate",
+        "pos": "verb"
+      },
+      {
+        "word": "desiccant",
+        "pos": "noun"
+      },
+      {
+        "word": "desiccation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A 'desiccant' is the scientific name for the little silica gel packs placed in electronics or shoe boxes to keep them dry.",
+    "frequency_rank": 114,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "despondent",
+    "pos": "adjective",
+    "phonetic": "/dɪˈspɑːndənt/",
+    "definition": "Feeling or showing extreme discouragement, dejection, or depression due to a total loss of hope.",
+    "definition_zh": "沮喪的；絕望的；意志消沉的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away, without",
+          "meaning_zh": "離開、失去"
+        },
+        {
+          "root": "spondere",
+          "origin": "Latin",
+          "meaning": "to promise, pledge",
+          "meaning_zh": "承諾、許諾"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（失去）+ SPONDERE（承諾/希望）→ 失去了未來的承諾與期盼，陷入絕望",
+      "story_en": "After failing the bar exam for the third time, the student became DESPONDENT and lost his re_SPOND_ing hope.",
+      "story_zh": "在第三次律師考試失敗後，這名學生變得「極其沮喪絕望（DESPONDENT）」，失去了回應未來的期盼與希望。",
+      "emojis": [
+        "😞",
+        "📉",
+        "🌧️"
+      ]
+    },
+    "example": "The team grew despondent after losing their fifth consecutive game of the championship season.",
+    "example_zh": "在連續輸掉冠軍賽賽季的第五場比賽後，球隊上下變得意志消沉。",
+    "collocations": [
+      "feel despondent",
+      "grow despondent",
+      "despondent over",
+      "deeply despondent",
+      "despondent mood"
+    ],
+    "synonyms": [
+      "depressed",
+      "dejected",
+      "hopeless",
+      "downcast",
+      "melancholy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sad",
+        "difference": "sad is a generic term for temporary unhappiness; despondent implies a deeper, heavy structural loss of hope for the future."
+      },
+      {
+        "word": "pessimistic",
+        "difference": "pessimistic is an intellectual mindset of expecting the worst; despondent is an emotional state of feeling crushed by failure."
+      }
+    ],
+    "antonyms": [
+      "cheerful",
+      "hopeful",
+      "optimistic",
+      "elated"
+    ],
+    "word_family": [
+      {
+        "word": "despond",
+        "pos": "verb"
+      },
+      {
+        "word": "despondency",
+        "pos": "noun"
+      },
+      {
+        "word": "despondently",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Often paired with the prepositions 'over' or 'about': 'He was despondent over his financial losses.'",
+    "frequency_rank": 115,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "despot",
+    "pos": "noun",
+    "phonetic": "/ˈdespət/",
+    "definition": "A ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.",
+    "definition_zh": "專制君主；獨裁者；暴君",
+    "etymology": {
+      "roots": [
+        {
+          "root": "despotes",
+          "origin": "Greek",
+          "meaning": "master of a house, absolute ruler",
+          "meaning_zh": "主人、絕對統治者"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DESPOTES（房屋主人）→ 把整個國家當成自己的私有房屋來管轄的獨裁者",
+      "story_en": "The cruel DESPOT ruled the nation as if he were the absolute boss of a local shop.",
+      "story_zh": "這個殘暴的「獨裁暴君（DESPOT）」統治著國家，就好像他是地方店鋪的絕對主人一樣。",
+      "emojis": [
+        "👑",
+        "🤬",
+        "⛓️"
+      ]
+    },
+    "example": "The citizens rebelled against the ruthless despot who had suppressed free speech for decades.",
+    "example_zh": "公民們反抗了那位壓制言論自由數十年的冷酷獨裁者。",
+    "collocations": [
+      "enlightened despot",
+      "ruthless despot",
+      "ruled by a despot",
+      "benevolent despot",
+      "military despot"
+    ],
+    "synonyms": [
+      "tyrant",
+      "dictator",
+      "autocrat",
+      "oppressor"
+    ],
+    "near_synonyms": [
+      {
+        "word": "dictator",
+        "difference": "dictator is a modern political term for an unconstitutional leader; despot carries a more classic, historical connotation of a harsh master exercising personal power."
+      },
+      {
+        "word": "ruler",
+        "difference": "ruler is a neutral term for anyone who governs; despot is inherently negative, implying cruelty and absolute control."
+      }
+    ],
+    "antonyms": [
+      "democrat",
+      "liberator"
+    ],
+    "word_family": [
+      {
+        "word": "despot",
+        "pos": "noun"
+      },
+      {
+        "word": "despotic",
+        "pos": "adjective"
+      },
+      {
+        "word": "despotism",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In history textbooks, you might read about 'enlightened despots'—absolute monarchs who used their power to introduce social reforms.",
+    "frequency_rank": 116,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "history"
+    ]
+  },
+  {
+    "word": "destitute",
+    "pos": "adjective",
+    "phonetic": "/ˈdestɪtuːt/",
+    "definition": "Extremely poor, lacking the basic necessities of life such as food, clothing, and shelter.",
+    "definition_zh": "赤貧的；缺乏的；一無所有的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away, down",
+          "meaning_zh": "離開、拋棄"
+        },
+        {
+          "root": "statuere",
+          "origin": "Latin",
+          "meaning": "to place, set up (past participle statutus)",
+          "meaning_zh": "站立、安置"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（拋棄）+ STATUERE（站立安置）→ 被社會拋棄、無處安置容身，只能流落街頭",
+      "story_en": "The war left thousands of families DESTITUTE, with no place to STATU (stand or live).",
+      "story_zh": "戰爭使成千上萬的家庭變得「赤貧如洗（DESTITUTE）」，沒有任何可以安頓落腳（STATU）的地方。",
+      "emojis": [
+        "🏚️",
+        "📉",
+        "🚫"
+      ]
+    },
+    "example": "The economic collapse left many middle-class citizens completely destitute overnight.",
+    "example_zh": "經濟崩潰使許多中產階級公民在一夜之間變得完全一無所有、生活赤貧。",
+    "collocations": [
+      "completely destitute",
+      "destitute families",
+      "left destitute",
+      "destitute of hope",
+      "render someone destitute"
+    ],
+    "synonyms": [
+      "impoverished",
+      "penniless",
+      "indigent",
+      "poor",
+      "bankrupt"
+    ],
+    "near_synonyms": [
+      {
+        "word": "poor",
+        "difference": "poor means having little money but still potentially housing oneself; destitute means possessing absolutely zero resources for survival."
+      },
+      {
+        "word": "broke",
+        "difference": "broke is informal and temporary (e.g., waiting for pay day); destitute is a severe, systemic state of tragic poverty."
+      }
+    ],
+    "antonyms": [
+      "wealthy",
+      "affluent",
+      "rich",
+      "prosperous"
+    ],
+    "word_family": [
+      {
+        "word": "destitute",
+        "pos": "adjective"
+      },
+      {
+        "word": "destitution",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Can be used with 'of' to mean completely lacking a quality: 'The cold sterile office was completely destitute of charm.'",
+    "frequency_rank": 117,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "economics"
+    ]
+  },
+  {
+    "word": "desultory",
+    "pos": "adjective",
+    "phonetic": "/ˈdesəltɔːri/",
+    "definition": "Lacking a plan, purpose, or enthusiasm; jumping from one subject or activity to another in an unstructured way.",
+    "definition_zh": "散漫的；漫無目的的；斷斷續續的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "down",
+          "meaning_zh": "向下"
+        },
+        {
+          "root": "salire",
+          "origin": "Latin",
+          "meaning": "to jump, leap",
+          "meaning_zh": "跳躍"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（下）+ SALIRE（跳）→ 從一匹馬跳到另一匹馬的馬戲團演員 → 引申為思想或行動跳來跳去、沒有定規",
+      "story_en": "He made a DESULTORY attempt at studying, jumping (SALIRE) from math to history every five minutes.",
+      "story_zh": "他做了一次「散漫漫無目的（DESULTORY）」的讀書嘗試，每五分鐘就在數學和歷史之間跳來跳去（SALIRE）。",
+      "emojis": [
+        "🦘",
+        "💤",
+        "🔄"
+      ]
+    },
+    "example": "The meeting was desultory and failed to produce any concrete decisions regarding the budget crisis.",
+    "example_zh": "會議開得散漫無章，未能就預算危機做出任何具體決定。",
+    "collocations": [
+      "desultory conversation",
+      "desultory fashion",
+      "desultory reading",
+      "desultory manner",
+      "desultory search"
+    ],
+    "synonyms": [
+      "rambling",
+      "haphazard",
+      "aimless",
+      "erratic",
+      "disconnected"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aimless",
+        "difference": "aimless means lacking a destination entirely; desultory specifically emphasizes shifting attention rapidly and lazily without staying on one track."
+      },
+      {
+        "word": "lazy",
+        "difference": "lazy means doing nothing; desultory means doing things but without energy, logic, or systematic structure."
+      }
+    ],
+    "antonyms": [
+      "systematic",
+      "methodical",
+      "focused",
+      "purposeful"
+    ],
+    "word_family": [
+      {
+        "word": "desultory",
+        "pos": "adjective"
+      },
+      {
+        "word": "desultorily",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Often used to describe conversations that drift awkwardly or study habits that lack a solid schedule.",
+    "frequency_rank": 118,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "academic",
+      "GRE"
+    ]
+  },
+  {
+    "word": "detached",
+    "pos": "adjective",
+    "phonetic": "/dɪˈtætʃt/",
+    "definition": "Separate or disconnected; objective, impartial, and free from emotional involvement.",
+    "definition_zh": "分離的；不連接的；超然的；客觀公正的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "des",
+          "origin": "Old French",
+          "meaning": "apart, undoing",
+          "meaning_zh": "分開、除去"
+        },
+        {
+          "root": "tacher",
+          "origin": "Old French",
+          "meaning": "to attach, fasten",
+          "meaning_zh": "繫上、連接"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DES（分開）+ TACHER（連接）→ 解開原本連接的狀態 → 引申為保持心態的超然獨立",
+      "story_en": "A good journalist must remain DETACHED, un_TACH_ing their personal feelings from the news report.",
+      "story_zh": "一個優秀的記者必須保持「客觀超然（DETACHED）」的态度，把個人情感從新聞報導中解開（TACH）抽離。",
+      "emojis": [
+        "⚖️",
+        "🏠",
+        "🧘"
+      ]
+    },
+    "example": "To make a fair judgment, the arbitrator maintained a detached and analytical perspective throughout the trial.",
+    "example_zh": "為了做出公平的裁決，仲裁員在整個審判過程中始終保持著客觀超然且冷靜分析的視角。",
+    "collocations": [
+      "detached house",
+      "remain detached",
+      "detached view",
+      "detached observer",
+      "emotionally detached"
+    ],
+    "synonyms": [
+      "objective",
+      "impartial",
+      "disinterested",
+      "unbiased",
+      "aloof"
+    ],
+    "near_synonyms": [
+      {
+        "word": "objective",
+        "difference": "objective means basing judgments strictly on facts; detached emphasizes an emotional distance or refusal to be personally affected by the drama."
+      },
+      {
+        "word": "indifferent",
+        "difference": "indifferent implies a lazy lack of care or interest; detached implies a deliberate, professional level of neutrality."
+      }
+    ],
+    "antonyms": [
+      "attached",
+      "biased",
+      "involved",
+      "passionate"
+    ],
+    "word_family": [
+      {
+        "word": "detach",
+        "pos": "verb"
+      },
+      {
+        "word": "detached",
+        "pos": "adjective"
+      },
+      {
+        "word": "detachment",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In real estate, a 'detached house' means a single standalone house not connected to any other buildings, while in psychology it describes an emotional shield.",
+    "frequency_rank": 119,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "psychology"
+    ]
+  },
+  {
+    "word": "deterrent",
+    "pos": "noun",
+    "phonetic": "/dɪˈtɜːrənt/",
+    "definition": "A thing that discourages or is intended to discourage someone from doing something through fear of the consequences.",
+    "definition_zh": "威懾力量；制止物；阻礙因素",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、從"
+        },
+        {
+          "root": "terrere",
+          "origin": "Latin",
+          "meaning": "to frighten",
+          "meaning_zh": "使害怕、恐嚇"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（離開）+ TERRERE（害怕）→ 用恐怖或後果嚇跑想要做壞事的人",
+      "story_en": "Installing security cameras serves as a powerful DETERRENT, because the fear (TERR) of jail keeps thieves away.",
+      "story_zh": "安裝監視器是一個強大的「威懾防範（DETERRENT）」，因為坐牢的恐懼（TERR）會把小偷嚇跑。",
+      "emojis": [
+        "🚨",
+        "🔒",
+        "🛑"
+      ]
+    },
+    "example": "Many experts argue that the death penalty does not act as an effective deterrent to violent crime.",
+    "example_zh": "許多專家認為，死刑並不能作為遏制暴力犯罪的有效威懾力量。",
+    "collocations": [
+      "nuclear deterrent",
+      "effective deterrent",
+      "serve as a deterrent",
+      "powerful deterrent",
+      "deterrent effect"
+    ],
+    "synonyms": [
+      "discouragement",
+      "disincentive",
+      "obstacle",
+      "barrier",
+      "preventative"
+    ],
+    "near_synonyms": [
+      {
+        "word": "obstacle",
+        "difference": "obstacle is a physical or logical barrier blocking a path; deterrent is a psychological factor that makes someone choose not to try due to fear of consequences."
+      },
+      {
+        "word": "punishment",
+        "difference": "punishment happens after a crime is committed; a deterrent is meant to prevent the crime from happening in the first place."
+      }
+    ],
+    "antonyms": [
+      "incentive",
+      "encouragement",
+      "catalyst",
+      "stimulus"
+    ],
+    "word_family": [
+      {
+        "word": "deter",
+        "pos": "verb"
+      },
+      {
+        "word": "deterrent",
+        "pos": "noun / adjective"
+      }
+    ],
+    "usage_note": "Frequently used in military strategy and international law, such as discussing 'nuclear deterrence' between rival superpowers.",
+    "frequency_rank": 120,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "detrimental",
+    "pos": "adjective",
+    "phonetic": "/ˌdetrɪˈmentl/",
+    "definition": "Causing harm, damage, or disadvantage to something or someone.",
+    "definition_zh": "有害的；不利的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away, down",
+          "meaning_zh": "向下、除去"
+        },
+        {
+          "root": "terere",
+          "origin": "Latin",
+          "meaning": "to rub, wear away",
+          "meaning_zh": "摩擦、磨損"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（向下/除去）+ TERERE（磨損）→ 像砂紙一樣不斷摩擦磨損，對健康或系統造成損害",
+      "story_en": "Smoking has a DETRIMENTAL impact on lungs, slowly wear_ing (TER) down your breathing capacity.",
+      "story_zh": "吸菸對肺部有「有害的（DETRIMENTAL）」影響，會慢慢磨損（TER）你的呼吸功能。",
+      "emojis": [
+        "🚬",
+        "📉",
+        "⚠️"
+      ]
+    },
+    "example": "Excessive sugar consumption is highly detrimental to long-term physical health.",
+    "example_zh": "過量攝取糖分對長期身體健康是非常有害的。",
+    "collocations": [
+      "detrimental effect",
+      "highly detrimental",
+      "detrimental impact",
+      "prove detrimental",
+      "detrimental to health"
+    ],
+    "synonyms": [
+      "harmful",
+      "damaging",
+      "injurious",
+      "deleterious",
+      "adverse"
+    ],
+    "near_synonyms": [
+      {
+        "word": "harmful",
+        "difference": "harmful is an everyday word for causing injury; detrimental is more academic and often used to discuss structural, legal, or systemic disadvantages."
+      },
+      {
+        "word": "fatal",
+        "difference": "fatal means causing immediate or certain death; detrimental means causing gradual or partial impairment."
+      }
+    ],
+    "antonyms": [
+      "beneficial",
+      "advantageous",
+      "helpful"
+    ],
+    "word_family": [
+      {
+        "word": "detriment",
+        "pos": "noun"
+      },
+      {
+        "word": "detrimental",
+        "pos": "adjective"
+      },
+      {
+        "word": "detrimentally",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Often paired with the preposition 'to': 'His lack of sleep was detrimental to his test performance.'",
+    "frequency_rank": 121,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "deviate",
+    "pos": "verb",
+    "phonetic": "/ˈdiːvieɪt/",
+    "definition": "To depart or turn away from an established course, standard, principle, or expected topic.",
+    "definition_zh": "偏離；背離；違背",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開"
+        },
+        {
+          "root": "via",
+          "origin": "Latin",
+          "meaning": "way, road",
+          "meaning_zh": "道路"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（離開）+ VIA（道路）→ 走著走著離開了原本正確的道路，發生偏離",
+      "story_en": "Do not DEVIATE from the highway VIA, or you will get lost in the forest.",
+      "story_zh": "不要「偏離（DEVIATE）」高速公路這條主幹道（VIA），否則你會在森林裡迷路。",
+      "emojis": [
+        "🔀",
+        "🛣️",
+        "📊"
+      ]
+    },
+    "example": "The pilot had to deviate from the planned flight path to avoid a severe thunderstorm.",
+    "example_zh": "飛行員不得不偏離原定的飛行路線以避開強烈雷雨。",
+    "collocations": [
+      "deviate from the norm",
+      "deviate from the path",
+      "never deviate",
+      "deviate from standard",
+      "significantly deviate"
+    ],
+    "synonyms": [
+      "diverge",
+      "stray",
+      "digress",
+      "depart",
+      "veer"
+    ],
+    "near_synonyms": [
+      {
+        "word": "diverge",
+        "difference": "diverge means two lines or paths moving in separate directions from a single point; deviate emphasizes leaving a correct or morally expected standard path."
+      },
+      {
+        "word": "digress",
+        "difference": "digress is specifically used for speech or writing when the speaker wanders away from the main topic temporarily."
+      }
+    ],
+    "antonyms": [
+      "conform",
+      "follow",
+      "adhere",
+      "persist"
+    ],
+    "word_family": [
+      {
+        "word": "deviate",
+        "pos": "verb"
+      },
+      {
+        "word": "deviation",
+        "pos": "noun"
+      },
+      {
+        "word": "deviant",
+        "pos": "adjective / noun"
+      }
+    ],
+    "usage_note": "In statistics, 'standard deviation' refers to how much data measurements spread out or deviate from the average center.",
+    "frequency_rank": 122,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "math"
+    ]
+  },
+  {
+    "word": "devoid",
+    "pos": "adjective",
+    "phonetic": "/dɪˈvɔɪd/",
+    "definition": "Entirely lacking or empty of a specific quality, characteristic, or substance.",
+    "definition_zh": "缺乏的；全無的；空無一物的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "de",
+          "origin": "Old French",
+          "meaning": "completely, out",
+          "meaning_zh": "完全"
+        },
+        {
+          "root": "vuidier",
+          "origin": "Old French",
+          "meaning": "to empty (from Latin vocuus)",
+          "meaning_zh": "弄空"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DE（完全）+ VUIDIER（弄空/VOID）→ 裡面像太空真空一樣，完全沒有東西",
+      "story_en": "The lunar landscape is completely DEVOID of life, a vast empty VOID of dust.",
+      "story_zh": "月球的地貌完全「缺乏（DEVOID）」生命，只是一個巨大的太空虛無（VOID）塵埃世界。",
+      "emojis": [
+        "🌌",
+        "🚫",
+        "🏜️"
+      ]
+    },
+    "example": "The defense attorney argued that the prosecution's case was completely devoid of empirical evidence.",
+    "example_zh": "辯護律師辯稱，檢方的案件完全缺乏實證證據。",
+    "collocations": [
+      "completely devoid of",
+      "devoid of emotion",
+      "devoid of truth",
+      "devoid of meaning",
+      "devoid of expressions"
+    ],
+    "synonyms": [
+      "empty",
+      "lacking",
+      "destitute",
+      "vacant",
+      "barren"
+    ],
+    "near_synonyms": [
+      {
+        "word": "empty",
+        "difference": "empty usually refers to physical spaces containing nothing (an empty box); devoid is used abstractly to describe a total lack of non-physical traits like logic, emotion, or charm."
+      },
+      {
+        "word": "missing",
+        "difference": "missing implies that something should be there but went somewhere else; devoid means it is completely absent from the subject."
+      }
+    ],
+    "antonyms": [
+      "full",
+      "abundant",
+      "fraught",
+      "replete"
+    ],
+    "word_family": [
+      {
+        "word": "devoid",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "Devoid is almost always followed by the preposition 'of': 'His face remained completely devoid of emotion.'"
+  },
+  {
+    "word": "diatribe",
+    "pos": "noun",
+    "phonetic": "/ˈdaɪətraɪb/",
+    "definition": "A forceful, bitter, and prolonged verbal or written attack against someone or something.",
+    "definition_zh": "長篇大論的抨擊；謾罵；惡毒指責",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dia",
+          "origin": "Greek",
+          "meaning": "through, thoroughly",
+          "meaning_zh": "穿過、徹底"
+        },
+        {
+          "root": "tribein",
+          "origin": "Greek",
+          "meaning": "to rub, wear away",
+          "meaning_zh": "摩擦、浪費時間"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIA（徹底）+ TRIBEIN（摩擦/消耗）→ 站在那裡對你不斷「摩擦」、用言語消耗你，進行瘋狂的狂轟濫炸",
+      "story_en": "The angry customer launched into a bitter DIATRIBE against the manager, wear_ing down (TRIBEIN) everyone's patience.",
+      "story_zh": "憤怒的顧客對經理發起了憤怒痛苦的「長篇謾罵抨擊（DIATRIBE）」，徹底磨損消耗（TRIBEIN）了所有人的耐心。",
+      "emojis": [
+        "🤬",
+        "🗣️",
+        "🛑"
+      ]
+    },
+    "example": "The politician’s speech turned into a repetitive diatribe against the mainstream media.",
+    "example_zh": "這位政治人物的演講變成了一場對主流媒體重複進行的長篇大論式抨擊。",
+    "collocations": [
+      "bitter diatribe",
+      "launch into a diatribe",
+      "furious diatribe",
+      "lengthy diatribe",
+      "diatribe against"
+    ],
+    "synonyms": [
+      "tirade",
+      "harangue",
+      "denunciation",
+      "attack",
+      "vituperation"
+    ],
+    "near_synonyms": [
+      {
+        "word": "criticism",
+        "difference": "criticism can be short, polite, and based on logical points; diatribe is characterized by intense anger, length, and emotional bitterness."
+      },
+      {
+        "word": "argument",
+        "difference": "argument implies a structured debate with two sides trying to prove a point; diatribe is a one-sided, angry lecture."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "encomium",
+      "panegyric",
+      "compliment"
+    ],
+    "word_family": [
+      {
+        "word": "diatribe",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Often paired with the verb 'launch into': 'The director launched into a furious diatribe when the actors forgot their lines.'",
+    "frequency_rank": 124,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "language",
+      "politics"
+    ]
+  },
+  {
+    "word": "didactic",
+    "pos": "adjective",
+    "phonetic": "/daɪˈdæktɪk/",
+    "definition": "Intended to teach, particularly in having moral instruction as an unstated ulterior motive; often carrying a negative connotation of being overly patronizing or preachy.",
+    "definition_zh": "教導的；好說教的；說教式的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "didaskein",
+          "origin": "Greek",
+          "meaning": "to teach, educate",
+          "meaning_zh": "教導、教育"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIDASKEIN（教導）→ 聽起來像 data 或 doctor，一板一眼塞知識給你",
+      "story_en": "The professor's DIDACTIC fiction literature read more like a data textbook than an entertaining story.",
+      "story_zh": "教授那部「說教式（DIDACTIC）」的小說讀起來更像是一本死板的數據（data）教科書，而不是一個有趣的互動故事。",
+      "emojis": [
+        "👨‍🏫",
+        "📚",
+        "☝️"
+      ]
+    },
+    "example": "Children's literature from the Victorian era was highly didactic, always trying to instill moral virtues through severe warning stories.",
+    "example_zh": "維多利亞時代的兒童文學具有高度的「說教成分（DIDACTIC）」，總是試圖透過嚴厲的警告故事來灌輸道德美德。",
+    "collocations": [
+      "didactic poetry",
+      "overly didactic",
+      "didactic purpose",
+      "didactic approach",
+      "didactic tone"
+    ],
+    "synonyms": [
+      "instructive",
+      "preachy",
+      "pedantic",
+      "educational",
+      "moralizing"
+    ],
+    "near_synonyms": [
+      {
+        "word": "educational",
+        "difference": "educational is a positive or neutral term for anything that helps someone learn skills or facts; didactic often implies that the teaching style is annoying, rigid, or overly focused on forcing a moral stance."
+      },
+      {
+        "word": "informative",
+        "difference": "informative simply provides useful data and neutral facts; didactic focuses on instructing how one should behave or think."
+      }
+    ],
+    "antonyms": [
+      "uninstructive",
+      "entertaining"
+    ],
+    "word_family": [
+      {
+        "word": "didactic",
+        "pos": "adjective"
+      },
+      {
+        "word": "didactically",
+        "pos": "adverb"
+      },
+      {
+        "word": "didacticism",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In modern literary criticism, if a movie or novel is described as 'too didactic', it is generally a negative comment meaning the message ruined the entertainment value.",
+    "frequency_rank": 125,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "diffident",
+    "pos": "adjective",
+    "phonetic": "/ˈdɪfɪdənt/",
+    "definition": "Modest or shy because of a total lack of self-confidence in one's own abilities or worth.",
+    "definition_zh": "缺乏自信的；羞怯的；內向懦弱的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "away, negative",
+          "meaning_zh": "否定、除去"
+        },
+        {
+          "root": "fidere",
+          "origin": "Latin",
+          "meaning": "to trust",
+          "meaning_zh": "信任"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（否定）+ FIDERE（信任）→ 對自己沒有任何信任，極度缺乏自信",
+      "story_en": "Unlike his con_FID_ent brother, the DIFFIDENT boy stood quietly in the corner, doubting (DIS) his own value.",
+      "story_zh": "與他充滿「自信（CONFIDENT）」的哥哥不同，這個「自卑怯懦的（DIFFIDENT）」男孩靜靜地站在角落，否定（DIS）信任（FIDERE）自己的價值。",
+      "emojis": [
+        "🫣",
+        "🕴️",
+        "💬"
+      ]
+    },
+    "example": "He was brilliant at coding, but his diffident nature prevented him from speaking up during executive meetings.",
+    "example_zh": "他非常精通程式設計，但他那缺乏自信的羞怯性格使他不敢在主管會議上發言。",
+    "collocations": [
+      "diffident smile",
+      "diffident manner",
+      "grow diffident",
+      "diffident about",
+      "quiet and diffident"
+    ],
+    "synonyms": [
+      "shy",
+      "timid",
+      "bashful",
+      "modest",
+      "unconfident"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shy",
+        "difference": "shy is a general term for discomfort around people; diffident specifically links the shyness to a deep intellectual or professional self-doubt about one's capacity."
+      },
+      {
+        "word": "modest",
+        "difference": "modest means not bragging about real talents out of polite manners; diffident means genuinely feeling incapable due to low confidence."
+      }
+    ],
+    "antonyms": [
+      "confident",
+      "bold",
+      "arrogant",
+      "assertive"
+    ],
+    "word_family": [
+      {
+        "word": "diffidence",
+        "pos": "noun"
+      },
+      {
+        "word": "diffident",
+        "pos": "adjective"
+      },
+      {
+        "word": "diffidently",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Often used in character descriptions in psychology essays or literature to balance out aggressive characters.",
+    "frequency_rank": 126,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "digress",
+    "pos": "verb",
+    "phonetic": "/daɪˈɡres/",
+    "definition": "To leave the main subject temporarily in speech or writing.",
+    "definition_zh": "離題；走向旁道",
+    "etymology": {
+      "roots": [
+        {
+          "root": "di",
+          "origin": "Latin",
+          "meaning": "aside, away",
+          "meaning_zh": "到旁邊、離開"
+        },
+        {
+          "root": "gradi",
+          "origin": "Latin",
+          "meaning": "to walk, step (past participle gressus)",
+          "meaning_zh": "行走、步伐"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DI（到旁邊）+ GRESS（走）→ 走著走著偏向了馬路旁邊，脫離了主幹道",
+      "story_en": "The professor began to pro_GRESS down the syllabus, but would constantly DIGRESS (step aside) to tell jokes.",
+      "story_zh": "教授開始依照課綱「前進（PROGRESS）」，但中途卻不斷「離題（DIGRESS）」（往旁邊走）去講笑話。",
+      "emojis": [
+        "🚶",
+        "🔀",
+        "🗣️"
+      ]
+    },
+    "example": "If I may digress for a moment, let me share an interesting historical anecdote related to this economic theory.",
+    "example_zh": "如果允許我稍微離題一下，讓我分享一個與該經濟理論相關的有趣歷史軼事。",
+    "collocations": [
+      "digress for a moment",
+      "tend to digress",
+      "digress from the topic",
+      "without wishing to digress",
+      "frequently digress"
+    ],
+    "synonyms": [
+      "stray",
+      "deviate",
+      "ramble",
+      "diverge",
+      "wander"
+    ],
+    "near_synonyms": [
+      {
+        "word": "deviate",
+        "difference": "deviate implies leaving a physical path or breaking a moral rule/norm; digress is strictly limited to language, speech, or text wandering away from the agenda."
+      },
+      {
+        "word": "ramble",
+        "difference": "ramble implies talking aimlessly and confusingly for a long time without awareness; digress is often a deliberate, temporary choice by a speaker before returning to the main point."
+      }
+    ],
+    "antonyms": [
+      "focus",
+      "adhere",
+      "stay on track"
+    ],
+    "word_family": [
+      {
+        "word": "digress",
+        "pos": "verb"
+      },
+      {
+        "word": "digression",
+        "pos": "noun"
+      },
+      {
+        "word": "digressive",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "Commonly phrased as a polite transitional filler in public speaking: 'But I digress, let us return to the main charts.'",
+    "frequency_rank": 127,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ]
+  },
+  {
+    "word": "dilatory",
+    "pos": "adjective",
+    "phonetic": "/ˈdɪlətɔːri/",
+    "definition": "Tending to delay or procrastinate; slow to act, often intentionally to gain time.",
+    "definition_zh": "拖延的；慢吞吞的；延誤的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, away",
+          "meaning_zh": "分開"
+        },
+        {
+          "root": "ferre",
+          "origin": "Latin",
+          "meaning": "to carry (past participle latus)",
+          "meaning_zh": "帶來、推遲"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（分開）+ LATUS（推遲/延展）→ 把事情遠遠推到遙遠的未來，不斷拖延拉長時間",
+      "story_en": "The defense lawyers used DILATORY tactics, expand_ing (DILATE) the schedule to delay the final verdict.",
+      "story_zh": "辯護律師使用了「拖延的（DILATORY）」戰術，拉大擴展（DILATE）了行程表，以延誤最終判決。",
+      "emojis": [
+        "⏳",
+        "💤",
+        "📅"
+      ]
+    },
+    "example": "The government was criticized for its dilatory response to the brewing public health crisis.",
+    "example_zh": "政府因對正在醞釀的公共衛生危機反應拖延笨拙而受到批評。",
+    "collocations": [
+      "dilatory tactics",
+      "dilatory response",
+      "dilatory behavior",
+      "prove dilatory",
+      "dilatory payments"
+    ],
+    "synonyms": [
+      "procrastinating",
+      "stalling",
+      "sluggish",
+      "slow",
+      "tardy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "slow",
+        "difference": "slow simply means lacking physical speed; dilatory carries a negative connotation of causing a problematic bottleneck, often deliberately to waste time."
+      },
+      {
+        "word": "late",
+        "difference": "late describes a fixed point in time already missed; dilatory describes the ongoing habit or tactic of dragging one's feet."
+      }
+    ],
+    "antonyms": [
+      "prompt",
+      "expeditious",
+      "efficient",
+      "punctual"
+    ],
+    "word_family": [
+      {
+        "word": "delay",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "dilatory",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "A very common legal term, as in 'dilatory exceptions' or 'dilatory tactics', used when one side files endless paperwork just to stall a trial.",
+    "frequency_rank": 128,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "discerning",
+    "pos": "adjective",
+    "phonetic": "/dɪˈsɜːrnɪŋ/",
+    "definition": "Having or showing sharp, excellent judgment and insight; able to notice fine details and distinguish high quality.",
+    "definition_zh": "有辨別力的；眼光敏銳的；有品味的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, separate",
+          "meaning_zh": "分開"
+        },
+        {
+          "root": "cernere",
+          "origin": "Latin",
+          "meaning": "to separate, sift, distinguish",
+          "meaning_zh": "分離、篩選"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（分開）+ CERNERE（篩選）→ 把好東西與壞東西徹底篩選分開，具有極高眼光",
+      "story_en": "A DISCERNING art collector can dis_CERN (distinguish) a real masterpiece from a cheap copy instantly.",
+      "story_zh": "一位「有眼光辨別力的（DISCERNING）」藝術收藏家能立即辨別（DISCERN）出真跡與廉價複製品的區別。",
+      "emojis": [
+        "👁️",
+        "💎",
+        "🍷"
+      ]
+    },
+    "example": "The luxury hotel group tailors its premium services to meet the standards of highly discerning travelers.",
+    "example_zh": "該奢華酒店集團量身打造其頂級服務，以滿足極具品味眼光敏銳的旅客的標準。",
+    "collocations": [
+      "discerning customer",
+      "discerning eye",
+      "discerning palate",
+      "highly discerning",
+      "discerning reader"
+    ],
+    "synonyms": [
+      "perceptive",
+      "astute",
+      "discriminating",
+      "insightful",
+      "judicious"
+    ],
+    "near_synonyms": [
+      {
+        "word": "smart",
+        "difference": "smart is a vague everyday word for high general intelligence; discerning specifically implies having sophisticated taste and the ability to spot subtle differences in quality."
+      },
+      {
+        "word": "critical",
+        "difference": "critical often means looking for errors and flaws negatively; discerning emphasizes identifying superior excellence."
+      }
+    ],
+    "antonyms": [
+      "undiscriminating",
+      "imperceptive",
+      "gullible"
+    ],
+    "word_family": [
+      {
+        "word": "discern",
+        "pos": "verb"
+      },
+      {
+        "word": "discerning",
+        "pos": "adjective"
+      },
+      {
+        "word": "discernment",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Highly popular in luxury marketing and high-end advertising (e.g., 'For the discerning gentleman...').",
+    "frequency_rank": 129,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "art"
+    ]
+  },
+  {
+    "word": "disconsolate",
+    "pos": "adjective",
+    "phonetic": "/dɪsˈkɑːnsələt/",
+    "definition": "Inconsolable; completely unhappy, gloomy, and unable to be comforted.",
+    "definition_zh": "憂鬱的；絕望哀傷的；無法安撫的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "negative, not",
+          "meaning_zh": "否定"
+        },
+        {
+          "root": "consolari",
+          "origin": "Latin",
+          "meaning": "to comfort, console",
+          "meaning_zh": "安慰"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（不）+ CONSOLARI（安慰）→ 無法接受任何安慰，沉浸在無盡悲傷中",
+      "story_en": "The child was DISCONSOLATE after losing his dog, and no toys could CONSOLE him.",
+      "story_zh": "丟失了狗之後，這個孩子感到「極度哀傷且無法安慰（DISCONSOLATE）」，再多的玩具也無法撫慰（CONSOLE）他。",
+      "emojis": [
+        "😭",
+        "💔",
+        "🌧️"
+      ]
+    },
+    "example": "The fans stood disconsolate in the heavy rain as they watched their home team lose the World Cup final.",
+    "example_zh": "球迷們在暴雨中無比沮喪絕望地站著，眼睜睜看著他們的主隊輸掉了世界盃決賽。",
+    "collocations": [
+      "utterly disconsolate",
+      "disconsolate figure",
+      "remain disconsolate",
+      "disconsolate state",
+      "grew disconsolate"
+    ],
+    "synonyms": [
+      "inconsolable",
+      "despondent",
+      "heartbroken",
+      "gloomy",
+      "dejected"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sad",
+        "difference": "sad can be brief and mild; disconsolate means the grief is so heavy that any attempt by others to comfort or cheer up the person completely fails."
+      },
+      {
+        "word": "angry",
+        "difference": "angry channelizes bad energy outward into aggression; disconsolate is an internal collapse into pure sorrow."
+      }
+    ],
+    "antonyms": [
+      "cheerful",
+      "consolable happy",
+      "joyful"
+    ],
+    "word_family": [
+      {
+        "word": "console",
+        "pos": "verb"
+      },
+      {
+        "word": "consolation",
+        "pos": "noun"
+      },
+      {
+        "word": "disconsolate",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "A highly literary word, often used in descriptive prose to paint a dark, tragic picture of an isolated individual.",
+    "frequency_rank": 130,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "literature",
+      "psychology"
+    ]
+  },
+  {
+    "word": "discord",
+    "pos": "noun",
+    "phonetic": "/ˈdɪskɔːrd/",
+    "definition": "Lack of agreement or harmony between people, ideas, or musical notes, leading to harsh conflict or noise.",
+    "definition_zh": "不和；爭執；不一致；（音樂）不諧和音",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, different",
+          "meaning_zh": "分開、不同"
+        },
+        {
+          "root": "cor",
+          "origin": "Latin",
+          "meaning": "heart",
+          "meaning_zh": "心"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（心分開）+ COR（心）→ 兩個人的心走向不同的方向，產生不和與衝突",
+      "story_en": "Political DISCORD happens when rival parties have different COR (hearts) and goals.",
+      "story_zh": "當競爭黨派擁有不同的「心（COR）」與目標時，政治「不和與衝突（DISCORD）」就會隨之發生。",
+      "emojis": [
+        "💥",
+        "🗣️",
+        "🎵"
+      ]
+    },
+    "example": "The family business was ruined by decades of internal discord and legal battles over inheritance.",
+    "example_zh": "這家家族企業因數十年來內部的爭執不和以及關於繼承權的法律訴訟而破產。",
+    "collocations": [
+      "sow discord",
+      "marital discord",
+      "political discord",
+      "civil discord",
+      "musical discord"
+    ],
+    "synonyms": [
+      "disagreement",
+      "conflict",
+      "friction",
+      "strife",
+      "dissonance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "conflict",
+        "difference": "conflict often implies active physical fighting or direct arguments; discord focuses on a toxic lack of underlying harmony and ongoing tension."
+      },
+      {
+        "word": "noise",
+        "difference": "noise is generic chaotic sound; discord in music refers to specific notes that scientifically clash with each other."
+      }
+    ],
+    "antonyms": [
+      "harmony",
+      "accord",
+      "agreement",
+      "concord"
+    ],
+    "word_family": [
+      {
+        "word": "accord",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "discord",
+        "pos": "noun"
+      },
+      {
+        "word": "discordant",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "The famous phrase 'sow discord' means to intentionally create trouble and stir up arguments between friends or allies.",
+    "frequency_rank": 131,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "social",
+      "politics"
+    ]
+  },
+  {
+    "word": "discrepancy",
+    "pos": "noun",
+    "phonetic": "/dɪˈskrepənsi/",
+    "definition": "An illogical lack of compatibility, consistency, or agreement between two or more facts or datasets that should be identical.",
+    "definition_zh": "不一致；差異；矛盾之處",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, off",
+          "meaning_zh": "分開"
+        },
+        {
+          "root": "crepare",
+          "origin": "Latin",
+          "meaning": "to rattle, creak, sound",
+          "meaning_zh": "發出啪啪聲、不和諧音"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（分開）+ CREPARE（發出雜音）→ 兩個數據對不上，發出刺耳吵鬧的雜音，代表有貓膩",
+      "story_en": "The accountant noticed a huge DISCREPANCY in the ledger, like a broken engine rattle_ing (CREPARE) apart.",
+      "story_zh": "會計師注意到帳簿中存在巨大的「不一致與漏洞（DISCREPANCY）」，就像一台壞掉的引擎在發出啪啪的雜音（CREPARE）一樣對不上。",
+      "emojis": [
+        "📊",
+        "🔍",
+        "❌"
+      ]
+    },
+    "example": "The internal auditors discovered a major financial discrepancy between the bank statements and company records.",
+    "example_zh": "內部審計師發現銀行對帳單與公司記錄之間存在重大的財務不一致差異。",
+    "collocations": [
+      "financial discrepancy",
+      "notice a discrepancy",
+      "uncover a discrepancy",
+      "reconcile discrepancies",
+      "glaring discrepancy"
+    ],
+    "synonyms": [
+      "inconsistency",
+      "disparity",
+      "divergence",
+      "contradiction",
+      "variance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "difference",
+        "difference": "difference is a broad neutral word for any variation; discrepancy implies a troubling error or mistake that shouldn't exist and needs auditing."
+      },
+      {
+        "word": "mistake",
+        "difference": "mistake is the action that caused the error; discrepancy is the factual mathematical gap visible between the records."
+      }
+    ],
+    "antonyms": [
+      "consistency",
+      "congruence",
+      "similarity",
+      "agreement"
+    ],
+    "word_family": [
+      {
+        "word": "discrepant",
+        "pos": "adjective"
+      },
+      {
+        "word": "discrepancy",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A staple word in auditing, accounting, engineering, and scientific data testing when comparing theoretical and actual results.",
+    "frequency_rank": 132,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "finance",
+      "academic"
+    ]
+  },
+  {
+    "word": "disdain",
+    "pos": "noun",
+    "phonetic": "/dɪsˈdeɪn/",
+    "definition": "The feeling that someone or something is unworthy of one's consideration, respect, or notice; proud contempt.",
+    "definition_zh": "鄙視；蔑視；不屑",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "undo, negative",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "dignari",
+          "origin": "Latin",
+          "meaning": "to deem worthy (from dignus = worthy)",
+          "meaning_zh": "視為有價值的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（不）+ DIGNARI（視為尊貴價值）→ 認為對方完全不配得到尊嚴對待，充滿鄙視",
+      "story_en": "The wealthy aristocrat treated the peasants with pure DISDAIN, refusing to view them as DIG_nity (worthy) humans.",
+      "story_zh": "富有的貴族以純粹的「鄙視不屑（DISDAIN）」對待農民，拒絕將他們視為有尊嚴（DIGNITY）價值的普通人類。",
+      "emojis": [
+        "😒",
+        "👑",
+        "👎"
+      ]
+    },
+    "example": "He looked at the cheap plastic watch with clear disdain, preferring luxury mechanical timepieces.",
+    "example_zh": "他以明顯的不屑蔑視看著那隻廉價的塑膠手錶，他更偏愛奢華的機械手錶。",
+    "collocations": [
+      "treat with disdain",
+      "look of disdain",
+      "disdain for authority",
+      "utter disdain",
+      "regard with disdain"
+    ],
+    "synonyms": [
+      "contempt",
+      "scorn",
+      "derision",
+      "disrespect",
+      "arrogance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "contempt",
+        "difference": "contempt is a deep legal or emotional feeling of absolute severe disgust; disdain is a slightly cooler, aristocratic, aloof feeling of superior snootiness."
+      },
+      {
+        "word": "hatred",
+        "difference": "hatred is an active, aggressive, hot passion to destroy; disdain is a cold emotion that simply dismisses something as beneath attention."
+      }
+    ],
+    "antonyms": [
+      "admiration",
+      "respect",
+      "esteem",
+      "reverence"
+    ],
+    "word_family": [
+      {
+        "word": "disdain",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "disdainful",
+        "pos": "adjective"
+      },
+      {
+        "word": "disdainfully",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Can be used as both a noun ('with disdain') and a verb ('she disdained his offer').",
+    "frequency_rank": 133,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "literature"
+    ]
+  },
+  {
+    "word": "disingenuous",
+    "pos": "adjective",
+    "phonetic": "/ˌdɪsɪnˈdʒenjuəs/",
+    "definition": "Not candid or sincere, typically by pretending that one knows less about something than one really does to gain a tactical advantage.",
+    "definition_zh": "不真誠的；虛偽的；拐彎抹角的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "negative, not",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "ingenuus",
+          "origin": "Latin",
+          "meaning": "honest, open, native",
+          "meaning_zh": "坦率的、正直的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（不）+ INGENUOUS（坦率真誠）→ 表面裝作天真無邪，內心算計，極不真誠",
+      "story_en": "It was DISINGENUOUS of the politician to pretend he didn't see the leaked budget documents beforehand.",
+      "story_zh": "這位政治人物假裝自己事先沒看過洩漏的預算文件，這顯得極其「虛偽不真誠（DISINGENUOUS）」。",
+      "emojis": [
+        "🤥",
+        "🎭",
+        "🦊"
+      ]
+    },
+    "example": "It is disingenuous for the company to claim they care about carbon emissions while constructing three coal plants.",
+    "example_zh": "該公司聲稱關心碳排放，同時卻建造了三座煤炭廠，這完全是虛偽不真誠的。",
+    "collocations": [
+      "disingenuous claim",
+      "disingenuous argument",
+      "highly disingenuous",
+      "disingenuous smile",
+      "disingenuous attempt"
+    ],
+    "synonyms": [
+      "insincere",
+      "deceitful",
+      "hypocritical",
+      "duplicitous",
+      "crafty"
+    ],
+    "near_synonyms": [
+      {
+        "word": "insincere",
+        "difference": "insincere is a general term for simple fake politeness (like a fake smile); disingenuous specifically involves hiding calculating intelligence or prior knowledge to play innocent."
+      },
+      {
+        "word": "lying",
+        "difference": "lying is making an explicit false statement; disingenuous is constructing a sneaky, technically true but highly misleading narrative."
+      }
+    ],
+    "antonyms": [
+      "ingenuous",
+      "sincere",
+      "honest",
+      "candid"
+    ],
+    "word_family": [
+      {
+        "word": "ingenuous",
+        "pos": "adjective"
+      },
+      {
+        "word": "disingenuous",
+        "pos": "adjective"
+      },
+      {
+        "word": "disingenuously",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "A highly popular keyword in political commentary and media analysis to describe corporate PR damage control.",
+    "frequency_rank": 134,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "business"
+    ]
+  },
+  {
+    "word": "disparage",
+    "pos": "verb",
+    "phonetic": "/dɪˈspærɪdʒ/",
+    "definition": "To regard or represent as being of little worth; to run down or belittle someone's efforts or reputation.",
+    "definition_zh": "貶低；輕視；非難",
+    "etymology": {
+      "roots": [
+        {
+          "root": "des",
+          "origin": "Old French",
+          "meaning": "apart, change negatively",
+          "meaning_zh": "改變、降低"
+        },
+        {
+          "root": "parage",
+          "origin": "Old French",
+          "meaning": "rank, equality, peerage",
+          "meaning_zh": "地位、同等、同儕"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DES（降低）+ PARAGE（同等地位/PAR）→ 降低人家的身分，把別人的功勞貶得一文不值",
+      "story_en": "Never DISPARAGE your team member's ideas, treating them as beneath your equal PAR status.",
+      "story_zh": "永遠不要「貶低（DISPARAGE）」你團隊成員的想法，把他們視作低於你同等（PAR）身分的層次。",
+      "emojis": [
+        "👎",
+        "🗣️",
+        "💔"
+      ]
+    },
+    "example": "Theater critics should analyze the performance constructively rather than simply disparage the rookie actors.",
+    "example_zh": "戲劇評論家應該建設性地分析演出，而不是一味地貶低那些新人演員。",
+    "collocations": [
+      "disparage achievements",
+      "disparage opponents",
+      "tend to disparage",
+      "disparaging remarks",
+      "publicly disparage"
+    ],
+    "synonyms": [
+      "belittle",
+      "disparage",
+      "deprecate",
+      "denigrate",
+      "undervalue"
+    ],
+    "near_synonyms": [
+      {
+        "word": "criticize",
+        "difference": "criticize evaluates specific errors or faults; disparage intends to damage a person's reputation or make their hard work look small and worthless."
+      },
+      {
+        "word": "mock",
+        "difference": "mock uses humor and clowning to tease; disparage uses sharp, serious belittling statements."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "extol",
+      "commend",
+      "applaud"
+    ],
+    "word_family": [
+      {
+        "word": "disparage",
+        "pos": "verb"
+      },
+      {
+        "word": "disparagement",
+        "pos": "noun"
+      },
+      {
+        "word": "disparagingly",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "The adjective form 'disparaging' is highly common in corporate HR settings regarding codes of conduct ('Do not make disparaging remarks about colleagues').",
+    "frequency_rank": 135,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "disparity",
+    "pos": "noun",
+    "phonetic": "/dɪˈspærəti/",
+    "definition": "A significant and often unfair difference or inequality between things, such as income, age, or rank.",
+    "definition_zh": "顯著差異；不平等；懸殊",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不"
+        },
+        {
+          "root": "paritas",
+          "origin": "Latin",
+          "meaning": "equality (from par = equal)",
+          "meaning_zh": "平等"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（不）+ PAR（同等平等）→ 兩者根本不對等，貧富或資源相差極其懸殊",
+      "story_en": "The growing economic DISPARITY means there is no PAR (equality) between the rich and the poor.",
+      "story_zh": "不斷擴大的經濟「差距懸殊（DISPARITY）」意味著富人與窮人之間失去了同等（PAR）平等的狀態。",
+      "emojis": [
+        "⚖️",
+        "📉",
+        "📈"
+      ]
+    },
+    "example": "The global conference aimed to address the severe income disparity between urban and rural populations.",
+    "example_zh": "該全球會議旨在解決城市與農村人口之間嚴重的收入不平等懸殊差距。",
+    "collocations": [
+      "income disparity",
+      "economic disparity",
+      "gender disparity",
+      "growing disparity",
+      "huge disparity"
+    ],
+    "synonyms": [
+      "discrepancy",
+      "inequality",
+      "imbalance",
+      "disparity",
+      "gap"
+    ],
+    "near_synonyms": [
+      {
+        "word": "difference",
+        "difference": "difference is any basic variation (e.g., color differences); disparity implies a massive, striking, and structurally systemic inequality that involves injustice."
+      },
+      {
+        "word": "discrepancy",
+        "difference": "discrepancy specifically refers to a clerical or mathematical error between two data records that should match; disparity refers to societal or physical imbalances."
+      }
+    ],
+    "antonyms": [
+      "equality",
+      "parity",
+      "similarity",
+      "harmony"
+    ],
+    "word_family": [
+      {
+        "word": "parity",
+        "pos": "noun"
+      },
+      {
+        "word": "disparity",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A highly essential sociological and economic term, used heavily in policy drafting (e.g., 'wealth disparity').",
+    "frequency_rank": 136,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "economics",
+      "social"
+    ]
+  },
+  {
+    "word": "dispassionate",
+    "pos": "adjective",
+    "phonetic": "/dɪˈspæʃənət/",
+    "definition": "Not influenced by strong emotion, personal bias, or trauma; able to make cool, rational, and objective judgments.",
+    "definition_zh": "冷靜的；客觀公正的；不受感情左右的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "away, separate",
+          "meaning_zh": "除去、沒有"
+        },
+        {
+          "root": "passio",
+          "origin": "Latin",
+          "meaning": "suffering, passion",
+          "meaning_zh": "激情、受難"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（沒有）+ PASSION（激情/情緒）→ 把熱情和憤怒全部剔除，只留下絕對的理智與冷靜",
+      "story_en": "A judge must analyze the bloody crime in a DISPASSIONATE manner, leaving his personal PASSION and horror out.",
+      "story_zh": "法官必須以「冷靜客觀的（DISPASSIONATE）」方式分析那起血腥罪行，將他個人的「激動情緒（PASSION）」和恐懼排除在外。",
+      "emojis": [
+        "⚖️",
+        "🧘",
+        "🧊"
+      ]
+    },
+    "example": "A dispassionate analysis of the financial market charts is crucial for successful long-term stock trading.",
+    "example_zh": "對金融市場走勢圖進行冷靜客觀且不受情緒影響的分析，是成功的長期股票交易之關鍵。",
+    "collocations": [
+      "dispassionate analysis",
+      "dispassionate observer",
+      "remain dispassionate",
+      "dispassionate judgment",
+      "dispassionate view"
+    ],
+    "synonyms": [
+      "objective",
+      "impartial",
+      "unbiased",
+      "detached",
+      "unemotional"
+    ],
+    "near_synonyms": [
+      {
+        "word": "indifferent",
+        "difference": "indifferent means not caring about the outcome due to laziness; dispassionate means caring about a correct choice but consciously shutting down disruptive personal emotions to remain fair."
+      },
+      {
+        "word": "cold",
+        "difference": "cold carries a negative trait of lacking basic human empathy; dispassionate is a highly praised professional virtue in science and law."
+      }
+    ],
+    "antonyms": [
+      "passionate",
+      "biased",
+      "emotional",
+      "prejudiced"
+    ],
+    "word_family": [
+      {
+        "word": "passion",
+        "pos": "noun"
+      },
+      {
+        "word": "dispassionate",
+        "pos": "adjective"
+      },
+      {
+        "word": "dispassionately",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Favored in scientific fields, forensic analysis, and legal structures to praise research methodology.",
+    "frequency_rank": 137,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ]
+  },
+  {
+    "word": "disseminate",
+    "pos": "verb",
+    "phonetic": "/dɪˈsemɪneɪt/",
+    "definition": "To spread information, knowledge, or ideas widely throughout a large community or population.",
+    "definition_zh": "散播；傳播；普及（知識等）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, in different directions",
+          "meaning_zh": "向四方、分開"
+        },
+        {
+          "root": "semen",
+          "origin": "Latin",
+          "meaning": "seed",
+          "meaning_zh": "種子"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（向四方）+ SEMEN（種子）→ 像農民抓起一把種子撒向四方大地 → 引申為大範圍傳播訊息",
+      "story_en": "The internet allows scientists to DISSEMINATE critical data like SEMEN (seeds) blown across the world.",
+      "story_zh": "網際網路允許科學家們「廣泛傳播（DISSEMINATE）」關鍵數據，就像種子（SEMEN）被吹散到世界各地一樣。",
+      "emojis": [
+        "📢",
+        "🌱",
+        "🌐"
+      ]
+    },
+    "example": "The public health agency used social media platforms to quickly disseminate guidelines on vaccine safety.",
+    "example_zh": "公共衛生機構利用社群媒體平台迅速傳播關於疫苗安全性的指南。",
+    "collocations": [
+      "disseminate information",
+      "disseminate knowledge",
+      "widely disseminate",
+      "disseminate ideas",
+      "disseminate propaganda"
+    ],
+    "synonyms": [
+      "spread",
+      "circulate",
+      "distribute",
+      "broadcast",
+      "propagate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "spread",
+        "difference": "spread is a basic multi-purpose word (e.g., spread butter, spread a rumor); disseminate is strictly academic/corporate and applies to formal systems of sharing knowledge or data."
+      },
+      {
+        "word": "publish",
+        "difference": "publish means printing text or making it available online; disseminate focuses on making sure the target audience actually receives and absorbs the knowledge widely."
+      }
+    ],
+    "antonyms": [
+      "collect",
+      "suppress",
+      "gather",
+      "conceal"
+    ],
+    "word_family": [
+      {
+        "word": "semen",
+        "pos": "noun"
+      },
+      {
+        "word": "disseminate",
+        "pos": "verb"
+      },
+      {
+        "word": "dissemination",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A prime academic verb found in research proposals where scientists describe how they will share their final findings ('Plan for Dissemination').",
+    "frequency_rank": 138,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "technology"
+    ]
+  },
+  {
+    "word": "dissonance",
+    "pos": "noun",
+    "phonetic": "/ˈdɪsənəns/",
+    "definition": "A harsh, clashing, and disagreeable combination of musical sounds; or a severe state of logical conflict between actions and beliefs (cognitive dissonance).",
+    "definition_zh": "不和諧音；不一致；不調和",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis",
+          "origin": "Latin",
+          "meaning": "apart, different",
+          "meaning_zh": "分開、不同"
+        },
+        {
+          "root": "sonus",
+          "origin": "Latin",
+          "meaning": "sound",
+          "meaning_zh": "聲音"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DIS（不同）+ SONUS（聲音）→ 兩個聲音頻率分開、相互碰撞，聽起來極其刺耳不和諧",
+      "story_en": "The cheap instrument produced a terrible DISSONANCE, because its SONUS (sound) was completely out of tune.",
+      "story_zh": "這件廉價的樂器產生了可怕的「不和諧音（DISSONANCE）」，因為它的聲音（SONUS）完全走調了。",
+      "emojis": [
+        "🎹",
+        "🧠",
+        "💥"
+      ]
+    },
+    "example": "Smokers often experience cognitive dissonance because they know the habit is lethal yet continue to smoke.",
+    "example_zh": "吸菸者經常體驗到「認知失調（cognitive dissonance）」，因為他們明知這個習慣是致命的卻仍在繼續吸菸。",
+    "collocations": [
+      "cognitive dissonance",
+      "musical dissonance",
+      "create dissonance",
+      "cultural dissonance",
+      "dissonance between"
+    ],
+    "synonyms": [
+      "discord",
+      "disagreement",
+      "harshness",
+      "incongruity",
+      "discrepancy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "discord",
+        "difference": "discord usually describes interpersonal social fighting and arguments; dissonance heavily refers to an intellectual mismatch in ideas or a scientific clash of frequencies."
+      },
+      {
+        "word": "noise",
+        "difference": "noise is generic background chaos; dissonance is a specific structural clashing between components within a system."
+      }
+    ],
+    "antonyms": [
+      "harmony",
+      "consonance",
+      "agreement"
+    ],
+    "word_family": [
+      {
+        "word": "sound",
+        "pos": "noun"
+      },
+      {
+        "word": "dissonant",
+        "pos": "adjective"
+      },
+      {
+        "word": "dissonance",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "The phrase 'cognitive dissonance' is a standard psychological term describing the mental discomfort felt by someone holding two contradictory beliefs.",
+    "frequency_rank": 139,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "art"
+    ]
+  },
+  {
+    "word": "divergent",
+    "pos": "adjective",
+    "phonetic": "/daɪˈvɜːrdʒənt/",
+    "definition": "Moving or developing in entirely different, non-parallel directions; radiating out from a common point to become increasingly different.",
+    "definition_zh": "分歧的；分開的；（思想）互不相容的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "di",
+          "origin": "Latin",
+          "meaning": "apart, aside",
+          "meaning_zh": "分開"
+        },
+        {
+          "root": "vergere",
+          "origin": "Latin",
+          "meaning": "to bend, turn",
+          "meaning_zh": "轉向、傾斜"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DI（分開）+ VERGERE（轉向）→ 各自轉向不同的地方，距離越來越遠，形成分歧",
+      "story_en": "The two paths became DIVERGENT, forcing the travelers to turn (VERGERE) away from each other.",
+      "story_zh": "這兩條小路變得「分道揚鑣（DIVERGENT）」，迫使旅行者們朝著不同的方向轉向（VERGERE）前進。",
+      "emojis": [
+        "🔀",
+        "🛤️",
+        "💡"
+      ]
+    },
+    "example": "The committee held highly divergent opinions on how to allocate the emergency infrastructure budget.",
+    "example_zh": "委員會在如何分配緊急基礎設施預算方面持高度分歧的意見。",
+    "collocations": [
+      "divergent thinking",
+      "divergent opinions",
+      "divergent evolutionary paths",
+      "highly divergent",
+      "divergent views"
+    ],
+    "synonyms": [
+      "differing",
+      "varying",
+      "discrepant",
+      "radiating",
+      "conflicting"
+    ],
+    "near_synonyms": [
+      {
+        "word": "different",
+        "difference": "different just means not the same; divergent implies they started from the exact same point but are actively growing further apart over time."
+      },
+      {
+        "word": "opposite",
+        "difference": "opposite means facing directly 180 degrees against each other; divergent can mean branching off into many multiple random paths."
+      }
+    ],
+    "antonyms": [
+      "convergent",
+      "similar",
+      "parallel",
+      "uniform"
+    ],
+    "word_family": [
+      {
+        "word": "diverge",
+        "pos": "verb"
+      },
+      {
+        "word": "divergent",
+        "pos": "adjective"
+      },
+      {
+        "word": "divergence",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In educational psychology, 'divergent thinking' refers to creative thinking that explores many different paths to generate unique ideas.",
+    "frequency_rank": 140,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "dogmatic",
+    "pos": "adjective",
+    "phonetic": "/dɔːɡˈmætɪk/",
+    "definition": "Insisting on principles or beliefs as completely and unconditionally true, without accepting any external arguments, logic, or doubts.",
+    "definition_zh": "教條的；武斷的；自以為是的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dogma",
+          "origin": "Greek",
+          "meaning": "opinion, tenet, decree",
+          "meaning_zh": "信念、教義"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DOGMA（教義/教條）→ 固執於某種特定教條，絕不聽從科學或改變",
+      "story_en": "The cult leader was fiercely DOGMATIC, enforcing his personal DOGMA as the absolute law.",
+      "story_zh": "這個邪教領袖極其「教條武斷（DOGMATIC）」地強迫所有人接受他個人的教條（DOGMA）作為絕對真理。",
+      "emojis": [
+        "📜",
+        "🤬",
+        "🛑"
+      ]
+    },
+    "example": "A successful scientist cannot be dogmatic; they must always be willing to alter theories when new data appears.",
+    "example_zh": "一個成功的科學家絕不能流於教條武斷；當新數據出現時，他們必須隨時願意修改理論。",
+    "collocations": [
+      "dogmatic approach",
+      "dogmatic beliefs",
+      "overly dogmatic",
+      "dogmatic tone",
+      "religious dogmatic"
+    ],
+    "synonyms": [
+      "doctrinaire",
+      "opinionated",
+      "inflexible",
+      "authoritarian",
+      "rigid"
+    ],
+    "near_synonyms": [
+      {
+        "word": "stubborn",
+        "difference": "stubborn is a general personality trait of refusing to change one's mind about anything; dogmatic specifically involves holding a rigid system of ideological or theoretical doctrines."
+      },
+      {
+        "word": "confident",
+        "difference": "confident means believing in oneself based on skill; dogmatic means forcing an opinion on others without offering solid objective proof."
+      }
+    ],
+    "antonyms": [
+      "flexible",
+      "open-minded",
+      "skeptical",
+      "pragmatic"
+    ],
+    "word_family": [
+      {
+        "word": "dogma",
+        "pos": "noun"
+      },
+      {
+        "word": "dogmatic",
+        "pos": "adjective"
+      },
+      {
+        "word": "dogmatically",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Carries an overwhelmingly negative connotation in modern academic, philosophical, and political debates.",
+    "frequency_rank": 141,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "philosophy",
+      "academic"
+    ]
+  },
+  {
+    "word": "dormant",
+    "pos": "adjective",
+    "phonetic": "/ˈdɔːrmənt/",
+    "definition": "Having normal physical functions suspended or slowed down for a period of time; alive but temporarily inactive or asleep.",
+    "definition_zh": "休眠的；潛伏的；靜止的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dormire",
+          "origin": "Latin",
+          "meaning": "to sleep",
+          "meaning_zh": "睡眠"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DORMIRE（睡眠）→ 像住進宿舍（dormitory）睡著了一樣，暫時沒有動靜",
+      "story_en": "The dangerous volcano remained DORMANT for centuries, sleeping like a student in a university DORMitory.",
+      "story_zh": "這座危險的火山「休眠（DORMANT）」了數百年，就像學生在大學宿舍（DORMITORY）裡沉睡（DORMIRE）一樣靜止。",
+      "emojis": [
+        "🌋",
+        "💤",
+        "🌱"
+      ]
+    },
+    "example": "Many specialized desert plant seeds can lie dormant in the dry sand for decades until a heavy rain falls.",
+    "example_zh": "許多特化的沙漠植物種子可以在乾燥的沙土中潛伏休眠數十年，直到暴雨降臨。",
+    "collocations": [
+      "dormant volcano",
+      "lie dormant",
+      "dormant account",
+      "dormant virus",
+      "dormant stage"
+    ],
+    "synonyms": [
+      "inactive",
+      "latent",
+      "quiescent",
+      "asleep",
+      "slumbering"
+    ],
+    "near_synonyms": [
+      {
+        "word": "inactive",
+        "difference": "inactive can mean something is broken or permanently dead; dormant implies the subject is completely alive and powerful, but merely waiting for the right catalyst to wake up."
+      },
+      {
+        "word": "lazy",
+        "difference": "lazy implies a conscious behavioral refusal to work; dormant is a biological or operational state of temporary energy suspension."
+      }
+    ],
+    "antonyms": [
+      "active",
+      "awake",
+      "erupting",
+      "vibrant"
+    ],
+    "word_family": [
+      {
+        "word": "dormitory",
+        "pos": "noun"
+      },
+      {
+        "word": "dormant",
+        "pos": "adjective"
+      },
+      {
+        "word": "dormancy",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Extremely high frequency in geology (dormant volcano), medicine (dormant virus), and finance (dormant bank account).",
+    "frequency_rank": 142,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "finance"
+    ]
+  },
+  {
+    "word": "duplicity",
+    "pos": "noun",
+    "phonetic": "/duːˈplɪsəti/",
+    "definition": "Deceitfulness in speech or conduct; double-dealing or acting with a double standard to trick others.",
+    "definition_zh": "口是心非；欺騙行為；雙面手法",
+    "etymology": {
+      "roots": [
+        {
+          "root": "duo",
+          "origin": "Latin",
+          "meaning": "two",
+          "meaning_zh": "二"
+        },
+        {
+          "root": "plicare",
+          "origin": "Latin",
+          "meaning": "to fold",
+          "meaning_zh": "摺疊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DUO（二）+ PLICARE（摺疊）→ 把一件事情摺成兩面，表面一套背地裡一套，玩弄雙面手法",
+      "story_en": "The corporate spy was caught in his DUPLICITY, running a DU_PLI_cate double life to steal patents.",
+      "story_zh": "這名商業間諜的「雙面欺騙手法（DUPLICITY）」被當場抓獲，他過著複製雙重（DUPLICATE）的生活來竊取專利。",
+      "emojis": [
+        "🎭",
+        "🦊",
+        "👥"
+      ]
+    },
+    "example": "The undercover agent exposed the deep duplicity of the politician who was secretly funding cartel operations.",
+    "example_zh": "臥底探員揭露了該政治人物深層的口是心非雙面手法，他暗中資助販毒集團的運作。",
+    "collocations": [
+      "corporate duplicity",
+      "web of duplicity",
+      "accused of duplicity",
+      "political duplicity",
+      "expose duplicity"
+    ],
+    "synonyms": [
+      "deceit",
+      "double-dealing",
+      "hypocrisy",
+      "chicanery",
+      "fraud"
+    ],
+    "near_synonyms": [
+      {
+        "word": "lying",
+        "difference": "lying is the simple verbal statement of a untruth; duplicity is a complex, structural lifestyle or calculated strategy of pretending to be an ally while acting as an enemy."
+      },
+      {
+        "word": "mistake",
+        "difference": "mistake is an accidental administrative error; duplicity is an intentional malicious architecture of fraud."
+      }
+    ],
+    "antonyms": [
+      "honesty",
+      "sincerity",
+      "candor",
+      "straightforwardness"
+    ],
+    "word_family": [
+      {
+        "word": "duplicate",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "duplicity",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A sophisticated literary and legal term often found in political espionage dramas or corporate legal suits.",
+    "frequency_rank": 143,
+    "frequency_source": "custom",
+    "difficulty": "C2",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "ebullient",
+    "pos": "adjective",
+    "phonetic": "/ɪˈbʊliənt/",
+    "definition": "Cheerful, full of energy, and overflowing with enthusiasm or excitement.",
+    "definition_zh": "興高采烈的；熱情洋溢的；沸騰的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外"
+        },
+        {
+          "root": "bullire",
+          "origin": "Latin",
+          "meaning": "to boil",
+          "meaning_zh": "沸騰"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（向外）+ BULLIRE（沸騰）→ 熱情像開水燒開了一樣不斷向外翻滾湧現",
+      "story_en": "The winning team was EBULLIENT, their energy BOIL_ing (BULLIRE) out into the streets during the parade.",
+      "story_zh": "獲勝的球隊「熱情洋溢、興高采烈（EBULLIENT）」，他們的精力在遊行期間像沸騰（BULLIRE）一般湧向街頭。",
+      "emojis": [
+        "🥳",
+        "🔥",
+        "🍾"
+      ]
+    },
+    "example": "The ebullient crowd erupted into cheers the moment the rock star stepped onto the stage.",
+    "example_zh": "搖滾歌星踏上舞台的那一刻，熱情洋溢的群眾頓時爆發出震耳欲聾的歡呼聲。",
+    "collocations": [
+      "ebullient personality",
+      "ebullient mood",
+      "ebullient crowd",
+      "remain ebullient",
+      "ebullient enthusiasm"
+    ],
+    "synonyms": [
+      "exuberant",
+      "enthusiastic",
+      "buoyant",
+      "joyful",
+      "animated"
+    ],
+    "near_synonyms": [
+      {
+        "word": "happy",
+        "difference": "happy is a mild, quiet emotional state; ebullient is a dynamic, high-energy, visually exploding level of loud public excitement."
+      },
+      {
+        "word": "polite",
+        "difference": "polite implies controlled and restrained social standard manners; ebullient implies wild uncontained joy."
+      }
+    ],
+    "antonyms": [
+      "depressed",
+      "apathetic",
+      "gloomy",
+      "somber"
+    ],
+    "word_family": [
+      {
+        "word": "ebullient",
+        "pos": "adjective"
+      },
+      {
+        "word": "ebullience",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Perfect for describing market booms ('ebullient stock market') or infectious, hyperactive social leaders.",
+    "frequency_rank": 144,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "business"
+    ]
+  },
+  {
+    "word": "eccentric",
+    "pos": "adjective",
+    "phonetic": "/ɪkˈsentrɪk/",
+    "definition": "Unconventional, strange, or quirky in behavior, lifestyle, or design; diverging from the normal or established circle.",
+    "definition_zh": "古怪的；特立獨行的；不落俗套的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ek",
+          "origin": "Greek",
+          "meaning": "out of",
+          "meaning_zh": "離開"
+        },
+        {
+          "root": "kentron",
+          "origin": "Greek",
+          "meaning": "center",
+          "meaning_zh": "中心"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EK（離開）+ KENTRON（中心）→ 偏離了圓形的正中心 → 引申為行為不走尋常路、特立獨行",
+      "story_en": "The ECCENTRIC inventor lived away from the city CENTER (KENTRON), building strange machines.",
+      "story_zh": "這位「古怪特立獨行的（ECCENTRIC）」發明家住在遠離城市中心（KENTRON）的地方，製造著奇怪的機器。",
+      "emojis": [
+        "🤪",
+        "🧪",
+        "🎩"
+      ]
+    },
+    "example": "The tech billionaire was famous for his eccentric habits, such as eating only raw vegetables during key product launches.",
+    "example_zh": "這位科技億萬富翁以其古怪的習慣而聞名，例如在關鍵產品發佈會期間只吃生蔬菜。",
+    "collocations": [
+      "eccentric behavior",
+      "eccentric genius",
+      "highly eccentric",
+      "eccentric habits",
+      "eccentric millionaire"
+    ],
+    "synonyms": [
+      "unconventional",
+      "quirky",
+      "bizarre",
+      "odd",
+      "peculiar"
+    ],
+    "near_synonyms": [
+      {
+        "word": "crazy",
+        "difference": "crazy implies a clinical mental illness or destructive dangerous behavior; eccentric implies harmless, amusing, and highly intelligent unorthodoxy."
+      },
+      {
+        "word": "normal",
+        "difference": "normal means completely following common mainstream social behavior patterns without deviation."
+      }
+    ],
+    "antonyms": [
+      "conventional",
+      "ordinary",
+      "mainstream",
+      "normal"
+    ],
+    "word_family": [
+      {
+        "word": "center",
+        "pos": "noun"
+      },
+      {
+        "word": "eccentric",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "eccentricity",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Can be used as a noun to describe a person: 'He was a lovable old eccentric who walked a turtle on a leash.'",
+    "frequency_rank": 145,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "art"
+    ]
+  },
+  {
+    "word": "eclectic",
+    "pos": "adjective",
+    "phonetic": "/ɪˈklektɪk/",
+    "definition": "Deriving ideas, style, or taste from a broad, diverse, and wide-ranging variety of sources rather than following a single system.",
+    "definition_zh": "兼收並蓄的；折衷的；來源多元廣泛的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ek",
+          "origin": "Greek",
+          "meaning": "out of",
+          "meaning_zh": "向外"
+        },
+        {
+          "root": "legein",
+          "origin": "Greek",
+          "meaning": "to select, choose",
+          "meaning_zh": "選擇、挑選"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EK（向外）+ LEGEIN（挑選）→ 從各大不同的領域裡挑選出最精華的部分，組合成一個豐富的大雜燴",
+      "story_en": "Her apartment had an ECLECTIC design, because she would se_LECT items out of every country she visited.",
+      "story_zh": "她的公寓有一種「兼收並蓄多元的（ECLECTIC）」設計風格，因為她會從她訪問的每個國家中挑選（SELECT）裝飾品。",
+      "emojis": [
+        "🎨",
+        "📚",
+        "🎶"
+      ]
+    },
+    "example": "The restaurant's eclectic menu features a fusion of traditional Italian pasta, Japanese sushi, and Mexican tacos.",
+    "example_zh": "這家餐廳兼收並蓄的多元菜單融合了傳統義大利麵、日本壽司和墨西哥捲餅。",
+    "collocations": [
+      "eclectic mix",
+      "eclectic taste",
+      "eclectic collection",
+      "eclectic approach",
+      "highly eclectic"
+    ],
+    "synonyms": [
+      "diverse",
+      "catholic",
+      "varied",
+      "heterogeneous",
+      "multifaceted"
+    ],
+    "near_synonyms": [
+      {
+        "word": "diverse",
+        "difference": "diverse simply means having many different parts existing together; eclectic emphasizes the conscious artistic act of selecting the best bits from different places to build a curated mixture."
+      },
+      {
+        "word": "uniform",
+        "difference": "uniform means everything strictly belongs to one single identical style or corporate layout."
+      }
+    ],
+    "antonyms": [
+      "narrow",
+      "monolithic",
+      "uniform",
+      "homogeneous"
+    ],
+    "word_family": [
+      {
+        "word": "elect",
+        "pos": "verb"
+      },
+      {
+        "word": "eclectic",
+        "pos": "adjective"
+      },
+      {
+        "word": "eclecticism",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Highly praised in interior design, music taste ('eclectic taste in music'), and academic methodology that combines multiple theories.",
+    "frequency_rank": 146,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "art",
+      "academic"
+    ]
+  },
+  {
+    "word": "efficacy",
+    "pos": "noun",
+    "phonetic": "/ˈefɪkəsi/",
+    "definition": "The power or capacity to produce a desired, intended, or successful result, typically used when discussing clinical drugs or structural policies.",
+    "definition_zh": "功效；效力",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out, thoroughly",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "facere",
+          "origin": "Latin",
+          "meaning": "to make, do (past participle effectus)",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（徹底）+ FACERE（做出效果）→ 能夠徹底把預期的功效「做」出來",
+      "story_en": "Medical scientists tested the EFFICACY of the vaccine to ensure it could EF_FECT (make out) a real cure.",
+      "story_zh": "醫學家測試了疫苗的「功效（EFFICACY）」，以確保它能真正發揮（EFFECT）治療效果。",
+      "emojis": [
+        "🧪",
+        "💊",
+        "📈"
+      ]
+    },
+    "example": "The clinical trial demonstrated that the new cancer medication has high efficacy with minimal side effects.",
+    "example_zh": "臨床試驗證實，這種新型癌症藥物具有極高功效，且副作用極小。",
+    "collocations": [
+      "clinical efficacy",
+      "prove efficacy",
+      "test the efficacy",
+      "self-efficacy",
+      "high efficacy"
+    ],
+    "synonyms": [
+      "effectiveness",
+      "potency",
+      "usefulness",
+      "efficiency",
+      "power"
+    ],
+    "near_synonyms": [
+      {
+        "word": "efficiency",
+        "difference": "efficiency means doing something fast without wasting time, energy, or money; efficacy means the specific scientific power of a treatment or tool to achieve its core goal successfully."
+      },
+      {
+        "word": "capacity",
+        "difference": "capacity is the volume or potential size a system can hold; efficacy is the active operating success rate."
+      }
+    ],
+    "antonyms": [
+      "inefficacy",
+      "ineffectiveness",
+      "impotence",
+      "uselessness"
+    ],
+    "word_family": [
+      {
+        "word": "effect",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "efficient",
+        "pos": "adjective"
+      },
+      {
+        "word": "efficacy",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In psychology, 'self-efficacy' is a critical term meaning an individual's personal belief in their own capability to execute behaviors.",
+    "frequency_rank": 147,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "egregious",
+    "pos": "adjective",
+    "phonetic": "/ɪˈɡriːdʒəs/",
+    "definition": "Outstandingly bad; shocking, scandalous, and flagrant in a way that breaks all basic moral or logical standards.",
+    "definition_zh": "極壞的；震驚的；太過分的；惡名昭彰的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out of",
+          "meaning_zh": "分開、出來"
+        },
+        {
+          "root": "grex",
+          "origin": "Latin",
+          "meaning": "flock, herd",
+          "meaning_zh": "羊群、人群"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（跳出）+ GREX（羊群）→ 壞得太極端，直接從普通的「羊群」中跳了出來，壞得舉世矚目",
+      "story_en": "The referee made an EGREGIOUS error, a mistake so bad it stood out (EX) from the whole crowd.",
+      "story_zh": "裁判犯了一個「極其低級過分的（EGREGIOUS）」錯誤，這個錯誤糟糕到直接從整個人群羊群（GREX）中突顯了出來。",
+      "emojis": [
+        "❌",
+        "🤦‍♂️",
+        "🛑"
+      ]
+    },
+    "example": "The company was hit with massive legal penalties for its egregious violation of international labor laws.",
+    "example_zh": "該公司因「公然極其嚴重地（EGREGIOUS）」違反國際勞工法而面臨巨額法律處罰。",
+    "collocations": [
+      "egregious error",
+      "egregious violation",
+      "egregious lie",
+      "highly egregious",
+      "egregious breach of trust"
+    ],
+    "synonyms": [
+      "flagrant",
+      "shocking",
+      "glaring",
+      "appalling",
+      "scandalous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "bad",
+        "difference": "bad is a casual everyday error descriptor; egregious means the mistake is so massive, shocking, and unacceptable that it causes institutional outrage."
+      },
+      {
+        "word": "secret",
+        "difference": "secret implies a hidden flaw; egregious errors are wide open, obvious, and glaringly visible to everyone."
+      }
+    ],
+    "antonyms": [
+      "excellent",
+      "minor",
+      "praiseworthy",
+      "unnoticeable"
+    ],
+    "word_family": [
+      {
+        "word": "gregarious",
+        "pos": "adjective"
+      },
+      {
+        "word": "egregious",
+        "pos": "adjective"
+      },
+      {
+        "word": "egregiously",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Historically meant 'distinguished' (good), but shifted completely to mean 'glaringly bad' in modern legal and political discourse.",
+    "frequency_rank": 148,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "academic"
+    ]
+  },
+  {
+    "word": "eloquent",
+    "pos": "adjective",
+    "phonetic": "/ˈeləkwənt/",
+    "definition": "Fluent, persuasive, and beautifully expressive in moving speech or writing.",
+    "definition_zh": "雄辯的；口才流利的；有說服力的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外"
+        },
+        {
+          "root": "loqui",
+          "origin": "Latin",
+          "meaning": "to speak",
+          "meaning_zh": "說話"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（向外）+ LOQUI（說話）→ 把內心的思想無阻礙地向外表達出來，非常有口才",
+      "story_en": "The activist gave an ELOQUENT speech, speak_ing (LOQUI) out with power to move the audience.",
+      "story_zh": "這位活動家發表了「口才雄辯的（ELOQUENT）」演講，強力地向外「訴說（LOQUI）」以打動觀眾。",
+      "emojis": [
+        "🗣️",
+        "🎤",
+        "🏛️"
+      ]
+    },
+    "example": "Martin Luther King Jr. is remembered for his eloquent speeches that catalyzed the Civil Rights Movement.",
+    "example_zh": "馬丁·路德·金恩因其推動民權運動的雄辯且富有說服力的演講而被世人銘記。",
+    "collocations": [
+      "eloquent speech",
+      "eloquent speaker",
+      "highly eloquent",
+      "eloquent defense",
+      "eloquent testimony"
+    ],
+    "synonyms": [
+      "articulate",
+      "persuasive",
+      "fluent",
+      "expressive",
+      "silver-tongued"
+    ],
+    "near_synonyms": [
+      {
+        "word": "articulate",
+        "difference": "articulate means pronouncing words clearly and being easy to understand logically; eloquent goes further by adding emotional beauty, grace, and moving poetic power."
+      },
+      {
+        "word": "loud",
+        "difference": "loud refers strictly to a high physical volume of noise; eloquent focuses on the profound quality and impact of the message."
+      }
+    ],
+    "antonyms": [
+      "inarticulate",
+      "tongue-tied",
+      "unpersuasive"
+    ],
+    "word_family": [
+      {
+        "word": "eloquence",
+        "pos": "noun"
+      },
+      {
+        "word": "eloquent",
+        "pos": "adjective"
+      },
+      {
+        "word": "eloquently",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Can be applied to non-verbal things, like an 'eloquent silence' (a silence that says a lot) or 'eloquent design'.",
+    "frequency_rank": 149,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "language",
+      "politics"
+    ]
+  },
+  {
+    "word": "elucidate",
+    "pos": "verb",
+    "phonetic": "/iˈluːsɪdeɪt/",
+    "definition": "To make something clear and easy to understand by explaining it thoroughly or providing deep analysis.",
+    "definition_zh": "闡明；對…進行說明；使清楚",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out, thoroughly",
+          "meaning_zh": "徹底"
+        },
+        {
+          "root": "lucere",
+          "origin": "Latin",
+          "meaning": "to shine, light (from lux)",
+          "meaning_zh": "照亮、發光"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EX（徹底）+ LUCERE（照亮/光芒）→ 把手電筒的光（LUX）打在黑暗複雜的概念上，使其清晰可見",
+      "story_en": "The professor threw light (LUX) on the equation to ELUCIDATE the difficult physics math formula.",
+      "story_zh": "教授將光芒（LUX）投射在方程式上，以「闡明解釋（ELUCIDATE）」那道困難的物理數學公式。",
+      "emojis": [
+        "💡",
+        "🔍",
+        "👨‍🏫"
+      ]
+    },
+    "example": "The upcoming research paper aims to elucidate the complex chemical pathways of the new vaccine.",
+    "example_zh": "即將發表的研討論文旨在闡明解釋這種新疫苗複雜的化學路徑。",
+    "collocations": [
+      "elucidate the mechanism",
+      "elucidate a theory",
+      "further elucidate",
+      "help to elucidate",
+      "elucidate the point"
+    ],
+    "synonyms": [
+      "explain",
+      "clarify",
+      "illuminate",
+      "expound",
+      "delineate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "explain",
+        "difference": "explain is a basic everyday word for telling someone how something works; elucidate is highly formal and implies shedding systematic intellectual light on an incredibly obscure academic topic."
+      },
+      {
+        "word": "simplify",
+        "difference": "simplify means removing hard parts to make it easy for beginners; elucidate maintains the high level of complexity but makes the logical steps clear."
+      }
+    ],
+    "antonyms": [
+      "obscure",
+      "confuse",
+      "complicate",
+      "mystify"
+    ],
+    "word_family": [
+      {
+        "word": "lucid",
+        "pos": "adjective"
+      },
+      {
+        "word": "elucidate",
+        "pos": "verb"
+      },
+      {
+        "word": "elucidation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "A premier academic verb widely preferred in the opening thesis statements of PhD dissertations and scientific papers.",
+    "frequency_rank": 150,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  }
+]
