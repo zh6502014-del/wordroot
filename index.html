@@ -246,16 +246,6 @@ function RootChips({roots}){
 // ── LEARN ──
 function LearnScreen({vocab,resumeData,onDone}){
   const deckData=resumeData?resumeData.deck:buildDeck(vocab);
-  if(!resumeData&&deckData.length===0){
-    return(
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
-        <div style={{fontSize:44}}>🎉</div>
-        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有待學的單字</div>
-        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>所有單字都已複習過，明天再來！</div>
-        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
-      </div>
-    );
-  }
   const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[flipped,setFlipped]=useState(false);
@@ -305,6 +295,16 @@ function LearnScreen({vocab,resumeData,onDone}){
     return()=>window.removeEventListener("keydown",fn);
   },[flipped,rate,skip]);
 
+  if(!deck.length){
+    return(
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
+        <div style={{fontSize:44}}>🎉</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有待學的單字</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>所有單字都已複習過，明天再來！</div>
+        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      </div>
+    );
+  }
   if(done||!w){
     const s=FSRS.stats();
     return(
@@ -431,16 +431,6 @@ function LearnScreen({vocab,resumeData,onDone}){
 // ── QUIZ ──
 function QuizScreen({vocab,resumeData,onDone}){
   const deckData=resumeData?resumeData.deck:buildDeck(vocab);
-  if(!resumeData&&deckData.length===0){
-    return(
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
-        <div style={{fontSize:44}}>🎉</div>
-        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有可測驗的單字</div>
-        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>先去學習模式學幾個單字吧！</div>
-        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(96,200,240,.3)",background:"rgba(96,200,240,.06)",color:"var(--accent2)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
-      </div>
-    );
-  }
   const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[opts,setOpts]=useState([]);
@@ -494,6 +484,16 @@ function QuizScreen({vocab,resumeData,onDone}){
     return()=>window.removeEventListener("keydown",fn);
   },[answered,opts,next,answer]);
 
+  if(!deck.length){
+    return(
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
+        <div style={{fontSize:44}}>🎉</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有可測驗的單字</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>先去學習模式學幾個單字吧！</div>
+        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(96,200,240,.3)",background:"rgba(96,200,240,.06)",color:"var(--accent2)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      </div>
+    );
+  }
   if(done){
     const total=stats.correct+stats.wrong,acc=Math.round(stats.correct/total*100)||0;
     return(
@@ -890,14 +890,17 @@ function BrutalScreen({vocab,onDone}){
     );
   }
 
-  if(!item){return null;}
-  if(!correctWord||!wrongWord){
-    // word no longer in vocab (e.g. vocab updated) — remove from mistakes and skip
+  const missingWord=item&&(!correctWord||!wrongWord);
+  useEffect(()=>{
+    if(!missingWord)return;
     const all=JSON.parse(localStorage.getItem("wr_mistakes")||"{}");
     delete all[item.word];
     localStorage.setItem("wr_mistakes",JSON.stringify(all));
-    next();return null;
-  }
+    next();
+  },[missingWord]);
+
+  if(!item){return null;}
+  if(missingWord){return null;}
   const isCorrect=selected===item.word;
   const keys=["A","B"];
 
