@@ -77,6 +77,14 @@
       "college",
       "academic",
       "GRE"
+    ],
+    "roots": [
+      {
+        "root": "dom",
+        "origin": "Latin",
+        "meaning": "to tame, subdue (via Old French danter)",
+        "meaning_zh": "馴服、克服"
+      }
     ]
   },
   {
@@ -157,6 +165,14 @@
       "college",
       "law",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "decor",
+        "origin": "Latin",
+        "meaning": "beauty, elegance, grace",
+        "meaning_zh": "美、優雅、合適"
+      }
     ]
   },
   {
@@ -243,6 +259,20 @@
       "college",
       "academic",
       "TOEFL"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away, down",
+        "meaning_zh": "向下、離開"
+      },
+      {
+        "root": "fer",
+        "origin": "Latin",
+        "meaning": "to carry, bear",
+        "meaning_zh": "帶、承受"
+      }
     ]
   },
   {
@@ -319,6 +349,14 @@
       "college",
       "science",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "deleis",
+        "origin": "Greek",
+        "meaning": "harmful, destructive",
+        "meaning_zh": "有害的、破壞性的"
+      }
     ]
   },
   {
@@ -402,6 +440,20 @@
       "college",
       "academic",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "completely, thoroughly",
+        "meaning_zh": "完全、徹底"
+      },
+      {
+        "root": "line",
+        "origin": "Latin",
+        "meaning": "line",
+        "meaning_zh": "線條"
+      }
     ]
   },
   {
@@ -484,6 +536,14 @@
       "college",
       "language",
       "art"
+    ],
+    "roots": [
+      {
+        "root": "demorari",
+        "origin": "Latin",
+        "meaning": "to linger, delay (via Old French demourer)",
+        "meaning_zh": "停留、遲疑"
+      }
     ]
   },
   {
@@ -568,6 +628,20 @@
       "college",
       "politics",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down, completely",
+        "meaning_zh": "向下、徹底"
+      },
+      {
+        "root": "nuntiare",
+        "origin": "Latin",
+        "meaning": "to announce, report",
+        "meaning_zh": "宣告、報告"
+      }
     ]
   },
   {
@@ -651,6 +725,20 @@
       "college",
       "art",
       "language"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down, completely",
+        "meaning_zh": "向下、徹底"
+      },
+      {
+        "root": "pingere",
+        "origin": "Latin",
+        "meaning": "to paint (past participle pictus)",
+        "meaning_zh": "繪畫"
+      }
     ]
   },
   {
@@ -738,6 +826,20 @@
       "college",
       "social",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "completely, thoroughly",
+        "meaning_zh": "徹底"
+      },
+      {
+        "root": "plorare",
+        "origin": "Latin",
+        "meaning": "to weep, wail",
+        "meaning_zh": "哭泣、哀悼"
+      }
     ]
   },
   {
@@ -826,6 +928,20 @@
       "college",
       "philosophy",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "completely",
+        "meaning_zh": "徹底"
+      },
+      {
+        "root": "pravus",
+        "origin": "Latin",
+        "meaning": "crooked, wicked",
+        "meaning_zh": "扭曲的、邪惡的"
+      }
     ]
   },
   {
@@ -914,6 +1030,20 @@
       "college",
       "psychology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away, off",
+        "meaning_zh": "離開、除去"
+      },
+      {
+        "root": "precari",
+        "origin": "Latin",
+        "meaning": "to pray",
+        "meaning_zh": "祈禱"
+      }
     ]
   },
   {
@@ -1002,6 +1132,20 @@
       "college",
       "politics",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down",
+        "meaning_zh": "向下"
+      },
+      {
+        "root": "ridere",
+        "origin": "Latin",
+        "meaning": "to laugh",
+        "meaning_zh": "笑"
+      }
     ]
   },
   {
@@ -1090,6 +1234,20 @@
       "college",
       "art",
       "finance"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down, away from",
+        "meaning_zh": "向下、源自"
+      },
+      {
+        "root": "rivus",
+        "origin": "Latin",
+        "meaning": "stream, brook",
+        "meaning_zh": "溪流"
+      }
     ]
   },
   {
@@ -1177,6 +1335,20 @@
       "college",
       "science",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "thoroughly, completely",
+        "meaning_zh": "徹底"
+      },
+      {
+        "root": "siccus",
+        "origin": "Latin",
+        "meaning": "dry",
+        "meaning_zh": "乾燥"
+      }
     ]
   },
   {
@@ -1265,6 +1437,20 @@
       "college",
       "psychology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away, without",
+        "meaning_zh": "離開、失去"
+      },
+      {
+        "root": "spondere",
+        "origin": "Latin",
+        "meaning": "to promise, pledge",
+        "meaning_zh": "承諾、許諾"
+      }
     ]
   },
   {
@@ -1344,6 +1530,14 @@
       "college",
       "politics",
       "history"
+    ],
+    "roots": [
+      {
+        "root": "despotes",
+        "origin": "Greek",
+        "meaning": "master of a house, absolute ruler",
+        "meaning_zh": "主人、絕對統治者"
+      }
     ]
   },
   {
@@ -1428,6 +1622,20 @@
       "college",
       "social",
       "economics"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away, down",
+        "meaning_zh": "離開、拋棄"
+      },
+      {
+        "root": "statuere",
+        "origin": "Latin",
+        "meaning": "to place, set up (past participle statutus)",
+        "meaning_zh": "站立、安置"
+      }
     ]
   },
   {
@@ -1512,6 +1720,20 @@
       "college",
       "academic",
       "GRE"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "down",
+        "meaning_zh": "向下"
+      },
+      {
+        "root": "salire",
+        "origin": "Latin",
+        "meaning": "to jump, leap",
+        "meaning_zh": "跳躍"
+      }
     ]
   },
   {
@@ -1600,6 +1822,20 @@
       "college",
       "academic",
       "psychology"
+    ],
+    "roots": [
+      {
+        "root": "des",
+        "origin": "Old French",
+        "meaning": "apart, undoing",
+        "meaning_zh": "分開、除去"
+      },
+      {
+        "root": "tacher",
+        "origin": "Old French",
+        "meaning": "to attach, fasten",
+        "meaning_zh": "繫上、連接"
+      }
     ]
   },
   {
@@ -1684,6 +1920,20 @@
       "college",
       "law",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away from",
+        "meaning_zh": "離開、從"
+      },
+      {
+        "root": "terrere",
+        "origin": "Latin",
+        "meaning": "to frighten",
+        "meaning_zh": "使害怕、恐嚇"
+      }
     ]
   },
   {
@@ -1771,6 +2021,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away, down",
+        "meaning_zh": "向下、除去"
+      },
+      {
+        "root": "terere",
+        "origin": "Latin",
+        "meaning": "to rub, wear away",
+        "meaning_zh": "摩擦、磨損"
+      }
     ]
   },
   {
@@ -1859,6 +2123,20 @@
       "college",
       "academic",
       "math"
+    ],
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Latin",
+        "meaning": "away from",
+        "meaning_zh": "離開"
+      },
+      {
+        "root": "via",
+        "origin": "Latin",
+        "meaning": "way, road",
+        "meaning_zh": "道路"
+      }
     ]
   },
   {
@@ -1931,7 +2209,21 @@
         "pos": "adjective"
       }
     ],
-    "usage_note": "Devoid is almost always followed by the preposition 'of': 'His face remained completely devoid of emotion.'"
+    "usage_note": "Devoid is almost always followed by the preposition 'of': 'His face remained completely devoid of emotion.'",
+    "roots": [
+      {
+        "root": "de",
+        "origin": "Old French",
+        "meaning": "completely, out",
+        "meaning_zh": "完全"
+      },
+      {
+        "root": "vuidier",
+        "origin": "Old French",
+        "meaning": "to empty (from Latin vocuus)",
+        "meaning_zh": "弄空"
+      }
+    ]
   },
   {
     "word": "diatribe",
@@ -2011,6 +2303,20 @@
       "college",
       "language",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "dia",
+        "origin": "Greek",
+        "meaning": "through, thoroughly",
+        "meaning_zh": "穿過、徹底"
+      },
+      {
+        "root": "tribein",
+        "origin": "Greek",
+        "meaning": "to rub, wear away",
+        "meaning_zh": "摩擦、浪費時間"
+      }
     ]
   },
   {
@@ -2091,6 +2397,14 @@
       "college",
       "academic",
       "philosophy"
+    ],
+    "roots": [
+      {
+        "root": "didaskein",
+        "origin": "Greek",
+        "meaning": "to teach, educate",
+        "meaning_zh": "教導、教育"
+      }
     ]
   },
   {
@@ -2179,6 +2493,20 @@
       "college",
       "psychology",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "away, negative",
+        "meaning_zh": "否定、除去"
+      },
+      {
+        "root": "fidere",
+        "origin": "Latin",
+        "meaning": "to trust",
+        "meaning_zh": "信任"
+      }
     ]
   },
   {
@@ -2266,6 +2594,20 @@
       "college",
       "academic",
       "language"
+    ],
+    "roots": [
+      {
+        "root": "di",
+        "origin": "Latin",
+        "meaning": "aside, away",
+        "meaning_zh": "到旁邊、離開"
+      },
+      {
+        "root": "gradi",
+        "origin": "Latin",
+        "meaning": "to walk, step (past participle gressus)",
+        "meaning_zh": "行走、步伐"
+      }
     ]
   },
   {
@@ -2350,6 +2692,20 @@
       "college",
       "law",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, away",
+        "meaning_zh": "分開"
+      },
+      {
+        "root": "ferre",
+        "origin": "Latin",
+        "meaning": "to carry (past participle latus)",
+        "meaning_zh": "帶來、推遲"
+      }
     ]
   },
   {
@@ -2437,6 +2793,20 @@
       "college",
       "business",
       "art"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, separate",
+        "meaning_zh": "分開"
+      },
+      {
+        "root": "cernere",
+        "origin": "Latin",
+        "meaning": "to separate, sift, distinguish",
+        "meaning_zh": "分離、篩選"
+      }
     ]
   },
   {
@@ -2524,6 +2894,20 @@
       "college",
       "literature",
       "psychology"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "negative, not",
+        "meaning_zh": "否定"
+      },
+      {
+        "root": "consolari",
+        "origin": "Latin",
+        "meaning": "to comfort, console",
+        "meaning_zh": "安慰"
+      }
     ]
   },
   {
@@ -2612,6 +2996,20 @@
       "college",
       "social",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, different",
+        "meaning_zh": "分開、不同"
+      },
+      {
+        "root": "cor",
+        "origin": "Latin",
+        "meaning": "heart",
+        "meaning_zh": "心"
+      }
     ]
   },
   {
@@ -2696,6 +3094,20 @@
       "college",
       "finance",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, off",
+        "meaning_zh": "分開"
+      },
+      {
+        "root": "crepare",
+        "origin": "Latin",
+        "meaning": "to rattle, creak, sound",
+        "meaning_zh": "發出啪啪聲、不和諧音"
+      }
     ]
   },
   {
@@ -2784,6 +3196,20 @@
       "college",
       "psychology",
       "literature"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "undo, negative",
+        "meaning_zh": "不"
+      },
+      {
+        "root": "dignari",
+        "origin": "Latin",
+        "meaning": "to deem worthy (from dignus = worthy)",
+        "meaning_zh": "視為有價值的"
+      }
     ]
   },
   {
@@ -2872,6 +3298,20 @@
       "college",
       "politics",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "negative, not",
+        "meaning_zh": "不"
+      },
+      {
+        "root": "ingenuus",
+        "origin": "Latin",
+        "meaning": "honest, open, native",
+        "meaning_zh": "坦率的、正直的"
+      }
     ]
   },
   {
@@ -2960,6 +3400,20 @@
       "college",
       "academic",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "des",
+        "origin": "Old French",
+        "meaning": "apart, change negatively",
+        "meaning_zh": "改變、降低"
+      },
+      {
+        "root": "parage",
+        "origin": "Old French",
+        "meaning": "rank, equality, peerage",
+        "meaning_zh": "地位、同等、同儕"
+      }
     ]
   },
   {
@@ -3044,6 +3498,20 @@
       "college",
       "economics",
       "social"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "not",
+        "meaning_zh": "不"
+      },
+      {
+        "root": "paritas",
+        "origin": "Latin",
+        "meaning": "equality (from par = equal)",
+        "meaning_zh": "平等"
+      }
     ]
   },
   {
@@ -3132,6 +3600,20 @@
       "college",
       "academic",
       "law"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "away, separate",
+        "meaning_zh": "除去、沒有"
+      },
+      {
+        "root": "passio",
+        "origin": "Latin",
+        "meaning": "suffering, passion",
+        "meaning_zh": "激情、受難"
+      }
     ]
   },
   {
@@ -3220,6 +3702,20 @@
       "college",
       "academic",
       "technology"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, in different directions",
+        "meaning_zh": "向四方、分開"
+      },
+      {
+        "root": "semen",
+        "origin": "Latin",
+        "meaning": "seed",
+        "meaning_zh": "種子"
+      }
     ]
   },
   {
@@ -3307,6 +3803,20 @@
       "college",
       "psychology",
       "art"
+    ],
+    "roots": [
+      {
+        "root": "dis",
+        "origin": "Latin",
+        "meaning": "apart, different",
+        "meaning_zh": "分開、不同"
+      },
+      {
+        "root": "sonus",
+        "origin": "Latin",
+        "meaning": "sound",
+        "meaning_zh": "聲音"
+      }
     ]
   },
   {
@@ -3395,6 +3905,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "di",
+        "origin": "Latin",
+        "meaning": "apart, aside",
+        "meaning_zh": "分開"
+      },
+      {
+        "root": "vergere",
+        "origin": "Latin",
+        "meaning": "to bend, turn",
+        "meaning_zh": "轉向、傾斜"
+      }
     ]
   },
   {
@@ -3477,6 +4001,14 @@
       "college",
       "philosophy",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "dogma",
+        "origin": "Greek",
+        "meaning": "opinion, tenet, decree",
+        "meaning_zh": "信念、教義"
+      }
     ]
   },
   {
@@ -3559,6 +4091,14 @@
       "college",
       "science",
       "finance"
+    ],
+    "roots": [
+      {
+        "root": "dormire",
+        "origin": "Latin",
+        "meaning": "to sleep",
+        "meaning_zh": "睡眠"
+      }
     ]
   },
   {
@@ -3643,6 +4183,20 @@
       "college",
       "law",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "duo",
+        "origin": "Latin",
+        "meaning": "two",
+        "meaning_zh": "二"
+      },
+      {
+        "root": "plicare",
+        "origin": "Latin",
+        "meaning": "to fold",
+        "meaning_zh": "摺疊"
+      }
     ]
   },
   {
@@ -3727,6 +4281,20 @@
       "college",
       "psychology",
       "business"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "out",
+        "meaning_zh": "向外"
+      },
+      {
+        "root": "bullire",
+        "origin": "Latin",
+        "meaning": "to boil",
+        "meaning_zh": "沸騰"
+      }
     ]
   },
   {
@@ -3815,6 +4383,20 @@
       "college",
       "psychology",
       "art"
+    ],
+    "roots": [
+      {
+        "root": "ek",
+        "origin": "Greek",
+        "meaning": "out of",
+        "meaning_zh": "離開"
+      },
+      {
+        "root": "kentron",
+        "origin": "Greek",
+        "meaning": "center",
+        "meaning_zh": "中心"
+      }
     ]
   },
   {
@@ -3903,6 +4485,20 @@
       "college",
       "art",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "ek",
+        "origin": "Greek",
+        "meaning": "out of",
+        "meaning_zh": "向外"
+      },
+      {
+        "root": "legein",
+        "origin": "Greek",
+        "meaning": "to select, choose",
+        "meaning_zh": "選擇、挑選"
+      }
     ]
   },
   {
@@ -3991,6 +4587,20 @@
       "college",
       "science",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "out, thoroughly",
+        "meaning_zh": "徹底"
+      },
+      {
+        "root": "facere",
+        "origin": "Latin",
+        "meaning": "to make, do (past participle effectus)",
+        "meaning_zh": "做、製造"
+      }
     ]
   },
   {
@@ -4079,6 +4689,20 @@
       "college",
       "law",
       "academic"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "out of",
+        "meaning_zh": "分開、出來"
+      },
+      {
+        "root": "grex",
+        "origin": "Latin",
+        "meaning": "flock, herd",
+        "meaning_zh": "羊群、人群"
+      }
     ]
   },
   {
@@ -4166,6 +4790,20 @@
       "college",
       "language",
       "politics"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "out",
+        "meaning_zh": "向外"
+      },
+      {
+        "root": "loqui",
+        "origin": "Latin",
+        "meaning": "to speak",
+        "meaning_zh": "說話"
+      }
     ]
   },
   {
@@ -4254,6 +4892,20 @@
       "college",
       "academic",
       "science"
+    ],
+    "roots": [
+      {
+        "root": "ex",
+        "origin": "Latin",
+        "meaning": "out, thoroughly",
+        "meaning_zh": "徹底"
+      },
+      {
+        "root": "lucere",
+        "origin": "Latin",
+        "meaning": "to shine, light (from lux)",
+        "meaning_zh": "照亮、發光"
+      }
     ]
   }
 ]
