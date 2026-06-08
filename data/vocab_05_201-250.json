@@ -1,0 +1,3953 @@
+[
+  {
+    "word": "hinder",
+    "pos": "verb",
+    "phonetic": "/ˈhɪndər/",
+    "definition": "To make it difficult for someone to do something or for something to develop, usually by placing obstacles in the way.",
+    "definition_zh": "阻礙；妨礙",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hind",
+          "origin": "Old English",
+          "meaning": "behind, back",
+          "meaning_zh": "在...後面；後方的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "HIND（在後面）→ 把人拉到後面，使其無法前進",
+      "story_en": "The thick mud caught the runner from HIND (behind), which managed to HINDER his progress during the race.",
+      "story_zh": "厚重的泥濘從「後面（HIND）」拖住了跑者，從而「阻礙（HINDER）」了他在比賽中的前進。",
+      "emojis": [
+        "🚧",
+        "🏃",
+        "🛑"
+      ]
+    },
+    "example": "A lack of funds and resources could severely hinder the development of the new research project.",
+    "example_zh": "資金和資源的缺乏可能會嚴重阻礙新研究項目的進展。",
+    "collocations": [
+      "severely hinder",
+      "hinder progress",
+      "hinder economic growth",
+      "hinder development",
+      "be hindered by"
+    ],
+    "synonyms": [
+      "impede",
+      "obstruct",
+      "hamper",
+      "thwart"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prevent",
+        "difference": "prevent means to stop something from happening completely; hinder means to make it difficult but not impossible."
+      },
+      {
+        "word": "delay",
+        "difference": "delay focuses specifically on making something happen later; hinder focuses on the difficulty and struggle caused."
+      }
+    ],
+    "antonyms": [
+      "facilitate",
+      "assist",
+      "promote"
+    ],
+    "word_family": [
+      {
+        "word": "hinder",
+        "pos": "verb"
+      },
+      {
+        "word": "hindrance",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Hinder is often followed by the preposition 'from' when describing what action is being obstructed (e.g., hindered them from completing the task).",
+    "frequency_rank": 201,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "hostile",
+    "pos": "adjective",
+    "phonetic": "/ˈhɑːstl/",
+    "definition": "Showing or feeling opposition, dislike, or unfriendliness; unsuited or unfavorable to health, survival, or growth.",
+    "definition_zh": "有敵意的；敵對的；不利的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hostis",
+          "origin": "Latin",
+          "meaning": "enemy, stranger",
+          "meaning_zh": "敵人、陌生人"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "HOSTIS（敵人）→ 對待外人像對待敵人一樣",
+      "story_en": "The soldiers encountered a HOSTIS (enemy) tribe that showed a highly HOSTILE attitude toward outsiders.",
+      "story_zh": "士兵們遇到了一個「敵人（HOSTIS）」部落，他們對外來者表現出高度「敵對的（HOSTILE）」態度。",
+      "emojis": [
+        "😠",
+        "⚔️",
+        "🌵"
+      ]
+    },
+    "example": "The company launched a hostile takeover bid to acquire its competitor despite objections from the board.",
+    "example_zh": "儘管董事會反對，該公司仍發起了一項惡意（敵意）收購計畫以併購其競爭對手。",
+    "collocations": [
+      "hostile takeover",
+      "hostile environment",
+      "hostile audience",
+      "openly hostile",
+      "hostile reception"
+    ],
+    "synonyms": [
+      "antagonistic",
+      "unfriendly",
+      "adversarial",
+      "inhospitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aggressive",
+        "difference": "aggressive implies a readiness to attack or confront; hostile focuses more on an attitude of deep-seated ill will or opposition."
+      }
+    ],
+    "antonyms": [
+      "friendly",
+      "amiable",
+      "hospitable"
+    ],
+    "word_family": [
+      {
+        "word": "hostile",
+        "pos": "adjective"
+      },
+      {
+        "word": "hostility",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "In business contexts, a 'hostile takeover' specifically refers to buying a company against the wishes of its current management.",
+    "frequency_rank": 202,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "hypocrisy",
+    "pos": "noun",
+    "phonetic": "/hɪˈpɑːkrəsi/",
+    "definition": "The practice of claiming to have moral standards or beliefs to which one's own behavior does not conform; pretense.",
+    "definition_zh": "偽善；虛偽",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hypo",
+          "origin": "Greek",
+          "meaning": "under",
+          "meaning_zh": "在...之下"
+        },
+        {
+          "root": "krinein",
+          "origin": "Greek",
+          "meaning": "to decide, judge",
+          "meaning_zh": "決定、評判"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "HYPO（在下面）+ KRINEIN（評判）→ 在面具下演戲作假",
+      "story_en": "Under the HYPO (under) layer of his public mask, the actor's KRINEIN (judgment) of others was pure HYPOCRISY.",
+      "story_zh": "在公共面具的「下面（HYPO）」，他對他人的「評判（KRINEIN）」完全是「偽善（HYPOCRISY）」的體現。",
+      "emojis": [
+        "🎭",
+        "🤥",
+        "雙"
+      ]
+    },
+    "example": "Critics condemned the politician's hypocrisy for advocating environmental protection while regularly flying in a private jet.",
+    "example_zh": "批評者譴責這位政治家的虛偽，因為他一邊倡導環境保護，一邊經常搭乘私人飛機。",
+    "collocations": [
+      "sheer hypocrisy",
+      "accuse somebody of hypocrisy",
+      "political hypocrisy",
+      "expose the hypocrisy",
+      "smell of hypocrisy"
+    ],
+    "synonyms": [
+      "insincerity",
+      "duplicity",
+      "double-dealing",
+      "sanctimoniousness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "deceit",
+        "difference": "deceit is a general term for lying or cheating; hypocrisy specifically involves pretending to be morally superior."
+      }
+    ],
+    "antonyms": [
+      "sincerity",
+      "honesty",
+      "genuineness"
+    ],
+    "word_family": [
+      {
+        "word": "hypocrisy",
+        "pos": "noun"
+      },
+      {
+        "word": "hypocrite",
+        "pos": "noun"
+      },
+      {
+        "word": "hypocritical",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 203,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "illusion",
+    "pos": "noun",
+    "phonetic": "/ɪˈluːʒn/",
+    "definition": "An instance of a wrong or misinterpreted perception of a sensory experience; a false idea or belief.",
+    "definition_zh": "錯覺；幻覺；幻想",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in",
+          "origin": "Latin",
+          "meaning": "against, upon",
+          "meaning_zh": "對著、在...之上"
+        },
+        {
+          "root": "ludere",
+          "origin": "Latin",
+          "meaning": "to play, mock",
+          "meaning_zh": "玩耍、嘲弄"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（對著）+ LUDERE（玩弄）→ 大腦被視覺玩弄了",
+      "story_en": "The magician managed to IN (upon) LUDERE (play) with our minds, creating a perfect optical ILLUSION.",
+      "story_zh": "魔術師對著（IN）我們的感官「玩弄（LUDERE）」技巧，創造出了一個完美的視覺「錯覺（ILLUSION）」。",
+      "emojis": [
+        "🔮",
+        "🎩",
+        "🌀"
+      ]
+    },
+    "example": "The mirrors on the wall create an illusion of space, making the tiny room appear much larger than it is.",
+    "example_zh": "牆上的鏡子創造了一種空間的錯覺，使這個狹小的房間看起來比實際大得多。",
+    "collocations": [
+      "optical illusion",
+      "create an illusion",
+      "shatter an illusion",
+      "under the illusion",
+      "grand illusion"
+    ],
+    "synonyms": [
+      "delusion",
+      "hallucination",
+      "mirage",
+      "misconception"
+    ],
+    "near_synonyms": [
+      {
+        "word": "delusion",
+        "difference": "delusion is a persistent false belief held despite strong evidence; illusion is a temporary or sensory misinterpretation."
+      },
+      {
+        "word": "mirage",
+        "difference": "mirage is specifically an optical illusion caused by atmospheric conditions, typically in deserts."
+      }
+    ],
+    "antonyms": [
+      "reality",
+      "actuality",
+      "fact"
+    ],
+    "word_family": [
+      {
+        "word": "illusion",
+        "pos": "noun"
+      },
+      {
+        "word": "illusory",
+        "pos": "adjective"
+      },
+      {
+        "word": "illusive",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 204,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "art"
+    ]
+  },
+  {
+    "word": "immense",
+    "pos": "adjective",
+    "phonetic": "/ɪˈmens/",
+    "definition": "Extremely large or great, especially in scale, degree, amount, or size.",
+    "definition_zh": "巨大的；無限的；極大的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "mensus",
+          "origin": "Latin",
+          "meaning": "measured",
+          "meaning_zh": "測量的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ MENSUS（測量）→ 大到無法測量",
+      "story_en": "The universe is IN (not) MENSUS (measured), representing an IMMENSE expansion of space.",
+      "story_zh": "宇宙是「無法（IN）」被「測量（MENSUS）」的，代表著空間「巨大的（IMMENSE）」擴展。",
+      "emojis": [
+        "🌌",
+        "🐋",
+        "🏔️"
+      ]
+    },
+    "example": "The newly elected president faces immense pressure to revive the struggling domestic economy.",
+    "example_zh": "新當選的總統面臨著復甦陷入困境的國內經濟的巨大壓力。",
+    "collocations": [
+      "immense pressure",
+      "immense value",
+      "immense amount",
+      "immense popularity",
+      "immense wealth"
+    ],
+    "synonyms": [
+      "enormous",
+      "vast",
+      "colossal",
+      "gigantic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "huge",
+        "difference": "huge is a common, general word for large size; immense emphasizes a scale that is overwhelming or immeasurable."
+      }
+    ],
+    "antonyms": [
+      "tiny",
+      "minute",
+      "insignificant"
+    ],
+    "word_family": [
+      {
+        "word": "immense",
+        "pos": "adjective"
+      },
+      {
+        "word": "immensely",
+        "pos": "adverb"
+      },
+      {
+        "word": "immensity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 205,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "impartial",
+    "pos": "adjective",
+    "phonetic": "/ɪmˈpɑːrʃl/",
+    "definition": "Treating all rivals or disputants equally; fair and just, without bias or favoritism.",
+    "definition_zh": "公平的；公正的；無偏見的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "pars",
+          "origin": "Latin",
+          "meaning": "part, side",
+          "meaning_zh": "部分、偏向一方"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ PARS（偏向一方）→ 不偏袒任何一邊",
+      "story_en": "A judge must IN (not) favor any PARS (part/side) to remain completely IMPARTIAL.",
+      "story_zh": "法官必須「不（IN）」偏袒任何「一方（PARS）」，才能保持完全的「公正（IMPARTIAL）」。",
+      "emojis": [
+        "⚖️",
+        "👨‍⚖️",
+        "🤝"
+      ]
+    },
+    "example": "As an international observer, her role was to provide an impartial assessment of the election process.",
+    "example_zh": "作為一名國際觀察員，她的職責是對選舉過程進行公正的評估。",
+    "collocations": [
+      "impartial advice",
+      "impartial judge",
+      "remain impartial",
+      "impartial investigation",
+      "impartial observer"
+    ],
+    "synonyms": [
+      "unbiased",
+      "objective",
+      "disinterested",
+      "neutral"
+    ],
+    "near_synonyms": [
+      {
+        "word": "neutral",
+        "difference": "neutral implies taking no side in a conflict; impartial emphasizes acting with fairness to all sides based on standards."
+      }
+    ],
+    "antonyms": [
+      "biased",
+      "partial",
+      "prejudiced"
+    ],
+    "word_family": [
+      {
+        "word": "impartial",
+        "pos": "adjective"
+      },
+      {
+        "word": "impartiality",
+        "pos": "noun"
+      },
+      {
+        "word": "impartially",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 206,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "academic"
+    ]
+  },
+  {
+    "word": "impassioned",
+    "pos": "adjective",
+    "phonetic": "/ɪmˈpæʃnd/",
+    "definition": "Filled with or showing great emotion or passion; deeply felt and intensely expressed.",
+    "definition_zh": "充滿激情的；熱烈的；慷慨激昂的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, inside",
+          "meaning_zh": "進入、在內部"
+        },
+        {
+          "root": "passio",
+          "origin": "Latin",
+          "meaning": "suffering, passion",
+          "meaning_zh": "受苦、激情"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ PASSIO（激情）→ 把全身心投入到強烈情感中",
+      "story_en": "The activist put all her IN (into) PASSIO (passion) to deliver an IMPASSIONED speech about human rights.",
+      "story_zh": "這位活動家將所有心思「投入（IN）」到「激情（PASSIO）」中，發表了一場「慷慨激昂的（IMPASSIONED）」人權演說。",
+      "emojis": [
+        "🔥",
+        "🗣️",
+        "✊"
+      ]
+    },
+    "example": "The defense attorney made an impassioned plea to the jury, begging them to consider the youth of the defendant.",
+    "example_zh": "辯護律師向陪審團發表了慷慨激昂的辯詞，懇求他們考慮到被告的年輕。並寬大處理。",
+    "collocations": [
+      "impassioned speech",
+      "impassioned plea",
+      "impassioned appeal",
+      "impassioned defense",
+      "deliver an impassioned"
+    ],
+    "synonyms": [
+      "passionate",
+      "fervent",
+      "ardent",
+      "vehement"
+    ],
+    "near_synonyms": [
+      {
+        "word": "emotional",
+        "difference": "emotional is a general description of having strong feelings; impassioned specifically implies structured, intense expression aimed at persuading others."
+      }
+    ],
+    "antonyms": [
+      "apathetic",
+      "indifferent",
+      "cool"
+    ],
+    "word_family": [
+      {
+        "word": "impassioned",
+        "pos": "adjective"
+      },
+      {
+        "word": "passion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "Note that 'impassioned' does not mean 'without passion' (which would be 'unpassioned' or 'dispassionate'). The prefix 'im-' here works as an intensive or means 'into'.",
+    "frequency_rank": 207,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "art"
+    ]
+  },
+  {
+    "word": "implicate",
+    "pos": "verb",
+    "phonetic": "/ˈɪmplɪkeɪt/",
+    "definition": "To show that someone is involved in a crime, misdeed, or undesirable situation; to imply as a consequence.",
+    "definition_zh": "牽連；涉及；暗指",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "in, into",
+          "meaning_zh": "在...之內"
+        },
+        {
+          "root": "plicare",
+          "origin": "Latin",
+          "meaning": "to fold",
+          "meaning_zh": "折疊、捲入"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在內）+ PLICARE（折疊）→ 把某人捲入案件之中",
+      "story_en": "The suspect tried to IN (into) PLICARE (fold) his partner, trying to IMPLICATE him in the bank robbery.",
+      "story_zh": "嫌犯試圖把夥伴「折疊捲入（PLICARE）」「到案情內（IN）」，企圖「牽連（IMPLICATE）」他參與銀行搶劫案。",
+      "emojis": [
+        "⛓️",
+        "📂",
+        "🧑‍🤝‍🧑"
+      ]
+    },
+    "example": "Secret documents uncovered by journalists directly implicate the governor in the bribery scandal.",
+    "example_zh": "記者發現的秘密文件直接將州長牽連進了這起賄賂醜聞中。",
+    "collocations": [
+      "be deeply implicated",
+      "implicate someone in a crime",
+      "evidence implicates",
+      "directly implicate",
+      "implicate the government"
+    ],
+    "synonyms": [
+      "incriminate",
+      "involve",
+      "entangle",
+      "embroil"
+    ],
+    "near_synonyms": [
+      {
+        "word": "involve",
+        "difference": "involve is a neutral term for taking part in something; implicate specifically carries a negative connotation of being connected to a crime or wrongdoing."
+      }
+    ],
+    "antonyms": [
+      "exonerate",
+      "exculpate",
+      "absolve"
+    ],
+    "word_family": [
+      {
+        "word": "implicate",
+        "pos": "verb"
+      },
+      {
+        "word": "implication",
+        "pos": "noun"
+      },
+      {
+        "word": "implicit",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 208,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "implicit",
+    "pos": "adjective",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "definition": "Implied though not plainly expressed; essentially or closely connected with something; absolute and unquestioning.",
+    "definition_zh": "含蓄的；不言明了的；絕對的（信任）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "in",
+          "meaning_zh": "在...之內"
+        },
+        {
+          "root": "plicare",
+          "origin": "Latin",
+          "meaning": "to fold",
+          "meaning_zh": "折疊、隱藏"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在內）+ PLICARE（折疊）→ 意思折疊在內部，沒有明說",
+      "story_en": "The message was IN (in) PLICARE (folded) within the text, leaving an IMPLICIT meaning for the readers to decode.",
+      "story_zh": "訊息被「折疊（PLICARE）」在文本「內部（IN）」，留下了「含蓄的（IMPLICIT）」含義供讀者去解碼。",
+      "emojis": [
+        "🤫",
+        "✉️",
+        "🤝"
+      ]
+    },
+    "example": "Although she didn't state it openly, there was an implicit criticism of management in her resignation letter.",
+    "example_zh": "雖然她沒有公開表明，但她的辭職信中包含了對管理層暗含的（含蓄的）批評。",
+    "collocations": [
+      "implicit trust",
+      "implicit criticism",
+      "implicit understanding",
+      "implicit faith",
+      "remain implicit"
+    ],
+    "synonyms": [
+      "implied",
+      "tacit",
+      "unspoken",
+      "unexpressed"
+    ],
+    "near_synonyms": [
+      {
+        "word": "tacit",
+        "difference": "tacit specifically emphasizes silent agreement or approval without spoken words; implicit means any meaning wrapped inside actions or text."
+      }
+    ],
+    "antonyms": [
+      "explicit",
+      "stated",
+      "overt"
+    ],
+    "word_family": [
+      {
+        "word": "implicit",
+        "pos": "adjective"
+      },
+      {
+        "word": "implicitly",
+        "pos": "adverb"
+      },
+      {
+        "word": "imply",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 209,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ]
+  },
+  {
+    "word": "impoverish",
+    "pos": "verb",
+    "phonetic": "/ɪmˈpɑːvərɪʃ/",
+    "definition": "To make a person or area poor; to exhaust the strength, richness, or fertility of something.",
+    "definition_zh": "使貧窮；使枯竭；使貧瘠",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, make",
+          "meaning_zh": "進入、使得"
+        },
+        {
+          "root": "pauper",
+          "origin": "Latin",
+          "meaning": "poor",
+          "meaning_zh": "貧窮的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（使得）+ PAUPER（貧窮）→ 陷入貧困的狀態",
+      "story_en": "The prolonged war managed to IN (make) the nation a PAUPER (poor), which completely IMPOVERISHED the citizens.",
+      "story_zh": "長期的戰爭「使得（IN）」國家變成了「窮人（PAUPER）」，完全「使公民陷入貧困（IMPOVERISHED）」。",
+      "emojis": [
+        "💸",
+        "🏚️",
+        "🌱"
+      ]
+    },
+    "example": "Intensive farming practices over decades can seriously impoverish the soil, stripping it of vital nutrients.",
+    "example_zh": "數十年來的密集耕作會嚴重使土地貧瘠，剝奪其重要養分。",
+    "collocations": [
+      "impoverish the soil",
+      "severely impoverish",
+      "impoverish the community",
+      "impoverished region",
+      "impoverish the culture"
+    ],
+    "synonyms": [
+      "impoverished",
+      "deplete",
+      "bankrupt",
+      "drain"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ruin",
+        "difference": "ruin means to destroy completely; impoverish specifically refers to reducing material wealth, quality, or biological fertility."
+      }
+    ],
+    "antonyms": [
+      "enrich",
+      "prosper",
+      "fertilize"
+    ],
+    "word_family": [
+      {
+        "word": "impoverish",
+        "pos": "verb"
+      },
+      {
+        "word": "impoverished",
+        "pos": "adjective"
+      },
+      {
+        "word": "impoverishment",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 210,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "economics",
+      "science"
+    ]
+  },
+  {
+    "word": "impulse",
+    "pos": "noun",
+    "phonetic": "/ˈɪmpʌls/",
+    "definition": "A sudden strong and unreflective urge or desire to act; a driving or motivating force; a pulse of electrical energy.",
+    "definition_zh": "衝動；推動力；脈衝",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "on, against",
+          "meaning_zh": "在...之上、對著"
+        },
+        {
+          "root": "pellere",
+          "origin": "Latin",
+          "meaning": "to drive, push",
+          "meaning_zh": "推、驅使"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在之上）+ PELLERE（推）→ 內心一股力量突然推著你去做",
+      "story_en": "An internal force started to IN (on) PELLERE (drive) his mind, creating a sudden IMPULSE to buy the expensive watch.",
+      "story_zh": "內心的一股力量開始「推進（PELLERE）」「刺激（IN）」他的大腦，產生了買下這隻昂貴手錶的突然「衝動（IMPULSE）」。",
+      "emojis": [
+        "🛒",
+        "⚡",
+        "🧠"
+      ]
+    },
+    "example": "He had an sudden impulse to stand up and walk out of the boring meeting, but he restrained himself.",
+    "example_zh": "他突然有一股想站起來走下無聊會議的衝動，但他克制住了自己。",
+    "collocations": [
+      "sudden impulse",
+      "impulse buying",
+      "resist the impulse",
+      "on impulse",
+      "electrical impulse"
+    ],
+    "synonyms": [
+      "urge",
+      "instinct",
+      "compulsion",
+      "stimulus"
+    ],
+    "near_synonyms": [
+      {
+        "word": "urge",
+        "difference": "urge can be a long-standing strong desire; impulse is always sudden, spontaneous, and usually unthinking."
+      }
+    ],
+    "antonyms": [
+      "deliberation",
+      "premeditation",
+      "restraint"
+    ],
+    "word_family": [
+      {
+        "word": "impulse",
+        "pos": "noun"
+      },
+      {
+        "word": "impulsive",
+        "pos": "adjective"
+      },
+      {
+        "word": "impulsively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 211,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "science"
+    ]
+  },
+  {
+    "word": "incentive",
+    "pos": "noun",
+    "phonetic": "/ɪnˈsentɪv/",
+    "definition": "A thing that motivates or encourages someone to do something, often in the form of a reward or financial benefit.",
+    "definition_zh": "動機；刺激；鼓勵；獎勵金",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, upon",
+          "meaning_zh": "朝向、在...之上"
+        },
+        {
+          "root": "canere",
+          "origin": "Latin",
+          "meaning": "to sing",
+          "meaning_zh": "歌唱、吹奏樂器"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（朝向）+ CANERE（吹奏）→ 吹奏號角來激勵士兵前進",
+      "story_en": "The general ordered musicians to IN (upon) CANERE (sing/play) tunes to give the troops an INCENTIVE to fight.",
+      "story_zh": "將軍命令音樂家「朝著（IN）」軍隊「吹奏（CANERE）」樂曲，以給予部隊戰鬥的「激勵與動力（INCENTIVE）」。",
+      "emojis": [
+        "💰",
+        "🏆",
+        "🎯"
+      ]
+    },
+    "example": "The government offers tax incentives to companies that invest heavily in renewable energy infrastructure.",
+    "example_zh": "政府向大力投資可再生能源基礎設施的公司提供稅收優惠（獎勵措施）。",
+    "collocations": [
+      "tax incentive",
+      "financial incentive",
+      "strong incentive",
+      "provide an incentive",
+      "economic incentive"
+    ],
+    "synonyms": [
+      "motivation",
+      "inducement",
+      "stimulus",
+      "reward"
+    ],
+    "near_synonyms": [
+      {
+        "word": "motive",
+        "difference": "motive is the inner reason for an action; incentive is an external reward offered to encourage an action."
+      }
+    ],
+    "antonyms": [
+      "deterrent",
+      "discouragement",
+      "disincentive"
+    ],
+    "word_family": [
+      {
+        "word": "incentive",
+        "pos": "noun"
+      },
+      {
+        "word": "incentivize",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 212,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "economics"
+    ]
+  },
+  {
+    "word": "incessant",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈsesnt/",
+    "definition": "Continuing without pause or interruption, especially in an annoying or unpleasant way.",
+    "definition_zh": "連續不斷的；不停的（多指令人厭煩的事）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "cessare",
+          "origin": "Latin",
+          "meaning": "to cease, stop",
+          "meaning_zh": "停止"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ CESSARE（停止）→ 永不停止",
+      "story_en": "The IN (not) CESSARE (ceasing) rain caused floods due to its INCESSANT downpour.",
+      "story_zh": "「不（IN）」「停止（CESSARE）」的大雨，因其「連續不斷的（INCESSANT）」傾瀉而引發了洪水。",
+      "emojis": [
+        "🌧️",
+        "⏰",
+        "🗣️"
+      ]
+    },
+    "example": "The children's incessant chatter made it impossible for him to concentrate on his reading.",
+    "example_zh": "孩子們喋喋不休（連續不斷）的閒聊讓他根本無法集中注意力看書。",
+    "collocations": [
+      "incessant rain",
+      "incessant noise",
+      "incessant chatter",
+      "incessant demands",
+      "incessant crying"
+    ],
+    "synonyms": [
+      "ceaseless",
+      "constant",
+      "perpetual",
+      "unremitting"
+    ],
+    "near_synonyms": [
+      {
+        "word": "continuous",
+        "difference": "continuous means connected without interruption in space or time; incessant emphasizes the annoying repetition or unending nature of something."
+      }
+    ],
+    "antonyms": [
+      "intermittent",
+      "occasional",
+      "periodic"
+    ],
+    "word_family": [
+      {
+        "word": "incessant",
+        "pos": "adjective"
+      },
+      {
+        "word": "incessantly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 213,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "literature"
+    ]
+  },
+  {
+    "word": "incidental",
+    "pos": "adjective",
+    "phonetic": "/ˌɪnsɪˈdentl/",
+    "definition": "Occurring by chance in connection with something else; minor or subordinate accompanying something more important.",
+    "definition_zh": "伴隨而來的；次要的；偶然的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "upon, into",
+          "meaning_zh": "在...之上、進入"
+        },
+        {
+          "root": "cadere",
+          "origin": "Latin",
+          "meaning": "to fall",
+          "meaning_zh": "落下、發生"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在之上）+ CADERE（落下）→ 碰巧掉在主要事情上面的小事",
+      "story_en": "An extra fee managed to IN (upon) CADERE (fall) on the bill as an INCIDENTAL charge.",
+      "story_zh": "一筆額外的費用「碰巧落到（CADERE）」「帳單之上（IN）」，成為一項「附帶的（INCIDENTAL）」費用。",
+      "emojis": [
+        "🧾",
+        "🎲",
+        "🎵"
+      ]
+    },
+    "example": "While traveling for business, you may incur some incidental expenses like taxi fares or laundry fees.",
+    "example_zh": "商務旅行時，你可能會產生一些附帶開支（次要費用），如計程車費或洗衣費。",
+    "collocations": [
+      "incidental expenses",
+      "incidental music",
+      "incidental findings",
+      "purely incidental",
+      "incidental benefits"
+    ],
+    "synonyms": [
+      "accidental",
+      "subsidiary",
+      "secondary",
+      "ancillary"
+    ],
+    "near_synonyms": [
+      {
+        "word": "accidental",
+        "difference": "accidental emphasizes happening by chance or mistake; incidental emphasizes being a secondary, less important part of a main activity."
+      }
+    ],
+    "antonyms": [
+      "essential",
+      "fundamental",
+      "deliberate"
+    ],
+    "word_family": [
+      {
+        "word": "incidental",
+        "pos": "adjective"
+      },
+      {
+        "word": "incident",
+        "pos": "noun"
+      },
+      {
+        "word": "incidentally",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "In movies or plays, 'incidental music' is background music played to set the mood, not the main performance.",
+    "frequency_rank": 214,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "inclination",
+    "pos": "noun",
+    "phonetic": "/ˌɪnklɪˈneɪʃn/",
+    "definition": "A person's natural tendency or urge to act or feel in a particular way; a slope, slant, or angle.",
+    "definition_zh": "傾向；意願；傾斜度",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "towards",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "clinare",
+          "origin": "Latin",
+          "meaning": "to bend, lean",
+          "meaning_zh": "彎曲、傾斜"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（朝向）+ CLINARE（傾斜）→ 身體或思想向某個方向傾斜",
+      "story_en": "Her mind started to IN (towards) CLINARE (lean), showing a strong INCLINATION to study art history.",
+      "story_zh": "她的思想開始「朝著（IN）」「傾斜（CLINARE）」，顯示出對學習藝術史的強烈「傾向（INCLINATION）」。",
+      "emojis": [
+        "📉",
+        "🧠",
+        "🙋"
+      ]
+    },
+    "example": "He had neither the time nor the inclination to learn a musical instrument at this stage of his life.",
+    "example_zh": "在他人生現階段，他既沒有時間也沒有意願去學習樂器。",
+    "collocations": [
+      "natural inclination",
+      "have an inclination to",
+      "angle of inclination",
+      "artistic inclination",
+      "follow one's inclination"
+    ],
+    "synonyms": [
+      "tendency",
+      "propensity",
+      "leaning",
+      "disposition"
+    ],
+    "near_synonyms": [
+      {
+        "word": "tendency",
+        "difference": "tendency describes an objective trend or statistical likelihood; inclination focuses more on a personal mental or emotional preference."
+      }
+    ],
+    "antonyms": [
+      "aversion",
+      "disinclination",
+      "dislike"
+    ],
+    "word_family": [
+      {
+        "word": "inclination",
+        "pos": "noun"
+      },
+      {
+        "word": "incline",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "inclined",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 215,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "psychology"
+    ]
+  },
+  {
+    "word": "indifference",
+    "pos": "noun",
+    "phonetic": "/ɪnˈdɪfrəns/",
+    "definition": "Lack of interest, concern, or sympathy; the state of being unconcerned or unimportant.",
+    "definition_zh": "冷漠；不關心；無足輕重",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "differre",
+          "origin": "Latin",
+          "meaning": "to differ, set apart",
+          "meaning_zh": "不同、區別"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ DIFFERRE（有區別）→ 覺得任何事情對自己都沒差、沒區別",
+      "story_en": "To him, option A or B did IN (not) DIFFERRE (differ), so he showed complete INDIFFERENCE.",
+      "story_zh": "對他來說，選項 A 或 B 並「沒有（IN）」「差別（DIFFERRE）」，因此他表現出完全的「冷漠與不在乎（INDIFFERENCE）」。",
+      "emojis": [
+        "😐",
+        "🤷",
+        "❄️"
+      ]
+    },
+    "example": "The manager's utter indifference to the complaints of the employees led to low morale and a strike.",
+    "example_zh": "經理對員工投訴的徹底冷漠，導致了士氣低落和罷工。",
+    "collocations": [
+      "complete indifference",
+      "show indifference to",
+      "treated with indifference",
+      "affective indifference",
+      "political indifference"
+    ],
+    "synonyms": [
+      "apathy",
+      "unconcern",
+      "disinterest",
+      "callousness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "apathy",
+        "difference": "apathy is a total lack of feeling or passion; indifference is more specifically a lack of interest or preference between choices."
+      }
+    ],
+    "antonyms": [
+      "concern",
+      "interest",
+      "sympathy"
+    ],
+    "word_family": [
+      {
+        "word": "indifference",
+        "pos": "noun"
+      },
+      {
+        "word": "indifferent",
+        "pos": "adjective"
+      },
+      {
+        "word": "indifferently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 216,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  },
+  {
+    "word": "indigenous",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈdɪdʒənəs/",
+    "definition": "Originating or occurring naturally in a particular place; native to a specific geographical region.",
+    "definition_zh": "本土的；土著的；土生土長的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "indi-",
+          "origin": "Latin",
+          "meaning": "within, inside",
+          "meaning_zh": "在內、內部"
+        },
+        {
+          "root": "gignere",
+          "origin": "Latin",
+          "meaning": "to beget, produce",
+          "meaning_zh": "生產、出生"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INDI（在內）+ GIGNERE（出生）→ 在本地出生的",
+      "story_en": "The plants were INDI (within) GIGNERE (produced) in this area, making them INDIGENOUS species.",
+      "story_zh": "這些植物是在該地區「內部（INDI）」「生長（GIGNERE）」出來的，因此屬於「本土（INDIGENOUS）」物種。",
+      "emojis": [
+        "🌳",
+        "🏹",
+        "🗺️"
+      ]
+    },
+    "example": "The kangaroo is indigenous to Australia and cannot be found in the wild anywhere else.",
+    "example_zh": "袋鼠是澳大利亞特有的（土生土長的），在其他任何地方的野外都找不到。",
+    "collocations": [
+      "indigenous people",
+      "indigenous culture",
+      "indigenous species",
+      "indigenous population",
+      "highly indigenous"
+    ],
+    "synonyms": [
+      "native",
+      "aboriginal",
+      "endemic",
+      "autochthonous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "native",
+        "difference": "native can refer to individuals born in a place; indigenous is used more scientifically or politically for cultures, plants, and animals established over centuries."
+      },
+      {
+        "word": "endemic",
+        "difference": "endemic means restricted strictly to a certain locality; indigenous means originally from there but could exist elsewhere too."
+      }
+    ],
+    "antonyms": [
+      "exotic",
+      "foreign",
+      "introduced"
+    ],
+    "word_family": [
+      {
+        "word": "indigenous",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 217,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "history"
+    ]
+  },
+  {
+    "word": "indignant",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈdɪɡnənt/",
+    "definition": "Feeling or showing anger or annoyance at what is perceived as unfair treatment or injustice.",
+    "definition_zh": "憤憤不平的；憤慨的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "dignus",
+          "origin": "Latin",
+          "meaning": "worthy",
+          "meaning_zh": "有價值的、值得尊重的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ DIGNUS（值得尊重的）→ 受到不尊重的對待而感到憤怒",
+      "story_en": "He felt that the unfair treatment was IN (not) DIGNUS (worthy) of respect, which made him INDIGNANT.",
+      "story_zh": "他覺得這種不公平的對待「不（IN）」「配稱得上尊重（DIGNUS）」，這讓他感到非常「憤憤不平（INDIGNANT）」。",
+      "emojis": [
+        "😤",
+        "😤",
+        "⚖️"
+      ]
+    },
+    "example": "She wrote an indignant letter to the customer service department after being treated rudely by a clerk.",
+    "example_zh": "在受到店員粗魯的對待後，她給客戶服務部門寫了一封憤慨的信。",
+    "collocations": [
+      "indignant letter",
+      "indignant response",
+      "become indignant",
+      "indignant look",
+      "indignant protest"
+    ],
+    "synonyms": [
+      "resentful",
+      "aggrieved",
+      "offended",
+      "disgruntled"
+    ],
+    "near_synonyms": [
+      {
+        "word": "angry",
+        "difference": "angry is a broad term for displeasure; indignant specifically means anger combined with a sense of being treated unfairly or unjustly."
+      }
+    ],
+    "antonyms": [
+      "pleased",
+      "content",
+      "satisfied"
+    ],
+    "word_family": [
+      {
+        "word": "indignant",
+        "pos": "adjective"
+      },
+      {
+        "word": "indignation",
+        "pos": "noun"
+      },
+      {
+        "word": "indignantly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 218,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "literature"
+    ]
+  },
+  {
+    "word": "indispensable",
+    "pos": "adjective",
+    "phonetic": "/ˌɪndɪˈspensəbl/",
+    "definition": "Absolutely necessary or essential; completely filled with such value that it cannot be dispensed with.",
+    "definition_zh": "不可或缺的；絕對必要的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "dispensare",
+          "origin": "Latin",
+          "meaning": "to distribute, weigh out",
+          "meaning_zh": "分發、分出（引申為可省去）"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ DISPENSARE（分出去）→ 重要到不能被分出去或省略",
+      "story_en": "Water is IN (not) DISPENSARE (dispensable) for life, an INDISPENSABLE resource we cannot live without.",
+      "story_zh": "水對生命來說是「不可（IN）」「省去分出的（DISPENSARE）」，是「不可或缺的（INDISPENSABLE）」資源。",
+      "emojis": [
+        "💧",
+        "🔑",
+        "📱"
+      ]
+    },
+    "example": "A reliable internet connection has become indispensable for remote workers worldwide.",
+    "example_zh": "對於全球的遠距工作者來說，可靠的網路連接已經變得不可或缺。",
+    "collocations": [
+      "indispensable tool",
+      "indispensable resource",
+      "indispensable role",
+      "prove indispensable",
+      "absolutely indispensable"
+    ],
+    "synonyms": [
+      "essential",
+      "crucial",
+      "vital",
+      "imperative"
+    ],
+    "near_synonyms": [
+      {
+        "word": "necessary",
+        "difference": "necessary means needed to achieve a result; indispensable implies that it is impossible to replace or manage without it at all."
+      }
+    ],
+    "antonyms": [
+      "dispensable",
+      "redundant",
+      "superfluous"
+    ],
+    "word_family": [
+      {
+        "word": "indispensable",
+        "pos": "adjective"
+      },
+      {
+        "word": "indispensability",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 219,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "induce",
+    "pos": "verb",
+    "phonetic": "/ɪnˈduːs/",
+    "definition": "To succeed in persuading or influencing someone to do something; to bring about or cause something to happen.",
+    "definition_zh": "引誘；勸導；導致；催產",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, toward",
+          "meaning_zh": "進入、朝向"
+        },
+        {
+          "root": "ducere",
+          "origin": "Latin",
+          "meaning": "to lead",
+          "meaning_zh": "引導、帶領"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ DUCERE（引導）→ 引導某人進入某種狀態或行為",
+      "story_en": "The clever salesman managed to IN (into) DUCERE (lead) the client, trying to INDUCE him to sign the contract.",
+      "story_zh": "聰明的推銷員試圖將客戶「引導（DUCERE）」「進入（IN）」他的邏輯中，以「促使（INDUCE）」他簽字合約。",
+      "emojis": [
+        "🎣",
+        "🤰",
+        "🧠"
+      ]
+    },
+    "example": "High levels of stress can induce physical symptoms such as headaches and insomnia.",
+    "example_zh": "高水平的壓力會引發（導致）身體症狀，如頭痛和失眠。",
+    "collocations": [
+      "induce vomiting",
+      "induce panic",
+      "induce labor",
+      "induce sleep",
+      "stress-induced"
+    ],
+    "synonyms": [
+      "persuade",
+      "prompt",
+      "engender",
+      "provoke"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cause",
+        "difference": "cause is a direct mechanical linkage of reaction; induce often implies an element of persuasion, gentle influence, or medical stimulation."
+      }
+    ],
+    "antonyms": [
+      "deter",
+      "prevent",
+      "dissuade"
+    ],
+    "word_family": [
+      {
+        "word": "induce",
+        "pos": "verb"
+      },
+      {
+        "word": "inducement",
+        "pos": "noun"
+      },
+      {
+        "word": "induction",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 220,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "indulge",
+    "pos": "verb",
+    "phonetic": "/ɪnˈdʌldʒ/",
+    "definition": "To allow oneself to enjoy the pleasure of something, especially something chosen as a treat; to satisfy a desire or interest.",
+    "definition_zh": "縱容；放縱；沉溺；滿足（慾望）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "indulgere",
+          "origin": "Latin",
+          "meaning": "to be lenient, grant a favor",
+          "meaning_zh": "寬容、給予恩惠"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INDULGERE（寬容）→ 對自己的慾望非常寬容不加限制",
+      "story_en": "On weekends, she would INDULGERE (grant a favor) to herself and INDULGE in chocolate cake.",
+      "story_zh": "每到週末，她就會對自己「寬容恩惠（INDULGERE）」，「放縱（INDULGE）」自己去吃巧克力蛋糕。",
+      "emojis": [
+        "🍫",
+        "🛍️",
+        "🛌"
+      ]
+    },
+    "example": "During the luxurious vacation, they indulged in fine dining and expensive spa treatments every single day.",
+    "example_zh": "在奢侈的假期中，他們每天都沉溺於（盡情享受）美食和昂貴的水療護理。",
+    "collocations": [
+      "indulge in a passion",
+      "indulge a child",
+      "indulge a whim",
+      "allow oneself to indulge",
+      "indulge in luxury"
+    ],
+    "synonyms": [
+      "gratify",
+      "satisfy",
+      "pamper",
+      "wallow"
+    ],
+    "near_synonyms": [
+      {
+        "word": "pamper",
+        "difference": "pamper implies treating someone with excessive care and physical comfort; indulge focuses more on satisfying specific desires or whims."
+      }
+    ],
+    "antonyms": [
+      "abstain",
+      "restrain",
+      "suppress"
+    ],
+    "word_family": [
+      {
+        "word": "indulge",
+        "pos": "verb"
+      },
+      {
+        "word": "indulgence",
+        "pos": "noun"
+      },
+      {
+        "word": "indulgent",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 221,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "business"
+    ]
+  },
+  {
+    "word": "inept",
+    "pos": "adjective",
+    "phonetic": "/ɪˈnept/",
+    "definition": "Having or showing no skill; clumsy or incompetent in performing a task or in social situations.",
+    "definition_zh": "無能的；笨拙的；不稱職的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "aptus",
+          "origin": "Latin",
+          "meaning": "fitted, suited",
+          "meaning_zh": "適合的、有能力的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ APTUS（適合的）→ 不合適做某事，毫無能力",
+      "story_en": "He was IN (not) APTUS (suited) for the engineering task, proving to be completely INEPT.",
+      "story_zh": "他「不（IN）」「適合（APTUS）」這項工程任務，事實證明他完全「無能笨拙（INEPT）」。",
+      "emojis": [
+        "🤦",
+        "🤡",
+        "❌"
+      ]
+    },
+    "example": "The government's inept handling of the economic crisis led to widespread public protests.",
+    "example_zh": "政府對經濟危機「無能的（笨拙的）」處理引發了廣泛的民眾抗議。",
+    "collocations": [
+      "socially inept",
+      "inept leadership",
+      "politically inept",
+      "clumsy and inept",
+      "inept management"
+    ],
+    "synonyms": [
+      "incompetent",
+      "clumsy",
+      "unskillful",
+      "awkward"
+    ],
+    "near_synonyms": [
+      {
+        "word": "clumsy",
+        "difference": "clumsy emphasizes lack of physical coordination; inept implies a broader lack of mental capability, skill, or judgment."
+      }
+    ],
+    "antonyms": [
+      "adept",
+      "competent",
+      "skillful"
+    ],
+    "word_family": [
+      {
+        "word": "inept",
+        "pos": "adjective"
+      },
+      {
+        "word": "ineptitude",
+        "pos": "noun"
+      },
+      {
+        "word": "ineptly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 222,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "inference",
+    "pos": "noun",
+    "phonetic": "/ˈɪnfərəns/",
+    "definition": "A conclusion reached on the basis of evidence and reasoning; the act of deriving logical consequences from premises.",
+    "definition_zh": "推論；推斷；結論",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, in",
+          "meaning_zh": "進入、在內"
+        },
+        {
+          "root": "ferre",
+          "origin": "Latin",
+          "meaning": "to bring, carry",
+          "meaning_zh": "帶來、搬運"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ FERRE（帶來）→ 從已知證據中帶出新結論",
+      "story_en": "From the clues, the detective managed to IN (into) FERRE (bring) a logical INFERENCE about the killer.",
+      "story_zh": "從這些線索中，偵探「帶入（FERRE）」了邏輯，得出了關於凶手的合理「推論（INFERENCE）」。",
+      "emojis": [
+        "🔍",
+        "🧠",
+        "📋"
+      ]
+    },
+    "example": "Based on the data collected from the survey, researchers made an inference about consumer behavior.",
+    "example_zh": "根據調查收集的數據，研究人員對消費者行為做出了推論。",
+    "collocations": [
+      "draw an inference",
+      "statistical inference",
+      "make inferences",
+      "logical inference",
+      "inference engine"
+    ],
+    "synonyms": [
+      "deduction",
+      "conclusion",
+      "conjecture",
+      "extrapolation"
+    ],
+    "near_synonyms": [
+      {
+        "word": "deduction",
+        "difference": "deduction is a strict logical derivation where premises guarantee truth; inference can be broader, including probabilistic or circumstantial reasoning."
+      }
+    ],
+    "antonyms": [
+      "fact",
+      "premise",
+      "statement"
+    ],
+    "word_family": [
+      {
+        "word": "inference",
+        "pos": "noun"
+      },
+      {
+        "word": "infer",
+        "pos": "verb"
+      },
+      {
+        "word": "inferential",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 223,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "ingenious",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈdʒiːniəs/",
+    "definition": "Clever, original, and inventive, especially when applied to a design, an idea, or a machine.",
+    "definition_zh": "心靈手巧的；精妙的；獨創的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "in, within",
+          "meaning_zh": "在內、內部"
+        },
+        {
+          "root": "gignere",
+          "origin": "Latin",
+          "meaning": "to produce, beget",
+          "meaning_zh": "產生（引申為生來的才能）"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在內）+ GIGNERE（天生才能）→ 內心有天生的創造力",
+      "story_en": "His IN (internal) GIGNERE (talent) allowed him to create an INGENIOUS solution to the complex engineering issue.",
+      "story_zh": "他「內在（IN）」的「天賦才能（GIGNERE）」使他能夠為這個複雜的工程問題創造出一個「精妙的（INGENIOUS）」解決方案。",
+      "emojis": [
+        "💡",
+        "⚙️",
+        "🎨"
+      ]
+    },
+    "example": "The engineer came up with an ingenious device that purifies ocean water using only solar energy.",
+    "example_zh": "這位工程師發明了一種「精妙的（獨創的）」裝置，僅利用太陽能就能淨化海水。",
+    "collocations": [
+      "ingenious device",
+      "ingenious solution",
+      "ingenious design",
+      "highly ingenious",
+      "ingenious idea"
+    ],
+    "synonyms": [
+      "inventive",
+      "creative",
+      "shrewd",
+      "brilliant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "creative",
+        "difference": "creative focuses on artistic originality or imagination; ingenious emphasizes clever practical problem-solving or mechanical design."
+      }
+    ],
+    "antonyms": [
+      "unimaginative",
+      "unoriginal",
+      "clumsy"
+    ],
+    "word_family": [
+      {
+        "word": "ingenious",
+        "pos": "adjective"
+      },
+      {
+        "word": "ingenuity",
+        "pos": "noun"
+      },
+      {
+        "word": "ingeniously",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "Do not confuse 'ingenious' (clever/inventive) with 'ingenuous' (naive/innocent). Their meanings are entirely different.",
+    "frequency_rank": 224,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "technology",
+      "art"
+    ]
+  },
+  {
+    "word": "inhibit",
+    "pos": "verb",
+    "phonetic": "/ɪnˈhɪbɪt/",
+    "definition": "To hinder, restrain, or prevent an action or process; to make someone self-conscious and unable to act naturally.",
+    "definition_zh": "抑制；約束；阻礙",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "in, on",
+          "meaning_zh": "在...之上、進去"
+        },
+        {
+          "root": "habere",
+          "origin": "Latin",
+          "meaning": "to hold",
+          "meaning_zh": "拿著、握住"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（在之上）+ HABERE（抓住）→ 牢牢抓住使其無法亂動",
+      "story_en": "The cold weather acts to IN (on) HABERE (hold) the chemical process, serving to INHIBIT bacterial growth.",
+      "story_zh": "寒冷的天氣「抓住（HABERE）」「限制住（IN）」了化學過程，起到了「抑制（INHIBIT）」細菌生長的作用。",
+      "emojis": [
+        "🛑",
+        "🧠",
+        "🧊"
+      ]
+    },
+    "example": "Strict regulations and high taxes may inhibit the growth of small business startups.",
+    "example_zh": "嚴格的法規和高額的稅收可能會抑制小型新創企業的增長。",
+    "collocations": [
+      "inhibit growth",
+      "inhibit development",
+      "chemically inhibit",
+      "feel inhibited",
+      "inhibit enzyme"
+    ],
+    "synonyms": [
+      "restrain",
+      "suppress",
+      "hinder",
+      "impede"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prohibit",
+        "difference": "prohibit means to legally or formally forbid an action; inhibit means to slow down or psychologically restrain a process or behavior."
+      }
+    ],
+    "antonyms": [
+      "stimulate",
+      "encourage",
+      "promote"
+    ],
+    "word_family": [
+      {
+        "word": "inhibit",
+        "pos": "verb"
+      },
+      {
+        "word": "inhibited",
+        "pos": "adjective"
+      },
+      {
+        "word": "inhibition",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 225,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "initiate",
+    "pos": "verb",
+    "phonetic": "/ɪˈnɪʃieɪt/",
+    "definition": "To cause a process or action to begin; to admit someone into a secret or obscure society or group, often with a ritual.",
+    "definition_zh": "開始；發起；接納新成員",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into",
+          "meaning_zh": "進入"
+        },
+        {
+          "root": "ire",
+          "origin": "Latin",
+          "meaning": "to go",
+          "meaning_zh": "走"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ IRE（走）→ 邁步走入新領域的第一步",
+      "story_en": "He had to IN (into) IRE (go) the office to INITIATE the new marketing campaign.",
+      "story_zh": "他必須「走進（IRE）」「進入（IN）」辦公室，去「發起（INITIATE）」新的營銷活動。",
+      "emojis": [
+        "🚀",
+        "🏁",
+        "🤝"
+      ]
+    },
+    "example": "The manager decided to initiate a comprehensive review of the company's safety procedures.",
+    "example_zh": "經理決定發起（開始）對公司安全程序的全面審查。",
+    "collocations": [
+      "initiate a project",
+      "initiate discussions",
+      "initiate proceedings",
+      "initiate changes",
+      "initiate contact"
+    ],
+    "synonyms": [
+      "commence",
+      "launch",
+      "instigate",
+      "inaugurate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "start",
+        "difference": "start is a generic everyday word for beginning; initiate is more formal and implies setting a deliberate, structured process in motion."
+      }
+    ],
+    "antonyms": [
+      "terminate",
+      "conclude",
+      "finish"
+    ],
+    "word_family": [
+      {
+        "word": "initiate",
+        "pos": "verb"
+      },
+      {
+        "word": "initiative",
+        "pos": "noun"
+      },
+      {
+        "word": "initiation",
+        "pos": "noun"
+      },
+      {
+        "word": "initial",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 226,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "insight",
+    "pos": "noun",
+    "phonetic": "/ˈɪnsaɪt/",
+    "definition": "The capacity to gain an accurate and deep intuitive understanding of a person or thing.",
+    "definition_zh": "洞察力；深刻見解",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Old English",
+          "meaning": "inside",
+          "meaning_zh": "內部"
+        },
+        {
+          "root": "sight",
+          "origin": "Old English",
+          "meaning": "vision",
+          "meaning_zh": "看見、視力"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（內部）+ SIGHT（看見）→ 看到事物內部的本質",
+      "story_en": "Looking deep IN (inside) with clear SIGHT allowed the philosopher to gain profound INSIGHT.",
+      "story_zh": "用清晰的「眼光（SIGHT）」看穿事物「內部（IN）」，使哲學家獲得了深刻的「洞察力（INSIGHT）」。",
+      "emojis": [
+        "🧠",
+        "🔍",
+        "💡"
+      ]
+    },
+    "example": "The book provides fascinating insights into the social habits of early human civilizations.",
+    "example_zh": "這本書對早期人類文明的社會習慣提供了引人入勝的深刻見解（洞察）。",
+    "collocations": [
+      "gain insight",
+      "profound insight",
+      "valuable insight",
+      "provide insight into",
+      "psychological insight"
+    ],
+    "synonyms": [
+      "discernment",
+      "perception",
+      "shrewdness",
+      "understanding"
+    ],
+    "near_synonyms": [
+      {
+        "word": "knowledge",
+        "difference": "knowledge is the collection of facts and information acquired; insight is the deep understanding of how those facts connect underneath."
+      }
+    ],
+    "antonyms": [
+      "ignorance",
+      "blindness",
+      "misunderstanding"
+    ],
+    "word_family": [
+      {
+        "word": "insight",
+        "pos": "noun"
+      },
+      {
+        "word": "insightful",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 227,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "psychology"
+    ]
+  },
+  {
+    "word": "insignificant",
+    "pos": "adjective",
+    "phonetic": "/ˌɪnsɪɡˈnɪfɪkənt/",
+    "definition": "Too small or unimportant to be worth consideration; lacking meaning or importance.",
+    "definition_zh": "微不足道的；無足輕重的；毫無意義的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "signum",
+          "origin": "Latin",
+          "meaning": "a sign, mark",
+          "meaning_zh": "記號、標誌"
+        },
+        {
+          "root": "facere",
+          "origin": "Latin",
+          "meaning": "to make",
+          "meaning_zh": "做"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ SIGNUM（標誌）+ FACERE（做）→ 連做個標記的價值都沒有",
+      "story_en": "The tiny error was IN (not) making a big SIGNUM (sign) via FACERE (doing), rendering it INSIGNIFICANT.",
+      "story_zh": "這個微小的錯誤「不（IN）」需要透過「做（FACERE）」個「標記（SIGNUM）」來提醒，因為它是「微不足道的（INSIGNIFICANT）」。",
+      "emojis": [
+        "🐜",
+        "🤏",
+        "❌"
+      ]
+    },
+    "example": "Compared to the total budget, the cost of replacing the office chairs is relatively insignificant.",
+    "example_zh": "與總預算相比，更換辦公椅的成本相對來說微不足道。",
+    "collocations": [
+      "statistically insignificant",
+      "insignificant amount",
+      "insignificant detail",
+      "relatively insignificant",
+      "seem insignificant"
+    ],
+    "synonyms": [
+      "trivial",
+      "negligible",
+      "paltry",
+      "inconsequential"
+    ],
+    "near_synonyms": [
+      {
+        "word": "trivial",
+        "difference": "trivial emphasizes lacking depth, seriousness, or intellectual value; insignificant focuses on lacking structural scale or numerical importance."
+      }
+    ],
+    "antonyms": [
+      "significant",
+      "crucial",
+      "substantial"
+    ],
+    "word_family": [
+      {
+        "word": "insignificant",
+        "pos": "adjective"
+      },
+      {
+        "word": "insignificance",
+        "pos": "noun"
+      },
+      {
+        "word": "significance",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 228,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "math"
+    ]
+  },
+  {
+    "word": "insolent",
+    "pos": "adjective",
+    "phonetic": "/ˈɪnsələnt/",
+    "definition": "Showing a rude and arrogant lack of respect, typically toward an authority figure.",
+    "definition_zh": "傲慢的；無禮的；侮慢的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "solere",
+          "origin": "Latin",
+          "meaning": "to be accustomed to",
+          "meaning_zh": "習慣於"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ SOLERE（習慣於）→ 不遵循正常社會習慣，行為怪異且無禮",
+      "story_en": "The teenager behaved in a way IN (not) SOLERE (accustomed) in polite society, making him appear INSOLENT.",
+      "story_zh": "這個青少年的行為「不（IN）」符合禮貌社會的「習慣（SOLERE）」，顯得非常「傲慢無禮（INSOLENT）」。",
+      "emojis": [
+        "🙄",
+        "🤬",
+        "👑"
+      ]
+    },
+    "example": "The student was sent to the principal's office for making an insolent remark to the teacher.",
+    "example_zh": "這名學生因對老師發表無禮（傲慢）的言論而被送到校長室。",
+    "collocations": [
+      "insolent child",
+      "insolent remark",
+      "insolent behavior",
+      "insolent look",
+      "arrogant and insolent"
+    ],
+    "synonyms": [
+      "impudent",
+      "impertinent",
+      "audacious",
+      "disrespectful"
+    ],
+    "near_synonyms": [
+      {
+        "word": "rude",
+        "difference": "rude describes a general lack of manners or politeness; insolent specifically implies an insulting, defiant arrogance directed at authority."
+      }
+    ],
+    "antonyms": [
+      "respectful",
+      "polite",
+      "submissive"
+    ],
+    "word_family": [
+      {
+        "word": "insolent",
+        "pos": "adjective"
+      },
+      {
+        "word": "insolence",
+        "pos": "noun"
+      },
+      {
+        "word": "insolently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 229,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "literature",
+      "social"
+    ]
+  },
+  {
+    "word": "integral",
+    "pos": "adjective",
+    "phonetic": "/ˈɪntɪɡrəl/",
+    "definition": "Necessary to make a whole complete; essential or fundamental; included as part of the whole rather than supplied separately.",
+    "definition_zh": "不可或缺的；整體的；構成整體所必需的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "integer",
+          "origin": "Latin",
+          "meaning": "whole, untouched",
+          "meaning_zh": "完整的、未觸動的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INTEGER（完整的）→ 要組成完整個體不可或缺的一部分",
+      "story_en": "To maintain a whole INTEGER (whole) system, this component serves as an INTEGRAL part.",
+      "story_zh": "為了維持一個「完整（INTEGER）」的系統，這個組件起到了「不可或缺的整體（INTEGRAL）」作用。",
+      "emojis": [
+        "🧩",
+        "🧱",
+        "📐"
+      ]
+    },
+    "example": "Practical training is an integral part of the medical school curriculum.",
+    "example_zh": "實習培訓是醫學院課程中不可或缺的（構成整體的）一部分。",
+    "collocations": [
+      "integral part",
+      "integral component",
+      "play an integral role",
+      "integral to the success",
+      "integral system"
+    ],
+    "synonyms": [
+      "essential",
+      "fundamental",
+      "intrinsic",
+      "constituent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "essential",
+        "difference": "essential means absolutely needed for survival or function; integral emphasizes being built into the structural whole rather than separate."
+      }
+    ],
+    "antonyms": [
+      "peripheral",
+      "incidental",
+      "superfluous"
+    ],
+    "word_family": [
+      {
+        "word": "integral",
+        "pos": "adjective"
+      },
+      {
+        "word": "integrate",
+        "pos": "verb"
+      },
+      {
+        "word": "integrity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 230,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "math"
+    ]
+  },
+  {
+    "word": "intense",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈtens/",
+    "definition": "Of extreme force, degree, or strength; having or showing strong feelings or opinions; extremely earnest or serious.",
+    "definition_zh": "強烈的；劇烈的；熱切的；緊張的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into, upon",
+          "meaning_zh": "進入、在...之上"
+        },
+        {
+          "root": "tendere",
+          "origin": "Latin",
+          "meaning": "to stretch",
+          "meaning_zh": "拉緊、伸展"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ TENDERE（拉緊）→ 神經高度拉緊的狀態",
+      "story_en": "The strings were TENDERE (stretched) tight IN (into) the instrument, creating an INTENSE vibration.",
+      "story_zh": "弦被緊緊地「拉緊（TENDERE）」「進入（IN）」樂器中，創造出了「強烈的（INTENSE）」振動。",
+      "emojis": [
+        "🔥",
+        "🏋️",
+        "💥"
+      ]
+    },
+    "example": "The athletes trained under intense heat to prepare for the marathon in the desert.",
+    "example_zh": "運動員們在酷熱（強烈的高溫）下進行訓練，為沙漠馬拉松做準備。",
+    "collocations": [
+      "intense heat",
+      "intense pressure",
+      "intense competition",
+      "intense pain",
+      "intense focus"
+    ],
+    "synonyms": [
+      "acute",
+      "fierce",
+      "profound",
+      "vehement"
+    ],
+    "near_synonyms": [
+      {
+        "word": "severe",
+        "difference": "severe is used for harsh, difficult, or painful things; intense is a neutral descriptor for high degree or strength, which can be positive (joy) or negative (pain)."
+      }
+    ],
+    "antonyms": [
+      "mild",
+      "moderate",
+      "weak"
+    ],
+    "word_family": [
+      {
+        "word": "intense",
+        "pos": "adjective"
+      },
+      {
+        "word": "intensity",
+        "pos": "noun"
+      },
+      {
+        "word": "intensify",
+        "pos": "verb"
+      },
+      {
+        "word": "intensely",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 231,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "intermittent",
+    "pos": "adjective",
+    "phonetic": "/ˌɪntərˈmɪtənt/",
+    "definition": "Occurring at irregular intervals; not continuous or steady; stopping and starting repeatedly.",
+    "definition_zh": "間歇的；斷斷續續的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "inter-",
+          "origin": "Latin",
+          "meaning": "between",
+          "meaning_zh": "在...之間"
+        },
+        {
+          "root": "mittere",
+          "origin": "Latin",
+          "meaning": "to send, let go",
+          "meaning_zh": "發送、放走"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INTER（在之間）+ MITTERRE（發送）→ 在這段和那段之間才發送一次",
+      "story_en": "The radio tower managed to MITTERE (send) signals with gaps INTER (between) them, resulting in INTERMITTENT transmission.",
+      "story_zh": "無線電塔在信號「之間（INTER）」留有空隙進行「發送（MITTERE）」，導致了「斷斷續續的（INTERMITTENT）」傳輸。",
+      "emojis": [
+        "📶",
+        "🌧️",
+        "🕒"
+      ]
+    },
+    "example": "Due to the storm, we experienced intermittent power outages throughout the evening.",
+    "example_zh": "由於暴風雨，我們整個晚上都經歷了間歇性的（斷斷續續的）停電。",
+    "collocations": [
+      "intermittent fasting",
+      "intermittent rain",
+      "intermittent fever",
+      "intermittent signals",
+      "intermittent bursts"
+    ],
+    "synonyms": [
+      "sporadic",
+      "fitful",
+      "periodic",
+      "broken"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sporadic",
+        "difference": "sporadic implies isolated instances with no regular pattern at all; intermittent implies a pattern of stopping and starting over a period."
+      }
+    ],
+    "antonyms": [
+      "continuous",
+      "incessant",
+      "constant"
+    ],
+    "word_family": [
+      {
+        "word": "intermittent",
+        "pos": "adjective"
+      },
+      {
+        "word": "intermittently",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 232,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ]
+  },
+  {
+    "word": "intervene",
+    "pos": "verb",
+    "phonetic": "/ˌɪntərˈviːn/",
+    "definition": "To come between so as to prevent or alter a result or course of events; to occur between points of time.",
+    "definition_zh": "干涉；干預；調停；介入",
+    "etymology": {
+      "roots": [
+        {
+          "root": "inter-",
+          "origin": "Latin",
+          "meaning": "between",
+          "meaning_zh": "在...之間"
+        },
+        {
+          "root": "venire",
+          "origin": "Latin",
+          "meaning": "to come",
+          "meaning_zh": "來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INTER（在之間）+ VENIRE（來）→ 來到兩者中間進行干預",
+      "story_en": "The teacher had to VENIRE (come) right INTER (between) the fighting boys to INTERVENE.",
+      "story_zh": "老師不得不「來到（VENIRE）」「兩者之間（INTER）」以進行「干預和勸架（INTERVENE）」。",
+      "emojis": [
+        "🤝",
+        "🛑",
+        "🛡️"
+      ]
+    },
+    "example": "The United Nations decided to intervene in the conflict to prevent a humanitarian crisis.",
+    "example_zh": "聯合國決定介入該衝突，以防止人道主義危機的發生。",
+    "collocations": [
+      "intervene in a dispute",
+      "military intervention",
+      "actively intervene",
+      "judicial intervention",
+      "intervene to prevent"
+    ],
+    "synonyms": [
+      "interfere",
+      "mediate",
+      "arbitrate",
+      "step in"
+    ],
+    "near_synonyms": [
+      {
+        "word": "interfere",
+        "difference": "interfere has a negative connotation, meaning to meddle in matters unwelcome; intervene has a helpful or neutral connotation, aimed at fixing a problem."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "stand aside"
+    ],
+    "word_family": [
+      {
+        "word": "intervene",
+        "pos": "verb"
+      },
+      {
+        "word": "intervention",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 233,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ]
+  },
+  {
+    "word": "intimate",
+    "pos": "adjective",
+    "phonetic": "/ˈɪntɪmət/",
+    "definition": "Closely acquainted; familiar, close, or personal; private and comfortable (of an atmosphere or environment).",
+    "definition_zh": "親密的；密切的；私密的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "intimus",
+          "origin": "Latin",
+          "meaning": "innermost",
+          "meaning_zh": "最深處的、最內部的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INTIMUS（最深處）→ 觸及心靈最深處的關係",
+      "story_en": "They shared secrets from their INTIMUS (innermost) hearts, revealing an INTIMATE relationship.",
+      "story_zh": "他們分享了來自「內心最深處（INTIMUS）」的秘密，展現了「親密的（INTIMATE）」關係。",
+      "emojis": [
+        "👩‍❤️‍👨",
+        "🛋️",
+        "🤫"
+      ]
+    },
+    "example": "The small restaurant has an intimate atmosphere, making it a popular choice for couples on dates.",
+    "example_zh": "這家小餐廳有一種溫馨私密（親密）的氛圍，使其成為情侶約會的熱門選擇。",
+    "collocations": [
+      "intimate relationship",
+      "intimate atmosphere",
+      "intimate knowledge",
+      "intimate details",
+      "become intimate"
+    ],
+    "synonyms": [
+      "close",
+      "familiar",
+      "cherished",
+      "confidential"
+    ],
+    "near_synonyms": [
+      {
+        "word": "close",
+        "difference": "close means near in distance or emotional attachment; intimate implies an even deeper emotional or private knowledge of one another."
+      }
+    ],
+    "antonyms": [
+      "distant",
+      "formal",
+      "public"
+    ],
+    "word_family": [
+      {
+        "word": "intimate",
+        "pos": "adjective / verb / noun"
+      },
+      {
+        "word": "intimacy",
+        "pos": "noun"
+      },
+      {
+        "word": "intimately",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "As a verb (pronounced /ˈɪntɪmeɪt/), 'intimate' means to state or hint something subtly (e.g., he intimated that he might resign).",
+    "frequency_rank": 234,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "literature"
+    ]
+  },
+  {
+    "word": "intricate",
+    "pos": "adjective",
+    "phonetic": "/ˈɪntrɪkət/",
+    "definition": "Very complicated or detailed; having many complexly interrelating parts or elements.",
+    "definition_zh": "錯綜複雜的；精細複雜的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "into",
+          "meaning_zh": "進入"
+        },
+        {
+          "root": "tricae",
+          "origin": "Latin",
+          "meaning": "perplexities, hindrances, tricks",
+          "meaning_zh": "困惑、障礙、小把戲"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（進入）+ TRICAE（困惑障礙）→ 掉進了充滿障礙的迷宮裡",
+      "story_en": "The detective got lost IN (into) the TRICAE (perplexities) of the INTRICATE plot.",
+      "story_zh": "偵探陷入了（IN）這個「錯綜複雜的（INTRICATE）」情節「困惑（TRICAE）」之中。",
+      "emojis": [
+        "🕸️",
+        "🧩",
+        "⌚"
+      ]
+    },
+    "example": "The watchmaker spent hundreds of hours assembling the intricate mechanism of the luxury timepiece.",
+    "example_zh": "鐘錶匠花費了數百個小時來組裝這款奢侈腕錶精細複雜的內部機制。",
+    "collocations": [
+      "intricate design",
+      "intricate details",
+      "intricate pattern",
+      "highly intricate",
+      "intricate network"
+    ],
+    "synonyms": [
+      "complex",
+      "complicated",
+      "elaborate",
+      "convoluted"
+    ],
+    "near_synonyms": [
+      {
+        "word": "complex",
+        "difference": "complex means composed of many interconnected parts; intricate emphasizes the tiny, delicate, and highly confusing details within those parts."
+      }
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward",
+      "plain"
+    ],
+    "word_family": [
+      {
+        "word": "intricate",
+        "pos": "adjective"
+      },
+      {
+        "word": "intricacy",
+        "pos": "noun"
+      },
+      {
+        "word": "intricately",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 235,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "technology"
+    ]
+  },
+  {
+    "word": "intrinsic",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈtrɪnzɪk/",
+    "definition": "Belonging naturally; essential; inherent to the basic nature of a person, object, or situation.",
+    "definition_zh": "固有的；本質的；內在的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "intrinsecus",
+          "origin": "Latin",
+          "meaning": "inwardly, on the inside",
+          "meaning_zh": "在內部、向內"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "INTRINSECUS（在內部）→ 生來就在事物內部，非外加的",
+      "story_en": "The gold coin holds INTRINSECUS (inside) value, representing its INTRINSIC worth regardless of the market.",
+      "story_zh": "金幣具備「內部（INTRINSECUS）」的價值，代表其不論市場如何都具有的「固有（INTRINSIC）」價值。",
+      "emojis": [
+        "💎",
+        "🧬",
+        "🪙"
+      ]
+    },
+    "example": "Flexibility and critical thinking are intrinsic qualities of a successful entrepreneur.",
+    "example_zh": "靈活性和批判性思維是成功企業家「固有的（本質的）」特質。",
+    "collocations": [
+      "intrinsic value",
+      "intrinsic quality",
+      "intrinsic motivation",
+      "inherently intrinsic",
+      "intrinsic worth"
+    ],
+    "synonyms": [
+      "inherent",
+      "innate",
+      "inborn",
+      "essential"
+    ],
+    "near_synonyms": [
+      {
+        "word": "inherent",
+        "difference": "inherent emphasizes a permanent characteristic that cannot be removed; intrinsic focuses on the natural, internal essence of a thing rather than external factors."
+      }
+    ],
+    "antonyms": [
+      "extrinsic",
+      "extrinsic",
+      "accidental"
+    ],
+    "word_family": [
+      {
+        "word": "intrinsic",
+        "pos": "adjective"
+      },
+      {
+        "word": "intrinsically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 236,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "intuition",
+    "pos": "noun",
+    "phonetic": "/ˌɪntuˈɪʃn/",
+    "definition": "The ability to understand something immediately, without the need for conscious or logical reasoning; a gut feeling.",
+    "definition_zh": "直覺；直覺力",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "at, upon, into",
+          "meaning_zh": "看著、朝向、在內"
+        },
+        {
+          "root": "tueri",
+          "origin": "Latin",
+          "meaning": "to look at, watch, guard",
+          "meaning_zh": "看、注視、守護"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（朝向）+ TUERI（注視）→ 內心一眼就看透、看穿本質",
+      "story_en": "She looked IN (into) her mind and trusted what she managed to TUERI (observe) via pure INTUITION.",
+      "story_zh": "她「注視（TUERI）」「內心（IN）」，並信任她通過純粹的「直覺（INTUITION）」所觀察到的一切。",
+      "emojis": [
+        "🔮",
+        "🧠",
+        "⚡"
+      ]
+    },
+    "example": "A doctor's intuition, developed over years of medical practice, often helps diagnose rare conditions quickly.",
+    "example_zh": "醫生在多年醫療實踐中培養出來的直覺，往往有助於快速診斷罕見疾病。",
+    "collocations": [
+      "female intuition",
+      "trust one's intuition",
+      "artistic intuition",
+      "rely on intuition",
+      "strong intuition"
+    ],
+    "synonyms": [
+      "instinct",
+      "insight",
+      "hunch",
+      "presentiment"
+    ],
+    "near_synonyms": [
+      {
+        "word": "instinct",
+        "difference": "instinct refers to hardwired biological behaviors; intuition is a rapid, subconscious mental synthesis of experience and clues."
+      }
+    ],
+    "antonyms": [
+      "logic",
+      "reasoning",
+      "rationality"
+    ],
+    "word_family": [
+      {
+        "word": "intuition",
+        "pos": "noun"
+      },
+      {
+        "word": "intuitive",
+        "pos": "adjective"
+      },
+      {
+        "word": "intuitively",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 237,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "invalidate",
+    "pos": "verb",
+    "phonetic": "/ɪnˈvælɪdeɪt/",
+    "definition": "To make a argument, statement, or theory unsound or erroneous; to deprive an official document or contract of legal force.",
+    "definition_zh": "使無效；推翻；證實...錯誤",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "valere",
+          "origin": "Latin",
+          "meaning": "to be strong, have power",
+          "meaning_zh": "強壯、有力量"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ VALERE（有力量有效力）→ 奪走其力量與法律效力",
+      "story_en": "The missing signature will act to IN (not) make the contract VALERE (strong), serving to INVALIDATE it.",
+      "story_zh": "缺失的簽名會「不（IN）」讓合約「具有效力（VALERE）」，從而「使合約無效（INVALIDATE）」。",
+      "emojis": [
+        "❌",
+        "📜",
+        "⚖️"
+      ]
+    },
+    "example": "The discover of a flaws in the research methodology could completely invalidate the study's conclusions.",
+    "example_zh": "研究方法中漏洞的發現可能會完全推翻（使無效）該研究的結論。",
+    "collocations": [
+      "completely invalidate",
+      "invalidate a contract",
+      "invalidate a passport",
+      "invalidate a theory",
+      "evidence invalidates"
+    ],
+    "synonyms": [
+      "nullify",
+      "void",
+      "annul",
+      "refute"
+    ],
+    "near_synonyms": [
+      {
+        "word": "refute",
+        "difference": "refute means to prove an argument wrong through logic or evidence; invalidate can mean destroying both logical correctness or legal authority."
+      }
+    ],
+    "antonyms": [
+      "validate",
+      "confirm",
+      "ratify"
+    ],
+    "word_family": [
+      {
+        "word": "invalidate",
+        "pos": "verb"
+      },
+      {
+        "word": "validation",
+        "pos": "noun"
+      },
+      {
+        "word": "invalid",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "valid",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 238,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "academic"
+    ]
+  },
+  {
+    "word": "invaluable",
+    "pos": "adjective",
+    "phonetic": "/ɪnˈvæljuəbl/",
+    "definition": "Extremely useful; indispensable; having a value that is too great to be measured in terms of money.",
+    "definition_zh": "極寶貴的；無價的；非常實用的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not (intensive here meaning beyond)",
+          "meaning_zh": "超越、無法"
+        },
+        {
+          "root": "valere",
+          "origin": "Latin",
+          "meaning": "to be worth",
+          "meaning_zh": "有價值"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（超越）+ VALERE（價值）→ 價值高到無法估量",
+      "story_en": "The artifact's worth went IN (beyond) what standard appraisal could VALERE (value), proving INVALUABLE.",
+      "story_zh": "這件文物的價值「超越（IN）」了標準鑑定所能「衡量（VALERE）」的範圍，證明它是「極其珍貴的（INVALUABLE）」。",
+      "emojis": [
+        "💎",
+        "👑",
+        "🤝"
+      ]
+    },
+    "example": "The mentorship and guidance provided by her advisor proved invaluable during her doctoral studies.",
+    "example_zh": "她的導師所提供的指導和建議在她攻讀博士學位期間被證明是極其寶貴的（無價的）。",
+    "collocations": [
+      "invaluable experience",
+      "invaluable assistance",
+      "prove invaluable",
+      "invaluable asset",
+      "invaluable advice"
+    ],
+    "synonyms": [
+      "priceless",
+      "precious",
+      "indispensable",
+      "irreplaceable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "valuable",
+        "difference": "valuable means worth a lot of money or highly useful; invaluable means its worth is so high that it cannot even be priced."
+      }
+    ],
+    "antonyms": [
+      "worthless",
+      "valueless",
+      "useless"
+    ],
+    "word_family": [
+      {
+        "word": "invaluable",
+        "pos": "adjective"
+      },
+      {
+        "word": "value",
+        "pos": "noun / verb"
+      }
+    ],
+    "usage_note": "A common mistake is thinking 'invaluable' means 'not valuable'. It actually means the opposite: so valuable that you cannot put a price tag on it.",
+    "frequency_rank": 239,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "ironic",
+    "pos": "adjective",
+    "phonetic": "/aɪˈrɑːnɪk/",
+    "definition": "Using or characterized by irony; happening in a way contrary to what is expected, and typically causing wry amusement.",
+    "definition_zh": "諷刺的；出人意料的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "eironeia",
+          "origin": "Greek",
+          "meaning": "simulated ignorance",
+          "meaning_zh": "假裝無知、裝傻以諷刺"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "EIRONEIA（假裝無知）→ 古希臘戲劇中用裝傻來達成反諷效果",
+      "story_en": "The actor used EIRONEIA (simulated ignorance) on stage to deliver an IRONIC twist.",
+      "story_zh": "演員在舞台上利用「假裝無知（EIRONEIA）」的技巧，帶來了一個帶有「諷刺意味的（IRONIC）」反轉。",
+      "emojis": [
+        "🙃",
+        "🎭",
+        "📢"
+      ]
+    },
+    "example": "It is ironic that the prominent fitness guru died of a sudden heart attack while jogging.",
+    "example_zh": "令人諷刺的是，這位著名的健身大師竟然在慢跑時因心臟病突然發作而去世。",
+    "collocations": [
+      "ironic twist",
+      "bitterly ironic",
+      "ironic smile",
+      "ironic contrast",
+      "it is ironic that"
+    ],
+    "synonyms": [
+      "sarcastic",
+      "paradoxical",
+      "satirical",
+      "sardonic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "sarcastic",
+        "difference": "sarcastic involves a deliberate intent to mock or hurt someone with words; ironic describes a situation where events turn out opposite to expectations."
+      }
+    ],
+    "antonyms": [
+      "sincere",
+      "predictable",
+      "expected"
+    ],
+    "word_family": [
+      {
+        "word": "ironic",
+        "pos": "adjective"
+      },
+      {
+        "word": "irony",
+        "pos": "noun"
+      },
+      {
+        "word": "ironically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 240,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "literature",
+      "art"
+    ]
+  },
+  {
+    "word": "irrational",
+    "pos": "adjective",
+    "phonetic": "/ɪˈræʃənl/",
+    "definition": "Not logical or reasonable; unguided by intellect or sound judgment; (of a number) not expressible as a ratio of integers.",
+    "definition_zh": "不合理的；荒謬的；無理的；無理數的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "in-",
+          "origin": "Latin",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "ratio",
+          "origin": "Latin",
+          "meaning": "reason, calculation",
+          "meaning_zh": "理由、計算、比例"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "IN（不）+ RATIO（理性理由）→ 毫無理性邏輯",
+      "story_en": "His fear of spiders was IN (not) based on sound RATIO (reason), making it completely IRRATIONAL.",
+      "story_zh": "他對蜘蛛的恐懼「不（IN）」基於合理的「理性邏輯（RATIO）」，這完全是「不理性的（IRRATIONAL）」 。",
+      "emojis": [
+        "🧠",
+        "❌",
+        "👻"
+      ]
+    },
+    "example": "Investors driven by irrational exuberance caused the stock market bubble to expand rapidly.",
+    "example_zh": "受「非理性（IRRATIONAL）」繁榮驅使的投資者導致股市泡沫迅速擴大。",
+    "collocations": [
+      "irrational fear",
+      "irrational behavior",
+      "irrational exuberance",
+      "irrational number",
+      "completely irrational"
+    ],
+    "synonyms": [
+      "unreasonable",
+      "illogical",
+      "absurd",
+      "ludicrous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "illogical",
+        "difference": "illogical means violating the formal rules of logic; irrational means completely disconnected from objective reason, often driven by intense emotion."
+      }
+    ],
+    "antonyms": [
+      "rational",
+      "logical",
+      "reasonable"
+    ],
+    "word_family": [
+      {
+        "word": "irrational",
+        "pos": "adjective"
+      },
+      {
+        "word": "rational",
+        "pos": "adjective"
+      },
+      {
+        "word": "irrationality",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 241,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "math"
+    ]
+  },
+  {
+    "word": "jeopardize",
+    "pos": "verb",
+    "phonetic": "/ˈdʒepərdaɪz/",
+    "definition": "To put someone or something into a situation in which there is a danger of loss, harm, injury, or failure.",
+    "definition_zh": "危害；使處於危險之中；危及",
+    "etymology": {
+      "roots": [
+        {
+          "root": "jeu",
+          "origin": "Old French",
+          "meaning": "game",
+          "meaning_zh": "遊戲、局"
+        },
+        {
+          "root": "parti",
+          "origin": "Old French",
+          "meaning": "divided",
+          "meaning_zh": "分開的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "JEU（遊戲）+ PARTI（分開）→ 棋局五五開，勝負未定，充滿危險",
+      "story_en": "A JEU (game) that is PARTI (divided) means the chances are 50-50, which can JEOPARDIZE your winning outcome.",
+      "story_zh": "一個勝負「分開各半（PARTI）」的「棋局遊戲（JEU）」意味著機率五五開，這會「危及（JEOPARDIZE）」你的最終勝算。",
+      "emojis": [
+        "⚠️",
+        "💣",
+        "📉"
+      ]
+    },
+    "example": "A single conviction for drunk driving could jeopardize your chances of getting a corporate job.",
+    "example_zh": "一次酒後駕車的定罪就可能會危及（損害）你進入大公司工作的機會。",
+    "collocations": [
+      "jeopardize the future",
+      "jeopardize a relationship",
+      "seriously jeopardize",
+      "jeopardize security",
+      "jeopardize the project"
+    ],
+    "synonyms": [
+      "endanger",
+      "imperil",
+      "compromise",
+      "risk"
+    ],
+    "near_synonyms": [
+      {
+        "word": "endanger",
+        "difference": "endanger usually implies exposing physical life or safety to harm; jeopardize is broader, often applying to abstract concepts like careers, plans, or reputations."
+      }
+    ],
+    "antonyms": [
+      "safeguard",
+      "protect",
+      "secure"
+    ],
+    "word_family": [
+      {
+        "word": "jeopardize",
+        "pos": "verb"
+      },
+      {
+        "word": "jeopardy",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 242,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "law"
+    ]
+  },
+  {
+    "word": "judicial",
+    "pos": "adjective",
+    "phonetic": "/dʒuˈdɪʃl/",
+    "definition": "Of, by, or appropriate to a court or judge; relating to the administration of justice and legal judgment.",
+    "definition_zh": "司法的；法庭的；公正的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "judex",
+          "origin": "Latin",
+          "meaning": "a judge",
+          "meaning_zh": "法官"
+        },
+        {
+          "root": "jus",
+          "origin": "Latin",
+          "meaning": "law, right",
+          "meaning_zh": "法律、權利"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "JUDEX（法官）+ JUS（法律）→ 由法官和法律來判定",
+      "story_en": "The JUDEX (judge) executed the JUS (law) to maintain the integrity of the JUDICIAL system.",
+      "story_zh": "「法官（JUDEX）」執行「法律（JUS）」以維護整個「司法（JUDICIAL）」系統的公正。",
+      "emojis": [
+        "⚖️",
+        "🏛️",
+        "👨‍⚖️"
+      ]
+    },
+    "example": "The Supreme Court has the authority of judicial review over laws passed by the legislature.",
+    "example_zh": "最高法院對立法機關通過的法律擁有司法審查權。",
+    "collocations": [
+      "judicial review",
+      "judicial system",
+      "judicial system",
+      "judicial separation",
+      "independent judicial"
+    ],
+    "synonyms": [
+      "legal",
+      "juridical",
+      "judiciary",
+      "magisterial"
+    ],
+    "near_synonyms": [
+      {
+        "word": "legal",
+        "difference": "legal relates generally to anything connected to the law; judicial specifically refers to the branch of government or court system that judges laws."
+      }
+    ],
+    "antonyms": [
+      "executive",
+      "legislative",
+      "extrajudicial"
+    ],
+    "word_family": [
+      {
+        "word": "judicial",
+        "pos": "adjective"
+      },
+      {
+        "word": "judge",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "judgment",
+        "pos": "noun"
+      },
+      {
+        "word": "judiciary",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 243,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "judicious",
+    "pos": "adjective",
+    "phonetic": "/dʒuˈdɪʃəs/",
+    "definition": "Having, showing, or done with good judgment or sense; wise and sensible in practical matters.",
+    "definition_zh": "明智的；審慎的；有見地的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "judex",
+          "origin": "Latin",
+          "meaning": "a judge",
+          "meaning_zh": "法官"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "JUDEX（法官）→ 像法官斷案一樣客觀審慎與明智",
+      "story_en": "A JUDEX (judge) must make a JUDICIOUS selection of evidence before rendering a verdict.",
+      "story_zh": "像「法官（JUDEX）」一樣在做出判決前對證據進行「明智審慎的（JUDICIOUS）」篩選。",
+      "emojis": [
+        "🧠",
+        "⚖️",
+        "🧭"
+      ]
+    },
+    "example": "A judicious use of the company's remaining funds saved it from filing for bankruptcy.",
+    "example_zh": "對公司剩餘資金的「明智（審慎）」使用，使其免於申請破產保護。",
+    "collocations": [
+      "judicious use",
+      "judicious choice",
+      "judicious combination",
+      "highly judicious",
+      "judicious planning"
+    ],
+    "synonyms": [
+      "wise",
+      "prudent",
+      "sagacious",
+      "sensible"
+    ],
+    "near_synonyms": [
+      {
+        "word": "prudent",
+        "difference": "prudent focuses heavily on avoiding risk or danger; judicious emphasizes having excellent practical judgment and wisdom in choices."
+      }
+    ],
+    "antonyms": [
+      "unwise",
+      "imprudent",
+      "reckless"
+    ],
+    "word_family": [
+      {
+        "word": "judicious",
+        "pos": "adjective"
+      },
+      {
+        "word": "judiciously",
+        "pos": "adverb"
+      },
+      {
+        "word": "judgment",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 244,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "business"
+    ]
+  },
+  {
+    "word": "junction",
+    "pos": "noun",
+    "phonetic": "/ˈdʒʌŋkʃn/",
+    "definition": "A point where two or more roads, railway lines, or rivers meet; a place or station where things are joined.",
+    "definition_zh": "交叉路口；連接點；匯合處",
+    "etymology": {
+      "roots": [
+        {
+          "root": "jungere",
+          "origin": "Latin",
+          "meaning": "to join",
+          "meaning_zh": "連接、結合"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "JUNGERE（連接）→ 道路或線路連接在一起的地方",
+      "story_en": "The workers had to JUNGERE (join) the pipes at the main highway JUNCTION.",
+      "story_zh": "工人們必須在主要公路的「交叉匯合處（JUNCTION）」將管道「連接（JUNGERE）」起來。",
+      "emojis": [
+        "🎛️",
+        "🛣️",
+        "🚉"
+      ]
+    },
+    "example": "The accident occurred at a busy junction where three major state highways intersect.",
+    "example_zh": "事故發生在三條主要州際公路相交的繁忙交叉路口（匯合處）。",
+    "collocations": [
+      "railway junction",
+      "road junction",
+      "at the junction",
+      "critical junction",
+      "T-junction"
+    ],
+    "synonyms": [
+      "intersection",
+      "confluence",
+      "convergence",
+      "interchange"
+    ],
+    "near_synonyms": [
+      {
+        "word": "intersection",
+        "difference": "intersection specifically implies roads crossing over each other; junction can refer to any point where things join or merge, including electronics or rivers."
+      }
+    ],
+    "antonyms": [
+      "separation",
+      "detachment",
+      "divergence"
+    ],
+    "word_family": [
+      {
+        "word": "junction",
+        "pos": "noun"
+      },
+      {
+        "word": "join",
+        "pos": "verb"
+      },
+      {
+        "word": "conjunction",
+        "pos": "noun"
+      },
+      {
+        "word": "adjunct",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 245,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "technology",
+      "science"
+    ]
+  },
+  {
+    "word": "juvenile",
+    "pos": "adjective",
+    "phonetic": "/ˈdʒuːvənl/",
+    "definition": "Relating to young people who are not yet adults; childish, immature, or appropriate only for children.",
+    "definition_zh": "青少年的；幼稚的；未成年的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "juvenis",
+          "origin": "Latin",
+          "meaning": "young, a youth",
+          "meaning_zh": "年輕的、年輕人"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "JUVENIS（年輕人）→ 屬於年輕、不成熟的階段",
+      "story_en": "The JUVENIS (youth) displayed JUVENILE behavior by throwing a tantrum over a toy.",
+      "story_zh": "這個「年輕人（JUVENIS）」因為一個玩具大發脾氣，展現了「幼稚的（JUVENILE）」行為。",
+      "emojis": [
+        "👦",
+        "🛹",
+        "⚖️"
+      ]
+    },
+    "example": "The city established a special program to reduce the rates of juvenile delinquency in urban neighborhoods.",
+    "example_zh": "該市設立了一個特別項目，以降低城市社區中青少年犯罪（未成年犯罪）的機率。",
+    "collocations": [
+      "juvenile delinquency",
+      "juvenile court",
+      "juvenile behavior",
+      "juvenile fiction",
+      "juvenile crime"
+    ],
+    "synonyms": [
+      "immature",
+      "adolescent",
+      "puerile",
+      "childish"
+    ],
+    "near_synonyms": [
+      {
+        "word": "adolescent",
+        "difference": "adolescent refers factually to the biological teenage growth phase; juvenile can carry a legal meaning (underage) or a negative meaning (childish/foolish)."
+      }
+    ],
+    "antonyms": [
+      "adult",
+      "mature",
+      "elderly"
+    ],
+    "word_family": [
+      {
+        "word": "juvenile",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "rejuvenate",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 246,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "social"
+    ]
+  },
+  {
+    "word": "kinship",
+    "pos": "noun",
+    "phonetic": "/ˈkɪnʃɪp/",
+    "definition": "Blood relationship; a sharing of characteristics, origins, or deep emotional connection with others.",
+    "definition_zh": "親屬關係；血緣關係；（因緣分或相似產生的）親近感",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cynn",
+          "origin": "Old English",
+          "meaning": "family, race, kind",
+          "meaning_zh": "家族、種類、親屬"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "KIN（親屬家族）+ SHIP（名詞字尾，代表關係）",
+      "story_en": "Members of the same KIN (family) feel a natural bond of KINSHIP with one another.",
+      "story_zh": "同一「家族（KIN）」的成員之間會有一種天然的「親屬血緣關係（KINSHIP）」聯結。",
+      "emojis": [
+        "👨‍👩‍👧‍👦",
+        "🤝",
+        "🌳"
+      ]
+    },
+    "example": "Living and working together in isolation for months created a deep sense of kinship among the crew members.",
+    "example_zh": "在隔離狀態下共同生活和工作了幾個月，在船員之間創造了一種深厚的親近感（同胞情誼）。",
+    "collocations": [
+      "sense of kinship",
+      "kinship ties",
+      "kinship system",
+      "spiritual kinship",
+      "feel kinship with"
+    ],
+    "synonyms": [
+      "affinity",
+      "relationship",
+      "consanguinity",
+      "solidarity"
+    ],
+    "near_synonyms": [
+      {
+        "word": "relationship",
+        "difference": "relationship is any connection between people; kinship specifically implies blood ties or a profound, almost familial bond of origin."
+      }
+    ],
+    "antonyms": [
+      "alienation",
+      "estrangement",
+      "hostility"
+    ],
+    "word_family": [
+      {
+        "word": "kinship",
+        "pos": "noun"
+      },
+      {
+        "word": "kin",
+        "pos": "noun"
+      },
+      {
+        "word": "kinsman",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 247,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "social",
+      "anthropology"
+    ]
+  },
+  {
+    "word": "laborious",
+    "pos": "adjective",
+    "phonetic": "/ləˈbɔːriəs/",
+    "definition": "Requiring considerable time, effort, and hard physical or mental work; tedious or difficult.",
+    "definition_zh": "費力的；艱苦的；耗時費力的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "labor",
+          "origin": "Latin",
+          "meaning": "toil, distress, work",
+          "meaning_zh": "勞動、辛苦、工作"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LABOR（勞動）→ 需要大量體力或腦力勞動的",
+      "story_en": "Building the stone pyramid required decades of hard LABOR, proving to be a highly LABORIOUS task.",
+      "story_zh": "建造石頭金字塔需要數十年的辛苦「勞動（LABOR）」，這被證明是一項極其「費時費力的（LABORIOUS）」任務。",
+      "emojis": [
+        "⛏️",
+        "🥵",
+        "🧱"
+      ]
+    },
+    "example": "Before computers, calculating astronomical orbits was a tedious and laborious process done entirely by hand.",
+    "example_zh": "在電腦出現之前，計算天體軌道是一個完全由手工完成的、單調且「耗時費力的（LABORIOUS）」過程。",
+    "collocations": [
+      "laborious task",
+      "laborious process",
+      "laborious effort",
+      "slow and laborious",
+      "laborious journey"
+    ],
+    "synonyms": [
+      "arduous",
+      "strenuous",
+      "grueling",
+      "toilsome"
+    ],
+    "near_synonyms": [
+      {
+        "word": "arduous",
+        "difference": "arduous emphasizes steep, severe physical difficulty or climbing hurdles; laborious emphasizes repetitive, slow, and fatiguing work details."
+      }
+    ],
+    "antonyms": [
+      "effortless",
+      "easy",
+      "facile"
+    ],
+    "word_family": [
+      {
+        "word": "laborious",
+        "pos": "adjective"
+      },
+      {
+        "word": "labor",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "laboriously",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 248,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "history"
+    ]
+  },
+  {
+    "word": "lament",
+    "pos": "verb",
+    "phonetic": "/ləˈment/",
+    "definition": "To express passionate grief, sorrow, or regret about something; to mourn deeply.",
+    "definition_zh": "哀悼；痛惜；抱怨；悲嘆",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lamentum",
+          "origin": "Latin",
+          "meaning": "wailing, moaning",
+          "meaning_zh": "痛哭、呻吟"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAMENTUM（哭泣）→ 發出悲傷的哭喊聲",
+      "story_en": "The villagers began to LAMENTUM (wail) as they gathered to LAMENT the loss of their chief.",
+      "story_zh": "村民們開始「哀號哭泣（LAMENTUM）」，聚集在一起「哀悼（LAMENT）」他們首領的去世。",
+      "emojis": [
+        "😭",
+        "😢",
+        "🖤"
+      ]
+    },
+    "example": "Many educators lament the decline in reading habits among young children due to smartphones.",
+    "example_zh": "許多教育工作者「痛惜（抱怨）」由於智慧型手機的普及，幼兒閱讀習慣出現了下降。",
+    "collocations": [
+      "lament the death of",
+      "bitterly lament",
+      "lament the fact that",
+      "lament a loss",
+      "educators lament"
+    ],
+    "synonyms": [
+      "mourn",
+      "grieve",
+      "bemoan",
+      "bewail"
+    ],
+    "near_synonyms": [
+      {
+        "word": "mourn",
+        "difference": "mourn focuses on the deep psychological feeling of sorrow after a death; lament emphasizes the outward expression or spoken complaint about a tragedy or regretful situation."
+      }
+    ],
+    "antonyms": [
+      "celebrate",
+      "rejoice",
+      "exult"
+    ],
+    "word_family": [
+      {
+        "word": "lament",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "lamentable",
+        "pos": "adjective"
+      },
+      {
+        "word": "lamentation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 249,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "literature",
+      "social"
+    ]
+  },
+  {
+    "word": "latent",
+    "pos": "adjective",
+    "phonetic": "/ˈleɪtnt/",
+    "definition": "Existing but not yet developed, manifest, or active; hidden or concealed underneath the surface.",
+    "definition_zh": "潛在的；潛伏的；隱性的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "latere",
+          "origin": "Latin",
+          "meaning": "to lie hidden",
+          "meaning_zh": "隱藏、躲藏"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LATERE（隱藏）→ 躲在深處還沒有顯現出來",
+      "story_en": "The virus can LATERE (lie hidden) in the body for years before becoming a active, LATENT infection.",
+      "story_zh": "病毒可以在體內「隱藏（LATERE）」多年，這是一種「潛伏的（LATENT）」感染。",
+      "emojis": [
+        "🧬",
+        "🌋",
+        "🕵️"
+      ]
+    },
+    "example": "The music teacher recognized the boy's latent talent for the piano, even though he had never taken lessons.",
+    "example_zh": "音樂老師看出了這個男孩對鋼琴的「潛在（潛伏）」天賦，儘管他從未上過課。",
+    "collocations": [
+      "latent heat",
+      "latent talent",
+      "latent defect",
+      "remain latent",
+      "latent period"
+    ],
+    "synonyms": [
+      "dormant",
+      "quiescent",
+      "hidden",
+      "potential"
+    ],
+    "near_synonyms": [
+      {
+        "word": "potential",
+        "difference": "potential implies a future capability that might naturally occur; latent emphasizes that the capability already exists but is strictly hidden or sleeping."
+      },
+      {
+        "word": "dormant",
+        "difference": "dormant is used for biological structures or volcanoes that are temporarily inactive but alive; latent is broader, applying to talents, feelings, or diseases."
+      }
+    ],
+    "antonyms": [
+      "manifest",
+      "patent",
+      "active"
+    ],
+    "word_family": [
+      {
+        "word": "latent",
+        "pos": "adjective"
+      },
+      {
+        "word": "latency",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 250,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "science",
+      "psychology"
+    ]
+  }
+]
