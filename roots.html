@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
+<title>字根探索 — WordRoot</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&display=swap"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --accent:#c8f060;--accent2:#60c8f0;--red:#f06464;--orange:#f0a060;
+  --bg:#0e0f11;--surface:#16181c;--surface2:#1e2026;
+  --border:#2a2d35;--text:#e8eaf0;--muted:#6b7080;--dim:#3a3f50;
+  --serif:'DM Serif Display',serif;--mono:'DM Mono',monospace;--sans:'Noto Sans TC',sans-serif;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100vh}
+#app{max-width:480px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+
+/* ── Header ── */
+#header{
+  padding:16px 20px;display:flex;align-items:center;gap:14px;
+  border-bottom:1px solid var(--border);background:var(--bg);
+  position:sticky;top:0;z-index:50;
+}
+.back-btn{
+  color:var(--muted);font-size:20px;text-decoration:none;
+  line-height:1;padding:4px;border-radius:6px;transition:color .15s;
+}
+.back-btn:hover{color:var(--text)}
+.header-title{font-family:var(--serif);font-size:20px;color:var(--text);flex:1}
+.header-sub{font-family:var(--mono);font-size:13px;color:var(--muted)}
+
+/* ── Screen container ── */
+#screen{flex:1;padding:20px;display:flex;flex-direction:column;gap:16px}
+
+/* ── Today task card ── */
+.task-card{
+  background:linear-gradient(135deg,rgba(200,240,96,.07),rgba(200,240,96,.02));
+  border:1px solid rgba(200,240,96,.2);border-radius:16px;padding:20px;
+}
+.task-label{font-family:var(--mono);font-size:13px;color:var(--accent);
+  text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px}
+.task-title{font-family:var(--serif);font-size:26px;color:var(--text);margin-bottom:6px}
+.task-items{display:flex;flex-direction:column;gap:6px;margin:12px 0}
+.task-item{display:flex;align-items:center;gap:10px;font-size:16px;color:var(--muted)}
+.task-item span.num{font-family:var(--mono);font-size:14px;color:var(--accent);
+  background:rgba(200,240,96,.1);border-radius:4px;padding:1px 7px}
+.task-time{font-family:var(--mono);font-size:13px;color:var(--dim);margin-top:8px}
+.btn-primary{
+  width:100%;padding:14px;border-radius:12px;border:none;
+  background:var(--accent);color:#0e0f11;font-family:var(--sans);font-size:16px;
+  font-weight:700;cursor:pointer;margin-top:12px;transition:all .18s;
+}
+.btn-primary:hover{background:#d8ff70}
+.btn-primary:disabled{opacity:.4;cursor:not-allowed}
+
+/* ── Stats row ── */
+.stats-row{
+  display:flex;gap:10px;
+}
+.stat-chip{
+  flex:1;background:var(--surface);border:1px solid var(--border);
+  border-radius:10px;padding:12px;text-align:center;
+}
+.stat-num{font-family:var(--serif);font-size:22px;color:var(--text)}
+.stat-lbl{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:2px}
+
+/* ── Root intro card ── */
+.root-intro{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:16px;overflow:hidden;
+}
+.root-header{
+  background:linear-gradient(135deg,rgba(96,200,240,.08),transparent);
+  padding:28px 24px 20px;border-bottom:1px solid var(--border);
+  text-align:center;
+}
+.root-chip{
+  display:inline-block;font-family:var(--mono);font-size:28px;color:var(--accent2);
+  background:rgba(96,200,240,.08);border:1px solid rgba(96,200,240,.2);
+  border-radius:10px;padding:8px 20px;margin-bottom:14px;letter-spacing:2px;
+}
+.root-meaning-en{font-family:var(--serif);font-size:22px;color:var(--text);margin-bottom:4px}
+.root-meaning-zh{font-size:16px;color:var(--muted)}
+.root-origin{font-family:var(--mono);font-size:13px;color:var(--dim);margin-top:8px}
+.root-body{padding:18px 20px}
+.root-hint{font-size:15px;color:var(--muted);line-height:1.7;
+  background:var(--surface2);border-radius:8px;padding:12px 14px}
+.root-hint strong{color:var(--accent2)}
+
+/* ── Word card ── */
+.word-cards{display:flex;flex-direction:column;gap:12px}
+.word-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:14px;padding:18px 20px;
+}
+.word-card-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:10px}
+.word-en{font-family:var(--serif);font-size:24px;color:var(--text)}
+.word-pos{font-family:var(--mono);font-size:13px;color:var(--dim);margin-top:4px}
+.word-phonetic{font-family:var(--mono);font-size:14px;color:var(--muted)}
+.word-breakdown{
+  display:flex;flex-wrap:wrap;gap:6px;margin:10px 0;
+}
+.break-part{
+  font-family:var(--mono);font-size:13px;
+  background:var(--surface2);border:1px solid var(--border);
+  border-radius:5px;padding:3px 9px;color:var(--muted);
+}
+.break-part .accent{color:var(--accent2)}
+.word-zh{font-size:17px;color:var(--text);margin:6px 0 2px}
+.word-example{font-size:13px;color:var(--dim);font-style:italic;line-height:1.6;border-left:2px solid var(--border);padding-left:10px;margin-top:8px}
+
+/* ── Quiz ── */
+.quiz-progress{
+  display:flex;gap:8px;align-items:center;margin-bottom:4px;
+}
+.quiz-dot{width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s}
+.quiz-dot.done{background:var(--accent)}
+.quiz-dot.current{background:var(--accent2)}
+.quiz-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:16px;padding:20px;
+}
+.quiz-q{font-size:17px;color:var(--text);line-height:1.6;margin-bottom:16px}
+.quiz-word{font-family:var(--serif);font-size:26px;color:var(--accent2);display:block;margin-bottom:4px}
+.quiz-opts{display:flex;flex-direction:column;gap:9px}
+.quiz-opt{
+  padding:13px 16px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-size:16px;color:var(--text);
+  cursor:pointer;transition:all .18s;text-align:left;font-family:var(--sans);
+  display:flex;align-items:center;gap:10px;
+}
+.quiz-opt:hover:not(:disabled){border-color:var(--accent2);background:rgba(96,200,240,.06)}
+.quiz-opt.correct{border-color:var(--accent)!important;background:rgba(200,240,96,.08)!important;color:var(--accent)}
+.quiz-opt.wrong{border-color:var(--red)!important;background:rgba(240,100,100,.06)!important;color:var(--red)}
+.quiz-opt:disabled{cursor:default}
+.opt-key{font-family:var(--mono);font-size:13px;color:var(--dim);min-width:20px}
+.quiz-feedback{
+  margin-top:14px;padding:12px 14px;border-radius:10px;font-size:15px;line-height:1.6;
+}
+.quiz-feedback.ok{background:rgba(200,240,96,.08);border:1px solid rgba(200,240,96,.2);color:var(--accent)}
+.quiz-feedback.bad{background:rgba(240,100,100,.07);border:1px solid rgba(240,100,100,.2);color:var(--text)}
+.quiz-feedback.bad .fb-breakdown{color:var(--muted);font-size:14px;margin-top:6px;line-height:1.8}
+.quiz-feedback.bad .fb-breakdown strong{color:var(--accent2)}
+.next-btn{
+  width:100%;padding:12px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-family:var(--sans);font-size:16px;
+  color:var(--text);cursor:pointer;margin-top:10px;transition:all .18s;
+}
+.next-btn:hover{border-color:var(--accent2);color:var(--accent2)}
+
+/* ── Unlock screen ── */
+.unlock-card{
+  background:linear-gradient(135deg,rgba(200,240,96,.06),rgba(96,200,240,.04));
+  border:1px solid rgba(200,240,96,.25);border-radius:18px;
+  padding:32px 24px;text-align:center;
+}
+.unlock-icon{font-size:52px;margin-bottom:12px}
+.unlock-title{font-family:var(--serif);font-size:26px;color:var(--text);margin-bottom:6px}
+.unlock-root{
+  display:inline-block;font-family:var(--mono);font-size:22px;color:var(--accent2);
+  background:rgba(96,200,240,.08);border:1px solid rgba(96,200,240,.2);
+  border-radius:8px;padding:6px 18px;margin:10px 0 6px;
+}
+.unlock-meaning{font-size:16px;color:var(--muted);margin-bottom:16px}
+.unlock-badge{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--mono);font-size:13px;color:var(--accent);
+  background:rgba(200,240,96,.08);border:1px solid rgba(200,240,96,.15);
+  border-radius:20px;padding:5px 14px;margin-bottom:20px;
+}
+
+/* ── Completion screen ── */
+.done-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:18px;padding:28px 24px;text-align:center;
+}
+.done-title{font-family:var(--serif);font-size:28px;color:var(--text);margin-bottom:6px}
+.done-stats{
+  display:flex;justify-content:center;gap:24px;
+  margin:20px 0;
+}
+.done-stat{text-align:center}
+.done-stat .n{font-family:var(--serif);font-size:32px;color:var(--accent)}
+.done-stat .l{font-family:var(--mono);font-size:13px;color:var(--muted);margin-top:2px}
+.done-next{
+  font-family:var(--mono);font-size:13px;color:var(--dim);
+  background:var(--surface2);border-radius:8px;padding:10px 14px;
+  margin:16px 0;line-height:1.7;
+}
+
+/* ── Root collection ── */
+.collection-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.root-cell{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:10px;padding:12px 10px;text-align:center;cursor:pointer;
+  transition:all .18s;
+}
+.root-cell.locked{opacity:.4;cursor:default}
+.root-cell:not(.locked):hover{border-color:var(--accent2)}
+.root-cell-icon{font-size:22px;margin-bottom:4px}
+.root-cell-word{font-family:var(--mono);font-size:15px;color:var(--accent2)}
+.root-cell-zh{font-size:12px;color:var(--muted);margin-top:2px}
+.root-cell-lv{
+  font-family:var(--mono);font-size:11px;margin-top:5px;
+}
+.lv1{color:var(--dim)} .lv2{color:var(--muted)} .lv3{color:var(--orange)}
+.lv4{color:var(--accent)}
+
+/* ── nav tabs ── */
+.tab-bar{
+  display:flex;gap:0;border-bottom:1px solid var(--border);
+  padding:0 20px;margin-bottom:4px;
+}
+.tab{
+  padding:10px 16px;font-family:var(--mono);font-size:14px;color:var(--muted);
+  cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .15s;
+}
+.tab.active{color:var(--accent2);border-bottom-color:var(--accent2)}
+
+/* ── misc ── */
+.divider{height:1px;background:var(--border);margin:10px 0}
+.empty-state{text-align:center;padding:40px 20px;color:var(--muted);font-size:15px;line-height:2}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="header">
+    <a href="index.html" class="back-btn">←</a>
+    <div class="header-title">字根探索</div>
+    <div class="header-sub" id="headerSub">載入中…</div>
+  </div>
+  <div class="tab-bar">
+    <div class="tab active" id="tabToday" onclick="switchTab('today')">今日任務</div>
+    <div class="tab" id="tabCollection" onclick="switchTab('collection')">字根圖鑑</div>
+  </div>
+  <div id="screen"></div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════
+// CONFIG & DATA
+// ══════════════════════════════════════════════
+const STORAGE_KEY = 'wr_roots_progress';
+const STAGES = [0,1,3,7,14,30,90]; // days per stage
+
+// Built-in root groups (subset, expandable)
+const ROOT_GROUPS = [{"id":"facere","root":"facere","origin":"Latin","meaning":"to do/make","meaning_zh":"做、製造","hint":"看到 <strong>facere</strong> 就聯想「做、製造」。這個字根來自 Latin，是 9 個常用英文單字的核心。","words":[{"word":"benefit","pos":"noun/verb","phonetic":"/ˈbɛnɪfɪt/","zh":"好處","breakdown":[{"part":"facere","hl":true}],"breakdown_zh":"做、製造","example":"Exercise has many benefits for your health."},{"word":"factor","pos":"noun","phonetic":"/ˈfæktə/","zh":"因素","breakdown":[{"part":"facere","hl":true}],"breakdown_zh":"做、製造","example":"Diet is a key factor in overall health."},{"word":"identify","pos":"verb","phonetic":"/aɪˈdɛntɪfaɪ/","zh":"識別","breakdown":[{"part":"idem","hl":false},{"part":"facere","hl":true}],"breakdown_zh":"相同 + 製造","example":"Can you identify the bird in this picture?"}],"quizzes":[{"q":"benefit 是什麼意思？","word":"benefit","opts":["好處","含蓄的","保證","公式; 配方; 固定"],"ans":0,"feedback_root":"facere（做、製造）→ 好處"},{"q":"factor 是什麼意思？","word":"factor","opts":["百分之……","進行中的","因素","特權"],"ans":2,"feedback_root":"facere（做、製造）→ 因素"},{"q":"identify 是什麼意思？","word":"identify","opts":["專門小組","識別","佔主導地位的","加速"],"ans":1,"feedback_root":"facere（做、製造）→ 識別"}]},{"id":"cedere","root":"cedere","origin":"Latin","meaning":"to yield, go away","meaning_zh":"讓步、離開","hint":"看到 <strong>cedere</strong> 就聯想「讓步、離開」。這個字根來自 Latin，是 8 個常用英文單字的核心。","words":[{"word":"cease","pos":"verb","phonetic":"/siːs/","zh":"停止","breakdown":[{"part":"cedere","hl":true}],"breakdown_zh":"讓步、離開","example":"The government ordered the factory to cease operations due to environmental pollution."},{"word":"concede","pos":"verb","phonetic":"/kənˈsiːd/","zh":"（勉強）承認","breakdown":[{"part":"cedere","hl":true}],"breakdown_zh":"讓步、離開","example":"The candidate refused to concede the election until every single vote was counted."},{"word":"precede","pos":"verb","phonetic":"/prɪˈsiːd/","zh":"在……之前發生","breakdown":[{"part":"cedere","hl":true}],"breakdown_zh":"前進","example":"A brief musical introduction will precede the president's formal address."}],"quizzes":[{"q":"cease 是什麼意思？","word":"cease","opts":["堅持","停止","假說","增強"],"ans":1,"feedback_root":"cedere（讓步、離開）→ 停止"},{"q":"concede 是什麼意思？","word":"concede","opts":["（勉強）承認","最優良的","積極的","適應"],"ans":0,"feedback_root":"cedere（讓步、離開）→ （勉強）承認"},{"q":"precede 是什麼意思？","word":"precede","opts":["項目","對比","豐富的","在……之前發生"],"ans":3,"feedback_root":"cedere（讓步、離開）→ 在……之前發生"}]},{"id":"capere","root":"capere","origin":"Latin","meaning":"to take/seize","meaning_zh":"抓取","hint":"看到 <strong>capere</strong> 就聯想「抓取」。這個字根來自 Latin，是 7 個常用英文單字的核心。","words":[{"word":"anticipate","pos":"verb","phonetic":"/ænˈtɪsɪpeɪt/","zh":"預期","breakdown":[{"part":"capere","hl":true}],"breakdown_zh":"抓取","example":"We anticipate high demand for the new product."},{"word":"capacity","pos":"noun","phonetic":"/kəˈpæsɪti/","zh":"容量","breakdown":[{"part":"capax","hl":false},{"part":"capere","hl":true}],"breakdown_zh":"能容納 + 抓取、容納","example":"The stadium has a capacity of 80,000 people."},{"word":"concept","pos":"noun","phonetic":"/ˈkɒnsɛpt/","zh":"概念","breakdown":[{"part":"capere","hl":true}],"breakdown_zh":"抓取、理解","example":"The concept of democracy is taught in schools."}],"quizzes":[{"q":"anticipate 是什麼意思？","word":"anticipate","opts":["奉獻","預期","固有的","開始"],"ans":1,"feedback_root":"capere（抓取）→ 預期"},{"q":"capacity 是什麼意思？","word":"capacity","opts":["層","容量","出版","（勉強）承認"],"ans":1,"feedback_root":"capere（抓取）→ 容量"},{"q":"concept 是什麼意思？","word":"concept","opts":["概念","功能","適當的","尋找"],"ans":0,"feedback_root":"capere（抓取）→ 概念"}]},{"id":"vertere","root":"vertere","origin":"Latin","meaning":"to turn","meaning_zh":"轉向","hint":"看到 <strong>vertere</strong> 就聯想「轉向」。這個字根來自 Latin，是 6 個常用英文單字的核心。","words":[{"word":"controversy","pos":"noun","phonetic":"/ˈkɒntrəvɜːsi/","zh":"爭議","breakdown":[{"part":"vertere","hl":true}],"breakdown_zh":"轉向","example":"The new law sparked major controversy."},{"word":"diversity","pos":"noun","phonetic":"/daɪˈvɜːsɪti/","zh":"多樣性","breakdown":[{"part":"vertere","hl":true}],"breakdown_zh":"轉向","example":"The school values cultural diversity."},{"word":"controversial","pos":"adjective","phonetic":"/ˌkɑːntrəˈvɜːrʃl/","zh":"有爭議的","breakdown":[{"part":"vertere","hl":true}],"breakdown_zh":"轉向","example":"The government's decision to raise retirement age remains deeply controversial."}],"quizzes":[{"q":"controversy 是什麼意思？","word":"controversy","opts":["基本的","爭議","比例","感知"],"ans":1,"feedback_root":"vertere（轉向）→ 爭議"},{"q":"diversity 是什麼意思？","word":"diversity","opts":["發展","反駁","識別","多樣性"],"ans":3,"feedback_root":"vertere（轉向）→ 多樣性"},{"q":"controversial 是什麼意思？","word":"controversial","opts":["主動性","信賴","有爭議的","廢除（制度、法律等）"],"ans":2,"feedback_root":"vertere（轉向）→ 有爭議的"}]},{"id":"plicare","root":"plicare","origin":"Latin","meaning":"to fold","meaning_zh":"折疊","hint":"看到 <strong>plicare</strong> 就聯想「折疊」。這個字根來自 Latin，是 5 個常用英文單字的核心。","words":[{"word":"explicit","pos":"adjective","phonetic":"/ɪkˈsplɪsɪt/","zh":"明確的","breakdown":[{"part":"plicare","hl":true}],"breakdown_zh":"折疊","example":"The instructions were explicit and easy to follow."},{"word":"exploit","pos":"verb/noun","phonetic":"/ɪkˈsplɔɪt/","zh":"剝削","breakdown":[{"part":"plicare","hl":true}],"breakdown_zh":"展開","example":"Companies sometimes exploit cheap labor overseas."},{"word":"implicit","pos":"adjective","phonetic":"/ɪmˈplɪsɪt/","zh":"含蓄的","breakdown":[{"part":"plicare","hl":true}],"breakdown_zh":"折疊","example":"There was an implicit agreement between them."}],"quizzes":[{"q":"explicit 是什麼意思？","word":"explicit","opts":["禁止","概念","明確的","全球的"],"ans":2,"feedback_root":"plicare（折疊）→ 明確的"},{"q":"exploit 是什麼意思？","word":"exploit","opts":["剝削","模式","公式; 配方; 固定","承認"],"ans":0,"feedback_root":"plicare（折疊）→ 剝削"},{"q":"implicit 是什麼意思？","word":"implicit","opts":["達到","含蓄的","間隔","邏輯"],"ans":1,"feedback_root":"plicare（折疊）→ 含蓄的"}]},{"id":"jacere","root":"jacere","origin":"Latin","meaning":"to lie/throw","meaning_zh":"躺著、靠著","hint":"看到 <strong>jacere</strong> 就聯想「躺著、靠著」。這個字根來自 Latin，是 4 個常用英文單字的核心。","words":[{"word":"adjacent","pos":"adjective","phonetic":"/əˈdʒeɪsənt/","zh":"相鄰的","breakdown":[{"part":"jacere","hl":true}],"breakdown_zh":"躺著、靠著","example":"The library is adjacent to the main building."},{"word":"objective","pos":"noun","phonetic":"/əbˈdʒek.tɪv/","zh":"目標","breakdown":[{"part":"jacere","hl":true}],"breakdown_zh":"投擲","example":"The primary objective of the marketing campaign is to attract younger customers to the brand."},{"word":"project","pos":"noun","phonetic":"/ˈprɑːdʒekt/","zh":"計畫","breakdown":[{"part":"jacere","hl":true}],"breakdown_zh":"投擲","example":"The government launched a major research project to study renewable energy sources."}],"quizzes":[{"q":"adjacent 是什麼意思？","word":"adjacent","opts":["先前的","相鄰的","結果","定義"],"ans":1,"feedback_root":"jacere（躺著、靠著）→ 相鄰的"},{"q":"objective 是什麼意思？","word":"objective","opts":["潛在的","目標","明確的","最小的"],"ans":1,"feedback_root":"jacere（躺著、靠著）→ 目標"},{"q":"project 是什麼意思？","word":"project","opts":["調查","衝突","計畫","權威"],"ans":2,"feedback_root":"jacere（躺著、靠著）→ 計畫"}]},{"id":"specere","root":"specere","origin":"Latin","meaning":"to look","meaning_zh":"看、觀察","hint":"看到 <strong>specere</strong> 就聯想「看、觀察」。這個字根來自 Latin，是 4 個常用英文單字的核心。","words":[{"word":"aspect","pos":"noun","phonetic":"/ˈæspekt/","zh":"方面","breakdown":[{"part":"specere","hl":true}],"breakdown_zh":"看、觀察","example":"Consider every aspect of the problem before deciding."},{"word":"inspect","pos":"verb","phonetic":"/ɪnˈspekt/","zh":"檢查","breakdown":[{"part":"specere","hl":true}],"breakdown_zh":"看","example":"Customs officials will thoroughly inspect every container arriving at the international port."},{"word":"perspective","pos":"noun","phonetic":"/pəˈspek.tɪv/","zh":"觀點","breakdown":[{"part":"specere","hl":true}],"breakdown_zh":"看","example":"Travel helps broaden your perspective by exposing you to different cultures and ways of life."}],"quizzes":[{"q":"aspect 是什麼意思？","word":"aspect","opts":["增強","尋找","方面","例行公事"],"ans":2,"feedback_root":"specere（看、觀察）→ 方面"},{"q":"inspect 是什麼意思？","word":"inspect","opts":["參數","主動性","檢查","在……之前發生"],"ans":2,"feedback_root":"specere（看、觀察）→ 檢查"},{"q":"perspective 是什麼意思？","word":"perspective","opts":["加速","觀點","中級的","然而"],"ans":1,"feedback_root":"specere（看、觀察）→ 觀點"}]},{"id":"cura","root":"cura","origin":"Latin","meaning":"care","meaning_zh":"細心、照料","hint":"看到 <strong>cura</strong> 就聯想「細心、照料」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"accurate","pos":"adjective","phonetic":"/ˈækjərət/","zh":"精確的","breakdown":[{"part":"cura","hl":true}],"breakdown_zh":"細心、照料","example":"The weather forecast was accurate this time."},{"word":"secure","pos":"adjective","phonetic":"/səˈkjʊr/","zh":"安全的","breakdown":[{"part":"cura","hl":true}],"breakdown_zh":"憂慮；照顧","example":"Please make sure that all windows are secure before you leave the building."},{"word":"security","pos":"noun","phonetic":"/səˈkjʊrəti/","zh":"安全","breakdown":[{"part":"cura","hl":true}],"breakdown_zh":"憂慮","example":"The stadium upgraded its security system ahead of the international soccer match."}],"quizzes":[{"q":"accurate 是什麼意思？","word":"accurate","opts":["欣賞","程序","接近","精確的"],"ans":3,"feedback_root":"cura（細心、照料）→ 精確的"},{"q":"secure 是什麼意思？","word":"secure","opts":["協定","根本的","安全的","保留"],"ans":2,"feedback_root":"cura（細心、照料）→ 安全的"},{"q":"security 是什麼意思？","word":"security","opts":["立法","安全","人造的","模式"],"ans":1,"feedback_root":"cura（細心、照料）→ 安全"}]},{"id":"agere","root":"agere","origin":"Latin","meaning":"to drive/act","meaning_zh":"驅動、行動","hint":"看到 <strong>agere</strong> 就聯想「驅動、行動」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"ambiguous","pos":"adjective","phonetic":"/æmˈbɪɡjuəs/","zh":"模糊的","breakdown":[{"part":"agere","hl":true}],"breakdown_zh":"驅動、行動","example":"His answer was ambiguous — we couldn't tell if he agreed."},{"word":"interact","pos":"verb","phonetic":"/ˌɪn.təˈrækt/","zh":"互動","breakdown":[{"part":"agere","hl":true}],"breakdown_zh":"做、驅動","example":"The teacher used educational games to encourage students to interact more with one another during class."},{"word":"react","pos":"verb","phonetic":"/riˈækt/","zh":"反應","breakdown":[{"part":"agere","hl":true}],"breakdown_zh":"做；行動","example":"Investors reacted quickly to the news, causing the stock market to drop."}],"quizzes":[{"q":"ambiguous 是什麼意思？","word":"ambiguous","opts":["模糊的","政策","負面的","哲學"],"ans":0,"feedback_root":"agere（驅動、行動）→ 模糊的"},{"q":"interact 是什麼意思？","word":"interact","opts":["類別","協定","互動","加強"],"ans":2,"feedback_root":"agere（驅動、行動）→ 互動"},{"q":"react 是什麼意思？","word":"react","opts":["反應","避難","研究","執照"],"ans":0,"feedback_root":"agere（驅動、行動）→ 反應"}]},{"id":"sumere","root":"sumere","origin":"Latin","meaning":"to take up","meaning_zh":"拿取、接收","hint":"看到 <strong>sumere</strong> 就聯想「拿取、接收」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"assume","pos":"verb","phonetic":"/əˈsjuːm/","zh":"假設","breakdown":[{"part":"sumere","hl":true}],"breakdown_zh":"拿取、接收","example":"Don't assume you know what someone is thinking."},{"word":"consume","pos":"verb","phonetic":"/kənˈsuːm/","zh":"消耗","breakdown":[{"part":"sumere","hl":true}],"breakdown_zh":"拿取","example":"The large old vehicle tends to consume a massive amount of fuel on highways."},{"word":"presume","pos":"verb","phonetic":"/prɪˈzjuːm/","zh":"推定","breakdown":[{"part":"sumere","hl":true}],"breakdown_zh":"拿取","example":"In legal systems, a suspect is presumed innocent until proven guilty in a court of law."}],"quizzes":[{"q":"assume 是什麼意思？","word":"assume","opts":["模擬","強烈","承認","假設"],"ans":3,"feedback_root":"sumere（拿取、接收）→ 假設"},{"q":"consume 是什麼意思？","word":"consume","opts":["造成（威脅等）","消耗","感知","（勉強）承認"],"ans":1,"feedback_root":"sumere（拿取、接收）→ 消耗"},{"q":"presume 是什麼意思？","word":"presume","opts":["恢復","時間表","推定","有抱負的"],"ans":2,"feedback_root":"sumere（拿取、接收）→ 推定"}]},{"id":"stare","root":"stare","origin":"Latin","meaning":"to stand","meaning_zh":"站立","hint":"看到 <strong>stare</strong> 就聯想「站立」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"circumstance","pos":"noun","phonetic":"/ˈsɜːkəmstæns/","zh":"情況","breakdown":[{"part":"stare","hl":true}],"breakdown_zh":"站立","example":"Under the circumstances, we had no choice."},{"word":"contrast","pos":"noun/verb","phonetic":"/ˈkɒntrɑːst/","zh":"對比","breakdown":[{"part":"stare","hl":true}],"breakdown_zh":"站立","example":"The contrast between the two paintings is striking."},{"word":"instance","pos":"noun/verb","phonetic":"/ˈɪnstəns/","zh":"例子","breakdown":[{"part":"stare","hl":true}],"breakdown_zh":"站立","example":"This is just one isolated instance of computer failure, not a systemic network defect."}],"quizzes":[{"q":"circumstance 是什麼意思？","word":"circumstance","opts":["高效率的","歧視","追求","情況"],"ans":3,"feedback_root":"stare（站立）→ 情況"},{"q":"contrast 是什麼意思？","word":"contrast","opts":["歲入","對比","徵收（稅款等）","預測"],"ans":1,"feedback_root":"stare（站立）→ 對比"},{"q":"instance 是什麼意思？","word":"instance","opts":["例子","互動","增強","推定"],"ans":0,"feedback_root":"stare（站立）→ 例子"}]},{"id":"sequi","root":"sequi","origin":"Latin","meaning":"to follow","meaning_zh":"跟隨","hint":"看到 <strong>sequi</strong> 就聯想「跟隨」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"consequence","pos":"noun","phonetic":"/ˈkɒnsɪkwəns/","zh":"後果","breakdown":[{"part":"sequi","hl":true}],"breakdown_zh":"跟隨","example":"Cheating has serious consequences."},{"word":"pursue","pos":"verb","phonetic":"/pərˈsuː/","zh":"追求","breakdown":[{"part":"sequi","hl":true}],"breakdown_zh":"跟隨","example":"She decided to pursue a degree in international relations at a top university."},{"word":"sequence","pos":"noun","phonetic":"/ˈsiːkwəns/","zh":"順序","breakdown":[{"part":"sequi","hl":true}],"breakdown_zh":"跟隨","example":"The computer program executes the mathematical instructions in a logical sequence."}],"quizzes":[{"q":"consequence 是什麼意思？","word":"consequence","opts":["後果","質化的","達到","互動"],"ans":0,"feedback_root":"sequi（跟隨）→ 後果"},{"q":"pursue 是什麼意思？","word":"pursue","opts":["推定","創新","追求","身體的"],"ans":2,"feedback_root":"sequi（跟隨）→ 追求"},{"q":"sequence 是什麼意思？","word":"sequence","opts":["順序","明確的","拒絕","撤退"],"ans":0,"feedback_root":"sequi（跟隨）→ 順序"}]},{"id":"videre","root":"videre","origin":"Latin","meaning":"to see","meaning_zh":"看見","hint":"看到 <strong>videre</strong> 就聯想「看見」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"evidence","pos":"noun","phonetic":"/ˈɛvɪdəns/","zh":"證據","breakdown":[{"part":"videre","hl":true}],"breakdown_zh":"看見","example":"The police found evidence at the crime scene."},{"word":"evident","pos":"adjective","phonetic":"/ˈevɪdənt/","zh":"明顯的","breakdown":[{"part":"videre","hl":true}],"breakdown_zh":"看見","example":"It was evident from his facial expression that he was extremely upset by the news."},{"word":"revise","pos":"verb","phonetic":"/rɪˈvaɪz/","zh":"修訂","breakdown":[{"part":"videre","hl":true}],"breakdown_zh":"觀看","example":"The authors had to revise the textbook chapter based on feedback from professors."}],"quizzes":[{"q":"evidence 是什麼意思？","word":"evidence","opts":["證據","時間表","路線","網路"],"ans":0,"feedback_root":"videre（看見）→ 證據"},{"q":"evident 是什麼意思？","word":"evident","opts":["裝置","有彈性的","媒介","明顯的"],"ans":3,"feedback_root":"videre（看見）→ 明顯的"},{"q":"revise 是什麼意思？","word":"revise","opts":["佔領","潛在的","修訂","平行的"],"ans":2,"feedback_root":"videre（看見）→ 修訂"}]},{"id":"volvere","root":"volvere","origin":"Latin","meaning":"to roll/turn","meaning_zh":"滾動、展開","hint":"看到 <strong>volvere</strong> 就聯想「滾動、展開」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"evolve","pos":"verb","phonetic":"/ɪˈvɒlv/","zh":"演化","breakdown":[{"part":"volvere","hl":true}],"breakdown_zh":"滾動、展開","example":"Technology evolves faster every decade."},{"word":"involve","pos":"verb","phonetic":"/ɪnˈvɒlv/","zh":"包含","breakdown":[{"part":"volvere","hl":true}],"breakdown_zh":"滾動","example":"Researching history involves analyzing primary sources as well as reading modern textbooks."},{"word":"revolution","pos":"noun","phonetic":"/ˌrevəˈluːʃn/","zh":"革命","breakdown":[{"part":"volvere","hl":true}],"breakdown_zh":"滾動","example":"The industrial revolution marked a major turning point in human history and lifestyle."}],"quizzes":[{"q":"evolve 是什麼意思？","word":"evolve","opts":["巨大的","顛倒","演化","被動的"],"ans":2,"feedback_root":"volvere（滾動、展開）→ 演化"},{"q":"involve 是什麼意思？","word":"involve","opts":["最低限度","心理學","階段","包含"],"ans":3,"feedback_root":"volvere（滾動、展開）→ 包含"},{"q":"revolution 是什麼意思？","word":"revolution","opts":["內部的","革命","消耗","權威"],"ans":1,"feedback_root":"volvere（滾動、展開）→ 革命"}]},{"id":"plere","root":"plere","origin":"Latin","meaning":"to fill","meaning_zh":"填充","hint":"看到 <strong>plere</strong> 就聯想「填充」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"implement","pos":"verb","phonetic":"/ˈɪmplɪmɛnt/","zh":"實施","breakdown":[{"part":"plere","hl":true}],"breakdown_zh":"填充","example":"The new policy will be implemented next month."},{"word":"manipulate","pos":"verb","phonetic":"/məˈnɪpjuleɪt/","zh":"操縱","breakdown":[{"part":"manus","hl":false},{"part":"plere","hl":true}],"breakdown_zh":"手 + 填充","example":"He manipulated the data to support his theory."},{"word":"complement","pos":"verb/noun","phonetic":"/ˈkɑːmplɪment/","zh":"補充","breakdown":[{"part":"plere","hl":true}],"breakdown_zh":"填滿","example":"The red wine was selected specifically to complement the rich flavor of the steak."}],"quizzes":[{"q":"implement 是什麼意思？","word":"implement","opts":["源自","產生","實施","抑制"],"ans":2,"feedback_root":"plere（填充）→ 實施"},{"q":"manipulate 是什麼意思？","word":"manipulate","opts":["檢查","講座","完全放棄","操縱"],"ans":3,"feedback_root":"plere（填充）→ 操縱"},{"q":"complement 是什麼意思？","word":"complement","opts":["演化","創新","補充","說服"],"ans":2,"feedback_root":"plere（填充）→ 補充"}]},{"id":"tenere","root":"tenere","origin":"Latin","meaning":"to hold","meaning_zh":"握住","hint":"看到 <strong>tenere</strong> 就聯想「握住」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"maintain","pos":"verb","phonetic":"/meɪnˈteɪn/","zh":"維持","breakdown":[{"part":"manus","hl":false},{"part":"tenere","hl":true}],"breakdown_zh":"手 + 握住","example":"It's important to maintain a healthy lifestyle."},{"word":"obtain","pos":"verb","phonetic":"/əbˈteɪn/","zh":"獲得","breakdown":[{"part":"tenere","hl":true}],"breakdown_zh":"持有","example":"In order to complete the research, we need to obtain permission to access the national archives."},{"word":"retain","pos":"verb","phonetic":"/rɪˈteɪn/","zh":"保留","breakdown":[{"part":"tenere","hl":true}],"breakdown_zh":"握住","example":"The company managed to retain its top position in the global market despite tough competition."}],"quizzes":[{"q":"maintain 是什麼意思？","word":"maintain","opts":["納入","爭議","最優良的","維持"],"ans":3,"feedback_root":"tenere（握住）→ 維持"},{"q":"obtain 是什麼意思？","word":"obtain","opts":["至關重要的","獲得","修訂","援引（法律等）"],"ans":1,"feedback_root":"tenere（握住）→ 獲得"},{"q":"retain 是什麼意思？","word":"retain","opts":["保留","時期","武斷的","基礎"],"ans":0,"feedback_root":"tenere（握住）→ 保留"}]},{"id":"movere","root":"movere","origin":"Latin","meaning":"to move","meaning_zh":"移動","hint":"看到 <strong>movere</strong> 就聯想「移動」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"motivation","pos":"noun","phonetic":"/ˌməʊtɪˈveɪʃən/","zh":"動機","breakdown":[{"part":"movere","hl":true},{"part":"-tion","hl":false}],"breakdown_zh":"移動 + 行為狀態","example":"What is your motivation for studying English?"},{"word":"promote","pos":"verb","phonetic":"/prəˈmoʊt/","zh":"促進","breakdown":[{"part":"movere","hl":true}],"breakdown_zh":"移動","example":"The campaign aims to promote healthy eating habits among young children."},{"word":"remove","pos":"verb","phonetic":"/rɪˈmuːv/","zh":"移開","breakdown":[{"part":"movere","hl":true}],"breakdown_zh":"移動","example":"You need to remove your shoes before entering the traditional Japanese restaurant."}],"quizzes":[{"q":"motivation 是什麼意思？","word":"motivation","opts":["最小的","演化","動機","重疊"],"ans":2,"feedback_root":"movere（移動）→ 動機"},{"q":"promote 是什麼意思？","word":"promote","opts":["前景","促進","講座","最小的"],"ans":1,"feedback_root":"movere（移動）→ 促進"},{"q":"remove 是什麼意思？","word":"remove","opts":["移開","相關的","中級的","造成（威脅等）"],"ans":0,"feedback_root":"movere（移動）→ 移開"}]},{"id":"stringere","root":"stringere","origin":"Latin","meaning":"to bind tight","meaning_zh":"綁緊、拉緊","hint":"看到 <strong>stringere</strong> 就聯想「綁緊、拉緊」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"constrain","pos":"verb","phonetic":"/kənˈstreɪn/","zh":"限制","breakdown":[{"part":"stringere","hl":true}],"breakdown_zh":"綁緊、拉緊","example":"Lack of funding will severely constrain the university's ability to expand research."},{"word":"restrain","pos":"verb","phonetic":"/rɪˈstreɪn/","zh":"抑制","breakdown":[{"part":"stringere","hl":true}],"breakdown_zh":"拉緊","example":"He had to restrain his anger when the customer started shouting rudely."},{"word":"restrict","pos":"verb","phonetic":"/rɪˈstrɪkt/","zh":"限制","breakdown":[{"part":"stringere","hl":true}],"breakdown_zh":"拉緊","example":"The new law will restrict the sale of alcohol to minors under eighteen."}],"quizzes":[{"q":"constrain 是什麼意思？","word":"constrain","opts":["限制","身體的","專長","程序"],"ans":0,"feedback_root":"stringere（綁緊、拉緊）→ 限制"},{"q":"restrain 是什麼意思？","word":"restrain","opts":["部門","避難","抑制","提煉"],"ans":2,"feedback_root":"stringere（綁緊、拉緊）→ 抑制"},{"q":"restrict 是什麼意思？","word":"restrict","opts":["專業的","網路","有抱負的","限制"],"ans":3,"feedback_root":"stringere（綁緊、拉緊）→ 限制"}]},{"id":"medius","root":"medius","origin":"Latin","meaning":"middle","meaning_zh":"中間","hint":"看到 <strong>medius</strong> 就聯想「中間」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"intermediate","pos":"adjective","phonetic":"/ˌɪn.təˈmiː.di.ət/","zh":"中級的","breakdown":[{"part":"medius","hl":true}],"breakdown_zh":"中間","example":"This textbook is designed for intermediate students who already have a basic understanding of English grammar."},{"word":"media","pos":"noun","phonetic":"/ˈmiː.di.ə/","zh":"媒體","breakdown":[{"part":"medius","hl":true}],"breakdown_zh":"中間","example":"The news media played a critical role in bringing the political scandal to light."},{"word":"medium","pos":"noun","phonetic":"/ˈmiː.di.əm/","zh":"媒介","breakdown":[{"part":"medius","hl":true}],"breakdown_zh":"中間","example":"Water is an excellent medium for conducting sound waves over long distances."}],"quizzes":[{"q":"intermediate 是什麼意思？","word":"intermediate","opts":["創新","否認","中級的","影響"],"ans":2,"feedback_root":"medius（中間）→ 中級的"},{"q":"media 是什麼意思？","word":"media","opts":["方面","整合","邏輯","媒體"],"ans":3,"feedback_root":"medius（中間）→ 媒體"},{"q":"medium 是什麼意思？","word":"medium","opts":["監視","反射","拒絕","媒介"],"ans":3,"feedback_root":"medius（中間）→ 媒介"}]},{"id":"lex","root":"lex","origin":"Latin","meaning":"law","meaning_zh":"法律","hint":"看到 <strong>lex</strong> 就聯想「法律」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"legal","pos":"adjective","phonetic":"/ˈliː.ɡəl/","zh":"法律的","breakdown":[{"part":"lex","hl":true}],"breakdown_zh":"法律","example":"You should seek professional legal advice before signing a contract to buy property."},{"word":"legislate","pos":"verb","phonetic":"/ˈledʒ.ɪ.sleɪt/","zh":"立法","breakdown":[{"part":"lex","hl":true},{"part":"latus","hl":false}],"breakdown_zh":"法律 + 攜帶","example":"The government intends to legislate against discrimination in the workplace this year."},{"word":"privilege","pos":"noun","phonetic":"/ˈprɪvəlɪdʒ/","zh":"特權","breakdown":[{"part":"privus","hl":false},{"part":"lex","hl":true}],"breakdown_zh":"私人的 + 法律","example":"Higher education should be a universal right rather than a privilege for the wealthy."}],"quizzes":[{"q":"legal 是什麼意思？","word":"legal","opts":["法律的","計畫","媒介","相互的"],"ans":0,"feedback_root":"lex（法律）→ 法律的"},{"q":"legislate 是什麼意思？","word":"legislate","opts":["議題","預測","定義","立法"],"ans":3,"feedback_root":"lex（法律）→ 立法"},{"q":"privilege 是什麼意思？","word":"privilege","opts":["特權","提及","革命","促進"],"ans":0,"feedback_root":"lex（法律）→ 特權"}]},{"id":"levare","root":"levare","origin":"Latin","meaning":"to raise","meaning_zh":"抬起","hint":"看到 <strong>levare</strong> 就聯想「抬起」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"levy","pos":"verb","phonetic":"/ˈlev.i/","zh":"徵收（稅款等）","breakdown":[{"part":"levare","hl":true}],"breakdown_zh":"抬起","example":"The local council decided to levy a new tax on plastic packaging to fund recycling programs."},{"word":"relevant","pos":"adjective","phonetic":"/ˈreləvənt/","zh":"相關的","breakdown":[{"part":"levare","hl":true}],"breakdown_zh":"舉起","example":"Please include all relevant experience on your resume when applying for the job."},{"word":"relief","pos":"noun","phonetic":"/rɪˈliːf/","zh":"解脫","breakdown":[{"part":"levare","hl":true}],"breakdown_zh":"舉起；減輕","example":"It was a huge relief to hear that everyone survived the earthquake safely."}],"quizzes":[{"q":"levy 是什麼意思？","word":"levy","opts":["貨幣","徵收（稅款等）","類別","證據"],"ans":1,"feedback_root":"levare（抬起）→ 徵收（稅款等）"},{"q":"relevant 是什麼意思？","word":"relevant","opts":["前景","檢查","相關的","澄清"],"ans":2,"feedback_root":"levare（抬起）→ 相關的"},{"q":"relief 是什麼意思？","word":"relief","opts":["澄清","認出","解脫","否認"],"ans":2,"feedback_root":"levare（抬起）→ 解脫"}]},{"id":"minimus","root":"minimus","origin":"Latin","meaning":"least","meaning_zh":"最少","hint":"看到 <strong>minimus</strong> 就聯想「最少」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"minimal","pos":"adjective","phonetic":"/ˈmɪn.ɪ.məl/","zh":"最小的","breakdown":[{"part":"minimus","hl":true}],"breakdown_zh":"最少","example":"The safety improvements were completed with minimal disruption to daily office routines."},{"word":"minimize","pos":"verb","phonetic":"/ˈmɪn.ɪ.maɪz/","zh":"使減到最少","breakdown":[{"part":"minimus","hl":true}],"breakdown_zh":"最少","example":"Drivers can minimize the risk of accidents by strictly obeying speed limits."},{"word":"minimum","pos":"noun","phonetic":"/ˈmɪn.ɪ.məm/","zh":"最低限度","breakdown":[{"part":"minimus","hl":true}],"breakdown_zh":"最少","example":"Applicants must have a minimum of three years of professional work experience."}],"quizzes":[{"q":"minimal 是什麼意思？","word":"minimal","opts":["最小的","選擇","揭露","辯論"],"ans":0,"feedback_root":"minimus（最少）→ 最小的"},{"q":"minimize 是什麼意思？","word":"minimize","opts":["引用","使減到最少","補償","主動性"],"ans":1,"feedback_root":"minimus（最少）→ 使減到最少"},{"q":"minimum 是什麼意思？","word":"minimum","opts":["撤退","複雜的","最低限度","發生; 出現; 存在"],"ans":2,"feedback_root":"minimus（最少）→ 最低限度"}]},{"id":"over","root":"over","origin":"Old English","meaning":"above","meaning_zh":"在上","hint":"看到 <strong>over</strong> 就聯想「在上」。這個字根來自 Old English，是 3 個常用英文單字的核心。","words":[{"word":"overall","pos":"adjective","phonetic":"/ˌəʊ.vərˈɔːl/","zh":"整體的","breakdown":[{"part":"over","hl":true},{"part":"all","hl":false}],"breakdown_zh":"在上 + 全部","example":"Although individual test scores varied, the overall performance of the class was excellent."},{"word":"overlap","pos":"verb","phonetic":"/ˌəʊ.vəˈlæp/","zh":"重疊","breakdown":[{"part":"over","hl":true},{"part":"lappa","hl":false}],"breakdown_zh":"在上 + 膝蓋、邊緣","example":"The responsibilities of the two departments overlap significantly, causing occasional confusion."},{"word":"overseas","pos":"adjective","phonetic":"/ˌəʊ.vəˈsiːz/","zh":"海外的","breakdown":[{"part":"over","hl":true},{"part":"sea","hl":false}],"breakdown_zh":"越過 + 海洋","example":"The corporation plans to expand its overseas operations by opening a new branch in Tokyo."}],"quizzes":[{"q":"overall 是什麼意思？","word":"overall","opts":["轉變","整體的","回答","項目"],"ans":1,"feedback_root":"over（在上）→ 整體的"},{"q":"overlap 是什麼意思？","word":"overlap","opts":["重疊","政策","追求","歲入"],"ans":0,"feedback_root":"over（在上）→ 重疊"},{"q":"overseas 是什麼意思？","word":"overseas","opts":["質化的","開始","假設","海外的"],"ans":3,"feedback_root":"over（在上）→ 海外的"}]},{"id":"regere","root":"regere","origin":"Latin","meaning":"to rule","meaning_zh":"統治；指引","hint":"看到 <strong>regere</strong> 就聯想「統治；指引」。這個字根來自 Latin，是 3 個常用英文單字的核心。","words":[{"word":"regime","pos":"noun","phonetic":"/reɪˈʒiːm/","zh":"政體","breakdown":[{"part":"regere","hl":true}],"breakdown_zh":"統治；指引","example":"The old military regime was overthrown following months of public protests."},{"word":"region","pos":"noun","phonetic":"/ˈriːdʒən/","zh":"地區","breakdown":[{"part":"regere","hl":true}],"breakdown_zh":"統治；劃分","example":"The tropical region of the country is famous for producing high-quality coffee beans."},{"word":"regulate","pos":"verb","phonetic":"/ˈreɡjuleɪt/","zh":"管制","breakdown":[{"part":"regula","hl":false},{"part":"regere","hl":true}],"breakdown_zh":"規則 + 統治","example":"The government set up an agency to regulate the prices of basic food items."}],"quizzes":[{"q":"regime 是什麼意思？","word":"regime","opts":["創新","簡短的","參與","政體"],"ans":3,"feedback_root":"regere（統治；指引）→ 政體"},{"q":"region 是什麼意思？","word":"region","opts":["預期","間隔","佔主導的","地區"],"ans":3,"feedback_root":"regere（統治；指引）→ 地區"},{"q":"regulate 是什麼意思？","word":"regulate","opts":["管制","找出……的位置","源自","需要"],"ans":0,"feedback_root":"regere（統治；指引）→ 管制"}]},{"id":"trahere","root":"trahere","origin":"Latin","meaning":"to pull/draw","meaning_zh":"拉、拖","hint":"看到 <strong>trahere</strong> 就聯想「拉、拖」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"abstract","pos":"adjective","phonetic":"/ˈæbstrækt/","zh":"抽象的","breakdown":[{"part":"trahere","hl":true}],"breakdown_zh":"拉、拖","example":"The concept of beauty is purely abstract and varies significantly from one culture to another."},{"word":"retreat","pos":"verb","phonetic":"/rɪˈtriːt/","zh":"撤退","breakdown":[{"part":"trahere","hl":true}],"breakdown_zh":"拉；拖","example":"The soldiers were ordered to retreat when the enemy forces launched a massive counter-attack."}],"quizzes":[{"q":"abstract 是什麼意思？","word":"abstract","opts":["抽象的","媒介","適當的","加速"],"ans":0,"feedback_root":"trahere（拉、拖）→ 抽象的"},{"q":"retreat 是什麼意思？","word":"retreat","opts":["部分","提及","撤退","波動"],"ans":2,"feedback_root":"trahere（拉、拖）→ 撤退"}]},{"id":"aptus","root":"aptus","origin":"Latin","meaning":"fitted/suited","meaning_zh":"合適","hint":"看到 <strong>aptus</strong> 就聯想「合適」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"adapt","pos":"verb","phonetic":"/əˈdæpt/","zh":"適應","breakdown":[{"part":"aptus","hl":true}],"breakdown_zh":"合適","example":"Animals must adapt to survive in changing environments."},{"word":"attitude","pos":"noun","phonetic":"/ˈætɪtjuːd/","zh":"態度","breakdown":[{"part":"aptus","hl":true},{"part":"-tude","hl":false}],"breakdown_zh":"合適、就位 + 狀態","example":"A positive attitude can change everything."}],"quizzes":[{"q":"adapt 是什麼意思？","word":"adapt","opts":["檢查","適應","方案","說明"],"ans":1,"feedback_root":"aptus（合適）→ 適應"},{"q":"attitude 是什麼意思？","word":"attitude","opts":["固有的","態度","模糊的","分析"],"ans":1,"feedback_root":"aptus（合適）→ 態度"}]},{"id":"vocare","root":"vocare","origin":"Latin","meaning":"to call/voice","meaning_zh":"呼喚、發聲","hint":"看到 <strong>vocare</strong> 就聯想「呼喚、發聲」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"advocate","pos":"verb/noun","phonetic":"/ˈædvəkeɪt/","zh":"倡導","breakdown":[{"part":"vocare","hl":true}],"breakdown_zh":"呼喚、發聲","example":"She advocates for equal rights in education."},{"word":"invoke","pos":"verb","phonetic":"/ɪnˈvəʊk/","zh":"援引（法律等）","breakdown":[{"part":"vocare","hl":true}],"breakdown_zh":"呼喚","example":"The police decided to invoke an emergency law to restore public order during the riots."}],"quizzes":[{"q":"advocate 是什麼意思？","word":"advocate","opts":["消除","合作的","範圍","倡導"],"ans":3,"feedback_root":"vocare（呼喚、發聲）→ 倡導"},{"q":"invoke 是什麼意思？","word":"invoke","opts":["援引（法律等）","間隔","身體的","否認"],"ans":0,"feedback_root":"vocare（呼喚、發聲）→ 援引（法律等）"}]},{"id":"ire","root":"ire","origin":"Latin","meaning":"to go","meaning_zh":"前進","hint":"看到 <strong>ire</strong> 就聯想「前進」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"ambitious","pos":"adjective","phonetic":"/æmˈbɪʃəs/","zh":"有抱負的","breakdown":[{"part":"ire","hl":true}],"breakdown_zh":"前進","example":"She is ambitious and plans to become CEO by 30."},{"word":"initiative","pos":"noun","phonetic":"/ɪˈnɪʃətɪv/","zh":"主動性","breakdown":[{"part":"ire","hl":true}],"breakdown_zh":"前進","example":"She took the initiative to organize the event."}],"quizzes":[{"q":"ambitious 是什麼意思？","word":"ambitious","opts":["參數","歲入","前景","有抱負的"],"ans":3,"feedback_root":"ire（前進）→ 有抱負的"},{"q":"initiative 是什麼意思？","word":"initiative","opts":["真實的","出版","時期","主動性"],"ans":3,"feedback_root":"ire（前進）→ 主動性"}]},{"id":"pretium","root":"pretium","origin":"Latin","meaning":"price/value","meaning_zh":"價值、價格","hint":"看到 <strong>pretium</strong> 就聯想「價值、價格」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"appreciate","pos":"verb","phonetic":"/əˈpriːʃieɪt/","zh":"欣賞","breakdown":[{"part":"pretium","hl":true}],"breakdown_zh":"價值、價格","example":"I really appreciate your help with this project."},{"word":"interpret","pos":"verb","phonetic":"/ɪnˈtɜːprɪt/","zh":"解釋","breakdown":[{"part":"pretium","hl":true}],"breakdown_zh":"價值","example":"How do you interpret this poem?"}],"quizzes":[{"q":"appreciate 是什麼意思？","word":"appreciate","opts":["欣賞","納入","開始","（勉強）承認"],"ans":0,"feedback_root":"pretium（價值、價格）→ 欣賞"},{"q":"interpret 是什麼意思？","word":"interpret","opts":["武斷的","解釋","全面的","使最大化"],"ans":1,"feedback_root":"pretium（價值、價格）→ 解釋"}]},{"id":"sedere","root":"sedere","origin":"Latin","meaning":"to sit beside","meaning_zh":"坐在旁邊","hint":"看到 <strong>sedere</strong> 就聯想「坐在旁邊」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"assess","pos":"verb","phonetic":"/əˈsɛs/","zh":"評估","breakdown":[{"part":"sedere","hl":true}],"breakdown_zh":"坐在旁邊","example":"Teachers assess students through exams and projects."},{"word":"reside","pos":"verb","phonetic":"/rɪˈzaɪd/","zh":"居住","breakdown":[{"part":"sedere","hl":true}],"breakdown_zh":"坐下","example":"The family chose to reside in a quiet suburb just outside the bustling city."}],"quizzes":[{"q":"assess 是什麼意思？","word":"assess","opts":["最低限度","評估","顯著的","發展"],"ans":1,"feedback_root":"sedere（坐在旁邊）→ 評估"},{"q":"reside 是什麼意思？","word":"reside","opts":["重疊","抽象的","補償","居住"],"ans":3,"feedback_root":"sedere（坐在旁邊）→ 居住"}]},{"id":"tribuere","root":"tribuere","origin":"Latin","meaning":"to assign/give","meaning_zh":"分配、給予","hint":"看到 <strong>tribuere</strong> 就聯想「分配、給予」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"attribute","pos":"verb/noun","phonetic":"/əˈtrɪbjuːt/","zh":"歸因於","breakdown":[{"part":"tribuere","hl":true}],"breakdown_zh":"分配、給予","example":"She attributed her success to hard work and luck."},{"word":"contribute","pos":"verb","phonetic":"/kənˈtrɪbjuːt/","zh":"貢獻","breakdown":[{"part":"tribuere","hl":true}],"breakdown_zh":"給予、分配","example":"Everyone must contribute to make the project succeed."}],"quizzes":[{"q":"attribute 是什麼意思？","word":"attribute","opts":["歸因於","創新","改革","源自"],"ans":0,"feedback_root":"tribuere（分配、給予）→ 歸因於"},{"q":"contribute 是什麼意思？","word":"contribute","opts":["潛在的","系列","檢查","貢獻"],"ans":3,"feedback_root":"tribuere（分配、給予）→ 貢獻"}]},{"id":"claudere","root":"claudere","origin":"Latin","meaning":"to close/shut","meaning_zh":"關閉","hint":"看到 <strong>claudere</strong> 就聯想「關閉」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"conclude","pos":"verb","phonetic":"/kənˈkluːd/","zh":"結束","breakdown":[{"part":"claudere","hl":true}],"breakdown_zh":"關閉","example":"The report concludes that pollution is rising."},{"word":"conclusive","pos":"adjective","phonetic":"/kənˈkluːsɪv/","zh":"決定性的","breakdown":[{"part":"claudere","hl":true}],"breakdown_zh":"關閉","example":"The DNA test provided conclusive evidence that the suspect was at the crime scene."}],"quizzes":[{"q":"conclude 是什麼意思？","word":"conclude","opts":["積累","必要條件","結束","感知"],"ans":2,"feedback_root":"claudere（關閉）→ 結束"},{"q":"conclusive 是什麼意思？","word":"conclusive","opts":["廢除（制度、法律等）","比例","決定性的","方面"],"ans":2,"feedback_root":"claudere（關閉）→ 決定性的"}]},{"id":"sistere","root":"sistere","origin":"Latin","meaning":"to stand/stop","meaning_zh":"站立、穩固","hint":"看到 <strong>sistere</strong> 就聯想「站立、穩固」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"consistent","pos":"adjective","phonetic":"/kənˈsɪstənt/","zh":"一致的","breakdown":[{"part":"sistere","hl":true}],"breakdown_zh":"站立、穩固","example":"Be consistent in your practice to improve."},{"word":"persist","pos":"verb","phonetic":"/pəˈsɪst/","zh":"堅持","breakdown":[{"part":"sistere","hl":true}],"breakdown_zh":"站立","example":"If the painful symptoms persist for more than three days, you should consult a doctor immediately."}],"quizzes":[{"q":"consistent 是什麼意思？","word":"consistent","opts":["一致的","創新","範圍","身體的"],"ans":0,"feedback_root":"sistere（站立、穩固）→ 一致的"},{"q":"persist 是什麼意思？","word":"persist","opts":["執業者（尤指醫生或律","結果","堅持","相等的"],"ans":2,"feedback_root":"sistere（站立、穩固）→ 堅持"}]},{"id":"currere","root":"currere","origin":"Latin","meaning":"to run/flow","meaning_zh":"流動、奔跑","hint":"看到 <strong>currere</strong> 就聯想「流動、奔跑」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"currency","pos":"noun","phonetic":"/ˈkʌrənsi/","zh":"貨幣","breakdown":[{"part":"currere","hl":true},{"part":"-cy","hl":false}],"breakdown_zh":"流動、奔跑 + 狀態","example":"The dollar is the world's most traded currency."},{"word":"occur","pos":"verb","phonetic":"/əˈkɜːr/","zh":"發生; 出現; ","breakdown":[{"part":"currere","hl":true}],"breakdown_zh":"奔跑","example":"Earthquakes occur frequently in regions located along tectonic plate boundaries."}],"quizzes":[{"q":"currency 是什麼意思？","word":"currency","opts":["貨幣","恢復","含蓄的","安全"],"ans":0,"feedback_root":"currere（流動、奔跑）→ 貨幣"},{"q":"occur 是什麼意思？","word":"occur","opts":["發生; 出現; 存在","動態的","撤退","加速"],"ans":0,"feedback_root":"currere（流動、奔跑）→ 發生; 出現; 存在"}]},{"id":"limen","root":"limen","origin":"Latin","meaning":"threshold/boundary","meaning_zh":"門檻、邊界","hint":"看到 <strong>limen</strong> 就聯想「門檻、邊界」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"eliminate","pos":"verb","phonetic":"/ɪˈlɪmɪneɪt/","zh":"消除","breakdown":[{"part":"limen","hl":true}],"breakdown_zh":"門檻、邊界","example":"The goal is to eliminate poverty worldwide."},{"word":"preliminary","pos":"adjective","phonetic":"/prɪˈlɪm.ɪ.nər.i/","zh":"初步的","breakdown":[{"part":"limen","hl":true}],"breakdown_zh":"門檻","example":"The committee released a preliminary report before finalizing the comprehensive plan."}],"quizzes":[{"q":"eliminate 是什麼意思？","word":"eliminate","opts":["感知","評估","消除","重要性"],"ans":2,"feedback_root":"limen（門檻、邊界）→ 消除"},{"q":"preliminary 是什麼意思？","word":"preliminary","opts":["先前的","欣賞","初步的","放鬆"],"ans":2,"feedback_root":"limen（門檻、邊界）→ 初步的"}]},{"id":"phainein","root":"phainein","origin":"Greek","meaning":"to show/appear","meaning_zh":"顯示、出現","hint":"看到 <strong>phainein</strong> 就聯想「顯示、出現」。這個字根來自 Greek，是 2 個常用英文單字的核心。","words":[{"word":"emphasis","pos":"noun","phonetic":"/ˈɛmfəsɪs/","zh":"強調","breakdown":[{"part":"phainein","hl":true}],"breakdown_zh":"顯示、出現","example":"The teacher puts emphasis on critical thinking."},{"word":"phenomenon","pos":"noun","phonetic":"/fəˈnɒm.ɪ.nən/","zh":"現象","breakdown":[{"part":"phainein","hl":true}],"breakdown_zh":"展示","example":"Glaciers melting rapidly is a clear phenomenon associated with rising global temperatures."}],"quizzes":[{"q":"emphasis 是什麼意思？","word":"emphasis","opts":["否認","較小的","制裁","強調"],"ans":3,"feedback_root":"phainein（顯示、出現）→ 強調"},{"q":"phenomenon 是什麼意思？","word":"phenomenon","opts":["援引（法律等）","現象","發生; 出現; 存在","部分"],"ans":1,"feedback_root":"phainein（顯示、出現）→ 現象"}]},{"id":"valere","root":"valere","origin":"Latin","meaning":"to be worth","meaning_zh":"有價值","hint":"看到 <strong>valere</strong> 就聯想「有價值」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"equivalent","pos":"adjective/noun","phonetic":"/ɪˈkwɪvələnt/","zh":"相等的","breakdown":[{"part":"valere","hl":true}],"breakdown_zh":"有價值","example":"One kilometer is equivalent to 0.62 miles."},{"word":"evaluate","pos":"verb","phonetic":"/ɪˈvæljueɪt/","zh":"評估","breakdown":[{"part":"valere","hl":true}],"breakdown_zh":"有價值","example":"The manager evaluates employees every six months."}],"quizzes":[{"q":"equivalent 是什麼意思？","word":"equivalent","opts":["精確的","最小的","獲得","相等的"],"ans":3,"feedback_root":"valere（有價值）→ 相等的"},{"q":"evaluate 是什麼意思？","word":"evaluate","opts":["貨幣","註冊","評估","家庭的"],"ans":2,"feedback_root":"valere（有價值）→ 評估"}]},{"id":"flectere","root":"flectere","origin":"Latin","meaning":"to bend","meaning_zh":"彎曲","hint":"看到 <strong>flectere</strong> 就聯想「彎曲」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"flexible","pos":"adjective","phonetic":"/ˈflɛksɪbəl/","zh":"有彈性的","breakdown":[{"part":"flectere","hl":true},{"part":"-ible","hl":false}],"breakdown_zh":"彎曲 + 能夠","example":"She has a flexible schedule and can meet anytime."},{"word":"reflect","pos":"verb","phonetic":"/rɪˈflekt/","zh":"反射","breakdown":[{"part":"flectere","hl":true}],"breakdown_zh":"彎曲","example":"The smooth surface of the lake reflected the majestic snow-capped mountains."}],"quizzes":[{"q":"flexible 是什麼意思？","word":"flexible","opts":["操縱","風險","謹慎的","有彈性的"],"ans":3,"feedback_root":"flectere（彎曲）→ 有彈性的"},{"q":"reflect 是什麼意思？","word":"reflect","opts":["多樣性","回答","間隔","反射"],"ans":3,"feedback_root":"flectere（彎曲）→ 反射"}]},{"id":"fundus","root":"fundus","origin":"Latin","meaning":"bottom/base","meaning_zh":"底部、基礎","hint":"看到 <strong>fundus</strong> 就聯想「底部、基礎」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"foundation","pos":"noun","phonetic":"/faʊnˈdeɪʃən/","zh":"基礎","breakdown":[{"part":"fundus","hl":true}],"breakdown_zh":"底部、基礎","example":"Trust is the foundation of every relationship."},{"word":"fundamental","pos":"adjective","phonetic":"/ˌfʌndəˈmɛntəl/","zh":"基本的","breakdown":[{"part":"fundus","hl":true},{"part":"-ment","hl":false}],"breakdown_zh":"底部 + …的結果","example":"Reading is a fundamental skill for all students."}],"quizzes":[{"q":"foundation 是什麼意思？","word":"foundation","opts":["推定","動態的","基礎","順序"],"ans":2,"feedback_root":"fundus（底部、基礎）→ 基礎"},{"q":"fundamental 是什麼意思？","word":"fundamental","opts":["抽象的","基本的","浮現","回答"],"ans":1,"feedback_root":"fundus（底部、基礎）→ 基本的"}]},{"id":"fluere","root":"fluere","origin":"Latin","meaning":"to flow","meaning_zh":"流動","hint":"看到 <strong>fluere</strong> 就聯想「流動」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"influence","pos":"noun/verb","phonetic":"/ˈɪnfluəns/","zh":"影響","breakdown":[{"part":"fluere","hl":true}],"breakdown_zh":"流動","example":"Parents have a huge influence on their children."},{"word":"fluctuate","pos":"verb","phonetic":"/ˈflʌktʃueɪt/","zh":"波動","breakdown":[{"part":"fluere","hl":true},{"part":"fluctus","hl":false}],"breakdown_zh":"流動 + 波浪","example":"Vegetable prices fluctuate wildly depending on the seasonal weather and crop yields."}],"quizzes":[{"q":"influence 是什麼意思？","word":"influence","opts":["地點","安全的","政體","影響"],"ans":3,"feedback_root":"fluere（流動）→ 影響"},{"q":"fluctuate 是什麼意思？","word":"fluctuate","opts":["波動","對比","拒絕","計畫"],"ans":0,"feedback_root":"fluere（流動）→ 波動"}]},{"id":"haerere","root":"haerere","origin":"Latin","meaning":"to stick/cling","meaning_zh":"黏著、緊附","hint":"看到 <strong>haerere</strong> 就聯想「黏著、緊附」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"inherent","pos":"adjective","phonetic":"/ɪnˈhɪərənt/","zh":"固有的","breakdown":[{"part":"haerere","hl":true}],"breakdown_zh":"黏著、緊附","example":"There is an inherent risk in extreme sports."},{"word":"coherent","pos":"adjective","phonetic":"/koʊˈhɪrənt/","zh":"前後連貫的","breakdown":[{"part":"haerere","hl":true}],"breakdown_zh":"黏貼、黏著","example":"The candidate failed to present a coherent strategy for economic growth."}],"quizzes":[{"q":"inherent 是什麼意思？","word":"inherent","opts":["固有的","路線","執行","方法"],"ans":0,"feedback_root":"haerere（黏著、緊附）→ 固有的"},{"q":"coherent 是什麼意思？","word":"coherent","opts":["前後連貫的","促進","後果","積累"],"ans":0,"feedback_root":"haerere（黏著、緊附）→ 前後連貫的"}]},{"id":"novus","root":"novus","origin":"Latin","meaning":"new","meaning_zh":"新的","hint":"看到 <strong>novus</strong> 就聯想「新的」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"innovation","pos":"noun","phonetic":"/ˌɪnəˈveɪʃən/","zh":"創新","breakdown":[{"part":"novus","hl":true}],"breakdown_zh":"新的","example":"Silicon Valley is known for technological innovation."},{"word":"innovate","pos":"verb","phonetic":"/ˈɪnəveɪt/","zh":"創新","breakdown":[{"part":"novus","hl":true}],"breakdown_zh":"新的","example":"To stay competitive, technology startup firms must constantly innovate and upgrade algorithms."}],"quizzes":[{"q":"innovation 是什麼意思？","word":"innovation","opts":["需要","演化","前後連貫的","創新"],"ans":3,"feedback_root":"novus（新的）→ 創新"},{"q":"innovate 是什麼意思？","word":"innovate","opts":["浮現","創新","動態的","質化的"],"ans":1,"feedback_root":"novus（新的）→ 創新"}]},{"id":"manus","root":"manus","origin":"Latin","meaning":"hand","meaning_zh":"手","hint":"看到 <strong>manus</strong> 就聯想「手」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"maintain","pos":"verb","phonetic":"/meɪnˈteɪn/","zh":"維持","breakdown":[{"part":"manus","hl":true},{"part":"tenere","hl":false}],"breakdown_zh":"手 + 握住","example":"It's important to maintain a healthy lifestyle."},{"word":"manipulate","pos":"verb","phonetic":"/məˈnɪpjuleɪt/","zh":"操縱","breakdown":[{"part":"manus","hl":true},{"part":"plere","hl":false}],"breakdown_zh":"手 + 填充","example":"He manipulated the data to support his theory."}],"quizzes":[{"q":"maintain 是什麼意思？","word":"maintain","opts":["納入","爭議","最優良的","維持"],"ans":3,"feedback_root":"manus（手）→ 維持"},{"q":"manipulate 是什麼意思？","word":"manipulate","opts":["檢查","講座","完全放棄","操縱"],"ans":3,"feedback_root":"manus（手）→ 操縱"}]},{"id":"modus","root":"modus","origin":"Latin","meaning":"measure/manner","meaning_zh":"方式、程度","hint":"看到 <strong>modus</strong> 就聯想「方式、程度」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"modify","pos":"verb","phonetic":"/ˈmɒdɪfaɪ/","zh":"修改","breakdown":[{"part":"modus","hl":true},{"part":"facere","hl":false}],"breakdown_zh":"方式、程度 + 製造","example":"We need to modify the plan based on feedback."},{"word":"mode","pos":"noun","phonetic":"/məʊd/","zh":"模式","breakdown":[{"part":"modus","hl":true}],"breakdown_zh":"方式","example":"Switching your smartphone to airplane mode prevents it from receiving cellular signals."}],"quizzes":[{"q":"modify 是什麼意思？","word":"modify","opts":["按時間順序的","構想","修改","然而"],"ans":2,"feedback_root":"modus（方式、程度）→ 修改"},{"q":"mode 是什麼意思？","word":"mode","opts":["反叛者","網路","複雜的","模式"],"ans":3,"feedback_root":"modus（方式、程度）→ 模式"}]},{"id":"negare","root":"negare","origin":"Latin","meaning":"to deny","meaning_zh":"否認","hint":"看到 <strong>negare</strong> 就聯想「否認」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"negative","pos":"adjective","phonetic":"/ˈnɛɡətɪv/","zh":"負面的","breakdown":[{"part":"negare","hl":true}],"breakdown_zh":"否認","example":"Try to avoid negative thinking."},{"word":"deny","pos":"verb","phonetic":"/dɪˈnaɪ/","zh":"否認","breakdown":[{"part":"negare","hl":true}],"breakdown_zh":"說不","example":"The suspect continued to deny all allegations made against him by the police."}],"quizzes":[{"q":"negative 是什麼意思？","word":"negative","opts":["結束","調查","負面的","建立"],"ans":2,"feedback_root":"negare（否認）→ 負面的"},{"q":"deny 是什麼意思？","word":"deny","opts":["精確的","互動","否認","移開"],"ans":2,"feedback_root":"negare（否認）→ 否認"}]},{"id":"serere","root":"serere","origin":"Latin","meaning":"to join, bind","meaning_zh":"連接、編排","hint":"看到 <strong>serere</strong> 就聯想「連接、編排」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"assert","pos":"verb","phonetic":"/əˈsɜːrt/","zh":"斷言","breakdown":[{"part":"serere","hl":true}],"breakdown_zh":"連接、編排","example":"The defense attorney continued to assert that his client was completely innocent."},{"word":"series","pos":"noun","phonetic":"/ˈsɪriːz/","zh":"系列","breakdown":[{"part":"serere","hl":true}],"breakdown_zh":"連接；串聯","example":"The network is launching a new television series about modern architectural designs."}],"quizzes":[{"q":"assert 是什麼意思？","word":"assert","opts":["公式; 配方; 固定","規章","斷言","評估"],"ans":2,"feedback_root":"serere（連接、編排）→ 斷言"},{"q":"series 是什麼意思？","word":"series","opts":["系列","安全","註冊","創新"],"ans":0,"feedback_root":"serere（連接、編排）→ 系列"}]},{"id":"logos","root":"logos","origin":"Greek","meaning":"word, reason, study","meaning_zh":"研究、學說","hint":"看到 <strong>logos</strong> 就聯想「研究、學說」。這個字根來自 Greek，是 2 個常用英文單字的核心。","words":[{"word":"chronological","pos":"adjective","phonetic":"/ˌkrɑːnəˈlɑːdʒɪkl/","zh":"按時間順序的","breakdown":[{"part":"chronos","hl":false},{"part":"logos","hl":true}],"breakdown_zh":"時間 + 研究、學說","example":"The history professor asked us to arrange the dynasties in chronological order."},{"word":"logic","pos":"noun","phonetic":"/ˈlɒdʒ.ɪk/","zh":"邏輯","breakdown":[{"part":"logos","hl":true}],"breakdown_zh":"理性、理念","example":"There is no logic in spending all your money on items you do not actually need."}],"quizzes":[{"q":"chronological 是什麼意思？","word":"chronological","opts":["按時間順序的","方法","範圍","結果"],"ans":0,"feedback_root":"logos（研究、學說）→ 按時間順序的"},{"q":"logic 是什麼意思？","word":"logic","opts":["否認","然而","隔離","邏輯"],"ans":3,"feedback_root":"logos（研究、學說）→ 邏輯"}]},{"id":"ponere","root":"ponere","origin":"Latin","meaning":"to put, place","meaning_zh":"放置","hint":"看到 <strong>ponere</strong> 就聯想「放置」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"component","pos":"noun","phonetic":"/kəmˈpoʊnənt/","zh":"零件","breakdown":[{"part":"ponere","hl":true}],"breakdown_zh":"放置","example":"The engineer checked every electronic component before assembling the final product."},{"word":"pose","pos":"verb","phonetic":"/pəʊz/","zh":"造成（威脅等）","breakdown":[{"part":"ponere","hl":true}],"breakdown_zh":"放置","example":"Rising sea levels pose a direct and serious threat to low-lying coastal communities."}],"quizzes":[{"q":"component 是什麼意思？","word":"component","opts":["零件","適當的","百分之……","多樣化的"],"ans":0,"feedback_root":"ponere（放置）→ 零件"},{"q":"pose 是什麼意思？","word":"pose","opts":["轉移","造成（威脅等）","成熟的","固有的"],"ans":1,"feedback_root":"ponere（放置）→ 造成（威脅等）"}]},{"id":"dicere","root":"dicere","origin":"Latin","meaning":"to speak","meaning_zh":"說話","hint":"看到 <strong>dicere</strong> 就聯想「說話」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"contradict","pos":"verb","phonetic":"/ˌkɑːntrəˈdɪkt/","zh":"反駁","breakdown":[{"part":"dicere","hl":true}],"breakdown_zh":"說話","example":"The eyewitness accounts contradict the official police report of the accident."},{"word":"predict","pos":"verb","phonetic":"/prɪˈdɪkt/","zh":"預測","breakdown":[{"part":"dicere","hl":true}],"breakdown_zh":"說","example":"Meteorologists use complex satellite models to predict the pathway of tropical storms."}],"quizzes":[{"q":"contradict 是什麼意思？","word":"contradict","opts":["段落","反駁","反應","複雜的"],"ans":1,"feedback_root":"dicere（說話）→ 反駁"},{"q":"predict 是什麼意思？","word":"predict","opts":["預測","提煉","態度","法律的"],"ans":0,"feedback_root":"dicere（說話）→ 預測"}]},{"id":"norma","root":"norma","origin":"Latin","meaning":"rule, pattern, norm","meaning_zh":"規則、常態","hint":"看到 <strong>norma</strong> 就聯想「規則、常態」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"enormous","pos":"adjective","phonetic":"/ɪˈnɔːrməs/","zh":"巨大的","breakdown":[{"part":"norma","hl":true}],"breakdown_zh":"規則、常態","example":"The building project cost an enormous amount of money and took five years to complete."},{"word":"normal","pos":"adjective","phonetic":"/ˈnɔː.məl/","zh":"正常的","breakdown":[{"part":"norma","hl":true}],"breakdown_zh":"規範","example":"It is perfectly normal to feel a bit nervous before giving a presentation to a large audience."}],"quizzes":[{"q":"enormous 是什麼意思？","word":"enormous","opts":["法律的","地點","對比","巨大的"],"ans":3,"feedback_root":"norma（規則、常態）→ 巨大的"},{"q":"normal 是什麼意思？","word":"normal","opts":["平行的","缺乏","正常的","積極的"],"ans":2,"feedback_root":"norma（規則、常態）→ 正常的"}]},{"id":"hodos","root":"hodos","origin":"Greek","meaning":"way","meaning_zh":"道路","hint":"看到 <strong>hodos</strong> 就聯想「道路」。這個字根來自 Greek，是 2 個常用英文單字的核心。","words":[{"word":"method","pos":"noun","phonetic":"/ˈmeθ.əd/","zh":"方法","breakdown":[{"part":"meta","hl":false},{"part":"hodos","hl":true}],"breakdown_zh":"之後 + 道路","example":"Scientists developed a new method for water purification that uses solar power."},{"word":"period","pos":"noun","phonetic":"/ˈpɪə.ri.əd/","zh":"時期","breakdown":[{"part":"hodos","hl":true}],"breakdown_zh":"道路","example":"The Renaissance was a period of remarkable artistic and scientific achievement in Europe."}],"quizzes":[{"q":"method 是什麼意思？","word":"method","opts":["方法","抑制","最優良的","模擬"],"ans":0,"feedback_root":"hodos（道路）→ 方法"},{"q":"period 是什麼意思？","word":"period","opts":["時期","監視","模擬","包含"],"ans":0,"feedback_root":"hodos（道路）→ 時期"}]},{"id":"less","root":"less","origin":"Old English","meaning":"smaller","meaning_zh":"更少","hint":"看到 <strong>less</strong> 就聯想「更少」。這個字根來自 Old English，是 2 個常用英文單字的核心。","words":[{"word":"nevertheless","pos":"adverb","phonetic":"/ˌnev.ə.ðəˈles/","zh":"儘管如此","breakdown":[{"part":"never","hl":false},{"part":"less","hl":true}],"breakdown_zh":"從不 + 更少","example":"The weather forecast predicted heavy rain; nevertheless, the outdoor music festival went ahead as planned."},{"word":"nonetheless","pos":"adverb","phonetic":"/ˌnʌn.ðəˈles/","zh":"然而","breakdown":[{"part":"none","hl":false},{"part":"less","hl":true}],"breakdown_zh":"沒有 + 更少","example":"The scientific theory remains controversial; nonetheless, it has opened up exciting new fields of research."}],"quizzes":[{"q":"nevertheless 是什麼意思？","word":"nevertheless","opts":["儘管如此","達到","核能的","功能"],"ans":0,"feedback_root":"less（更少）→ 儘管如此"},{"q":"nonetheless 是什麼意思？","word":"nonetheless","opts":["參數","創新","找出……的位置","然而"],"ans":3,"feedback_root":"less（更少）→ 然而"}]},{"id":"via","root":"via","origin":"Latin","meaning":"way","meaning_zh":"道路","hint":"看到 <strong>via</strong> 就聯想「道路」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"obvious","pos":"adjective","phonetic":"/ˈɒb.vi.əs/","zh":"明顯的","breakdown":[{"part":"via","hl":true}],"breakdown_zh":"道路","example":"It was obvious from her happy expression that she had passed the difficult interview."},{"word":"previous","pos":"adjective","phonetic":"/ˈpriː.vi.əs/","zh":"先前的","breakdown":[{"part":"via","hl":true}],"breakdown_zh":"道路","example":"Applicants must demonstrate relevance by describing their previous work experience."}],"quizzes":[{"q":"obvious 是什麼意思？","word":"obvious","opts":["立法","明顯的","固有的","實施"],"ans":1,"feedback_root":"via（道路）→ 明顯的"},{"q":"previous 是什麼意思？","word":"previous","opts":["選擇","先前的","邏輯","順序"],"ans":1,"feedback_root":"via（道路）→ 先前的"}]},{"id":"out","root":"out","origin":"Old English","meaning":"forth","meaning_zh":"向外","hint":"看到 <strong>out</strong> 就聯想「向外」。這個字根來自 Old English，是 2 個常用英文單字的核心。","words":[{"word":"outcome","pos":"noun","phonetic":"/ˈaʊt.kʌm/","zh":"結果","breakdown":[{"part":"out","hl":true},{"part":"come","hl":false}],"breakdown_zh":"向外 + 發生","example":"The final outcome of the election will not be known until all votes are formally counted."},{"word":"output","pos":"noun","phonetic":"/ˈaʊt.pʊt/","zh":"產量","breakdown":[{"part":"out","hl":true},{"part":"put","hl":false}],"breakdown_zh":"向外 + 放置","example":"Industrial output increased significantly following the introduction of automated machinery."}],"quizzes":[{"q":"outcome 是什麼意思？","word":"outcome","opts":["重要性","邏輯","停止","結果"],"ans":3,"feedback_root":"out（向外）→ 結果"},{"q":"output 是什麼意思？","word":"output","opts":["相等的","含蓄的","產量","恢復"],"ans":2,"feedback_root":"out（向外）→ 產量"}]},{"id":"primus","root":"primus","origin":"Latin","meaning":"first","meaning_zh":"第一","hint":"看到 <strong>primus</strong> 就聯想「第一」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"primary","pos":"adjective","phonetic":"/ˈpraɪ.mər.i/","zh":"主要的","breakdown":[{"part":"primus","hl":true}],"breakdown_zh":"第一","example":"The primary concern of the rescue team was finding shelter for the stranded passengers."},{"word":"prime","pos":"adjective","phonetic":"/praɪm/","zh":"最優良的","breakdown":[{"part":"primus","hl":true}],"breakdown_zh":"第一","example":"This downtown location is a prime example of high-value commercial real estate."}],"quizzes":[{"q":"primary 是什麼意思？","word":"primary","opts":["引用","決定","源自","主要的"],"ans":3,"feedback_root":"primus（第一）→ 主要的"},{"q":"prime 是什麼意思？","word":"prime","opts":["最優良的","自由主義的","階級制度","媒體"],"ans":0,"feedback_root":"primus（第一）→ 最優良的"}]},{"id":"publicare","root":"publicare","origin":"Latin","meaning":"make public","meaning_zh":"公之於眾","hint":"看到 <strong>publicare</strong> 就聯想「公之於眾」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"publication","pos":"noun","phonetic":"/ˌpʌblɪˈkeɪʃn/","zh":"出版","breakdown":[{"part":"publicare","hl":true},{"part":"populus","hl":false}],"breakdown_zh":"公之於眾 + 人民","example":"The scientific journal delayed the publication of the article for further review."},{"word":"publish","pos":"verb","phonetic":"/ˈpʌblɪʃ/","zh":"出版","breakdown":[{"part":"publicare","hl":true}],"breakdown_zh":"公之於眾","example":"The research team hopes to publish their findings in a prestigious medical journal next month."}],"quizzes":[{"q":"publication 是什麼意思？","word":"publication","opts":["公式; 配方; 固定","修改","出版","補償"],"ans":2,"feedback_root":"publicare（公之於眾）→ 出版"},{"q":"publish 是什麼意思？","word":"publish","opts":["出版","地區","精確的","動機"],"ans":0,"feedback_root":"publicare（公之於眾）→ 出版"}]},{"id":"regula","root":"regula","origin":"Latin","meaning":"rule","meaning_zh":"規則","hint":"看到 <strong>regula</strong> 就聯想「規則」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"regulate","pos":"verb","phonetic":"/ˈreɡjuleɪt/","zh":"管制","breakdown":[{"part":"regula","hl":true},{"part":"regere","hl":false}],"breakdown_zh":"規則 + 統治","example":"The government set up an agency to regulate the prices of basic food items."},{"word":"regulation","pos":"noun","phonetic":"/ˌreɡjuˈleɪʃn/","zh":"規章","breakdown":[{"part":"regula","hl":true}],"breakdown_zh":"規則","example":"The safety regulations require all factory workers to wear hard hats."}],"quizzes":[{"q":"regulate 是什麼意思？","word":"regulate","opts":["管制","找出……的位置","源自","需要"],"ans":0,"feedback_root":"regula（規則）→ 管制"},{"q":"regulation 是什麼意思？","word":"regulation","opts":["規章","含蓄的","時期","補充"],"ans":0,"feedback_root":"regula（規則）→ 規章"}]},{"id":"quaerere","root":"quaerere","origin":"Latin","meaning":"to seek, ask","meaning_zh":"尋求；詢問","hint":"看到 <strong>quaerere</strong> 就聯想「尋求；詢問」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"require","pos":"verb","phonetic":"/rɪˈkwaɪər/","zh":"需要","breakdown":[{"part":"quaerere","hl":true}],"breakdown_zh":"尋求；詢問","example":"Most professional jobs require candidates to have at least a bachelor's degree."},{"word":"requirement","pos":"noun","phonetic":"/rɪˈkwaɪərmənt/","zh":"必要條件","breakdown":[{"part":"quaerere","hl":true}],"breakdown_zh":"尋求","example":"Meeting the English proficiency requirement is essential for international applicants."}],"quizzes":[{"q":"require 是什麼意思？","word":"require","opts":["比例","需要","註冊","援引（法律等）"],"ans":1,"feedback_root":"quaerere（尋求；詢問）→ 需要"},{"q":"requirement 是什麼意思？","word":"requirement","opts":["必要條件","固有的","挑戰","固有的"],"ans":0,"feedback_root":"quaerere（尋求；詢問）→ 必要條件"}]},{"id":"spondere","root":"spondere","origin":"Latin","meaning":"to pledge, promise","meaning_zh":"承諾","hint":"看到 <strong>spondere</strong> 就聯想「承諾」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"respond","pos":"verb","phonetic":"/rɪˈspɑːnd/","zh":"回答","breakdown":[{"part":"spondere","hl":true}],"breakdown_zh":"承諾","example":"The company promised to respond to all customer complaints within 24 hours."},{"word":"response","pos":"noun","phonetic":"/rɪˈspɑːns/","zh":"回答","breakdown":[{"part":"spondere","hl":true}],"breakdown_zh":"承諾","example":"The government's slow response to the crisis was heavily criticized by the media."}],"quizzes":[{"q":"respond 是什麼意思？","word":"respond","opts":["感知","回答","遷移","加"],"ans":1,"feedback_root":"spondere（承諾）→ 回答"},{"q":"response 是什麼意思？","word":"response","opts":["內部的","回答","在……之前發生","合作"],"ans":1,"feedback_root":"spondere（承諾）→ 回答"}]},{"id":"rupta","root":"rupta","origin":"Latin","meaning":"broken, forced open","meaning_zh":"破開；開闢的道路","hint":"看到 <strong>rupta</strong> 就聯想「破開；開闢的道路」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"route","pos":"noun","phonetic":"/ruːt/","zh":"路線","breakdown":[{"part":"rupta","hl":true}],"breakdown_zh":"破開；開闢的道路","example":"The GPS calculated the fastest route to avoid the heavy holiday traffic."},{"word":"routine","pos":"noun","phonetic":"/ruːˈtiːn/","zh":"例行公事","breakdown":[{"part":"rupta","hl":true}],"breakdown_zh":"開闢的道路；老路","example":"Exercising in the morning has become an essential part of my daily routine."}],"quizzes":[{"q":"route 是什麼意思？","word":"route","opts":["成熟的","不可避免的","路線","貢獻"],"ans":2,"feedback_root":"rupta（破開；開闢的道路）→ 路線"},{"q":"routine 是什麼意思？","word":"routine","opts":["例行公事","反應","簡短的","正常的"],"ans":0,"feedback_root":"rupta（破開；開闢的道路）→ 例行公事"}]},{"id":"secare","root":"secare","origin":"Latin","meaning":"to cut","meaning_zh":"切割","hint":"看到 <strong>secare</strong> 就聯想「切割」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"section","pos":"noun","phonetic":"/ˈsekʃn/","zh":"部分","breakdown":[{"part":"secare","hl":true}],"breakdown_zh":"切割","example":"The library has a special section dedicated exclusively to rare historical books."},{"word":"sector","pos":"noun","phonetic":"/ˈsektər/","zh":"部門","breakdown":[{"part":"secare","hl":true}],"breakdown_zh":"切割","example":"The government is trying to encourage job growth in the private sector."}],"quizzes":[{"q":"section 是什麼意思？","word":"section","opts":["部分","組成","方面","協定"],"ans":0,"feedback_root":"secare（切割）→ 部分"},{"q":"sector 是什麼意思？","word":"sector","opts":["政體","部門","拒絕","後退"],"ans":1,"feedback_root":"secare（切割）→ 部門"}]},{"id":"signum","root":"signum","origin":"Latin","meaning":"sign, mark","meaning_zh":"記號；標誌","hint":"看到 <strong>signum</strong> 就聯想「記號；標誌」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"significance","pos":"noun","phonetic":"/sɪɡˈnɪfɪkəns/","zh":"重要性","breakdown":[{"part":"signum","hl":true},{"part":"facere","hl":false}],"breakdown_zh":"記號；標誌 + 做；製造","example":"The discovery of the new planet holds great significance for modern astronomy."},{"word":"significant","pos":"adjective","phonetic":"/sɪɡˈnɪfɪkənt/","zh":"顯著的","breakdown":[{"part":"signum","hl":true},{"part":"facere","hl":false}],"breakdown_zh":"記號 + 製造","example":"There has been a significant increase in online sales over the past year."}],"quizzes":[{"q":"significance 是什麼意思？","word":"significance","opts":["系列","相當大的","重要性","限制"],"ans":2,"feedback_root":"signum（記號；標誌）→ 重要性"},{"q":"significant 是什麼意思？","word":"significant","opts":["恢復","顯著的","恢復","釋放"],"ans":1,"feedback_root":"signum（記號；標誌）→ 顯著的"}]},{"id":"similis","root":"similis","origin":"Latin","meaning":"like, resembling","meaning_zh":"像；相似","hint":"看到 <strong>similis</strong> 就聯想「像；相似」。這個字根來自 Latin，是 2 個常用英文單字的核心。","words":[{"word":"similar","pos":"adjective","phonetic":"/ˈsɪmələr/","zh":"相似的","breakdown":[{"part":"similis","hl":true}],"breakdown_zh":"像；相似","example":"The two smartphone models are very similar in size and internal specifications."},{"word":"simulate","pos":"verb","phonetic":"/ˈsɪmjuleɪt/","zh":"模擬","breakdown":[{"part":"similis","hl":true}],"breakdown_zh":"像","example":"The flight training software is designed to simulate difficult weather conditions for student pilots."}],"quizzes":[{"q":"similar 是什麼意思？","word":"similar","opts":["截然不同的","描繪","相似的","整體的"],"ans":2,"feedback_root":"similis（像；相似）→ 相似的"},{"q":"simulate 是什麼意思？","word":"simulate","opts":["模擬","解釋","精確的","公式; 配方; 固定"],"ans":0,"feedback_root":"similis（像；相似）→ 模擬"}]}];
+
+// ══════════════════════════════════════════════
+// PROGRESS STORE
+// ══════════════════════════════════════════════
+const PROGRESS = {
+  load(){
+    try{ return JSON.parse(localStorage.getItem(STORAGE_KEY)||'null') || this.defaultProgress(); }
+    catch{ return this.defaultProgress(); }
+  },
+  save(p){ localStorage.setItem(STORAGE_KEY, JSON.stringify(p)); },
+  defaultProgress(){
+    return {
+      unlockedRoots: [],
+      rootLevels: {},
+      wordProgress: {},
+      dailyStats: {},
+      lastTaskDate: null,
+      dailyTask: null,
+    };
+  },
+  today(){ return new Date().toISOString().slice(0,10); },
+};
+
+// ══════════════════════════════════════════════
+// TASK GENERATOR
+// ══════════════════════════════════════════════
+function generateTask(p) {
+  const today = PROGRESS.today();
+  const due = [];
+  for(const [wid, wp] of Object.entries(p.wordProgress)){
+    if(wp.nextReviewAt <= today && wp.reviewStage < 7){
+      due.push({wordId: wid, ...wp});
+    }
+  }
+  due.sort((a,b) => a.nextReviewAt.localeCompare(b.nextReviewAt));
+  const reviewItems = due.slice(0, 8);
+
+  const lockedRoot = ROOT_GROUPS.find(r => !p.unlockedRoots.includes(r.id));
+  const shouldAddNew = reviewItems.length < 5 && lockedRoot;
+
+  return {
+    reviewItems,
+    newRoot: shouldAddNew ? lockedRoot : null,
+    estimatedMinutes: Math.ceil((reviewItems.length + (shouldAddNew ? 4 : 0)) * 0.4) || 2,
+  };
+}
+
+// ══════════════════════════════════════════════
+// STATE
+// ══════════════════════════════════════════════
+let progress = PROGRESS.load();
+let currentTab = 'today';
+let state = {
+  phase: 'task',      // task | intro | words | quiz | unlock | done | collection
+  task: null,
+  currentRoot: null,
+  wordIdx: 0,
+  quizIdx: 0,
+  quizAnswered: false,
+  quizSelected: null,
+  quizCorrects: 0,
+  quizWrongs: 0,
+  wrongWords: [],
+};
+
+// ══════════════════════════════════════════════
+// RENDER
+// ══════════════════════════════════════════════
+function render() {
+  const screen = document.getElementById('screen');
+  const sub = document.getElementById('headerSub');
+  const unlocked = progress.unlockedRoots.length;
+  sub.textContent = `已解鎖 ${unlocked} / ${ROOT_GROUPS.length} 個字根`;
+
+  if(currentTab === 'collection'){
+    renderCollection(screen); return;
+  }
+
+  switch(state.phase){
+    case 'task':       renderTask(screen); break;
+    case 'intro':      renderIntro(screen); break;
+    case 'words':      renderWords(screen); break;
+    case 'quiz':       renderQuiz(screen); break;
+    case 'unlock':     renderUnlock(screen); break;
+    case 'done':       renderDone(screen); break;
+  }
+}
+
+// ── Today task screen ──
+function renderTask(el){
+  const task = generateTask(progress);
+  state.task = task;
+  const hasContent = task.newRoot || task.reviewItems.length > 0;
+
+  if(!hasContent){
+    el.innerHTML = `
+      <div class="task-card">
+        <div class="task-label">今日任務</div>
+        <div class="task-title" style="font-size:22px">🎉 今天的任務完成了！</div>
+        <div class="task-time" style="margin-top:8px">明天系統會幫你安排複習，繼續保持！</div>
+      </div>
+      <div class="stats-row">${statsHTML()}</div>`;
+    return;
+  }
+
+  const items = [];
+  if(task.newRoot) items.push(`<div class="task-item"><span class="num">1</span>探索「${task.newRoot.root}」字根 + 學習 ${task.newRoot.words.length} 個代表單字</div>`);
+  if(task.reviewItems.length) items.push(`<div class="task-item"><span class="num">${task.newRoot?2:1}</span>複習 ${task.reviewItems.length} 個舊單字</div>`);
+
+  el.innerHTML = `
+    <div class="task-card">
+      <div class="task-label">今日任務</div>
+      <div class="task-title">準備好了嗎？</div>
+      <div class="task-items">${items.join('')}</div>
+      <div class="task-time">⏱ 預估約 ${task.estimatedMinutes} 分鐘</div>
+      <button class="btn-primary" onclick="startTask()">開始今日任務</button>
+    </div>
+    <div class="stats-row">${statsHTML()}</div>`;
+}
+
+function statsHTML(){
+  const total = Object.keys(progress.wordProgress).length;
+  const mastered = Object.values(progress.wordProgress).filter(w=>w.reviewStage>=5).length;
+  const unlocked = progress.unlockedRoots.length;
+  return `
+    <div class="stat-chip"><div class="stat-num">${unlocked}</div><div class="stat-lbl">字根解鎖</div></div>
+    <div class="stat-chip"><div class="stat-num">${total}</div><div class="stat-lbl">已學單字</div></div>
+    <div class="stat-chip"><div class="stat-num">${mastered}</div><div class="stat-lbl">已精通</div></div>`;
+}
+
+// ── Root intro ──
+function renderIntro(el){
+  const r = state.currentRoot;
+  el.innerHTML = `
+    <div class="root-intro">
+      <div class="root-header">
+        <div class="root-chip">${r.root}</div>
+        <div class="root-meaning-en">${r.meaning}</div>
+        <div class="root-meaning-zh">${r.meaning_zh}</div>
+        <div class="root-origin">源自 ${r.origin}</div>
+      </div>
+      <div class="root-body">
+        <div class="root-hint">${r.hint}</div>
+      </div>
+    </div>
+    <button class="btn-primary" onclick="goToWords()">看代表單字 →</button>`;
+}
+
+// ── Word cards ──
+function renderWords(el){
+  const r = state.currentRoot;
+  const cards = r.words.map((w,i)=>{
+    const breakdown = w.breakdown.map(p=>
+      `<span class="break-part">${p.hl?`<span class="accent">${p.part}</span>`:p.part}</span>`
+    ).join('<span style="color:var(--dim);margin:0 2px">+</span>');
+    return `
+      <div class="word-card" style="opacity:0;transform:translateY(12px);transition:all .35s ${i*0.1}s" id="wc${i}">
+        <div class="word-card-top">
+          <div>
+            <div class="word-en">${w.word}</div>
+            <div class="word-pos">${w.pos}</div>
+          </div>
+          <div class="word-phonetic">${w.phonetic}</div>
+        </div>
+        <div class="word-breakdown">${breakdown}</div>
+        <div style="font-size:13px;color:var(--dim);margin-bottom:4px">${w.breakdown_zh}</div>
+        <div class="divider"></div>
+        <div class="word-zh">${w.zh}</div>
+        <div class="word-example">${w.example}</div>
+      </div>`;
+  }).join('');
+
+  el.innerHTML = `
+    <div style="font-family:var(--mono);font-size:14px;color:var(--muted);margin-bottom:4px">
+      字根 <strong style="color:var(--accent2)">${r.root}</strong> 的代表單字
+    </div>
+    <div class="word-cards">${cards}</div>
+    <button class="btn-primary" onclick="goToQuiz()">開始小測驗 →</button>`;
+
+  // animate in
+  requestAnimationFrame(()=>{
+    r.words.forEach((_,i)=>{
+      const el = document.getElementById(`wc${i}`);
+      if(el){ el.style.opacity='1'; el.style.transform='translateY(0)'; }
+    });
+  });
+}
+
+// ── Quiz ──
+function renderQuiz(el){
+  const r = state.currentRoot;
+  const q = r.quizzes[state.quizIdx];
+  const total = r.quizzes.length;
+
+  const dots = r.quizzes.map((_,i)=>{
+    const cls = i < state.quizIdx ? 'done' : i===state.quizIdx ? 'current' : '';
+    return `<div class="quiz-dot ${cls}"></div>`;
+  }).join('');
+
+  const opts = q.opts.map((opt,i)=>{
+    let cls = '';
+    if(state.quizAnswered){
+      if(i===q.ans) cls='correct';
+      else if(i===state.quizSelected && state.quizSelected!==q.ans) cls='wrong';
+    }
+    return `<button class="quiz-opt ${cls}" onclick="answerQuiz(${i})"
+      ${state.quizAnswered?'disabled':''}>
+      <span class="opt-key">${['A','B','C','D'][i]}</span>${opt}
+    </button>`;
+  }).join('');
+
+  let feedback = '';
+  if(state.quizAnswered){
+    const correct = state.quizSelected === q.ans;
+    feedback = correct
+      ? `<div class="quiz-feedback ok">✓ 答對了！</div>`
+      : `<div class="quiz-feedback bad">
+           <div>✗ 答錯了，沒關係。</div>
+           <div class="fb-breakdown">${q.feedback_root.replace(/(\w+=\w+|[\u4e00-\u9fff]+)/g, m=>`<strong>${m}</strong>`)}</div>
+         </div>`;
+  }
+
+  el.innerHTML = `
+    <div class="quiz-card">
+      <div class="quiz-progress">${dots}<span style="font-family:var(--mono);font-size:13px;color:var(--dim);margin-left:auto">${state.quizIdx+1} / ${total}</span></div>
+      <div class="quiz-q"><span class="quiz-word">${q.word}</span>${q.q}</div>
+      <div class="quiz-opts">${opts}</div>
+      ${feedback}
+    </div>
+    ${state.quizAnswered ? `<button class="next-btn" onclick="nextQuiz()">${state.quizIdx+1<total ? '下一題 →' : '查看結果 →'}</button>` : ''}`;
+}
+
+// ── Unlock ──
+function renderUnlock(el){
+  const r = state.currentRoot;
+  const lv = progress.rootLevels[r.id] || 1;
+  const lvLabels = ['','已發現','已理解','已熟悉','已精通'];
+  el.innerHTML = `
+    <div class="unlock-card">
+      <div class="unlock-icon">🔓</div>
+      <div class="unlock-title">你解鎖了新字根！</div>
+      <div class="unlock-root">${r.root}</div>
+      <div class="unlock-meaning">${r.meaning_zh}</div>
+      <div class="unlock-badge">✦ 已加入字根圖鑑</div>
+      <div style="font-family:var(--mono);font-size:14px;color:var(--muted);margin-bottom:20px">
+        等級 Lv${lv}：${lvLabels[lv]||'已發現'}
+      </div>
+      <button class="btn-primary" onclick="goToDone()">查看今日成果 →</button>
+    </div>`;
+}
+
+// ── Done ──
+function renderDone(el){
+  const task = state.task;
+  const newRootName = state.currentRoot ? state.currentRoot.root : null;
+  const total = state.quizCorrects + state.quizWrongs;
+  const acc = total ? Math.round(state.quizCorrects/total*100) : 100;
+
+  // record daily stats
+  const today = PROGRESS.today();
+  if(!progress.dailyStats[today]) progress.dailyStats[today]={completedTasks:0,correctAnswers:0,wrongAnswers:0};
+  progress.dailyStats[today].completedTasks++;
+  progress.dailyStats[today].correctAnswers += state.quizCorrects;
+  progress.dailyStats[today].wrongAnswers += state.quizWrongs;
+  PROGRESS.save(progress);
+
+  el.innerHTML = `
+    <div class="done-card">
+      <div class="done-title">今日任務完成！🎉</div>
+      <div style="font-size:15px;color:var(--muted);margin-top:4px">你今天：</div>
+      <div class="done-stats">
+        ${newRootName?`<div class="done-stat"><div class="n">1</div><div class="l">字根解鎖</div></div>`:''}
+        <div class="done-stat"><div class="n">${total}</div><div class="l">題完成</div></div>
+        <div class="done-stat"><div class="n">${acc}%</div><div class="l">答對率</div></div>
+      </div>
+      ${newRootName?`<div class="done-next">📅 明天會幫你複習「${newRootName}」相關單字</div>`:''}
+      <div style="display:flex;gap:10px;margin-top:4px">
+        <button class="next-btn" style="flex:1" onclick="switchTab('collection')">字根圖鑑</button>
+        <button class="btn-primary" style="flex:1;margin-top:0" onclick="goBackToTask()">回首頁</button>
+      </div>
+    </div>`;
+}
+
+// ── Collection ──
+function renderCollection(el){
+  const cells = ROOT_GROUPS.map(r=>{
+    const unlocked = progress.unlockedRoots.includes(r.id);
+    const lv = progress.rootLevels[r.id] || 0;
+    const icons = ['🔒','👀','✅','🔥','🏆'];
+    const lvClass = unlocked ? `lv${Math.min(lv,4)}` : '';
+    return `
+      <div class="root-cell ${unlocked?'':'locked'}" onclick="${unlocked?`reviewRoot('${r.id}')`:''}" >
+        <div class="root-cell-icon">${icons[lv]||'🔒'}</div>
+        <div class="root-cell-word">${r.root}</div>
+        <div class="root-cell-zh">${r.meaning_zh}</div>
+        ${unlocked?`<div class="root-cell-lv ${lvClass}">Lv${lv}</div>`:''}
+      </div>`;
+  }).join('');
+
+  const total = ROOT_GROUPS.length;
+  const unlocked = progress.unlockedRoots.length;
+  const mastered = Object.entries(progress.rootLevels).filter(([,v])=>v>=4).length;
+
+  el.innerHTML = `
+    <div style="font-family:var(--mono);font-size:14px;color:var(--muted);padding:0 0 4px">
+      已收集 <strong style="color:var(--accent2)">${unlocked}</strong> /
+      ${total} 個字根　精通 <strong style="color:var(--accent)">${mastered}</strong>
+    </div>
+    <div class="collection-grid">${cells}</div>
+    ${unlocked===0?`<div class="empty-state">完成今日任務後<br>字根會出現在這裡</div>`:''}`;
+}
+
+// ══════════════════════════════════════════════
+// ACTIONS
+// ══════════════════════════════════════════════
+function startTask(){
+  const task = state.task;
+  state.quizCorrects = 0;
+  state.quizWrongs = 0;
+  state.wrongWords = [];
+  if(task.newRoot){
+    state.currentRoot = task.newRoot;
+    state.phase = 'intro';
+  } else if(task.reviewItems.length > 0){
+    startReviewSession(task.reviewItems);
+    return;
+  }
+  render();
+}
+
+function startReviewSession(items){
+  // Build review quizzes from wordProgress words
+  // For simplicity, use the word's root group quizzes
+  const reviewRoot = ROOT_GROUPS.find(r=>
+    r.words.some(w=> items.some(i=>i.wordId===`word_${w.word}`))
+  );
+  if(reviewRoot){
+    state.currentRoot = reviewRoot;
+    state.quizIdx = 0;
+    state.quizAnswered = false;
+    state.phase = 'quiz';
+    render();
+  } else {
+    state.phase = 'done';
+    render();
+  }
+}
+
+function goToWords(){
+  state.phase = 'words';
+  render();
+}
+
+function goToQuiz(){
+  state.quizIdx = 0;
+  state.quizAnswered = false;
+  state.quizSelected = null;
+  state.phase = 'quiz';
+  render();
+}
+
+function answerQuiz(optIdx){
+  if(state.quizAnswered) return;
+  state.quizAnswered = true;
+  state.quizSelected = optIdx;
+  const r = state.currentRoot;
+  const q = r.quizzes[state.quizIdx];
+  const correct = optIdx === q.ans;
+  if(correct) state.quizCorrects++;
+  else { state.quizWrongs++; state.wrongWords.push(q.word); }
+
+  // Update word progress
+  const wid = `word_${q.word}`;
+  if(!progress.wordProgress[wid]){
+    progress.wordProgress[wid] = {reviewStage:0,correctCount:0,wrongCount:0,lastReviewedAt:PROGRESS.today(),nextReviewAt:PROGRESS.today()};
+  }
+  const wp = progress.wordProgress[wid];
+  if(correct){
+    wp.correctCount++;
+    wp.reviewStage = Math.min(wp.reviewStage+1, STAGES.length-1);
+  } else {
+    wp.wrongCount++;
+    wp.reviewStage = Math.max(wp.reviewStage-1, 1);
+  }
+  const daysAhead = STAGES[wp.reviewStage] || 1;
+  const next = new Date();
+  next.setDate(next.getDate() + daysAhead);
+  wp.nextReviewAt = next.toISOString().slice(0,10);
+  wp.lastReviewedAt = PROGRESS.today();
+  PROGRESS.save(progress);
+  render();
+}
+
+function nextQuiz(){
+  const r = state.currentRoot;
+  if(state.quizIdx + 1 < r.quizzes.length){
+    state.quizIdx++;
+    state.quizAnswered = false;
+    state.quizSelected = null;
+    render();
+  } else {
+    // Quiz done — unlock root
+    unlockRoot(r);
+  }
+}
+
+function unlockRoot(r){
+  if(!progress.unlockedRoots.includes(r.id)){
+    progress.unlockedRoots.push(r.id);
+    // Set Lv2 (completed first quiz)
+    progress.rootLevels[r.id] = 2;
+    PROGRESS.save(progress);
+    state.phase = 'unlock';
+    render();
+  } else {
+    // Already unlocked — update level
+    const currentLv = progress.rootLevels[r.id] || 1;
+    if(state.quizCorrects >= r.quizzes.length){
+      progress.rootLevels[r.id] = Math.min(currentLv+1, 4);
+    }
+    PROGRESS.save(progress);
+    goToDone();
+  }
+}
+
+function goToDone(){
+  state.phase = 'done';
+  render();
+}
+
+function goBackToTask(){
+  state.phase = 'task';
+  state.currentRoot = null;
+  render();
+}
+
+function reviewRoot(rootId){
+  const r = ROOT_GROUPS.find(x=>x.id===rootId);
+  if(!r) return;
+  state.currentRoot = r;
+  state.quizCorrects = 0;
+  state.quizWrongs = 0;
+  state.wrongWords = [];
+  state.task = {reviewItems:[], newRoot:null, estimatedMinutes:2};
+  state.phase = 'intro';
+  switchTab('today');
+}
+
+function switchTab(tab){
+  currentTab = tab;
+  document.getElementById('tabToday').className = 'tab' + (tab==='today'?' active':'');
+  document.getElementById('tabCollection').className = 'tab' + (tab==='collection'?' active':'');
+  render();
+}
+
+// ── Boot ──
+render();
+</script>
+</body>
+</html>
