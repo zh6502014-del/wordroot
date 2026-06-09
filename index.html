@@ -599,6 +599,8 @@ function BookScreen({vocab}){
   const[subVal,setSubVal]=useState(null);
   const[modalIdx,setModalIdx]=useState(null);
 
+  const[filterExpanded,setFilterExpanded]=useState(false);
+
   const statusLabel={new:"未學習",learning:"學習中",due:"待複習",mastered:"已熟練"};
   const statusStyle={
     new:{background:"var(--surface2)",color:"var(--dim)",border:"1px solid var(--border)"},
@@ -608,9 +610,7 @@ function BookScreen({vocab}){
   };
 
   const allInitials=[...new Set(vocab.map(w=>w.word[0].toUpperCase()))].sort();
-  const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root)))].sort();
-  const allTags=[...new Set(vocab.flatMap(w=>w.tags||[]))].sort();
-  const allSynonyms=[...new Set(vocab.flatMap(w=>w.synonyms||[]))].sort();
+  const allRoots=[...new Set(vocab.flatMap(w=>w.roots.map(r=>r.root)))].sort();
 
   const fsrsAll=FSRS.all();
   let words=vocab;
@@ -619,8 +619,6 @@ function BookScreen({vocab}){
   else if(filter==="new")words=words.filter(w=>!fsrsAll[w.word]);
   if(subType==="initial"&&subVal)words=words.filter(w=>w.word[0].toUpperCase()===subVal);
   if(subType==="root"&&subVal)words=words.filter(w=>w.roots.some(r=>r.root===subVal));
-  if(subType==="tag"&&subVal)words=words.filter(w=>(w.tags||[]).includes(subVal));
-  if(subType==="synonym"&&subVal)words=words.filter(w=>(w.synonyms||[]).includes(subVal));
 
   const modal=modalIdx!==null?words[modalIdx]:null;
   const closeModal=()=>setModalIdx(null);
@@ -641,59 +639,74 @@ function BookScreen({vocab}){
     return()=>window.removeEventListener("keydown",fn);
   },[modalIdx,words.length]);
 
-  const sbBase={fontFamily:"var(--mono)",fontSize:16,padding:"3px 9px",borderRadius:5,cursor:"pointer",border:"1px solid var(--border)",background:"transparent",color:"var(--muted)",transition:"all .15s"};
-  const sbActive={...sbBase,background:"var(--surface2)",color:"var(--text)",borderColor:"var(--muted)"};
-  const chipBase={fontFamily:"var(--mono)",fontSize:16,padding:"3px 9px",borderRadius:5,cursor:"pointer",border:"1px solid var(--border)",background:"transparent",color:"var(--dim)",transition:"all .15s"};
-  const chipActive={...chipBase,background:"rgba(200,240,96,.1)",color:"var(--accent)",borderColor:"rgba(200,240,96,.3)"};
+  const btnStyle=(active)=>({fontFamily:"var(--mono)",fontSize:15,padding:"6px 14px",borderRadius:20,border:`1px solid ${active?"var(--accent2)":"var(--border)"}`,background:active?"rgba(96,200,240,.12)":"transparent",color:active?"var(--accent2)":"var(--muted)",cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s"});
+  const chipStyle=(active)=>({fontFamily:"var(--mono)",fontSize:14,padding:"4px 10px",borderRadius:5,border:`1px solid ${active?"rgba(200,240,96,.4)":"var(--border)"}`,background:active?"rgba(200,240,96,.1)":"transparent",color:active?"var(--accent)":"var(--dim)",cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s"});
 
   return(
-    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10,padding:"20px 20px 48px",width:"100%",maxWidth:700,margin:"0 auto"}}>
+    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:0,padding:"16px 0 48px",width:"100%",maxWidth:700,margin:"0 auto"}}>
 
-      {/* 主篩選 */}
-      <div style={{display:"flex",alignItems:"center",width:"100%",gap:8}}>
+      {/* 標題列 */}
+      <div style={{display:"flex",alignItems:"center",width:"100%",padding:"0 20px",marginBottom:12}}>
         <span style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--text)"}}>單字本</span>
-        <div style={{display:"flex",gap:5,marginLeft:"auto",flexWrap:"wrap"}}>
-          {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"]].map(([f,l])=>(
-            <button key={f} onClick={()=>{setFilter(f);setModalIdx(null)}}
-              style={{fontFamily:"var(--mono)",fontSize:16,padding:"4px 10px",borderRadius:6,border:`1px solid ${filter===f?"var(--muted)":"var(--border)"}`,background:filter===f?"var(--surface2)":"transparent",color:filter===f?"var(--text)":"var(--muted)",cursor:"pointer"}}>
+        <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{words.length} 筆</span>
+      </div>
+
+      {/* 主篩選 — 水平捲動列，右側展開箭頭 */}
+      <div style={{width:"100%",display:"flex",alignItems:"center",borderBottom:"1px solid var(--border)",marginBottom:8}}>
+        <div style={{flex:1,display:"flex",gap:2,overflowX:"auto",padding:"0 20px 10px",scrollbarWidth:"none",msOverflowStyle:"none"}}>
+          {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"],["initial","字首"],["root","字根"]].map(([f,l])=>(
+            <button key={f}
+              onClick={()=>{
+                if(f==="initial"||f==="root"){toggleSubType(f)}
+                else{setFilter(f);setSubType(null);setSubVal(null);setModalIdx(null)}
+              }}
+              style={btnStyle(filter===f||(f==="initial"&&subType==="initial")||(f==="root"&&subType==="root"))}>
               {l}
             </button>
           ))}
+          {(subVal)&&(
+            <button onClick={clearSub} style={{...btnStyle(false),color:"var(--red)",borderColor:"rgba(240,100,100,.3)"}}>
+              清除 ✕
+            </button>
+          )}
         </div>
+        <button
+          onClick={()=>setFilterExpanded(e=>!e)}
+          style={{flexShrink:0,padding:"0 14px 10px",background:"transparent",border:"none",color:"var(--muted)",cursor:"pointer",fontSize:18,lineHeight:1}}>
+          {filterExpanded?"∧":"∨"}
+        </button>
       </div>
 
-      {/* 次級篩選 type bar */}
-      <div style={{display:"flex",alignItems:"center",width:"100%",gap:6,flexWrap:"wrap"}}>
-        <span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>篩選</span>
-        {[["initial","字首"],["root","字根"]].map(([t,l])=>(
-          <button key={t} style={subType===t?sbActive:sbBase} onClick={()=>toggleSubType(t)}>{l}</button>
-        ))}
-        {(subType||subVal)&&(
-          <button onClick={clearSub} style={{fontFamily:"var(--mono)",fontSize:16,padding:"3px 9px",borderRadius:5,cursor:"pointer",border:"1px solid rgba(240,100,100,.3)",background:"rgba(240,100,100,.06)",color:"var(--red)"}}>
-            清除 ✕
-          </button>
-        )}
-        <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)"}}>{words.length} 筆</span>
-      </div>
-
-      {/* 次級篩選 values */}
-      {subType==="initial"&&(
-        <div style={{display:"flex",flexWrap:"wrap",gap:5,width:"100%"}}>
-          {allInitials.map(c=><button key={c} style={subVal===c?chipActive:chipBase} onClick={()=>selectSubVal(c)}>{c}</button>)}
+      {/* 次篩選展開面板 */}
+      {filterExpanded&&(
+        <div style={{width:"100%",padding:"0 20px 12px",borderBottom:"1px solid var(--border)",marginBottom:8}}>
+          {subType==="initial"&&(
+            <div style={{display:"flex",flexWrap:"wrap",gap:5}}>
+              {allInitials.map(c=><button key={c} style={chipStyle(subVal===c)} onClick={()=>selectSubVal(c)}>{c}</button>)}
+            </div>
+          )}
+          {subType==="root"&&(
+            <div style={{display:"flex",flexWrap:"wrap",gap:5,maxHeight:120,overflowY:"auto"}}>
+              {allRoots.map(r=><button key={r} style={chipStyle(subVal===r)} onClick={()=>selectSubVal(r)}>{r}</button>)}
+            </div>
+          )}
+          {!subType&&(
+            <div style={{fontFamily:"var(--mono)",fontSize:13,color:"var(--dim)"}}>
+              點選「字首」或「字根」後展開選項
+            </div>
+          )}
         </div>
       )}
-      {subType==="root"&&(
-        <div style={{display:"flex",flexWrap:"wrap",gap:5,width:"100%",maxHeight:112,overflowY:"auto",paddingRight:4}}>
-          {allRoots.map(r=><button key={r} style={subVal===r?chipActive:chipBase} onClick={()=>selectSubVal(r)}>{r}</button>)}
-        </div>
-      )}
-
 
       {/* 單字列表 */}
+      <div style={{width:"100%",padding:"0 20px"}}>
       {words.length===0
-        ?<div style={{fontSize:16,color:"var(--muted)",padding:"40px 0"}}>沒有符合條件的單字</div>
+        ?<div style={{fontSize:16,color:"var(--muted)",padding:"40px 0",textAlign:"center",lineHeight:2}}>
+            此篩選條件下沒有單字<br/>
+            <span style={{fontSize:13,opacity:.6}}>試試其他篩選條件</span>
+          </div>
         :words.map((w,i)=>{
-          const status=getStatus(w.word),p=FSRS.get(w.word);
+          const p=FSRS.get(w.word);
           return(
             <div key={w.word} className="book-item" onClick={()=>setModalIdx(i)}>
               <span style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--text)",minWidth:120}}>{w.word}</span>
@@ -706,6 +719,7 @@ function BookScreen({vocab}){
           );
         })
       }
+      </div>
 
       {/* Modal */}
       {modal&&(
@@ -994,6 +1008,41 @@ function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,qu
           </div>
         ))}
       </div>
+      {/* 章節學習 card */}
+      {(()=>{
+        const chData=JSON.parse(localStorage.getItem('wr_chapters')||'{}');
+        const stars=Object.values(chData).reduce((s,c)=>s+(c.stars||0),0);
+        const done=Object.keys(chData).length;
+        const current=done>0?done-1:0;
+        const ch=chData[current]||{};
+        const label=ch.quizScore!==null?`Ch.${current+1} 複習中`:`Ch.${current+1} 學習中`;
+        return(
+          <a href="chapters.html" style={{textDecoration:"none",width:"100%",maxWidth:600,display:"block"}}>
+            <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.08),var(--surface))",border:"1px solid rgba(200,240,96,.25)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
+              <div style={{fontSize:32}}>🏆</div>
+              <div style={{flex:1}}>
+                <div style={{fontFamily:"var(--serif)",fontSize:16,color:"var(--text)",marginBottom:3}}>章節學習</div>
+                <div style={{fontSize:14,color:"var(--muted)"}}>每 20 個單字一章，星級評分累積等級</div>
+              </div>
+              <div style={{textAlign:"right"}}>
+                <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--accent)"}}>探索 →</div>
+                <div style={{fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",marginTop:2}}>⭐{stars}</div>
+              </div>
+            </div>
+          </a>
+        );
+      })()}
+      {/* 字根探索 card */}
+      <a href="roots.html" style={{textDecoration:"none",width:"100%",maxWidth:600,display:"block"}}>
+        <div style={{background:"linear-gradient(135deg,rgba(96,200,240,.07),var(--surface))",border:"1px solid rgba(96,200,240,.2)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
+          <div style={{fontSize:32}}>🌿</div>
+          <div style={{flex:1}}>
+            <div style={{fontFamily:"var(--serif)",fontSize:16,color:"var(--text)",marginBottom:3}}>字根探索</div>
+            <div style={{fontSize:14,color:"var(--muted)"}}>每天 5 分鐘，用字根解鎖單字，建立長期記憶</div>
+          </div>
+          <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--accent2)"}}>探索 →</div>
+        </div>
+      </a>
       {/* 殘酷二選一 card */}
       {MISTAKES.count()>0&&(
         <div
@@ -1029,22 +1078,8 @@ function App(){
 
   useEffect(()=>{
     const urls=[
-      "./data/vocab_01_001-050.json",
-      "./data/vocab_02_051-100.json",
-      "./data/vocab_03_101-150.json",
-      "./data/vocab_04_151-200.json",
-      "./data/vocab_05_201-250.json",
-      "./data/vocab_06_251-300.json",
-      "./data/vocab_07_301-350.json",
-      "./data/vocab_08_351-400.json",
-      "./data/vocab_09_401-450.json",
-      "./data/vocab_10_451-500.json",
-      // "./data/vocab_11_501-550.json",
-      // "./data/vocab_12_551-600.json",
-      // "./data/vocab_13_601-650.json",
-      // "./data/vocab_14_651-700.json",
-      // "./data/vocab_15_701-750.json",
-      // "./data/vocab_16_751-800.json",
+      "./data/vocab_batch_001.json",
+      // "./data/vocab_batch_002.json",
     ];
     Promise.all(urls.map(u=>fetch(u).then(r=>{
       if(!r.ok)throw new Error(u);

@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
+<title>章節學習 — WordRoot</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&display=swap"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --accent:#c8f060;--accent2:#60c8f0;--red:#f06464;--orange:#f0a060;
+  --bg:#0e0f11;--surface:#16181c;--surface2:#1e2026;
+  --border:#2a2d35;--text:#e8eaf0;--muted:#6b7080;--dim:#3a3f50;
+  --serif:'DM Serif Display',serif;--mono:'DM Mono',monospace;--sans:'Noto Sans TC',sans-serif;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100vh}
+#app{max-width:480px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+
+/* ── Header ── */
+#header{
+  padding:16px 20px;display:flex;align-items:center;gap:12px;
+  border-bottom:1px solid var(--border);position:sticky;top:0;
+  z-index:50;background:var(--bg);
+}
+.back-btn{color:var(--muted);font-size:20px;text-decoration:none;padding:4px 6px;border-radius:6px}
+.back-btn:hover{color:var(--text)}
+#headerTitle{font-family:var(--serif);font-size:20px;color:var(--text);flex:1}
+#headerSub{font-family:var(--mono);font-size:13px;color:var(--muted)}
+
+/* ── Screen ── */
+#screen{flex:1;overflow-y:auto}
+
+/* ── Level banner ── */
+.level-banner{
+  margin:20px 20px 0;
+  background:linear-gradient(135deg,rgba(200,240,96,.07),rgba(96,200,240,.04));
+  border:1px solid rgba(200,240,96,.15);border-radius:16px;padding:18px 20px;
+}
+.level-row{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.level-badge{
+  font-family:var(--serif);font-size:28px;color:var(--accent);
+  background:rgba(200,240,96,.08);border:1px solid rgba(200,240,96,.2);
+  border-radius:10px;padding:4px 14px;white-space:nowrap;
+}
+.level-info{flex:1}
+.level-name{font-family:var(--serif);font-size:18px;color:var(--text)}
+.level-sub{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:2px}
+.xp-bar-wrap{height:6px;background:var(--surface2);border-radius:3px;overflow:hidden}
+.xp-bar{height:100%;background:var(--accent);border-radius:3px;transition:width .6s}
+.xp-label{font-family:var(--mono);font-size:12px;color:var(--dim);margin-top:5px}
+
+/* ── Section title ── */
+.sec-title{
+  font-family:var(--mono);font-size:13px;color:var(--muted);
+  text-transform:uppercase;letter-spacing:.08em;
+  padding:20px 20px 8px;
+}
+
+/* ── Chapter card ── */
+.ch-card{
+  margin:0 20px 12px;background:var(--surface);
+  border:1px solid var(--border);border-radius:14px;
+  overflow:hidden;transition:border-color .18s;
+}
+.ch-card.active{border-color:rgba(200,240,96,.3)}
+.ch-card.locked{opacity:.45}
+.ch-card-top{
+  padding:16px 18px;display:flex;align-items:center;gap:14px;cursor:pointer;
+}
+.ch-card.locked .ch-card-top{cursor:default}
+.ch-num{
+  font-family:var(--mono);font-size:13px;color:var(--dim);
+  background:var(--surface2);border-radius:6px;padding:3px 9px;white-space:nowrap;
+  min-width:56px;text-align:center;
+}
+.ch-num.active{color:var(--accent);background:rgba(200,240,96,.08);border:1px solid rgba(200,240,96,.15)}
+.ch-info{flex:1}
+.ch-title{font-family:var(--serif);font-size:18px;color:var(--text)}
+.ch-words{font-family:var(--mono);font-size:12px;color:var(--dim);margin-top:2px}
+.ch-stars{font-size:18px;letter-spacing:2px}
+.ch-lock{font-size:22px;color:var(--dim)}
+
+.ch-actions{
+  padding:0 18px 16px;display:flex;gap:8px;
+}
+.btn-learn{
+  flex:1;padding:10px;border-radius:10px;
+  border:1px solid rgba(200,240,96,.3);background:rgba(200,240,96,.06);
+  color:var(--accent);font-family:var(--sans);font-size:15px;cursor:pointer;
+  transition:all .15s;
+}
+.btn-learn:hover{background:rgba(200,240,96,.12)}
+.btn-learn:disabled{opacity:.35;cursor:not-allowed}
+.btn-quiz{
+  flex:1;padding:10px;border-radius:10px;
+  border:1px solid rgba(96,200,240,.3);background:rgba(96,200,240,.06);
+  color:var(--accent2);font-family:var(--sans);font-size:15px;cursor:pointer;
+  transition:all .15s;
+}
+.btn-quiz:hover{background:rgba(96,200,240,.12)}
+.btn-quiz:disabled{opacity:.35;cursor:not-allowed}
+.btn-review{
+  flex:1;padding:10px;border-radius:10px;
+  border:1px solid rgba(240,160,96,.3);background:rgba(240,160,96,.06);
+  color:var(--orange);font-family:var(--sans);font-size:15px;cursor:pointer;
+  transition:all .15s;
+}
+.review-due{
+  display:inline-block;font-family:var(--mono);font-size:11px;
+  background:rgba(240,160,96,.15);color:var(--orange);
+  border-radius:4px;padding:1px 6px;margin-left:6px;vertical-align:middle;
+}
+
+/* ── Learn / Quiz / Result screens ── */
+.screen-wrap{padding:20px 20px 60px}
+
+/* card flip */
+.flip-wrap{perspective:1200px;width:100%;aspect-ratio:3/2;cursor:pointer;user-select:none}
+.flip-inner{
+  width:100%;height:100%;position:relative;
+  transform-style:preserve-3d;transition:transform .45s;
+}
+.flip-inner.flipped{transform:rotateY(180deg)}
+.flip-face{
+  position:absolute;inset:0;border-radius:16px;
+  backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  display:flex;flex-direction:column;
+}
+.flip-front{
+  background:var(--surface);border:1px solid var(--border);
+  align-items:center;justify-content:center;gap:8px;
+}
+.flip-back{
+  background:#0e1a0f;border:1px solid rgba(200,240,96,.15);
+  transform:rotateY(180deg);overflow:hidden;
+}
+.card-word{font-family:var(--serif);font-size:clamp(32px,8vw,52px);color:var(--accent)}
+.card-phonetic{font-family:var(--mono);font-size:15px;color:var(--muted)}
+.card-pos{font-family:var(--mono);font-size:13px;color:var(--dim)}
+
+/* progress bar */
+.prog-row{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+.prog-bar{flex:1;height:4px;background:var(--border);border-radius:2px;overflow:hidden}
+.prog-fill{height:100%;background:var(--accent);border-radius:2px;transition:width .3s}
+.prog-label{font-family:var(--mono);font-size:13px;color:var(--dim);white-space:nowrap}
+
+/* quiz opts */
+.quiz-word{font-family:var(--serif);font-size:28px;color:var(--accent2);margin-bottom:4px}
+.quiz-q{font-size:16px;color:var(--muted);margin-bottom:18px}
+.opt-list{display:flex;flex-direction:column;gap:9px}
+.opt{
+  padding:13px 16px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-size:16px;color:var(--text);
+  cursor:pointer;transition:all .18s;text-align:left;font-family:var(--sans);
+  display:flex;align-items:center;gap:10px;
+}
+.opt:hover:not(:disabled){border-color:var(--accent2);background:rgba(96,200,240,.06)}
+.opt.correct{border-color:var(--accent)!important;background:rgba(200,240,96,.08)!important;color:var(--accent)}
+.opt.wrong{border-color:var(--red)!important;background:rgba(240,100,100,.06)!important;color:var(--red)}
+.opt:disabled{cursor:default}
+.opt-key{font-family:var(--mono);font-size:13px;color:var(--dim);min-width:20px}
+.feedback{
+  margin-top:12px;padding:11px 14px;border-radius:10px;font-size:14px;line-height:1.7;
+}
+.feedback.ok{background:rgba(200,240,96,.07);border:1px solid rgba(200,240,96,.2);color:var(--accent)}
+.feedback.bad{background:rgba(240,100,100,.06);border:1px solid rgba(240,100,100,.2);color:var(--text)}
+.feedback.bad .fb-detail{color:var(--muted);font-size:13px;margin-top:4px;line-height:1.8}
+
+.next-btn{
+  width:100%;padding:13px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-family:var(--sans);font-size:16px;
+  color:var(--text);cursor:pointer;margin-top:12px;transition:all .18s;
+}
+.next-btn:hover{border-color:var(--accent2);color:var(--accent2)}
+
+/* result */
+.result-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:18px;padding:28px 24px;text-align:center;margin-bottom:16px;
+}
+.result-stars{font-size:36px;letter-spacing:6px;margin:12px 0}
+.result-score{font-family:var(--serif);font-size:48px;color:var(--accent)}
+.result-label{font-family:var(--mono);font-size:14px;color:var(--muted)}
+.result-msg{font-size:15px;color:var(--muted);margin-top:8px;line-height:1.7}
+.result-next{
+  background:var(--surface2);border-radius:10px;
+  padding:10px 14px;margin:14px 0;
+  font-family:var(--mono);font-size:13px;color:var(--dim);line-height:1.8;
+}
+.btn-primary{
+  width:100%;padding:14px;border-radius:12px;border:none;
+  background:var(--accent);color:#0e0f11;font-family:var(--sans);
+  font-size:16px;font-weight:700;cursor:pointer;transition:all .18s;
+}
+.btn-primary:hover{background:#d8ff70}
+.btn-secondary{
+  width:100%;padding:12px;border-radius:12px;
+  border:1px solid var(--border);background:transparent;
+  font-family:var(--sans);font-size:15px;color:var(--muted);
+  cursor:pointer;margin-top:8px;transition:all .18s;
+}
+.btn-secondary:hover{color:var(--text);border-color:var(--muted)}
+
+/* back scrollbar hide */
+.flip-back-inner{
+  flex:1;overflow-y:auto;overflow-x:hidden;
+  scrollbar-width:none;-ms-overflow-style:none;
+}
+.flip-back-inner::-webkit-scrollbar{display:none}
+
+/* root chips */
+.root-chips{display:flex;flex-wrap:wrap;gap:5px;margin:8px 0}
+.root-chip{
+  font-family:var(--mono);font-size:12px;
+  background:rgba(96,200,240,.07);border:1px solid rgba(96,200,240,.15);
+  color:var(--accent2);border-radius:5px;padding:2px 8px;
+  display:flex;align-items:center;gap:4px;
+}
+.root-chip-meaning{color:var(--dim);font-size:11px}
+.divider{height:1px;background:var(--border);margin:8px 0}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="header">
+    <a href="index.html" class="back-btn">←</a>
+    <div id="headerTitle">章節學習</div>
+    <div id="headerSub"></div>
+  </div>
+  <div id="screen"></div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════
+// CONSTANTS
+// ══════════════════════════════════════════════
+const CH_SIZE = 20;
+const PASS_LEARN = 100;   // learn just needs completion
+const PASS_QUIZ   = 70;   // % to pass first quiz
+const PASS_REV1   = 80;   // % to get ⭐⭐
+const PASS_REV2   = 90;   // % to get ⭐⭐⭐
+const REV1_DAYS   = 3;
+const REV2_DAYS   = 7;
+const STORAGE_KEY = 'wr_chapters';
+
+const LEVELS = [
+  {lv:1, name:'詞彙學徒',    min:0},
+  {lv:2, name:'單字探索者',  min:3},
+  {lv:3, name:'字根獵人',    min:8},
+  {lv:4, name:'語言武士',    min:20},
+  {lv:5, name:'詞彙大師',    min:50},
+  {lv:6, name:'字根宗師',    min:100},
+];
+
+// ══════════════════════════════════════════════
+// STATE
+// ══════════════════════════════════════════════
+let VOCAB = [];
+let chapterProgress = {};
+let view = { name:'list' };  // list | learn | quiz | result
+
+// ── Progress helpers ──
+function loadProgress(){
+  try{ return JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}'); }
+  catch{ return {}; }
+}
+function saveProgress(){ localStorage.setItem(STORAGE_KEY, JSON.stringify(chapterProgress)); }
+
+function getChapterWords(chIdx){
+  return VOCAB.slice(chIdx*CH_SIZE, (chIdx+1)*CH_SIZE);
+}
+function totalChapters(){ return Math.ceil(VOCAB.length/CH_SIZE); }
+
+function getCh(i){
+  return chapterProgress[i] || {
+    status:'locked', stars:0,
+    learnDone:false, quizScore:null,
+    reviewDue:null, reviewStage:0, reviewScore:null
+  };
+}
+function setCh(i,data){
+  chapterProgress[i]={...getCh(i),...data};
+  saveProgress();
+}
+
+function addDays(d){ const dt=new Date(); dt.setDate(dt.getDate()+d); return dt.toISOString().slice(0,10); }
+function today(){ return new Date().toISOString().slice(0,10); }
+function isReviewDue(i){ const ch=getCh(i); return ch.reviewDue && ch.reviewDue<=today(); }
+
+function totalStars(){
+  return Object.values(chapterProgress).reduce((s,c)=>s+(c.stars||0),0);
+}
+function getLevel(){
+  const stars = totalStars();
+  let cur = LEVELS[0];
+  for(const lv of LEVELS){ if(stars>=lv.min) cur=lv; }
+  const next = LEVELS.find(l=>l.min>stars);
+  const pct = next ? Math.round((stars-cur.min)/(next.min-cur.min)*100) : 100;
+  return {...cur, stars, nextMin:next?next.min:cur.min, pct};
+}
+
+// ══════════════════════════════════════════════
+// RENDER — LIST
+// ══════════════════════════════════════════════
+function renderList(){
+  const n = totalChapters();
+  const lv = getLevel();
+  document.getElementById('headerSub').textContent = `${totalStars()} 顆星`;
+
+  let html = `
+    <div class="level-banner">
+      <div class="level-row">
+        <div class="level-badge">Lv${lv.lv}</div>
+        <div class="level-info">
+          <div class="level-name">${lv.name}</div>
+          <div class="level-sub">${lv.stars} 顆星 · ${n} 個章節可用</div>
+        </div>
+      </div>
+      <div class="xp-bar-wrap"><div class="xp-bar" style="width:${lv.pct}%"></div></div>
+      <div class="xp-label">${lv.stars} / ${lv.nextMin} 顆星 升級</div>
+    </div>`;
+
+  // Check if any review due
+  const dueChs = [];
+  for(let i=0;i<n;i++){ if(isReviewDue(i)) dueChs.push(i); }
+  if(dueChs.length>0){
+    html += `<div class="sec-title">🔄 需要複習</div>`;
+    for(const i of dueChs){
+      html += renderChCard(i, true);
+    }
+  }
+
+  html += `<div class="sec-title">📖 所有章節</div>`;
+  for(let i=0;i<n;i++){
+    if(!dueChs.includes(i)) html += renderChCard(i, false);
+  }
+  html += `<div style="height:32px"></div>`;
+
+  document.getElementById('screen').innerHTML = html;
+}
+
+function renderChCard(i, highlight){
+  const ch = getCh(i);
+  const words = getChapterWords(i);
+  const first = words[0]?.word||'';
+  const last = words[words.length-1]?.word||'';
+  const due = isReviewDue(i);
+  const stars = '⭐'.repeat(ch.stars) + '☆'.repeat(3-ch.stars);
+
+  // Determine status
+  const isLocked = ch.status==='locked' && i>0;
+  const canLearn = !isLocked;
+  const canQuiz = ch.learnDone;
+  const canReview = due;
+
+  const numCls = ch.status!=='locked'?'ch-num active':'ch-num';
+  const lockIcon = isLocked?'<div class="ch-lock">🔒</div>':'';
+  const starsHtml = ch.quizScore!==null?`<div class="ch-stars">${stars}</div>`:'';
+  const reviewTag = due?`<span class="review-due">複習</span>`:'';
+
+  let actions = '';
+  if(!isLocked){
+    actions = `<div class="ch-actions">`;
+    if(!ch.learnDone){
+      actions += `<button class="btn-learn" onclick="startLearn(${i})">📖 探索</button>`;
+    } else if(ch.quizScore===null){
+      actions += `<button class="btn-learn" onclick="startLearn(${i})">📖 再看一遍</button>`;
+      actions += `<button class="btn-quiz" onclick="startQuiz(${i},'first')">🎯 測驗</button>`;
+    } else if(due){
+      actions += `<button class="btn-review" onclick="startQuiz(${i},'review')">🔄 複習測驗</button>`;
+    } else {
+      actions += `<button class="btn-learn" onclick="startLearn(${i})">📖 重看</button>`;
+      actions += `<button class="btn-quiz btn-review" onclick="startQuiz(${i},'first')" style="border-color:rgba(96,200,240,.3);color:var(--accent2);background:rgba(96,200,240,.06)">🎯 再次測驗</button>`;
+    }
+    actions += `</div>`;
+  }
+
+  return `
+    <div class="ch-card${isLocked?' locked':''}${highlight?' active':''}">
+      <div class="ch-card-top" onclick="${isLocked?'':''}">
+        <div class="${numCls}">Ch.${i+1}</div>
+        <div class="ch-info">
+          <div class="ch-title">Chapter ${i+1} ${reviewTag}</div>
+          <div class="ch-words">${first} – ${last} · ${words.length} 個單字</div>
+        </div>
+        ${starsHtml}
+        ${lockIcon}
+      </div>
+      ${actions}
+    </div>`;
+}
+
+// ══════════════════════════════════════════════
+// LEARN SCREEN
+// ══════════════════════════════════════════════
+let learnState = {};
+
+function startLearn(chIdx){
+  const words = getChapterWords(chIdx);
+  learnState = { chIdx, words, idx:0, flipped:false };
+  view = {name:'learn'};
+  renderLearn();
+}
+
+function renderLearn(){
+  const {words, idx, flipped, chIdx} = learnState;
+  const w = words[idx];
+  const pct = Math.round(idx/words.length*100);
+
+  const rootChips = (w.roots||[]).map(r=>`
+    <div class="root-chip">
+      <span>${r.root}</span>
+      <span class="root-chip-meaning">${r.meaning_zh}</span>
+    </div>`).join('');
+
+  document.getElementById('headerTitle').textContent = `Chapter ${chIdx+1} 探索`;
+  document.getElementById('headerSub').textContent = `${idx+1} / ${words.length}`;
+
+  document.getElementById('screen').innerHTML = `
+    <div class="screen-wrap">
+      <div class="prog-row">
+        <div class="prog-bar"><div class="prog-fill" style="width:${pct}%"></div></div>
+        <div class="prog-label">${idx+1}/${words.length}</div>
+      </div>
+
+      <div class="flip-wrap" onclick="flipCard()">
+        <div class="flip-inner${flipped?' flipped':''}" id="flipInner">
+          <!-- FRONT -->
+          <div class="flip-face flip-front">
+            <div class="card-word">${w.word}</div>
+            <div class="card-phonetic">${w.phonetic}</div>
+            <div class="card-pos">${w.pos}</div>
+            <div style="font-family:var(--mono);font-size:12px;color:var(--dim);margin-top:12px">點擊翻面</div>
+          </div>
+          <!-- BACK -->
+          <div class="flip-face flip-back">
+            <div class="flip-back-inner" style="padding:14px 18px">
+              <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px">
+                <div>
+                  <div style="font-size:15px;color:var(--text);line-height:1.5">${w.definition}</div>
+                  <div style="font-size:13px;color:var(--muted);margin-top:2px">${w.definition_zh}</div>
+                </div>
+                <div style="font-family:var(--serif);font-size:18px;color:var(--accent);flex-shrink:0;margin-left:10px">${w.word}</div>
+              </div>
+              <div class="divider"></div>
+              <div class="root-chips">${rootChips}</div>
+              <div style="background:rgba(200,240,96,.04);border:1px solid rgba(200,240,96,.1);border-radius:8px;padding:9px 11px;margin-top:6px">
+                <div style="font-size:20px;letter-spacing:4px;margin-bottom:4px">${(w.mnemonic?.emojis||[]).join('  ')}</div>
+                <div style="font-size:13px;color:var(--text);line-height:1.55">${w.mnemonic?.story_en||''}</div>
+                <div style="font-size:12px;color:var(--muted);line-height:1.55;margin-top:3px">${w.mnemonic?.story_zh||''}</div>
+              </div>
+              <div style="font-size:12px;color:var(--dim);font-style:italic;margin-top:8px;line-height:1.55;border-left:2px solid var(--border);padding-left:8px">${w.example}</div>
+              <div style="text-align:right;font-family:var(--mono);font-size:12px;color:var(--dim);margin-top:6px">↺ 再次點擊翻回</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="display:flex;gap:10px;margin-top:16px">
+        ${idx>0?`<button class="btn-secondary" style="flex:0 0 auto;width:48px" onclick="learnPrev()">←</button>`:''}
+        <button class="btn-primary" onclick="learnNext()">
+          ${idx<words.length-1?'下一個 →':'完成探索 ✓'}
+        </button>
+      </div>
+
+      <div style="text-align:center;margin-top:12px">
+        <button class="btn-secondary" style="width:auto;padding:6px 18px;font-size:13px" onclick="exitToList()">← 回章節列表</button>
+      </div>
+    </div>`;
+}
+
+function flipCard(){ learnState.flipped=!learnState.flipped; renderLearn(); }
+function learnPrev(){ if(learnState.idx>0){learnState.idx--;learnState.flipped=false;renderLearn();} }
+function learnNext(){
+  if(learnState.idx<learnState.words.length-1){
+    learnState.idx++;learnState.flipped=false;renderLearn();
+  } else {
+    // Mark learn done
+    setCh(learnState.chIdx,{learnDone:true,status:'available'});
+    // Go to quiz prompt
+    showLearnDone();
+  }
+}
+
+function showLearnDone(){
+  const {chIdx, words} = learnState;
+  document.getElementById('headerTitle').textContent = `Chapter ${chIdx+1}`;
+  document.getElementById('headerSub').textContent = '';
+  document.getElementById('screen').innerHTML = `
+    <div class="screen-wrap">
+      <div class="result-card">
+        <div style="font-size:40px;margin-bottom:10px">📖</div>
+        <div style="font-family:var(--serif);font-size:24px;color:var(--text);margin-bottom:6px">探索完成！</div>
+        <div style="font-size:15px;color:var(--muted);line-height:1.7">
+          你剛看了 ${words.length} 個單字。<br>
+          現在測驗自己，鞏固記憶效果更好！
+        </div>
+      </div>
+      <button class="btn-primary" onclick="startQuiz(${chIdx},'first')">🎯 開始測驗</button>
+      <button class="btn-secondary" onclick="exitToList()">稍後再測驗</button>
+    </div>`;
+}
+
+// ══════════════════════════════════════════════
+// QUIZ SCREEN
+// ══════════════════════════════════════════════
+let quizState = {};
+
+function startQuiz(chIdx, mode){
+  const words = getChapterWords(chIdx);
+  // Build 20 questions: each word, ask zh meaning
+  const questions = words.map(w=>{
+    const correct = w.definition_zh.split('；')[0].split('、')[0].slice(0,12);
+    const pool = VOCAB.filter(v=>v.word!==w.word).map(v=>v.definition_zh.split('；')[0].split('、')[0].slice(0,12));
+    const shuffled = pool.sort(()=>Math.random()-.5).slice(0,3);
+    const opts = [correct,...shuffled].sort(()=>Math.random()-.5);
+    return { word:w.word, phonetic:w.phonetic, correct, opts,
+      ansIdx: opts.indexOf(correct),
+      definition: w.definition,
+      roots: w.roots };
+  });
+
+  quizState = {
+    chIdx, mode, questions, idx:0,
+    answered:false, selected:null,
+    corrects:0, wrongs:0, wrongWords:[]
+  };
+  view = {name:'quiz'};
+  renderQuiz();
+}
+
+function renderQuiz(){
+  const {questions, idx, answered, selected, chIdx, mode} = quizState;
+  const q = questions[idx];
+  const pct = Math.round(idx/questions.length*100);
+  const modeLabel = mode==='review'?'複習測驗':'測驗';
+
+  document.getElementById('headerTitle').textContent = `Chapter ${chIdx+1} ${modeLabel}`;
+  document.getElementById('headerSub').textContent = `${idx+1} / ${questions.length}`;
+
+  const opts = q.opts.map((opt,i)=>{
+    let cls='';
+    if(answered){
+      if(i===q.ansIdx) cls='correct';
+      else if(i===selected && selected!==q.ansIdx) cls='wrong';
+    }
+    return `<button class="opt ${cls}" onclick="answerQuiz(${i})" ${answered?'disabled':''}>
+      <span class="opt-key">${['A','B','C','D'][i]}</span>${opt}
+    </button>`;
+  }).join('');
+
+  let feedback = '';
+  if(answered){
+    const ok = selected===q.ansIdx;
+    const rootText = (q.roots||[]).slice(0,2).map(r=>`${r.root}（${r.meaning_zh}）`).join(' + ');
+    feedback = ok
+      ? `<div class="feedback ok">✓ 答對了！</div>`
+      : `<div class="feedback bad">
+           <div>✗ 答錯了，正確答案是「${q.correct}」</div>
+           ${rootText?`<div class="fb-detail">${q.word} = ${rootText}</div>`:''}
+           <div class="fb-detail" style="color:var(--dim);font-size:12px">${q.definition}</div>
+         </div>`;
+  }
+
+  document.getElementById('screen').innerHTML = `
+    <div class="screen-wrap">
+      <div class="prog-row">
+        <div class="prog-bar"><div class="prog-fill" style="width:${pct}%" id="qprog"></div></div>
+        <div class="prog-label">${quizState.corrects}✓ ${quizState.wrongs}✗</div>
+      </div>
+      <div class="quiz-word">${q.word}</div>
+      <div class="quiz-q">${q.phonetic} · 選出正確的中文意思</div>
+      <div class="opt-list">${opts}</div>
+      ${feedback}
+      ${answered?`<button class="next-btn" onclick="nextQuiz()">${idx+1<questions.length?'下一題 →':'查看結果 →'}</button>`:''}
+      <div style="text-align:center;margin-top:14px">
+        <button class="btn-secondary" style="width:auto;padding:5px 16px;font-size:13px" onclick="exitToList()">← 放棄測驗</button>
+      </div>
+    </div>`;
+}
+
+function answerQuiz(optIdx){
+  if(quizState.answered) return;
+  quizState.answered=true;
+  quizState.selected=optIdx;
+  const q=quizState.questions[quizState.idx];
+  if(optIdx===q.ansIdx){ quizState.corrects++; }
+  else { quizState.wrongs++; quizState.wrongWords.push(q.word); }
+  renderQuiz();
+}
+
+function nextQuiz(){
+  quizState.answered=false;
+  quizState.selected=null;
+  if(quizState.idx<quizState.questions.length-1){
+    quizState.idx++;
+    renderQuiz();
+  } else {
+    finishQuiz();
+  }
+}
+
+function finishQuiz(){
+  const {chIdx, mode, corrects, questions, wrongWords} = quizState;
+  const total = questions.length;
+  const score = Math.round(corrects/total*100);
+  quizState.score = score;
+
+  const ch = getCh(chIdx);
+  let newStars = ch.stars;
+  let nextReview = null;
+  let reviewStage = ch.reviewStage||0;
+
+  if(mode==='first'){
+    if(score>=PASS_QUIZ){
+      newStars = Math.max(newStars, 1);
+      nextReview = addDays(REV1_DAYS);
+      reviewStage = 1;
+      // Unlock next chapter
+      const nextCh = chIdx+1;
+      if(nextCh < totalChapters()){
+        const nc = getCh(nextCh);
+        if(nc.status==='locked') setCh(nextCh,{status:'available'});
+      }
+    }
+    setCh(chIdx,{quizScore:score, stars:newStars, reviewDue:nextReview, reviewStage, status:'available'});
+  } else if(mode==='review'){
+    if(reviewStage===1 && score>=PASS_REV1){
+      newStars=Math.max(newStars,2);
+      nextReview=addDays(REV2_DAYS);
+      reviewStage=2;
+    } else if(reviewStage>=2 && score>=PASS_REV2){
+      newStars=Math.max(newStars,3);
+      nextReview=null; // mastered
+      reviewStage=3;
+    } else if(score<70){
+      // failed — reschedule in 1 day
+      nextReview=addDays(1);
+    } else {
+      nextReview=addDays(REV1_DAYS);
+    }
+    setCh(chIdx,{reviewScore:score, stars:newStars, reviewDue:nextReview, reviewStage});
+  }
+
+  renderResult();
+}
+
+function renderResult(){
+  const {chIdx, mode, score, corrects, questions, wrongWords} = quizState;
+  const total = questions.length;
+  const ch = getCh(chIdx);
+  const passed = mode==='first'?score>=PASS_QUIZ : score>= (ch.reviewStage>=2?PASS_REV2:PASS_REV1);
+  const stars = '⭐'.repeat(ch.stars)+'☆'.repeat(3-ch.stars);
+  const nextCh = chIdx+1;
+  const hasNext = nextCh < totalChapters() && passed && mode==='first';
+
+  let msg = '';
+  if(passed){
+    if(mode==='first') msg=`章節解鎖成功！${nextCh<totalChapters()?`Chapter ${nextCh+1} 現在開放了。`:''}`;
+    else if(ch.stars===3) msg='完美精通！這組單字已長期記憶。';
+    else msg=`複習通過！${ch.reviewDue?`下次複習：${ch.reviewDue}`:''}`;
+  } else {
+    msg=`答對率需達 ${mode==='first'?PASS_QUIZ:PASS_REV1}% 才能過關。明天再試一次！`;
+  }
+
+  let wrongSection = '';
+  if(wrongWords.length>0){
+    wrongSection=`<div style="background:rgba(240,100,100,.05);border:1px solid rgba(240,100,100,.15);border-radius:10px;padding:12px 14px;margin-bottom:12px">
+      <div style="font-family:var(--mono);font-size:12px;color:var(--red);margin-bottom:6px">需要加強</div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px">
+        ${wrongWords.map(w=>`<span style="font-family:var(--mono);font-size:14px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;padding:2px 8px;color:var(--text)">${w}</span>`).join('')}
+      </div>
+    </div>`;
+  }
+
+  document.getElementById('headerTitle').textContent = `Chapter ${chIdx+1} 結果`;
+  document.getElementById('headerSub').textContent = '';
+  document.getElementById('screen').innerHTML = `
+    <div class="screen-wrap">
+      <div class="result-card">
+        <div class="result-score">${score}%</div>
+        <div class="result-label">${corrects} / ${total} 答對</div>
+        <div class="result-stars">${stars}</div>
+        <div class="result-msg">${passed?'✓ 通過':'✗ 未通過'} · ${msg}</div>
+        ${ch.reviewDue&&passed?`<div class="result-next">📅 下次複習安排在 ${ch.reviewDue}</div>`:''}
+      </div>
+      ${wrongSection}
+      ${hasNext?`<button class="btn-primary" onclick="startLearn(${nextCh})">前往 Chapter ${nextCh+1} →</button>`:''}
+      <button class="${hasNext?'btn-secondary':'btn-primary'}" onclick="exitToList()">回章節列表</button>
+    </div>`;
+}
+
+// ══════════════════════════════════════════════
+// NAVIGATION
+// ══════════════════════════════════════════════
+function exitToList(){
+  view={name:'list'};
+  document.getElementById('headerTitle').textContent='章節學習';
+  document.getElementById('headerSub').textContent='';
+  renderList();
+}
+
+// ══════════════════════════════════════════════
+// BOOT
+// ══════════════════════════════════════════════
+chapterProgress = loadProgress();
+
+fetch('./data/vocab_batch_001.json')
+  .then(r=>{ if(!r.ok) throw new Error('fetch failed'); return r.json(); })
+  .then(data=>{
+    VOCAB = data.sort((a,b)=>a.frequency_rank-b.frequency_rank);
+    const n = totalChapters();
+    // Make Ch1 available by default
+    if(!chapterProgress[0]) setCh(0,{status:'available'});
+    document.getElementById('headerSub').textContent = `${totalStars()} 顆星`;
+    renderList();
+  })
+  .catch(err=>{
+    document.getElementById('screen').innerHTML=`
+      <div style="text-align:center;padding:60px 20px">
+        <div style="font-size:40px;margin-bottom:12px">⚠️</div>
+        <div style="font-family:var(--sans);font-size:16px;color:var(--muted)">資料載入失敗<br>請確認網路連線後重新整理</div>
+        <button onclick="location.reload()" style="margin-top:20px;padding:10px 24px;border-radius:10px;border:1px solid rgba(200,240,96,.3);background:rgba(200,240,96,.06);color:var(--accent);font-family:var(--sans);font-size:14px;cursor:pointer">重新整理</button>
+      </div>`;
+  });
+</script>
+</body>
+</html>
