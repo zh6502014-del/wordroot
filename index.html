@@ -1087,7 +1087,7 @@ function App(){
       "./data/vocab_07_301-350.json",
       "./data/vocab_08_351-400.json",
       "./data/vocab_09_401-450.json",
-      // "./data/vocab_batch_002.json",
+      "./data/vocab_10_451-500.json",
     ];
     Promise.all(urls.map(u=>fetch(u).then(r=>{
       if(!r.ok)throw new Error(u);
@@ -1139,7 +1139,7 @@ function App(){
           <div style={{textAlign:"center",padding:"80px 20px",display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
             <div style={{fontSize:40}}>📭</div>
             <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>單字庫是空的</div>
-            <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>請上傳 vocab_batch_001.json 到 data/ 資料夾</div>
+            <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>請確認 data/ 資料夾內有 vocab_*.json 檔案</div>
           </div>
         ):(
           <>
