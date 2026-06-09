@@ -33,7 +33,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans)}
 .opt-reveal{border-color:rgba(200,240,96,.3)!important;background:rgba(200,240,96,.04)!important}
 @keyframes speakPulse{from{box-shadow:0 0 0 0 rgba(96,200,240,.4)}to{box-shadow:0 0 0 7px rgba(96,200,240,0)}}
 .speaking{animation:speakPulse .6s ease infinite alternate}
-.book-item{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:11px 16px;display:flex;align-items:center;gap:12px;cursor:pointer;transition:all .15s;width:100%;text-align:left;font-family:var(--sans);color:var(--text)}
+.book-item{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 16px;display:flex;align-items:center;gap:12px;cursor:pointer;transition:all .15s;width:100%;text-align:left;font-family:var(--sans);color:var(--text);margin-bottom:8px}
 .book-item:hover{background:var(--surface2);border-color:var(--muted)}
 .nav-btn{font-family:var(--mono);font-size:16px;padding:5px 12px;border-radius:6px;cursor:pointer;letter-spacing:.04em;transition:all .15s;border:1px solid var(--border);background:transparent;color:var(--muted)}
 .nav-btn:hover{color:var(--text)}
@@ -595,19 +595,9 @@ function SynonymTooltip({synonyms}){
 // ── BOOK ──
 function BookScreen({vocab}){
   const[filter,setFilter]=useState("all");
-  const[subType,setSubType]=useState(null);
-  const[subVal,setSubVal]=useState(null);
+  const[initialVal,setInitialVal]=useState("all");
+  const[rootVal,setRootVal]=useState("all");
   const[modalIdx,setModalIdx]=useState(null);
-
-  const[filterExpanded,setFilterExpanded]=useState(false);
-
-  const statusLabel={new:"未學習",learning:"學習中",due:"待複習",mastered:"已熟練"};
-  const statusStyle={
-    new:{background:"var(--surface2)",color:"var(--dim)",border:"1px solid var(--border)"},
-    learning:{background:"rgba(240,160,96,.1)",color:"var(--orange)",border:"1px solid rgba(240,160,96,.2)"},
-    due:{background:"rgba(240,100,100,.1)",color:"var(--red)",border:"1px solid rgba(240,100,100,.2)"},
-    mastered:{background:"rgba(200,240,96,.1)",color:"var(--accent)",border:"1px solid rgba(200,240,96,.2)"},
-  };
 
   const allInitials=[...new Set(vocab.map(w=>w.word?.[0]?.toUpperCase()).filter(Boolean))].sort();
   const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root).filter(Boolean)))].sort();
@@ -617,16 +607,13 @@ function BookScreen({vocab}){
   if(filter==="due")words=words.filter(w=>FSRS.isDue(w.word)&&fsrsAll[w.word]);
   else if(filter==="mastered")words=words.filter(w=>FSRS.get(w.word).interval>=7);
   else if(filter==="new")words=words.filter(w=>!fsrsAll[w.word]);
-  if(subType==="initial"&&subVal)words=words.filter(w=>w.word[0].toUpperCase()===subVal);
-  if(subType==="root"&&subVal)words=words.filter(w=>(w.roots||[]).some(r=>r.root===subVal));
+  if(initialVal!=="all")words=words.filter(w=>w.word?.[0]?.toUpperCase()===initialVal);
+  if(rootVal!=="all")words=words.filter(w=>(w.roots||[]).some(r=>r.root===rootVal));
 
   const modal=modalIdx!==null?words[modalIdx]:null;
   const closeModal=()=>setModalIdx(null);
   const prevModal=()=>setModalIdx(i=>i>0?i-1:words.length-1);
   const nextModal=()=>setModalIdx(i=>i<words.length-1?i+1:0);
-  const clearSub=()=>{setSubType(null);setSubVal(null);setModalIdx(null)};
-  const toggleSubType=t=>{if(subType===t){clearSub()}else{setSubType(t);setSubVal(null);setModalIdx(null)}};
-  const selectSubVal=v=>{setSubVal(v===subVal?null:v);setModalIdx(null)};
 
   useEffect(()=>{
     if(modalIdx===null)return;
@@ -639,64 +626,64 @@ function BookScreen({vocab}){
     return()=>window.removeEventListener("keydown",fn);
   },[modalIdx,words.length]);
 
-  const btnStyle=(active)=>({fontFamily:"var(--mono)",fontSize:15,padding:"6px 14px",borderRadius:20,border:`1px solid ${active?"var(--accent2)":"var(--border)"}`,background:active?"rgba(96,200,240,.12)":"transparent",color:active?"var(--accent2)":"var(--muted)",cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s"});
-  const chipStyle=(active)=>({fontFamily:"var(--mono)",fontSize:14,padding:"4px 10px",borderRadius:5,border:`1px solid ${active?"rgba(200,240,96,.4)":"var(--border)"}`,background:active?"rgba(200,240,96,.1)":"transparent",color:active?"var(--accent)":"var(--dim)",cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s"});
+  const tabStyle=(active)=>({
+    fontFamily:"var(--mono)",fontSize:15,padding:"7px 16px",
+    borderRadius:20,border:`1px solid ${active?"var(--accent2)":"var(--border)"}`,
+    background:active?"rgba(96,200,240,.12)":"transparent",
+    color:active?"var(--accent2)":"var(--muted)",
+    cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s",
+  });
+  const selectStyle={
+    fontFamily:"var(--mono)",fontSize:14,padding:"6px 10px",
+    borderRadius:8,border:"1px solid var(--border)",
+    background:"var(--surface2)",color:"var(--muted)",
+    cursor:"pointer",outline:"none",
+    appearance:"none",WebkitAppearance:"none",
+    paddingRight:28,
+    backgroundImage:"url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%236b7080'/%3E%3C/svg%3E\")",
+    backgroundRepeat:"no-repeat",backgroundPosition:"right 8px center",
+  };
 
   return(
     <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:0,padding:"16px 0 48px",width:"100%",maxWidth:700,margin:"0 auto"}}>
 
       {/* 標題列 */}
-      <div style={{display:"flex",alignItems:"center",width:"100%",padding:"0 20px",marginBottom:12}}>
+      <div style={{display:"flex",alignItems:"center",width:"100%",padding:"0 20px",marginBottom:14}}>
         <span style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--text)"}}>單字本</span>
         <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{words.length} 筆</span>
       </div>
 
-      {/* 主篩選 — 水平捲動列，右側展開箭頭 */}
-      <div style={{width:"100%",display:"flex",alignItems:"center",borderBottom:"1px solid var(--border)",marginBottom:8}}>
-        <div style={{flex:1,display:"flex",gap:2,overflowX:"auto",padding:"0 20px 10px",scrollbarWidth:"none",msOverflowStyle:"none"}}>
-          {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"],["initial","字首"],["root","字根"]].map(([f,l])=>(
-            <button key={f}
-              onClick={()=>{
-                if(f==="initial"||f==="root"){toggleSubType(f)}
-                else{setFilter(f);setSubType(null);setSubVal(null);setModalIdx(null)}
-              }}
-              style={btnStyle(filter===f||(f==="initial"&&subType==="initial")||(f==="root"&&subType==="root"))}>
+      {/* 主篩選 — 水平捲動 */}
+      <div style={{width:"100%",overflowX:"auto",scrollbarWidth:"none",msOverflowStyle:"none",paddingBottom:2}}>
+        <div style={{display:"flex",gap:6,padding:"0 20px",minWidth:"max-content"}}>
+          {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"]].map(([f,l])=>(
+            <button key={f} style={tabStyle(filter===f)}
+              onClick={()=>{setFilter(f);setModalIdx(null)}}>
               {l}
             </button>
           ))}
-          {(subVal)&&(
-            <button onClick={clearSub} style={{...btnStyle(false),color:"var(--red)",borderColor:"rgba(240,100,100,.3)"}}>
-              清除 ✕
-            </button>
-          )}
         </div>
-        <button
-          onClick={()=>setFilterExpanded(e=>!e)}
-          style={{flexShrink:0,padding:"0 14px 10px",background:"transparent",border:"none",color:"var(--muted)",cursor:"pointer",fontSize:18,lineHeight:1}}>
-          {filterExpanded?"∧":"∨"}
-        </button>
       </div>
 
-      {/* 次篩選展開面板 */}
-      {filterExpanded&&(
-        <div style={{width:"100%",padding:"0 20px 12px",borderBottom:"1px solid var(--border)",marginBottom:8}}>
-          {subType==="initial"&&(
-            <div style={{display:"flex",flexWrap:"wrap",gap:5}}>
-              {allInitials.map(c=><button key={c} style={chipStyle(subVal===c)} onClick={()=>selectSubVal(c)}>{c}</button>)}
-            </div>
-          )}
-          {subType==="root"&&(
-            <div style={{display:"flex",flexWrap:"wrap",gap:5,maxHeight:120,overflowY:"auto"}}>
-              {allRoots.map(r=><button key={r} style={chipStyle(subVal===r)} onClick={()=>selectSubVal(r)}>{r}</button>)}
-            </div>
-          )}
-          {!subType&&(
-            <div style={{fontFamily:"var(--mono)",fontSize:13,color:"var(--dim)"}}>
-              點選「字首」或「字根」後展開選項
-            </div>
-          )}
+      {/* 次篩選 — 下拉選單 */}
+      <div style={{width:"100%",display:"flex",gap:10,padding:"10px 20px 12px",borderBottom:"1px solid var(--border)",marginBottom:4}}>
+        <div style={{position:"relative",flex:1}}>
+          <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字首</span>
+          <select value={initialVal} onChange={e=>{setInitialVal(e.target.value);setModalIdx(null)}}
+            style={{...selectStyle,width:"100%",paddingLeft:36}}>
+            <option value="all">全部</option>
+            {allInitials.map(c=><option key={c} value={c}>{c}</option>)}
+          </select>
         </div>
-      )}
+        <div style={{position:"relative",flex:1}}>
+          <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字根</span>
+          <select value={rootVal} onChange={e=>{setRootVal(e.target.value);setModalIdx(null)}}
+            style={{...selectStyle,width:"100%",paddingLeft:36}}>
+            <option value="all">全部</option>
+            {allRoots.map(r=><option key={r} value={r}>{r}</option>)}
+          </select>
+        </div>
+      </div>
 
       {/* 單字列表 */}
       <div style={{width:"100%",padding:"0 20px"}}>
