@@ -1,0 +1,3859 @@
+[
+  {
+    "word": "aberrant",
+    "pos": "adjective",
+    "phonetic": "/æˈberənt/",
+    "definition": "Departing from an accepted, standard, or normal course or condition, especially in behavior or biological characteristics.",
+    "definition_zh": "異常的；偏離正道的；畸變的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "err",
+          "origin": "Latin",
+          "meaning": "to wander, stray",
+          "meaning_zh": "迷路、漂泊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB（遠離）+ ERR（犯錯、偏離）→ 遠離正常軌道，走入歧途",
+      "story_en": "When a computer script experiences an ERR (error), it runs AB (away) from its track and exhibits ABERRANT behavior.",
+      "story_zh": "當電腦程式碼發生錯誤（ERR）時，就會遠離（AB）原有軌道，表現出「異常的（ABERRANT）」行為。",
+      "emojis": [
+        "🌀",
+        "⚠️",
+        "📉"
+      ]
+    },
+    "example": "The scientists observed an aberrant cell growth that did not resemble typical tissue patterns under the microscope.",
+    "example_zh": "科學家在顯微鏡下觀察到了與典型組織圖案不符的異常細胞生長。",
+    "collocations": [
+      "aberrant behavior",
+      "aberrant cell development",
+      "detect aberrant patterns",
+      "aberrant phenomena",
+      "aberrant psychological states"
+    ],
+    "synonyms": [
+      "abnormal",
+      "atypical",
+      "deviant",
+      "anomalous"
+    ],
+    "near_synonyms": [
+      {
+        "word": "eccentric",
+        "difference": "eccentric implies odd but harmless human behavior; aberrant emphasizes a strict departure from systemic standards, safety, or nature."
+      }
+    ],
+    "antonyms": [
+      "normal",
+      "typical",
+      "regular",
+      "conventional"
+    ],
+    "word_family": [
+      {
+        "word": "aberration",
+        "pos": "noun"
+      },
+      {
+        "word": "aberrant",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 501,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "psychology"
+    ]
+  },
+  {
+    "word": "abscond",
+    "pos": "verb",
+    "phonetic": "/əbˈskɑːnd/",
+    "definition": "To leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft.",
+    "definition_zh": "潛逃；逃亡；攜款潛逃",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab / abs",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "cond / condere",
+          "origin": "Latin",
+          "meaning": "to hide, put together",
+          "meaning_zh": "隱藏、收藏"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABS（離開）+ COND（躲藏）→ 躲到遠處去以防被抓",
+      "story_en": "The corrupt official decided to ABS (away) and COND (hide) in a foreign country with millions of dollars.",
+      "story_zh": "這位腐敗的官員決定帶著數百萬美元遠走（ABS）並躲藏（COND）到國外，也就是「潛逃（ABSCOND）」。",
+      "emojis": [
+        "🏃‍♂️",
+        "💰",
+        "🕵️‍♂️"
+      ]
+    },
+    "example": "The accountant managed to abscond with the company's funds before the external auditors arrived.",
+    "example_zh": "會計師在外部審計人員到達之前，成功帶著公司的資金潛逃了。",
+    "collocations": [
+      "abscond with public money",
+      "abscond from custody",
+      "suspects absconded overnight",
+      "attempt to abscond",
+      "abscond abroad"
+    ],
+    "synonyms": [
+      "flee",
+      "escape",
+      "bolt",
+      "decamp"
+    ],
+    "near_synonyms": [
+      {
+        "word": "evade",
+        "difference": "evade means avoiding a legal duty or a direct question; abscond specifically requires a sudden physical flight and hiding."
+      }
+    ],
+    "antonyms": [
+      "surrender",
+      "remain",
+      "reappear"
+    ],
+    "word_family": [
+      {
+        "word": "abscond",
+        "pos": "verb"
+      },
+      {
+        "word": "absconder",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 502,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "absolve",
+    "pos": "verb",
+    "phonetic": "/əbˈzɑːlv/",
+    "definition": "To set someone free from blame, guilt, obligation, or responsibility, especially after a formal investigation or religious ritual.",
+    "definition_zh": "免除；赦免；宣告…無罪",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab / abs",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "solv / solvere",
+          "origin": "Latin",
+          "meaning": "to loosen, untie",
+          "meaning_zh": "鬆開、解開"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB（離開）+ SOLV（鬆開）→ 把身上的罪責枷鎖鬆開、拿走",
+      "story_en": "The final evidence will SOLV (loosen) the chains of guilt and take it AB (away) to ABSOLVE the defendant.",
+      "story_zh": "最終的證據將解開（SOLV）罪責的枷鎖，並將其帶走（AB），從而「免除（ABSOLVE）」被告的罪名。",
+      "emojis": [
+        "🔓",
+        "⚖️",
+        "🕊️"
+      ]
+    },
+    "example": "The final report did not entirely absolve the pilot of responsibility for the crash.",
+    "example_zh": "最終報告並未完全免除飛行員對這起墜機事故的責任。",
+    "collocations": [
+      "absolve someone of blame",
+      "absolve from responsibility",
+      "absolve sins",
+      "completely absolve",
+      "refuse to absolve"
+    ],
+    "synonyms": [
+      "exonerate",
+      "acquit",
+      "pardon",
+      "exculpate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "forgive",
+        "difference": "forgive is a personal, emotional release of anger; absolve is a formal, authoritative, or legal declaration of innocence."
+      }
+    ],
+    "antonyms": [
+      "condemn",
+      "blame",
+      "convict",
+      "incriminate"
+    ],
+    "word_family": [
+      {
+        "word": "absolve",
+        "pos": "verb"
+      },
+      {
+        "word": "absolution",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 503,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "abstain",
+    "pos": "verb",
+    "phonetic": "/əbˈsteɪn/",
+    "definition": "To formally choose not to do or enjoy something, or to refrain from casting a vote in a formal election or meeting.",
+    "definition_zh": "戒絕；棄權；抑制",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab / abs",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "tain / tenere",
+          "origin": "Latin",
+          "meaning": "to hold",
+          "meaning_zh": "握住、保持"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABS（離去）+ TAIN（握住）→ 雙手握緊並遠離誘惑",
+      "story_en": "To maintain good health, he had to TAIN (hold) his hands back AB (away) and ABSTAIN from desserts.",
+      "story_zh": "為了保持健康，他必須將雙手收回（TAIN）並遠離（AB）甜點，也就是「戒絕（ABSTAIN）」甜食。",
+      "emojis": [
+        "🛑",
+        "🗳️",
+        "🥗"
+      ]
+    },
+    "example": "Ten members voted in favor of the proposal, five voted against, and two decided to abstain.",
+    "example_zh": "十名成員對該提案投了贊成票，五人投了反對票，兩人決定棄權。",
+    "collocations": [
+      "abstain from voting",
+      "abstain from alcohol",
+      "choose to abstain",
+      "abstain from comment",
+      "urged to abstain"
+    ],
+    "synonyms": [
+      "refrain",
+      "forbear",
+      "desist",
+      "withhold"
+    ],
+    "near_synonyms": [
+      {
+        "word": "avoid",
+        "difference": "avoid means staying away from a dangerous or unpleasant thing; abstain implies a conscious moral, health, or political choice to refuse something."
+      }
+    ],
+    "antonyms": [
+      "indulge",
+      "consume",
+      "participate",
+      "vote"
+    ],
+    "word_family": [
+      {
+        "word": "abstain",
+        "pos": "verb"
+      },
+      {
+        "word": "abstinence",
+        "pos": "noun"
+      },
+      {
+        "word": "abstention",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 504,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "health"
+    ]
+  },
+  {
+    "word": "abstract",
+    "pos": "adjective",
+    "phonetic": "/ˈæbstrækt/",
+    "definition": "Existing in thought or as an idea but not having a physical or concrete existence; theoretical rather than practical.",
+    "definition_zh": "抽象的；理論上的；難懂的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab / abs",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "tract / trahere",
+          "origin": "Latin",
+          "meaning": "to draw, pull",
+          "meaning_zh": "拉、抽取"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABS（離開）+ TRACT（拉出）→ 從具體實物中抽離出概念",
+      "story_en": "The artist wants to TRACT (draw) the pure essence AB (away) from real objects to create ABSTRACT paintings.",
+      "story_zh": "藝術家想從真實物體中抽取（TRACT）出純粹的本質並擺脫（AB）實體束縛，來創作出「抽象的（ABSTRACT）」畫作。",
+      "emojis": [
+        "🎨",
+        "🧠",
+        "📐"
+      ]
+    },
+    "example": "Truth and beauty are abstract concepts that philosophers have debated for centuries.",
+    "example_zh": "真與美是哲學家們爭論了幾個世紀的抽象概念。",
+    "collocations": [
+      "abstract concept",
+      "abstract art",
+      "abstract principles",
+      "in the abstract",
+      "abstract reasoning"
+    ],
+    "synonyms": [
+      "theoretical",
+      "conceptual",
+      "metaphysical",
+      "ideal"
+    ],
+    "near_synonyms": [
+      {
+        "word": "vague",
+        "difference": "vague means unclear due to poor description; abstract means intellectual and conceptual, intentionally lacking physical form."
+      }
+    ],
+    "antonyms": [
+      "concrete",
+      "tangible",
+      "physical",
+      "empirical"
+    ],
+    "word_family": [
+      {
+        "word": "abstract",
+        "pos": "adjective / noun / verb"
+      },
+      {
+        "word": "abstraction",
+        "pos": "noun"
+      },
+      {
+        "word": "abstractly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 505,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "abstruse",
+    "pos": "adjective",
+    "phonetic": "/æbˈstruːs/",
+    "definition": "Difficult to understand; obscure or profound, often dealing with highly intellectual or specialized matters.",
+    "definition_zh": "深奧的；難解的；晦澀的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab / abs",
+          "origin": "Latin",
+          "meaning": "away, from",
+          "meaning_zh": "離去、脫離"
+        },
+        {
+          "root": "trud / trudere",
+          "origin": "Latin",
+          "meaning": "to thrust, push",
+          "meaning_zh": "推、擠"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABS（離開）+ TRUD（推）→ 推到遠遠不顯眼的地方隱藏起來",
+      "story_en": "The textbook was pushed AB (away) and TRUD (thrust) into a dusty corner because its theories were too ABSTRUSE.",
+      "story_zh": "這本教科書因為理論太過「深奧（ABSTRUSE）」而被推（TRUD）到遠離（AB）視線的落灰角落。",
+      "emojis": [
+        "📚",
+        "🧩",
+        "🧠"
+      ]
+    },
+    "example": "The professor's lecture on quantum physics was so abstruse that most students lost focus within ten minutes.",
+    "example_zh": "教授關於量子物理學的講座太過深奧，大多數學生在十分鐘內就失去了注意力。",
+    "collocations": [
+      "abstruse theory",
+      "abstruse philosophical arguments",
+      "highly abstruse subject",
+      "abstruse mathematical concepts",
+      "obscure and abstruse"
+    ],
+    "synonyms": [
+      "obscure",
+      "profound",
+      "esoteric",
+      "recondite"
+    ],
+    "near_synonyms": [
+      {
+        "word": "complex",
+        "difference": "complex means having many moving parts but still capable of being mapped out; abstruse implies intellectual depth that makes understanding naturally elusive."
+      }
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "superficial",
+      "intelligible"
+    ],
+    "word_family": [
+      {
+        "word": "abstruse",
+        "pos": "adjective"
+      },
+      {
+        "word": "abstruseness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 506,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "accede",
+    "pos": "verb",
+    "phonetic": "/ækˈsiːd/",
+    "definition": "To agree to a demand, request, or treaty; also, to assume an office, position, or royal throne.",
+    "definition_zh": "同意（要求）；應允；就任（職位、王位）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "ced / cedere",
+          "origin": "Latin",
+          "meaning": "to go, yield",
+          "meaning_zh": "行走、讓步"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（向前、朝向）+ CED（走、讓步）→ 朝著對方的要求走過去，表示讓步同意",
+      "story_en": "After hours of protests, the management decided to CED (go) AC (toward) the union's terms and ACCEDE to their demands.",
+      "story_zh": "經過數小時的抗議，管理層決定朝（AC）工會的條件走（CED）去，做出讓步並「同意（ACCEDE）」他們的要求。",
+      "emojis": [
+        "🤝",
+        "👑",
+        "📜"
+      ]
+    },
+    "example": "The government refused to accede to the terrorists' demands for the release of political prisoners.",
+    "example_zh": "政府拒絕同意恐怖分子釋放政治犯的要求。",
+    "collocations": [
+      "accede to a request",
+      "accede to demands",
+      "accede to the throne",
+      "refuse to accede",
+      "accede to the treaty"
+    ],
+    "synonyms": [
+      "consent",
+      "comply",
+      "assent",
+      "acquiesce"
+    ],
+    "near_synonyms": [
+      {
+        "word": "agree",
+        "difference": "agree is general and informal; accede implies officially yielding to pressure, demand, or high authority."
+      }
+    ],
+    "antonyms": [
+      "reject",
+      "refuse",
+      "deny",
+      "resist"
+    ],
+    "word_family": [
+      {
+        "word": "accede",
+        "pos": "verb"
+      },
+      {
+        "word": "accession",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 507,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ]
+  },
+  {
+    "word": "accentuate",
+    "pos": "verb",
+    "phonetic": "/ækˈsentʃueɪt/",
+    "definition": "To make something more noticeable or prominent; to emphasize or highlight a feature.",
+    "definition_zh": "強調；使更明顯；著重",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "cant / cent",
+          "origin": "Latin",
+          "meaning": "to sing",
+          "meaning_zh": "唱歌、發音"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（朝向）+ CENT（唱歌、重音）→ 對特定的音提高聲調，引起注意",
+      "story_en": "The stage lighting was designed to CENT (sing/sound) AC (toward) the main actor's emotions, which served to ACCENTUATE his dramatic performance.",
+      "story_zh": "舞台燈光的設計是為了朝向（AC）主角的眼神聚焦（放重音 CENT），藉此「強調（ACCENTUATE）」他的戲劇化表演。",
+      "emojis": [
+        "💡",
+        "📢",
+        "✨"
+      ]
+    },
+    "example": "The sharp lines of the new dress design serve to accentuate the model's elegant posture.",
+    "example_zh": "這款新服裝設計的俐落線條更能「凸顯（ACCENTUATE）」模特兒的優雅姿態。",
+    "collocations": [
+      "accentuate the positive",
+      "accentuate differences",
+      "accentuate a feature",
+      "lighting accentuates the texture",
+      "accentuate the crisis"
+    ],
+    "synonyms": [
+      "emphasize",
+      "highlight",
+      "underline",
+      "stress"
+    ],
+    "near_synonyms": [
+      {
+        "word": "magnify",
+        "difference": "magnify means to enlarge or exaggerate the actual scale; accentuate means to draw visual or conceptual attention to an existing detail."
+      }
+    ],
+    "antonyms": [
+      "downplay",
+      "mask",
+      "camouflage",
+      "understate"
+    ],
+    "word_family": [
+      {
+        "word": "accentuate",
+        "pos": "verb"
+      },
+      {
+        "word": "accentuation",
+        "pos": "noun"
+      },
+      {
+        "word": "accent",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 508,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "art"
+    ]
+  },
+  {
+    "word": "acclaim",
+    "pos": "verb",
+    "phonetic": "/əˈkleɪm/",
+    "definition": "To praise someone or something enthusiastically and publicly, often in celebration of an artistic or intellectual achievement.",
+    "definition_zh": "公開稱讚；喝采；為…歡呼",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "claim / clamare",
+          "origin": "Latin",
+          "meaning": "to shout, cry out",
+          "meaning_zh": "大喊、呼喊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（朝向）+ CLAIM（大喊）→ 朝著成功的人大聲歡呼",
+      "story_en": "The audience stood up to CLAIM (shout) AC (toward) the stage, ready to ACCLAIM the director's masterpiece.",
+      "story_zh": "觀眾紛紛站起來，朝著（AC）舞台大喊（CLAIM）喝采，大肆「稱讚（ACCLAIM）」導演的傑作。",
+      "emojis": [
+        "👏",
+        "🏆",
+        "🌟"
+      ]
+    },
+    "example": "The novel was critically acclaimed by literary experts and quickly rose to the top of the bestseller list.",
+    "example_zh": "這部小說受到文學專家的高度讚譽，並迅速攀升至暢銷書榜首。",
+    "collocations": [
+      "critically acclaimed",
+      "widely acclaimed",
+      "acclaim a winner",
+      "international acclaim",
+      "popular acclaim"
+    ],
+    "synonyms": [
+      "praise",
+      "applaud",
+      "hail",
+      "commend"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compliment",
+        "difference": "compliment is usually an informal or polite social gesture; acclaim involves noisy, enthusiastic, and widespread public praise."
+      }
+    ],
+    "antonyms": [
+      "criticize",
+      "condemn",
+      "berate",
+      "vilify"
+    ],
+    "word_family": [
+      {
+        "word": "acclaim",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "acclamation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 509,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "media"
+    ]
+  },
+  {
+    "word": "accolade",
+    "pos": "noun",
+    "phonetic": "/ˈækəleɪd/",
+    "definition": "An award, honor, or expression of praise granted as a special acknowledgment of merit or achievement.",
+    "definition_zh": "讚許；榮譽；殊榮；獎勵",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "collum",
+          "origin": "Latin",
+          "meaning": "neck",
+          "meaning_zh": "脖子、頸部"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（朝向）+ COLLUM（脖子）→ 古代騎士授勳時，把手擁向脖子或將獎章掛在脖子上",
+      "story_en": "During the knighting ceremony, the king put a heavy gold chain around the hero's COLLUM (neck) as the highest ACCOLADE.",
+      "story_zh": "在授勳儀式上，國王將一條重金屬鏈掛在英雄的脖子（COLLUM）上，作為至高無上的「殊榮（ACCOLADE）」。",
+      "emojis": [
+        "🏅",
+        "🎖️",
+        "⚔️"
+      ]
+    },
+    "example": "Winning the Nobel Prize is the ultimate accolade for any scientist dedicated to groundbreaking research.",
+    "example_zh": "獲得諾貝爾獎對於任何致力於突破性研究的科學家來說都是至高無上的殊榮。",
+    "collocations": [
+      "highest accolade",
+      "receive accolades",
+      "win an accolade",
+      "accolades from peers",
+      "the ultimate accolade"
+    ],
+    "synonyms": [
+      "honor",
+      "award",
+      "laurel",
+      "tribute"
+    ],
+    "near_synonyms": [
+      {
+        "word": "reward",
+        "difference": "reward is often monetary or practical compensation for effort; accolade specifically represents formal prestige, fame, and deep symbolic honor."
+      }
+    ],
+    "antonyms": [
+      "insult",
+      "criticism",
+      "censure"
+    ],
+    "word_family": [
+      {
+        "word": "accolade",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 510,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "art"
+    ]
+  },
+  {
+    "word": "accommodation",
+    "pos": "noun",
+    "phonetic": "/əˌkɑːməˈdeɪʃn/",
+    "definition": "A convenient arrangement, adjustment, or compromise between conflicting parties; also refers to temporary lodgings or housing.",
+    "definition_zh": "適應；調解；和解；住宿（常用複數）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "mod",
+          "origin": "Latin",
+          "meaning": "measure, manner, fit",
+          "meaning_zh": "測量、合適、模式"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（朝向）+ MOD（合適、標準）→ 做出調整以符合雙方的舒適度或標準",
+      "story_en": "The hotel made an effort to MOD (fit) their rooms AC (toward) the customer's needs to provide the perfect ACCOMMODATION.",
+      "story_zh": "飯店努力調整（MOD）房間以朝向（AC）符合顧客的需求，進而提供最舒適的「住宿或調節（ACCOMMODATION）」方案。",
+      "emojis": [
+        "🏨",
+        "🤝",
+        "🛏️"
+      ]
+    },
+    "example": "After intense political debate, both factions reached an accommodation regarding the new tax policy.",
+    "example_zh": "在激烈的政治辯論後，雙方派系就新稅收政策達成了和解（妥協方案）。",
+    "collocations": [
+      "reach an accommodation",
+      "hotel accommodation",
+      "reasonable accommodation",
+      "make accommodations for",
+      "temporary accommodation"
+    ],
+    "synonyms": [
+      "compromise",
+      "adjustment",
+      "lodging",
+      "settlement"
+    ],
+    "near_synonyms": [
+      {
+        "word": "agreement",
+        "difference": "agreement is a shared decision; accommodation specifically emphasizes modifying one's position or setting to resolve a conflict or suit someone's unique needs."
+      }
+    ],
+    "antonyms": [
+      "conflict",
+      "disagreement",
+      "maladjustment"
+    ],
+    "word_family": [
+      {
+        "word": "accommodate",
+        "pos": "verb"
+      },
+      {
+        "word": "accommodation",
+        "pos": "noun"
+      },
+      {
+        "word": "accommodating",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 511,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "accord",
+    "pos": "noun",
+    "phonetic": "/<span class=\"katex\"><span class=\"katex-mathml\"><unknown encoding=\"cubic-spline\">əˈkɔːrd/</unknown><caption class=\"katex-html\"><span class=\"base\"><span class=\"strut\" style=\"height:1em;vertical-align:-0.25em;\"></span><span class=\"mord mathnormal\">ə</span><span class=\"mconative\">ˈk</span><span class=\"mord mathnormal\">ɔ</span><span class=\"mord\">ː</span><span class=\"mord mathnormal\" style=\"margin-right:0.02778em;\">r</span><span class=\"mord text\"><span class=\"mord\">d</span></span><span class=\"mord\">/</span></span></span></span>\",",
+    "definition": "An official agreement, treaty, or state of harmony between distinct groups, countries, or organizations.",
+    "definition_zh": "協議；條約；一致；和諧",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ac",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "cord / cor",
+          "origin": "Latin",
+          "meaning": "heart",
+          "meaning_zh": "心、心靈"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC（朝向）+ CORD（心）→ 兩顆心靠在一起，想法一致",
+      "story_en": "When two countries put their CORD (heart) AC (toward) the same peaceful objective, they sign a peace ACCORD.",
+      "story_zh": "當兩國將心（CORD）朝向（AC）同一個和平目標時，他們就會簽署和平「條約 / 協議（ACCORD）」。",
+      "emojis": [
+        "📜",
+        "🤝",
+        "❤️"
+      ]
+    },
+    "example": "The landmark climate accord was signed by over 150 nations in an attempt to curb global emissions.",
+    "example_zh": "這項具里程碑意義的氣候協議由 150 多個國家簽署，旨在遏制全球碳排放。",
+    "collocations": [
+      "peace accord",
+      "in accord with",
+      "reach an accord",
+      "of one's own accord",
+      "international accord"
+    ],
+    "synonyms": [
+      "treaty",
+      "pact",
+      "agreement",
+      "harmony"
+    ],
+    "near_synonyms": [
+      {
+        "word": "contract",
+        "difference": "contract is a legally binding commercial document; accord usually refers to a grand, high-level political, international, or moral agreement."
+      }
+    ],
+    "antonyms": [
+      "discord",
+      "conflict",
+      "disagreement"
+    ],
+    "word_family": [
+      {
+        "word": "accord",
+        "pos": "noun / verb"
+      },
+      {
+        "word": "accordance",
+        "pos": "noun"
+      },
+      {
+        "word": "accordingly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 512,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ]
+  },
+  {
+    "word": "acerbic",
+    "pos": "adjective",
+    "phonetic": "/əˈsɜːrbɪk/",
+    "definition": "Sharp and forthright, especially in speech or style; tasting sour or bitter, but metaphorically used for biting humor or criticism.",
+    "definition_zh": "尖刻的；刻薄的；辛辣的；酸澀的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "acer / acri",
+          "origin": "Latin",
+          "meaning": "sharp, sour",
+          "meaning_zh": "尖銳、酸苦"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ACER（尖銳、酸）→ 講話像針一樣尖，像檸檬一樣酸",
+      "story_en": "The critic's ACER (sharp) tongue produced an ACERBIC review that destroyed the director's confidence.",
+      "story_zh": "影評人尖銳（ACER）的舌頭寫出了「尖刻的（ACERBIC）」評論，摧毀了導演的信心。",
+      "emojis": [
+        "🍋",
+        "🗡️",
+        "🗣️"
+      ]
+    },
+    "example": "The comedian is famous for his acerbic wit, frequently mocking politicians from all parties.",
+    "example_zh": "這位喜劇演員以其尖刻的機智（毒舌）聞名，經常嘲諷各政黨的政治人物。",
+    "collocations": [
+      "acerbic wit",
+      "acerbic comments",
+      "acerbic tone",
+      "acerbic critic",
+      "acerbic humor"
+    ],
+    "synonyms": [
+      "sarcastic",
+      "biting",
+      "caustic",
+      "trenchant"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cynical",
+        "difference": "cynical means believing humanity is purely motivated by selfishness; acerbic describes the sharp, harsh, and cutting delivery style of language."
+      }
+    ],
+    "antonyms": [
+      "sweet",
+      "mild",
+      "kind",
+      "complimentary"
+    ],
+    "word_family": [
+      {
+        "word": "acerbic",
+        "pos": "adjective"
+      },
+      {
+        "word": "acerbity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 513,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "language",
+      "art"
+    ]
+  },
+  {
+    "word": "acme",
+    "pos": "noun",
+    "phonetic": "/ˈækmi/",
+    "definition": "The highest point of achievement, excellence, or development; the peak or pinnacle.",
+    "definition_zh": "最高點；頂點；極致",
+    "etymology": {
+      "roots": [
+        {
+          "root": "akme",
+          "origin": "Greek",
+          "meaning": "highest point, spike",
+          "meaning_zh": "最高點、尖刺"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AKME（最高點）→ 發音接近 Acme 公司（卡通裡常出現的萬能公司，象徵極致）",
+      "story_en": "Reaching the mountain peak feels like standing on the AKME (highest point) of the entire physical world.",
+      "story_zh": "希臘字根 AKME 代表最高點。登上山頂，就像站在世界「最高點 / 頂點（ACME）」之上。",
+      "emojis": [
+        "🏔️",
+        "👑",
+        "📈"
+      ]
+    },
+    "example": "His performance in the historical drama was considered by critics to be the acme of his acting career.",
+    "example_zh": "他在這部歷史劇中的表演被評論家認為是他演藝生涯的「巔峰之作（ACME）」。",
+    "collocations": [
+      "acme of perfection",
+      "reach the acme",
+      "the acme of one's career",
+      "acme of scientific achievement",
+      "the acme of engineering"
+    ],
+    "synonyms": [
+      "pinnacle",
+      "zenith",
+      "apex",
+      "peak"
+    ],
+    "near_synonyms": [
+      {
+        "word": "climax",
+        "difference": "climax refers to the most exciting narrative turning point in a story or event; acme refers to a stable level of absolute highest quality or career perfection."
+      }
+    ],
+    "antonyms": [
+      "nadir",
+      "bottom",
+      "base"
+    ],
+    "word_family": [
+      {
+        "word": "acme",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 514,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "art"
+    ]
+  },
+  {
+    "word": "acrid",
+    "pos": "adjective",
+    "phonetic": "/ˈækrɪd/",
+    "definition": "Having an irritatingly strong, sharp, and bitter smell or taste, typically associated with chemical smoke or burning material.",
+    "definition_zh": "辛辣的；刺鼻的（氣味）；刻薄的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "acer / acri",
+          "origin": "Latin",
+          "meaning": "sharp, sour",
+          "meaning_zh": "尖銳、酸苦"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ACRI（刺鼻、尖銳）→ 聞起來像針一樣刺著鼻子",
+      "story_en": "The laboratory was filled with an ACRI (sharp) smoke that made everyone cough immediately.",
+      "story_zh": "實驗室裡充滿了「刺鼻的（ACRID）」酸性（ACRI）濃煙，讓每個人立刻咳嗽不止。",
+      "emojis": [
+        "💨",
+        "🧪",
+        "😷"
+      ]
+    },
+    "example": "The acrid smell of burning plastic drifted through the apartment complex, triggering the fire alarm.",
+    "example_zh": "燃燒塑膠的刺鼻氣味在公寓大樓蔓延，觸發了火災報警器。",
+    "collocations": [
+      "acrid smoke",
+      "acrid smell",
+      "acrid fumes",
+      "acrid taste",
+      "acrid remarks"
+    ],
+    "synonyms": [
+      "pungent",
+      "bitter",
+      "sharp",
+      "caustic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "pungent",
+        "difference": "pungent can be positive or spicy (like garlic or spices); acrid is almost always highly unpleasant, choking, and harmful (like toxic smoke)."
+      }
+    ],
+    "antonyms": [
+      "sweet",
+      "fragrant",
+      "aromatic",
+      "mild"
+    ],
+    "word_family": [
+      {
+        "word": "acrid",
+        "pos": "adjective"
+      },
+      {
+        "word": "acridity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 515,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "science",
+      "environment"
+    ]
+  },
+  {
+    "word": "acrimonious",
+    "pos": "adjective",
+    "phonetic": "/ˌækrɪˈmoʊniəs/",
+    "definition": "Angry and bitter in tone, relationship, debate, or language, showing deep resentment.",
+    "definition_zh": "尖刻的；充滿火藥味的；激烈言詞的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "acer / acri",
+          "origin": "Latin",
+          "meaning": "sharp, sour",
+          "meaning_zh": "尖銳、酸苦"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ACRI（尖銳、酸苦）+ MONY（名詞後綴，狀態）→ 彼此的話語像尖刀和強酸一樣互相傷害",
+      "story_en": "The long legal dispute ended with an ACRI (bitter) and ACRIMONIOUS debate over property division.",
+      "story_zh": "這場長期的法律糾紛，在雙方關於財產分配的「尖刻且充滿火藥味的（ACRIMONIOUS）」激烈辯論中結束。",
+      "emojis": [
+        "⚡",
+        "🤬",
+        "💔"
+      ]
+    },
+    "example": "The divorce proceedings became so acrimonious that the couple could only communicate through their lawyers.",
+    "example_zh": "離婚訴訟變得極為尖刻與不歡而散（ACRIMONIOUS），這對夫婦只能透過律師進行溝通。",
+    "collocations": [
+      "acrimonious debate",
+      "acrimonious divorce",
+      "acrimonious dispute",
+      "acrimonious split",
+      "highly acrimonious exchange"
+    ],
+    "synonyms": [
+      "bitter",
+      "rancorous",
+      "hostile",
+      "caustic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "angry",
+        "difference": "angry is a temporary emotion; acrimonious describes a sustained, deeply bitter, and toxic atmosphere of communication."
+      }
+    ],
+    "antonyms": [
+      "harmonious",
+      "amicable",
+      "friendly",
+      "peaceful"
+    ],
+    "word_family": [
+      {
+        "word": "acrimonious",
+        "pos": "adjective"
+      },
+      {
+        "word": "acrimony",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 516,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "social"
+    ]
+  },
+  {
+    "word": "actuate",
+    "pos": "verb",
+    "phonetic": "/ˈæktʃueɪt/",
+    "definition": "To cause a machine or device to operate or move; metaphorically, to motivate or inspire someone to act in a certain way.",
+    "definition_zh": "開動（機器）；驅使（人）；激勵",
+    "etymology": {
+      "roots": [
+        {
+          "root": "act / agere",
+          "origin": "Latin",
+          "meaning": "to do, drive",
+          "meaning_zh": "做、驅動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ACT（行動、驅動）+ UATE（動詞後綴）→ 讓它動起來，或者給予行動的力量",
+      "story_en": "The electrical current will ACT (drive) the small switch and ACTUATE the entire security system.",
+      "story_zh": "電流會驅動（ACT）這個小開關，從而「開動 / 觸發（ACTUATE）」整個安全系統。",
+      "emojis": [
+        "⚙️",
+        "🔘",
+        "🏃‍♂️"
+      ]
+    },
+    "example": "The safety valve is actuated by excessive pressure within the chemical tank.",
+    "example_zh": "安全閥是由化學儲罐內過高的壓力來「啟動（ACTUATE）」的。",
+    "collocations": [
+      "actuate a mechanism",
+      "actuated by malice",
+      "actuated by a desire to help",
+      "automatically actuated",
+      "actuate the alarm"
+    ],
+    "synonyms": [
+      "activate",
+      "trigger",
+      "motivate",
+      "impel"
+    ],
+    "near_synonyms": [
+      {
+        "word": "activate",
+        "difference": "activate means making something function or valid (like an account); actuate emphasizes the mechanical transfer of force or the psychological impulse driving an action."
+      }
+    ],
+    "antonyms": [
+      "deactivate",
+      "halt",
+      "deter",
+      "discourage"
+    ],
+    "word_family": [
+      {
+        "word": "actuate",
+        "pos": "verb"
+      },
+      {
+        "word": "actuation",
+        "pos": "noun"
+      },
+      {
+        "word": "actuator",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 517,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "technology",
+      "psychology"
+    ]
+  },
+  {
+    "word": "acumen",
+    "pos": "noun",
+    "phonetic": "/əˈkjuːmən/",
+    "definition": "The ability to make good judgments and quick, intelligent decisions, especially in a specific domain such as business or politics.",
+    "definition_zh": "敏銳；聰明；精明；洞察力",
+    "etymology": {
+      "roots": [
+        {
+          "root": "acu / acuere",
+          "origin": "Latin",
+          "meaning": "sharp, needle",
+          "meaning_zh": "尖銳、針刺"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ACU（尖銳、針）→ 眼光像針尖一樣尖銳，一針見血",
+      "story_en": "With an ACU (sharp) eye for investments, the CEO used her business ACUMEN to double the firm's profits.",
+      "story_zh": "憑藉對投資的尖銳（ACU）眼光，執行長利用她的商業「精明 / 洞察力（ACUMEN）」使公司利潤翻倍。",
+      "emojis": [
+        "🧠",
+        "💼",
+        "🎯"
+      ]
+    },
+    "example": "Her remarkable financial acumen allowed her to anticipate the stock market crash weeks in advance.",
+    "example_zh": "她卓越的財務「精明 / 洞察力（ACUMEN）」使她能提前數週預測到股市崩盤。",
+    "collocations": [
+      "business acumen",
+      "financial acumen",
+      "political acumen",
+      "commercial acumen",
+      "remarkable acumen"
+    ],
+    "synonyms": [
+      "shrewdness",
+      "sharpness",
+      "astuteness",
+      "discernment"
+    ],
+    "near_synonyms": [
+      {
+        "word": "wisdom",
+        "difference": "wisdom is deep, broad life experience and philosophical knowledge; acumen is sharp, practical efficiency in making competitive tactical decisions."
+      }
+    ],
+    "antonyms": [
+      "stupidity",
+      "ignorance",
+      "obtuseeness"
+    ],
+    "word_family": [
+      {
+        "word": "acumen",
+        "pos": "noun"
+      },
+      {
+        "word": "acute",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 518,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "adamant",
+    "pos": "adjective",
+    "phonetic": "/ˈædəmənt/",
+    "definition": "Refusing to be persuaded or to change one's mind; unyielding, firm, or stubborn despite all appeals.",
+    "definition_zh": "堅定不移的；固執的；無比堅硬的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "a",
+          "origin": "Greek",
+          "meaning": "not, without",
+          "meaning_zh": "不、沒有"
+        },
+        {
+          "root": "dama / daman",
+          "origin": "Greek",
+          "meaning": "to tame, conquer",
+          "meaning_zh": "馴服、征服"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "A（無法）+ DAMA（征服、馴服）→ 無法被征服或馴服的鑽石鋼鐵之心",
+      "story_en": "No matter how they argued, the manager remained ADAMANT (not conquerable) and refused to change the safety rules.",
+      "story_zh": "無論他們如何爭辯，經理依然「堅定不移 / 鐵了心（ADAMANT）」，拒絕更改安全規則（無法被征服 A+DAMA）。",
+      "emojis": [
+        "💎",
+        "🛡️",
+        "🚫"
+      ]
+    },
+    "example": "The defense attorney was adamant that his client was innocent and refused to accept any plea bargain.",
+    "example_zh": "辯護律師堅信（ADAMANT）他的當事人是無辜的，拒絕接受任何認罪協商。",
+    "collocations": [
+      "remain adamant",
+      "adamant about a decision",
+      "adamant refusal",
+      "adamant stance",
+      "absolutely adamant"
+    ],
+    "synonyms": [
+      "unyielding",
+      "resolute",
+      "stubborn",
+      "inflexible"
+    ],
+    "near_synonyms": [
+      {
+        "word": "obstinate",
+        "difference": "obstinate implies an unreasonable, annoying stubbornness; adamant implies a principled, powerful, and unshakeable determination."
+      }
+    ],
+    "antonyms": [
+      "flexible",
+      "compliant",
+      "yielding",
+      "lenient"
+    ],
+    "word_family": [
+      {
+        "word": "adamant",
+        "pos": "adjective"
+      },
+      {
+        "word": "adamantly",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 519,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "law"
+    ]
+  },
+  {
+    "word": "adept",
+    "pos": "adjective",
+    "phonetic": "/əˈdept/",
+    "definition": "Very skilled or proficient at something that requires specialized training or talent.",
+    "definition_zh": "熟練的；內行的；擅長的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "ept / aptus",
+          "origin": "Latin",
+          "meaning": "fit, skilled",
+          "meaning_zh": "合適、熟練"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ EPT（適合、熟練）→ 朝向完全合適且專業的狀態發展",
+      "story_en": "Through years of practice, she became highly EPT (skilled) and ADEPT at digital marketing data analysis.",
+      "story_zh": "經過多年的實踐，她在數據分析方面變得非常熟練（EPT），成了一個「熟練的 / 內行的（ADEPT）」專家。",
+      "emojis": [
+        "🎯",
+        "🤹‍♂️",
+        "💻"
+      ]
+    },
+    "example": "He is adept at navigating complex bureaucratic processes to get projects approved quickly.",
+    "example_zh": "他非常「擅長（ADEPT）」在複雜的官僚體系中穿梭，以使項目快速獲得批准。",
+    "collocations": [
+      "adept at negotiation",
+      "adept handling",
+      "become highly adept",
+      "adept at dealing with media",
+      "politically adept"
+    ],
+    "synonyms": [
+      "proficient",
+      "skilled",
+      "expert",
+      "masterful"
+    ],
+    "near_synonyms": [
+      {
+        "word": "clever",
+        "difference": "clever implies quick mental wit; adept emphasizes high practical skill achieved through practice and expertise."
+      }
+    ],
+    "antonyms": [
+      "inept",
+      "clumsy",
+      "unskilled",
+      "amateurish"
+    ],
+    "word_family": [
+      {
+        "word": "adept",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "adeptly",
+        "pos": "adverb"
+      },
+      {
+        "word": "adeptness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 520,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "word": "adherent",
+    "pos": "noun",
+    "phonetic": "/ədˈhɪrənt/",
+    "definition": "Someone who supports a particular party, person, set of ideas, or religion; a loyal follower.",
+    "definition_zh": "擁護者；信徒；追隨者",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "her / haerere",
+          "origin": "Latin",
+          "meaning": "to stick",
+          "meaning_zh": "黏附、緊跟"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ HER（黏貼）→ 像膠水一樣緊緊黏隨某種思想或領袖的人",
+      "story_en": "An ADHERENT will always HER (stick) to the rules of their political philosophy.",
+      "story_zh": "一個「擁護者 / 信徒（ADHERENT）」會永遠黏（HER）附在他們所信仰的政黨哲學上。",
+      "emojis": [
+        "👥",
+        "📜",
+        "🛐"
+      ]
+    },
+    "example": "The traditional economic theory still has many loyal adherents among older policymakers.",
+    "example_zh": "傳統的經濟理論在年長的政策制定者中仍有許多忠實的「擁護者（ADHERENTS）」。",
+    "collocations": [
+      "loyal adherents",
+      "adherents of a religion",
+      "political adherents",
+      "gain adherents",
+      "strict adherents to guidelines"
+    ],
+    "synonyms": [
+      "follower",
+      "supporter",
+      "disciple",
+      "advocate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "fan",
+        "difference": "fan implies emotional, casual entertainment appreciation; adherent implies serious, systematic devotion to an idea, ideology, or doctrine."
+      }
+    ],
+    "antonyms": [
+      "opponent",
+      "critic",
+      "dissident",
+      "adversary"
+    ],
+    "word_family": [
+      {
+        "word": "adhere",
+        "pos": "verb"
+      },
+      {
+        "word": "adherent",
+        "pos": "noun / adjective"
+      },
+      {
+        "word": "adherence",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 521,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "admonish",
+    "pos": "verb",
+    "phonetic": "/ədˈmɑːnɪʃ/",
+    "definition": "To warn or reprimand someone firmly; to advise or urge someone earnestly about a duty or mistake.",
+    "definition_zh": "告誡；警告；責備；勸誡",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "mon / monere",
+          "origin": "Latin",
+          "meaning": "to remind, advise, warn",
+          "meaning_zh": "提醒、忠告、警告"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（去）+ MON（警告、提醒）→ 去對犯錯的人進行警告提醒",
+      "story_en": "The monitor was built to MON (warn) us, just like a teacher would ADMONISH students for being late.",
+      "story_zh": "正如顯示器（monitor）是用來提醒、警告（MON）我們一樣，「告誡 / 責備（ADMONISH）」就是對某人發出警告。",
+      "emojis": [
+        "⚠️",
+        "🗣️",
+        "🧑‍🏫"
+      ]
+    },
+    "example": "The judge proceeded to admonish the witness for giving evasive answers during cross-examination.",
+    "example_zh": "法官在交叉質詢中因證人回答閃爍其詞而對其進行了「告誡（ADMONISH）」。",
+    "collocations": [
+      "admonish a child",
+      "sternly admonish",
+      "admonish someone for negligence",
+      "admonish the public",
+      "be admonished by the court"
+    ],
+    "synonyms": [
+      "reprimand",
+      "scold",
+      "warn",
+      "chide",
+      "reprove"
+    ],
+    "near_synonyms": [
+      {
+        "word": "punish",
+        "difference": "punish involves enforcing actual penalties or pain; admonish is a verbal warning meant to correct future behavior before punishment occurs."
+      }
+    ],
+    "antonyms": [
+      "praise",
+      "compliment",
+      "commend",
+      "approve"
+    ],
+    "word_family": [
+      {
+        "word": "admonish",
+        "pos": "verb"
+      },
+      {
+        "word": "admonition",
+        "pos": "noun"
+      },
+      {
+        "word": "admonitory",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 522,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "academic"
+    ]
+  },
+  {
+    "word": "adroit",
+    "pos": "adjective",
+    "phonetic": "/əˈdrɔɪt/",
+    "definition": "Clever, skillful, or resourceful in using the hands or the mind, especially under difficult or high-pressure situations.",
+    "definition_zh": "靈巧的；機敏的；精明的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "à",
+          "origin": "Old French",
+          "meaning": "to, according to",
+          "meaning_zh": "朝向、按照"
+        },
+        {
+          "root": "droit",
+          "origin": "Old French / Latin",
+          "meaning": "right, straight",
+          "meaning_zh": "右手、正確、正直"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "À（朝向）+ DROIT（右手）→ 古代文化認為右手比左手更靈活，形容做事像慣用右手般熟練",
+      "story_en": "A surgeon must be DROIT (right-handed/straight) and ADROIT with the scalpel during a crisis.",
+      "story_zh": "源自法文的「右手（DROIT）」。古人認為用右手做事最順手，「機敏的 / 靈巧的（ADROIT）」就是形容做事得心應手。",
+      "emojis": [
+        "🧠",
+        "🙌",
+        "💼"
+      ]
+    },
+    "example": "Thanks to her adroit handling of the public relations crisis, the corporation saved its reputation.",
+    "example_zh": "多虧了她對公關危機「機敏的（ADROIT）」處理，公司才保住了聲譽。",
+    "collocations": [
+      "adroit maneuvering",
+      "adroit handling",
+      "adroit politician",
+      "socially adroit",
+      "adroit at problem-solving"
+    ],
+    "synonyms": [
+      "skillful",
+      "clever",
+      "dexterous",
+      "deft",
+      "astute"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shrewd",
+        "difference": "shrewd emphasizes sharp financial or political self-interest; adroit emphasizes elegant, smooth, and masterful execution of a skill."
+      }
+    ],
+    "antonyms": [
+      "clumsy",
+      "awkward",
+      "inept",
+      "maladroit"
+    ],
+    "word_family": [
+      {
+        "word": "adroit",
+        "pos": "adjective"
+      },
+      {
+        "word": "adroitly",
+        "pos": "adverb"
+      },
+      {
+        "word": "adroitness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 523,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "adulation",
+    "pos": "noun",
+    "phonetic": "/ˌædʒuˈleɪʃn/",
+    "definition": "Excessive admiration, flattery, or praise, often directed toward celebrities or powerful authority figures.",
+    "definition_zh": "諂媚；奉承；過分崇拜",
+    "etymology": {
+      "roots": [
+        {
+          "root": "adulari",
+          "origin": "Latin",
+          "meaning": "to flatter, fawn like a dog",
+          "meaning_zh": "搖尾乞憐、諂媚"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ADULARI（像狗一樣搖尾巴奉承）→ 成年人（adult）有時候為了利益而過度奉承別人",
+      "story_en": "The pop star was surrounded by the constant ADULATION of millions of screaming fans.",
+      "story_zh": "拉丁字根意為像狗搖尾巴。這位流行歌星被數百萬尖叫粉絲持續的「瘋狂崇拜 / 奉承（ADULATION）」所包圍。",
+      "emojis": [
+        "🤩",
+        "🙌",
+        "🐶"
+      ]
+    },
+    "example": "The young dictator demanded total adulation from his citizens, plastering his portrait across the city.",
+    "example_zh": "年輕的獨裁者要求公民對他進行絕對的「盲目崇拜 / 奉承（ADULATION）」，並在全城貼滿了他的肖像。",
+    "collocations": [
+      "public adulation",
+      "receive adulation",
+      "constant adulation",
+      "shower with adulation",
+      "adulation of the crowd"
+    ],
+    "synonyms": [
+      "flattery",
+      "worship",
+      "fawning",
+      "sycophancy"
+    ],
+    "near_synonyms": [
+      {
+        "word": "applause",
+        "difference": "applause is a healthy, earned public recognition of a good performance; adulation implies unhealthy, excessive, or servile worship."
+      }
+    ],
+    "antonyms": [
+      "criticism",
+      "condemnation",
+      "derision",
+      "scorn"
+    ],
+    "word_family": [
+      {
+        "word": "adulation",
+        "pos": "noun"
+      },
+      {
+        "word": "adulate",
+        "pos": "verb"
+      },
+      {
+        "word": "adulatory",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 524,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "social",
+      "media"
+    ]
+  },
+  {
+    "word": "adulterate",
+    "pos": "verb",
+    "phonetic": "/əˈdʌltəreɪt/",
+    "definition": "To render something poorer in quality by adding an inferior, cheaper, or foreign substance.",
+    "definition_zh": "摻雜；摻假（以次充好）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "alter",
+          "origin": "Latin",
+          "meaning": "other, change",
+          "meaning_zh": "其他、改變"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ ALTER（其他、改變）→ 加入其他亂七八糟的東西，改變了原本的純度",
+      "story_en": "The greedy merchant tried to ALTER (change) the wine by adding water to ADULTERATE the product.",
+      "story_zh": "貪婪的商人試圖透過加入水來改變（ALTER）紅酒，進而「摻假（ADULTERATE）」商品以獲取暴利。",
+      "emojis": [
+        "🧪",
+        "🥛",
+        "⚠️"
+      ]
+    },
+    "example": "The company was heavily fined for trying to adulterate olive oil with cheaper soybean oil.",
+    "example_zh": "該公司因企圖在橄欖油中「摻入（ADULTERATE）」較便宜的大豆油而被處以巨額罰款。",
+    "collocations": [
+      "adulterate food products",
+      "adulterated milk",
+      "adulterate with chemicals",
+      "strict laws against adulterating",
+      "adulterate the purity"
+    ],
+    "synonyms": [
+      "contaminate",
+      "dilute",
+      "pollute",
+      "debase"
+    ],
+    "near_synonyms": [
+      {
+        "word": "contaminate",
+        "difference": "contaminate usually means making something toxic or dirty by accident; adulterate means intentionally lowering quality for economic fraud."
+      }
+    ],
+    "antonyms": [
+      "purify",
+      "refine",
+      "cleanse"
+    ],
+    "word_family": [
+      {
+        "word": "adulterate",
+        "pos": "verb / adjective"
+      },
+      {
+        "word": "adulteration",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 525,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "law",
+      "business"
+    ]
+  },
+  {
+    "word": "advent",
+    "pos": "noun",
+    "phonetic": "/ˈædvent/",
+    "definition": "The arrival or dawn of a notable person, thing, event, or technological era.",
+    "definition_zh": "（重要人、事、時代的）來臨；到來",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "ven / venire",
+          "origin": "Latin",
+          "meaning": "to come",
+          "meaning_zh": "來、來到"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ VEN（來）→ 某個重大的歷史時刻正朝著我們走來",
+      "story_en": "The VEN (coming) of the internet was a major ADVENT that changed human history forever.",
+      "story_zh": "網路的到來（VEN）是一場重大的「來臨 / 變革（ADVENT）」，永遠改變了人類歷史。",
+      "emojis": [
+        "🚀",
+        "📅",
+        "🌐"
+      ]
+    },
+    "example": "The advent of artificial intelligence has revolutionized the way we approach data analysis and coding.",
+    "example_zh": "人工智慧的「來臨（ADVENT）」徹底改變了我們處理數據分析和程式編碼的方式。",
+    "collocations": [
+      "the advent of technology",
+      "with the advent of",
+      "await the advent",
+      "the advent of a new era",
+      "advent of the digital age"
+    ],
+    "synonyms": [
+      "arrival",
+      "dawn",
+      "emergence",
+      "inception"
+    ],
+    "near_synonyms": [
+      {
+        "word": "beginning",
+        "difference": "beginning is generic for any starting point; advent is reserved for highly significant, epoch-making arrivals."
+      }
+    ],
+    "antonyms": [
+      "departure",
+      "demise",
+      "end",
+      "disappearance"
+    ],
+    "word_family": [
+      {
+        "word": "advent",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 526,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "technology",
+      "history"
+    ]
+  },
+  {
+    "word": "adversity",
+    "pos": "noun",
+    "phonetic": "/ædˈvɜːrsəti/",
+    "definition": "A state of hardship, misfortune, or difficult circumstances that trials a person's resolve.",
+    "definition_zh": "逆境；不幸；厄運",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "vers / vertere",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "轉動、轉向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ VERS（轉向）→ 事情突然轉向與你相反、作對的面",
+      "story_en": "When life takes an unexpected VERS (turn) AD (toward) disaster, you must face ADVERSITY with courage.",
+      "story_zh": "當命運的齒輪轉向（VERS）與你作對（AD）的方向，你就必須鼓起勇氣面對「逆境（ADVERSITY）」。",
+      "emojis": [
+        "🧗",
+        "⛈️",
+        "🛡️"
+      ]
+    },
+    "example": "She showed incredible resilience, overcoming severe financial adversity to graduate at the top of her law class.",
+    "example_zh": "她展現了令人難以置信的韌性，克服了嚴重的經濟「逆境（ADVERSITY）」，以法學院第一名的成績畢業。",
+    "collocations": [
+      "face adversity",
+      "overcome adversity",
+      "in the face of adversity",
+      "triumph over adversity",
+      "economic adversity"
+    ],
+    "synonyms": [
+      "hardship",
+      "misfortune",
+      "distress",
+      "affliction"
+    ],
+    "near_synonyms": [
+      {
+        "word": "catastrophe",
+        "difference": "catastrophe is a single sudden devastating event; adversity is a prolonged condition of difficult and challenging life circumstances."
+      }
+    ],
+    "antonyms": [
+      "prosperity",
+      "fortune",
+      "luck",
+      "success"
+    ],
+    "word_family": [
+      {
+        "word": "adversity",
+        "pos": "noun"
+      },
+      {
+        "word": "adverse",
+        "pos": "adjective"
+      },
+      {
+        "word": "adversary",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 527,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  },
+  {
+    "word": "advocate",
+    "pos": "verb",
+    "phonetic": "/ˈædvəkeɪt/",
+    "definition": "To publicly recommend, support, or urge the adoption of a particular policy, cause, or course of action.",
+    "definition_zh": "提倡；主張；擁護",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "voc / vocare",
+          "origin": "Latin",
+          "meaning": "to call",
+          "meaning_zh": "呼喊、召喚"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD（朝向）+ VOC（聲音、呼喊）→ 為了一個理念向大眾大聲呼喊出支持",
+      "story_en": "Activists use their VOC (voice) AC (toward) the public to ADVOCATE for environmental protection.",
+      "story_zh": "活動家們向大眾發出（AD）聲音（VOC）呼籲，以「提倡（ADVOCATE）」環境保護。",
+      "emojis": [
+        "📢",
+        "🗣️",
+        "🌱"
+      ]
+    },
+    "example": "Many economists advocate reducing interest rates to stimulate consumer spending during a recession.",
+    "example_zh": "許多經濟學家「提倡（ADVOCATE）」降低利率，以在經濟衰退期間刺激消費支出。",
+    "collocations": [
+      "advocate for human rights",
+      "strongly advocate",
+      "advocate policy changes",
+      "advocate a healthy lifestyle",
+      "advocate reform"
+    ],
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion",
+      "promote"
+    ],
+    "near_synonyms": [
+      {
+        "word": "suggest",
+        "difference": "suggest is a gentle, neutral mention of an option; advocate implies active, passionate, and formal public support for a specific choice."
+      }
+    ],
+    "antonyms": [
+      "oppose",
+      "condemn",
+      "proscribe",
+      "resist"
+    ],
+    "word_family": [
+      {
+        "word": "advocate",
+        "pos": "verb / noun"
+      },
+      {
+        "word": "advocacy",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 528,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "politics",
+      "economics"
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adjective",
+    "phonetic": "/esˈθetɪk/",
+    "definition": "Concerned with beauty, art, and the appreciation of good taste, or a set of principles underlying the work of a particular artist.",
+    "definition_zh": "美學的；審美的；具有美感的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "aisthesis",
+          "origin": "Greek",
+          "meaning": "perception, sensation",
+          "meaning_zh": "感覺、感知"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AISTHESIS（感知、感覺）→ 對美的一種感官敏銳捕捉",
+      "story_en": "True artists have a sharp perception to capture the AESTHETIC beauty hidden in everyday chaos.",
+      "story_zh": "希臘字根意為感官知覺。對美有強烈知覺的人，就具備「審美的 / 美學的（AESTHETIC）」眼光。",
+      "emojis": [
+        "🎨",
+        "🏛️",
+        "🌸"
+      ]
+    },
+    "example": "The minimalist architecture of the library balances functional utility with high aesthetic value.",
+    "example_zh": "這座圖書館的極簡主義建築在實用功能與高度的「美學價值（AESTHETIC value）」之間取得了平衡。",
+    "collocations": [
+      "aesthetic value",
+      "aesthetic appreciation",
+      "purely aesthetic reasons",
+      "aesthetic pleasure",
+      "modern aesthetic"
+    ],
+    "synonyms": [
+      "artistic",
+      "beautiful",
+      "tasteful"
+    ],
+    "near_synonyms": [
+      {
+        "word": "beautiful",
+        "difference": "beautiful is a general term for anything pleasing to look at; aesthetic relates specifically to the formal theories, philosophy, and professional appreciation of art and beauty."
+      }
+    ],
+    "antonyms": [
+      "unattractive",
+      "unartistic",
+      "grotesque"
+    ],
+    "word_family": [
+      {
+        "word": "aesthetic",
+        "pos": "adjective / noun"
+      },
+      {
+        "word": "aesthetics",
+        "pos": "noun"
+      },
+      {
+        "word": "aesthetically",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 529,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "art",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "affable",
+    "pos": "adjective",
+    "phonetic": "/ˈæfəbl/",
+    "definition": "Friendly, good-natured, or easy to talk to, showing warmth and approachability.",
+    "definition_zh": "和藹可親的；平易近人的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "fa / fari",
+          "origin": "Latin",
+          "meaning": "to speak",
+          "meaning_zh": "說話"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FA（說話）→ 讓人很容易走過去和他說話",
+      "story_en": "The manager was so open to FA (speak) AF (toward) that everyone found him an AFFABLE leader.",
+      "story_zh": "經理非常樂意讓人走上前（AF）與他交談（FA），每個人都覺得他是個「和藹可親的（AFFABLE）」領導者。",
+      "emojis": [
+        "😊",
+        "🤝",
+        "💬"
+      ]
+    },
+    "example": "Despite his status as a world-famous professor, he remained affable and always welcomed students during office hours.",
+    "example_zh": "儘管他是世界著名的教授，但他依然「和藹可親（AFFABLE）」，總是在辦公時間歡迎學生前來。",
+    "collocations": [
+      "affable manner",
+      "affable host",
+      "always affable",
+      "affable smile",
+      "affable and charming"
+    ],
+    "synonyms": [
+      "friendly",
+      "amiable",
+      "approachable",
+      "genial"
+    ],
+    "near_synonyms": [
+      {
+        "word": "polite",
+        "difference": "polite means following correct social etiquette; affable implies genuine personal warmth and ease of conversation."
+      }
+    ],
+    "antonyms": [
+      "unapproachable",
+      "surly",
+      "hostile",
+      "aloof"
+    ],
+    "word_family": [
+      {
+        "word": "affable",
+        "pos": "adjective"
+      },
+      {
+        "word": "affability",
+        "pos": "noun"
+      },
+      {
+        "word": "affably",
+        "pos": "adverb"
+      }
+    ],
+    "frequency_rank": 530,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "business"
+    ]
+  },
+  {
+    "word": "affectation",
+    "pos": "noun",
+    "phonetic": "/ˌæfekˈteɪʃn/",
+    "definition": "Behavior, speech, or writing that is artificial and pretentious, designed to impress others rather than reflect genuine feelings.",
+    "definition_zh": "做作；假裝；矯揉造作",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "fac / fect",
+          "origin": "Latin",
+          "meaning": "to do, make",
+          "meaning_zh": "做、製造"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FECT（刻意做出來）→ 故意做給別人看的一套假動作",
+      "story_en": "His British accent was just an FECT (made) AFFECTATION to impress his peers at the party.",
+      "story_zh": "他的英國口音只是一種刻意製造（FECT）出來的「做作行為（AFFECTATION）」，只是為了在派對上給同儕留下深刻印象。",
+      "emojis": [
+        "🎭",
+        "🤨",
+        "🕶️"
+      ]
+    },
+    "example": "Her dynamic hand gestures felt like an affectation rather than a natural expression of excitement.",
+    "example_zh": "她那誇張的手勢讓人覺得是一種「做作（AFFECTATION）」，而不是興奮情緒的自然流露。",
+    "collocations": [
+      "without affectation",
+      "an affectation of wealth",
+      "speak with affectation",
+      "pure affectation",
+      "detect an affectation"
+    ],
+    "synonyms": [
+      "pretentiousness",
+      "insincerity",
+      "artificiality",
+      "airs"
+    ],
+    "near_synonyms": [
+      {
+        "word": "hypocrisy",
+        "difference": "hypocrisy is a dangerous moral deception pretending to be virtuous; affectation is a superficial, annoying social pretense to seem high-class or artistic."
+      }
+    ],
+    "antonyms": [
+      "sincerity",
+      "genuineness",
+      "authenticity",
+      "simplicity"
+    ],
+    "word_family": [
+      {
+        "word": "affect",
+        "pos": "verb"
+      },
+      {
+        "word": "affected",
+        "pos": "adjective"
+      },
+      {
+        "word": "affectation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 531,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  },
+  {
+    "word": "affinity",
+    "pos": "noun",
+    "phonetic": "/əˈfɪnəti/",
+    "definition": "A natural liking, empathy, or attraction for someone or something; also, a close structural connection or similarity.",
+    "definition_zh": "強烈的吸引力；親和力；密切關係；雷同",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "finis",
+          "origin": "Latin",
+          "meaning": "border, boundary, end",
+          "meaning_zh": "邊界、結束"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FINIS（邊界）→ 兩家的邊界靠在一起，自然關係緊密，互相吸引",
+      "story_en": "Since their lands shared a FINIS (border), the two tribes naturally developed a strong cultural AFFINITY.",
+      "story_zh": "既然土地的邊界（FINIS）靠在了一起（AF），這兩個部落自然而然地發展出強烈的文化「親近感 / 密切關係（AFFINITY）」。",
+      "emojis": [
+        "🧲",
+        "🤝",
+        "🧬"
+      ]
+    },
+    "example": "From a very young age, the prodigy displayed a natural affinity for complex mathematics.",
+    "example_zh": "從很小的時候起，這位神童就對複雜的數學展現出天生的「喜愛與天賦（AFFINITY）」。",
+    "collocations": [
+      "natural affinity for",
+      "cultural affinity",
+      "feel an affinity with",
+      "chemical affinity",
+      "structural affinity"
+    ],
+    "synonyms": [
+      "attraction",
+      "empathy",
+      "rapport",
+      "similarity",
+      "liking"
+    ],
+    "near_synonyms": [
+      {
+        "word": "preference",
+        "difference": "preference is choosing one item over another based on logic or taste; affinity is a deep, almost instinctual connection or emotional pull toward something."
+      }
+    ],
+    "antonyms": [
+      "aversion",
+      "dislike",
+      "repulsion",
+      "antipathy"
+    ],
+    "word_family": [
+      {
+        "word": "affinity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 532,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "science"
+    ]
+  },
+  {
+    "word": "affirm",
+    "pos": "verb",
+    "phonetic": "/əˈfɜːrm/",
+    "definition": "To state as a fact strongly and publicly; to confirm or ratify a legal decision or systemic truth.",
+    "definition_zh": "斷言；申明；證實；確認",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "firm / firmus",
+          "origin": "Latin",
+          "meaning": "strong, solid",
+          "meaning_zh": "堅固、穩固"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FIRM（穩固、確定）→ 站出來把一件事情說得無比確定、穩固",
+      "story_en": "The witness stood up to make her testimony FIRM (solid) and AFFIRM the suspect's identity in court.",
+      "story_zh": "證人站出來讓她的證詞變得更加堅固（FIRM），並在法庭上「證實 / 斷言（AFFIRM）」了嫌疑人的身份。",
+      "emojis": [
+        "✅",
+        "🗣️",
+        "⚖️"
+      ]
+    },
+    "example": "The Supreme Court voted to affirm the lower court's ruling, maintaining the legality of the law.",
+    "example_zh": "最高法院投票「確認 / 維持（AFFIRM）」下級法院的裁決，維持了該法律的合法性。",
+    "collocations": [
+      "affirm a decision",
+      "affirm allegiance",
+      "solemnly affirm",
+      "affirm the truth",
+      "reaffirm support"
+    ],
+    "synonyms": [
+      "confirm",
+      "declare",
+      "assert",
+      "ratify",
+      "verify"
+    ],
+    "near_synonyms": [
+      {
+        "word": "say",
+        "difference": "say is a completely casual transmission of words; affirm implies a formal, solemn, and high-responsibility declaration of truth."
+      }
+    ],
+    "antonyms": [
+      "deny",
+      "refute",
+      "contradict",
+      "nullify"
+    ],
+    "word_family": [
+      {
+        "word": "affirm",
+        "pos": "verb"
+      },
+      {
+        "word": "affirmation",
+        "pos": "noun"
+      },
+      {
+        "word": "affirmative",
+        "pos": "adjective / noun"
+      }
+    ],
+    "frequency_rank": 533,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ]
+  },
+  {
+    "word": "affliction",
+    "pos": "noun",
+    "phonetic": "/əˈflɪkʃn/",
+    "definition": "A condition or cause of great suffering, pain, distress, or prolonged physical illness.",
+    "definition_zh": "痛苦；苦難；折磨人的疾病",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "flig / fligere",
+          "origin": "Latin",
+          "meaning": "to strike, hit",
+          "meaning_zh": "敲擊、打擊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FLIG（猛烈敲擊）→ 身體或精神遭受了沉重的連續打擊",
+      "story_en": "The rare disease was a severe blow that continuous to FLIG (strike) AF (toward) the family, causing endless AFFLICTION.",
+      "story_zh": "這種罕見疾病是一個沉重的打擊（FLIG），不斷地折磨（AF）著這個家庭，帶來了無盡的「苦難與病痛（AFFLICTION）」。",
+      "emojis": [
+        "🤕",
+        "🏥",
+        "😭"
+      ]
+    },
+    "example": "In ancient times, leprosy was considered a devastating affliction with no known cure.",
+    "example_zh": "在古代，麻風病被認為是一種無法治癒的毀滅性「折磨 / 疾病（AFFLICTION）」。",
+    "collocations": [
+      "severe affliction",
+      "heal an affliction",
+      "physical affliction",
+      "affliction of poverty",
+      "bear an affliction"
+    ],
+    "synonyms": [
+      "suffering",
+      "ailment",
+      "torment",
+      "misery",
+      "hardship"
+    ],
+    "near_synonyms": [
+      {
+        "word": "injury",
+        "difference": "injury is a sharp, localized physical damage from an accident; affliction is an ongoing, deep, or chronic source of heavy misery or chronic disease."
+      }
+    ],
+    "antonyms": [
+      "blessing",
+      "comfort",
+      "relief",
+      "health"
+    ],
+    "word_family": [
+      {
+        "word": "afflict",
+        "pos": "verb"
+      },
+      {
+        "word": "affliction",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 534,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "health",
+      "social"
+    ]
+  },
+  {
+    "word": "affluent",
+    "pos": "adjective",
+    "phonetic": "/ˈæfluənt/",
+    "definition": "Having an great abundance of money, wealth, property, and valuable material goods; wealthy.",
+    "definition_zh": "富裕的；富豪的；富饒的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / af",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "flu / fluere",
+          "origin": "Latin",
+          "meaning": "to flow",
+          "meaning_zh": "流動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AF（朝向）+ FLU（流動）→ 財富源源不斷地朝著你家流過來",
+      "story_en": "Money and resources continue to FLU (flow) AF (toward) the accounts of families living in the AFFLUENT district.",
+      "story_zh": "金錢和資源不斷流向（FLU）這個「富裕的（AFFLUENT）」社區，居民的帳戶里金流滿滿。",
+      "emojis": [
+        "💰",
+        "💎",
+        "🏙️"
+      ]
+    },
+    "example": "The luxury brand targets consumers from affluent neighborhoods who can afford high-end fashion.",
+    "example_zh": "該奢侈品牌瞄準了來自「富裕（AFFLUENT）」社區、負擔得起高端時尚的消費者。",
+    "collocations": [
+      "affluent society",
+      "affluent neighborhood",
+      "affluent lifestyle",
+      "highly affluent",
+      "affluent Western nations"
+    ],
+    "synonyms": [
+      "wealthy",
+      "rich",
+      "prosperous",
+      "opulent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "rich",
+        "difference": "rich is the general everyday term for having money; affluent emphasizes a high-class, economically stable lifestyle with massive continuous cash flow and luxury standards."
+      }
+    ],
+    "antonyms": [
+      "poor",
+      "impoverished",
+      "destitute",
+      "indigent"
+    ],
+    "word_family": [
+      {
+        "word": "affluence",
+        "pos": "noun"
+      },
+      {
+        "word": "affluent",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 535,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "economics",
+      "business"
+    ]
+  },
+  {
+    "word": "agenda",
+    "pos": "noun",
+    "phonetic": "/əˈdʒendə/",
+    "definition": "A list of items, topics, or plans to be discussed or acted upon at a formal meeting; also can refer to a hidden underlying motivation.",
+    "definition_zh": "議程；應辦事項；意圖（常指隱藏的）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ag / agere",
+          "origin": "Latin",
+          "meaning": "to do, drive",
+          "meaning_zh": "做、驅動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（做）+ ENDA（名詞後綴，複數概念）→ 那些必須被「做」出來的事情清單",
+      "story_en": "Before we can AG (do) anything in this business meeting, we must review the official AGENDA.",
+      "story_zh": "在我們在商務會議中開始做（AG）任何事之前，我們必須先審查官方的「議程（AGENDA）」（即待辦事項）。",
+      "emojis": [
+        "📋",
+        "📅",
+        "💼"
+      ]
+    },
+    "example": "The main item on today's agenda is the approval of next year's marketing budget.",
+    "example_zh": "今天「議程（AGENDA）」上的主要項目是批准明年的營銷預算。",
+    "collocations": [
+      "hidden agenda",
+      "political agenda",
+      "items on the agenda",
+      "set the agenda",
+      "top of the agenda"
+    ],
+    "synonyms": [
+      "schedule",
+      "program",
+      "plan",
+      "timetable",
+      "motive"
+    ],
+    "near_synonyms": [
+      {
+        "word": "list",
+        "difference": "list is any random catalog of items; agenda is a structured, action-oriented schedule designed for meetings or goal execution."
+      }
+    ],
+    "antonyms": [],
+    "word_family": [
+      {
+        "word": "agenda",
+        "pos": "noun"
+      },
+      {
+        "word": "agent",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 536,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "college",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "aggrandize",
+    "pos": "verb",
+    "phonetic": "/əˈɡrændaɪz/",
+    "definition": "To increase the power, status, wealth, or reputation of an individual or nation; often used negatively to describe boastful expansion.",
+    "definition_zh": "擴大…的權力；提高（地位、財富）；誇大",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ag",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "grand / grandis",
+          "origin": "Latin",
+          "meaning": "large, great",
+          "meaning_zh": "巨大、宏大"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（去）+ GRAND（巨大）→ 去讓自己的地位或權力變得無比龐大",
+      "story_en": "The emperor launched wars solely to AGGRANDIZE his empire and make his name look GRAND (great).",
+      "story_zh": "皇帝發動戰爭僅僅是為了「擴大 / 抬高（AGGRANDIZE）」他的帝國權力，好讓他的名字顯得宏大（GRAND）。",
+      "emojis": [
+        "👑",
+        "🏰",
+        "📈"
+      ]
+    },
+    "example": "The dictator sought to aggrandize himself by constructing massive gold statues throughout the capital.",
+    "example_zh": "獨裁者試圖透過在整個首都建造巨大的金像來「神化 / 抬高（AGGRANDIZE）」自己的地位與財富。",
+    "collocations": [
+      "self-aggrandize",
+      "aggrandize power",
+      "aggrandize wealth",
+      "aggrandize one's reputation",
+      "attempt to aggrandize"
+    ],
+    "synonyms": [
+      "magnify",
+      "exalt",
+      "enlarge",
+      "amplify",
+      "inflate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "increase",
+        "difference": "increase is a neutral addition to size or number; aggrandize implies aggressively expanding political power, prestige, or ego, often unnaturally."
+      }
+    ],
+    "antonyms": [
+      "humble",
+      "diminish",
+      "debase",
+      "belittle"
+    ],
+    "word_family": [
+      {
+        "word": "aggrandize",
+        "pos": "verb"
+      },
+      {
+        "word": "aggrandizement",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 537,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "history"
+    ]
+  },
+  {
+    "word": "aggravate",
+    "pos": "verb",
+    "phonetic": "/ˈæɡrəveɪt/",
+    "definition": "To make a problem, injury, illness, or offense worse or more severe; can also mean to annoy or exasperate someone persistently.",
+    "definition_zh": "加重；惡化；使更嚴重；激怒",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ag",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "grav / gravis",
+          "origin": "Latin",
+          "meaning": "heavy",
+          "meaning_zh": "沉重、嚴重"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（朝向）+ GRAV（沉重）→ 讓原本的負擔或傷口變得更加沉重和嚴重",
+      "story_en": "Running on a sprained ankle will GRAV (heavy) the injury and AGGRAVate the physical pain.",
+      "story_zh": "在扭傷的腳踝上跑步會使傷勢加重（GRAV），從而進一步「惡化（AGGRAVATE）」肉體痛苦。",
+      "emojis": [
+        "📉",
+        "🤕",
+        "🤬"
+      ]
+    },
+    "example": "Failing to change the bandage regularly will only aggravate the infection.",
+    "example_zh": "未能定期更換繃帶只會「加重 / 惡化（AGGRAVATE）」感染。",
+    "collocations": [
+      "aggravate an illness",
+      "aggravate the crisis",
+      "aggravate a situation",
+      "further aggravate",
+      "aggravate symptoms"
+    ],
+    "synonyms": [
+      "worsen",
+      "exacerbate",
+      "inflame",
+      "irritate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "annoy",
+        "difference": "annoy is used purely for emotional irritation of a person; aggravate can mean to irritate a person, but its core primary academic use is making a medical condition or political crisis worse."
+      }
+    ],
+    "antonyms": [
+      "alleviate",
+      "mitigate",
+      "soothe",
+      "improve"
+    ],
+    "word_family": [
+      {
+        "word": "aggravate",
+        "pos": "verb"
+      },
+      {
+        "word": "aggravation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 538,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "health",
+      "politics"
+    ]
+  },
+  {
+    "word": "aggregate",
+    "pos": "noun",
+    "phonetic": "/ˈæɡrɪɡət/",
+    "definition": "A whole formed by combining several separate elements or statistical data points into a single sum or total.",
+    "definition_zh": "總數；合計；骨料（建築用砂石）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / ag",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "greg / grex",
+          "origin": "Latin",
+          "meaning": "flock, herd",
+          "meaning_zh": "羊群、人群"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（朝向）+ GREG（群體、聚集）→ 散落的小羊集結成一個龐大的羊群總數",
+      "story_en": "The data analyst collected separate numbers to GREG (flock) them together into a final AGGREGATE total.",
+      "story_zh": "數據分析師將零散的數字聚集（GREG）到一起（AG），形成最終的「總數 / 合計（AGGREGATE）」。",
+      "emojis": [
+        "📊",
+        "🐑",
+        "🧮"
+      ]
+    },
+    "example": "The website provides an aggregate score of movie reviews compiled from hundreds of different critics.",
+    "example_zh": "該網站提供了由數百名不同影評人彙編而成的電影評論「綜合總分（AGGREGATE score）」。",
+    "collocations": [
+      "in the aggregate",
+      "aggregate demand",
+      "aggregate score",
+      "aggregate data",
+      "total aggregate"
+    ],
+    "synonyms": [
+      "total",
+      "sum",
+      "gross",
+      "accumulation",
+      "collective"
+    ],
+    "near_synonyms": [
+      {
+        "word": "average",
+        "difference": "average divides the sum by the number of units to find a middle value; aggregate simply sums up all component pieces into one massive total."
+      }
+    ],
+    "antonyms": [
+      "individual",
+      "component",
+      "fraction",
+      "part"
+    ],
+    "word_family": [
+      {
+        "word": "aggregate",
+        "pos": "noun / verb / adjective"
+      },
+      {
+        "word": "aggregation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 539,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "economics"
+    ]
+  },
+  {
+    "word": "agility",
+    "pos": "noun",
+    "phonetic": "/əˈdʒɪləti/",
+    "definition": "The ability to move quickly and easily, both physically (nimbleness) and mentally (sharp intelligence and flexibility).",
+    "definition_zh": "敏捷度；靈活性；機敏",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ag / agere",
+          "origin": "Latin",
+          "meaning": "to do, drive, move",
+          "meaning_zh": "做、驅動、行動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（行動、做）+ ILITY（名詞後綴，能力）→ 快速做出連續複雜動作的能力",
+      "story_en": "A gymnast needs incredible balance and physical AG (action) to show high AGILITY on the beam.",
+      "story_zh": "字根 AG 代表行動。體操運動員需要極高的身體行動（AG）能力，才能在平衡木上展示出極高的「敏捷度（AGILITY）」。",
+      "emojis": [
+        "🏃‍♂️",
+        "🤸",
+        "🧠"
+      ]
+    },
+    "example": "The company's mental agility allowed it to quickly pivot its strategy when the global market crashed.",
+    "example_zh": "該公司的思維「靈活性 / 機敏（AGILITY）」使其在全球市場崩盤時能夠迅速調整策略。",
+    "collocations": [
+      "mental agility",
+      "physical agility",
+      "agility training",
+      "test of agility",
+      "business agility"
+    ],
+    "synonyms": [
+      "nimbleness",
+      "flexibility",
+      "alacrity",
+      "sharpness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "speed",
+        "difference": "speed measures straight-line rapid motion; agility measures the elegant capability to change directions and adapt quickly without losing balance."
+      }
+    ],
+    "antonyms": [
+      "sluggishness",
+      "clumsiness",
+      "rigidity",
+      "lethargy"
+    ],
+    "word_family": [
+      {
+        "word": "agile",
+        "pos": "adjective"
+      },
+      {
+        "word": "agility",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 540,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "sports",
+      "business"
+    ]
+  },
+  {
+    "word": "agitate",
+    "pos": "verb",
+    "phonetic": "/ˈædʒɪteɪt/",
+    "definition": "To stir up public interest or anxiety to achieve a political cause; to shake a liquid briskly; to disturb or upset someone deeply.",
+    "definition_zh": "煽動（政治）；激起（焦慮）；劇烈攪拌（液體）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ag / agere",
+          "origin": "Latin",
+          "meaning": "to do, drive, move",
+          "meaning_zh": "做、驅動、反覆動"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AG（驅動、反覆動）+ ITATE（動詞後綴）→ 使物體或人心劇烈、頻繁地晃動不安",
+      "story_en": "Political activists tried to AG (drive) the public's anger and AGITATE for a wage increase.",
+      "story_zh": "字根 AG 代表驅動。政治活動家試圖驅動（AG）公眾的憤怒，進而為加薪進行「煽動 / 爭取（AGITATE）」。",
+      "emojis": [
+        "📢",
+        "🧪",
+        "🧠"
+      ]
+    },
+    "example": "The union leaders plan to agitate for better working conditions across all manufacturing plants.",
+    "example_zh": "工會領袖計劃在所有製造工廠「煽動並爭取（AGITATE）」更好的工作條件。",
+    "collocations": [
+      "agitate for reform",
+      "agitate the liquid",
+      "become visibly agitated",
+      "agitate public opinion",
+      "agitate a patient"
+    ],
+    "synonyms": [
+      "stir up",
+      "excite",
+      "disturb",
+      "provoke",
+      "unsettle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shake",
+        "difference": "shake is a simple physical back-and-forth movement; agitate involves a violent continuous churning of liquid or a systematic provoking of social/mental anxiety."
+      }
+    ],
+    "antonyms": [
+      "calm",
+      "soothe",
+      "pacify",
+      "quell"
+    ],
+    "word_family": [
+      {
+        "word": "agitate",
+        "pos": "verb"
+      },
+      {
+        "word": "agitation",
+        "pos": "noun"
+      },
+      {
+        "word": "agitator",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 541,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "politics",
+      "science"
+    ]
+  },
+  {
+    "word": "agnostic",
+    "pos": "noun",
+    "phonetic": "/æɡˈnɑːstɪk/",
+    "definition": "A person who believes that nothing is known or can be known of the existence or nature of God or of anything beyond material phenomena.",
+    "definition_zh": "不可知論者（認為神之存在無法被證明的人）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "a",
+          "origin": "Greek",
+          "meaning": "not, without",
+          "meaning_zh": "沒有、不"
+        },
+        {
+          "root": "gnos / gnosco",
+          "origin": "Greek",
+          "meaning": "to know",
+          "meaning_zh": "知道、知識"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "A（不、沒有）+ GNOS（知道）→ 抱持著「沒有人能真正知道神是否存在」的觀點",
+      "story_en": "An AGNOSTIC claims that since humans don't have divine GNOS (knowledge), they simply do A (not) know the absolute truth.",
+      "story_zh": "不可知論者認為，由於人類沒有（A）超自然的智慧與知識（GNOS），因此根本無法斷定神是否存在。",
+      "emojis": [
+        "🤷‍♂️",
+        "❓",
+        "⛪"
+      ]
+    },
+    "example": "While his parents were strict churchgoers, Mark described himself as an agnostic who preferred empirical science over faith.",
+    "example_zh": "雖然他的父母是虔誠的教堂常客，但馬克形容自己是一個「不可知論者（AGNOSTIC）」，與信仰相比，他更喜歡實證科學。",
+    "collocations": [
+      "remain agnostic about",
+      "agnostic stance",
+      "convinced agnostic",
+      "agnostic philosopher",
+      "platform-agnostic (科技用語：跨平台不限規格的)"
+    ],
+    "synonyms": [
+      "skeptic",
+      "doubter",
+      "unbeliever"
+    ],
+    "near_synonyms": [
+      {
+        "word": "atheist",
+        "difference": "atheist definitively claims that God does NOT exist; agnostic says human intelligence is incapable of knowing whether God exists or not."
+      }
+    ],
+    "antonyms": [
+      "believer",
+      "theist",
+      "dogmatist"
+    ],
+    "word_family": [
+      {
+        "word": "agnostic",
+        "pos": "noun / adjective"
+      },
+      {
+        "word": "agnocism",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 542,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "philosophy",
+      "social"
+    ]
+  },
+  {
+    "word": "alacrity",
+    "pos": "noun",
+    "phonetic": "/əˈlækrəti/",
+    "definition": "Brisk, cheerful, and enthusiastic readiness or eagerness to perform a task.",
+    "definition_zh": "欣然同意；敏捷；樂意",
+    "etymology": {
+      "roots": [
+        {
+          "root": "alacer",
+          "origin": "Latin",
+          "meaning": "cheerful, brisk, lively",
+          "meaning_zh": "高興、歡快、敏捷"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ALACER（活潑、愉快）→ 像一個充滿活力的小提琴手快節奏地演奏",
+      "story_en": "The intern accepted the difficult task with ALACRITY, showing his ALACER (cheerful) energy to the boss.",
+      "story_zh": "實習生「欣然（ALACRITY）」接受了這項艱巨的任務，向老闆展示了他歡快（ALACER）且積極的能量。",
+      "emojis": [
+        "🙋‍♂️",
+        "⚡",
+        "😊"
+      ]
+    },
+    "example": "When the famous professor offered a research assistant position, Elena accepted the offer with alacrity.",
+    "example_zh": "當著名教授提供研究助理職位時，艾蓮娜「欣然樂意地（with ALACRITY）」接受了這個邀請。",
+    "collocations": [
+      "accept with alacrity",
+      "respond with alacrity",
+      "show alacrity",
+      "move with alacrity",
+      "customary alacrity"
+    ],
+    "synonyms": [
+      "eagerness",
+      "readiness",
+      "enthusiasm",
+      "promptness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "speed",
+        "difference": "speed is just physical quickness; alacrity combines rapid speed with an emotional state of joy and intense willingness."
+      }
+    ],
+    "antonyms": [
+      "apathy",
+      "reluctance",
+      "sluggishness",
+      "hesitation"
+    ],
+    "word_family": [
+      {
+        "word": "alacrity",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 543,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "academic"
+    ]
+  },
+  {
+    "word": "alchemy",
+    "pos": "noun",
+    "phonetic": "/ˈælkəmi/",
+    "definition": "The medieval chemical philosophy aimed at transforming base metals into gold; metaphorically, a magical process of transformation or combination.",
+    "definition_zh": "鍊金術；神奇的魔力；神祕的轉化過程",
+    "etymology": {
+      "roots": [
+        {
+          "root": "al",
+          "origin": "Arabic",
+          "meaning": "the",
+          "meaning_zh": "定冠詞"
+        },
+        {
+          "root": "khimia",
+          "origin": "Greek",
+          "meaning": "pouring together, chemistry",
+          "meaning_zh": "融合、化學"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AL（阿拉伯文冠詞）+ KHIMIA（融合、化學）→ 現代化學（chemistry）的前身",
+      "story_en": "Ancient scientists practiced ALCHEMY, pouring metals together (KHIMIA) trying to create gold.",
+      "story_zh": "源自阿拉伯文與希臘文的融合。古代科學家練習「鍊金術（ALCHEMY）」，試圖將普通金屬融合並點石成金。",
+      "emojis": [
+        "🧪",
+        "🧙‍♂️",
+        "✨"
+      ]
+    },
+    "example": "The director's creative alchemy turned a low-budget script into a cinematic masterpiece.",
+    "example_zh": "導演具備創造力的「神奇魔力（ALCHEMY）」，將一個低預算的劇本變成了一部電影傑作。",
+    "collocations": [
+      "practice alchemy",
+      "creative alchemy",
+      "medieval alchemy",
+      "political alchemy",
+      "the alchemy of love"
+    ],
+    "synonyms": [
+      "wizardry",
+      "sorcery",
+      "transformation",
+      "magic"
+    ],
+    "near_synonyms": [
+      {
+        "word": "chemistry",
+        "difference": "chemistry is a strict empirical modern science; alchemy belongs to medieval mysticism, focusing on magical element transmutation."
+      }
+    ],
+    "antonyms": [],
+    "word_family": [
+      {
+        "word": "alchemy",
+        "pos": "noun"
+      },
+      {
+        "word": "alchemist",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 544,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "history",
+      "art"
+    ]
+  },
+  {
+    "word": "alienate",
+    "pos": "verb",
+    "phonetic": "/ˈeɪliəneɪt/",
+    "definition": "To cause someone to feel isolated, estranged, or excluded from a group or relationship; to turn supporters into opponents.",
+    "definition_zh": "使疏遠；離間；使孤立",
+    "etymology": {
+      "roots": [
+        {
+          "root": "alien / alius",
+          "origin": "Latin",
+          "meaning": "other, foreign",
+          "meaning_zh": "其他的、外國的"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ALIEN（外星人、外人）→ 把原本親密的朋友當成外星人對待，使其疏遠",
+      "story_en": "If you treat your friends like an ALIEN (stranger), you will ALIENATE yourself from the entire community.",
+      "story_zh": "如果你把朋友當成外人（ALIEN）對待，你就會「疏遠 / 孤立（ALIENATE）」自己，被群體拋棄。",
+      "emojis": [
+        "🙅‍♂️",
+        "👽",
+        "💔"
+      ]
+    },
+    "example": "The politician's extreme comments managed to alienate many of his moderate voters.",
+    "example_zh": "這位政治人物的極端言論成功地「疏遠了（ALIENATE）」他的許多溫和派選民。",
+    "collocations": [
+      "alienate voters",
+      "alienate friends",
+      "feel alienated from society",
+      "completely alienate",
+      "risk alienating the public"
+    ],
+    "synonyms": [
+      "estrange",
+      "isolate",
+      "distance",
+      "divide"
+    ],
+    "near_synonyms": [
+      {
+        "word": "offend",
+        "difference": "offend means causing temporary anger or hurt feelings; alienate means creating a permanent psychological wall that pushes people away completely."
+      }
+    ],
+    "antonyms": [
+      "unite",
+      "reconcile",
+      "attract",
+      "endear"
+    ],
+    "word_family": [
+      {
+        "word": "alien",
+        "pos": "noun / adjective"
+      },
+      {
+        "word": "alienate",
+        "pos": "verb"
+      },
+      {
+        "word": "alienation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 545,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "politics"
+    ]
+  },
+  {
+    "word": "allay",
+    "pos": "verb",
+    "phonetic": "/əˈleɪ/",
+    "definition": "To diminish, soothe, or put to rest a negative emotional state such as fear, suspicion, or worry.",
+    "definition_zh": "減輕；消除（恐懼、疑慮）；平息",
+    "etymology": {
+      "roots": [
+        {
+          "root": "a / alegan",
+          "origin": "Old English",
+          "meaning": "down, put aside",
+          "meaning_zh": "放下、擱置、平息"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "A（放下）+ LAY（平躺）→ 把懸在心頭的恐懼大石「放下並躺平」",
+      "story_en": "The manager held a meeting to LAY down all the panic and ALLAY the employees' fears of layoffs.",
+      "story_zh": "古英文意為放下。經理召開會議，就是為了把恐慌放下躺平（LAY），「消除 / 平息（ALLAY）」員工對裁員的恐懼。",
+      "emojis": [
+        "😌",
+        "🛡️",
+        "🤫"
+      ]
+    },
+    "example": "The government released transparency reports to allay public anxiety about the safety of the vaccine.",
+    "example_zh": "政府發布了透明度報告，以「消除（ALLAY）」公眾對疫苗安全性的焦慮。",
+    "collocations": [
+      "allay fears",
+      "allay suspicions",
+      "allay concerns",
+      "allay anxiety",
+      "do little to allay"
+    ],
+    "synonyms": [
+      "soothe",
+      "alleviate",
+      "calm",
+      "pacify",
+      "diminish"
+    ],
+    "near_synonyms": [
+      {
+        "word": "satisfy",
+        "difference": "satisfy means giving someone what they want; allay means reducing a heavy negative emotional threat or rumor until peace is restored."
+      }
+    ],
+    "antonyms": [
+      "intensify",
+      "aggravate",
+      "provoke",
+      "arouse"
+    ],
+    "word_family": [
+      {
+        "word": "allay",
+        "pos": "verb"
+      }
+    ],
+    "frequency_rank": 546,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "psychology",
+      "politics"
+    ]
+  },
+  {
+    "word": "alleviate",
+    "pos": "verb",
+    "phonetic": "/əˈliːvieɪt/",
+    "definition": "To make physical pain, severe suffering, or economic hardship more bearable and less severe.",
+    "definition_zh": "減輕；緩解（痛苦、困難）",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / al",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "lev / levis",
+          "origin": "Latin",
+          "meaning": "light, to raise",
+          "meaning_zh": "輕、舉起"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AL（朝向）+ LEV（變輕、浮起）→ 像電梯（elevator）一樣把沉重的痛苦痛苦往上提，使其變輕",
+      "story_en": "Taking this medicine will LEV (lighten) your headache and ALLEVIATE the physical stress.",
+      "story_zh": "服用這種藥物會減輕（LEV）你的頭痛負擔，從而「緩解（ALLEVIATE）」肉體痛苦（使重擔變輕）。",
+      "emojis": [
+        "💊",
+        "🛗",
+        "😌"
+      ]
+    },
+    "example": "The new welfare program was designed to alleviate poverty in urban slums by providing direct financial aid.",
+    "example_zh": "這項新的福利計劃旨在透過提供直接的財政援助來「緩解（ALLEVIATE）」城市貧民窟的貧困問題。",
+    "collocations": [
+      "alleviate pain",
+      "alleviate symptoms",
+      "alleviate poverty",
+      "alleviate traffic congestion",
+      "efforts to alleviate"
+    ],
+    "synonyms": [
+      "relieve",
+      "mitigate",
+      "assuage",
+      "soothe",
+      "ease"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cure",
+        "difference": "cure completely eliminates a disease or problem forever; alleviate only reduces the intensity of the pain or symptom, making it bearable."
+      }
+    ],
+    "antonyms": [
+      "aggravate",
+      "worsen",
+      "exacerbate",
+      "intensify"
+    ],
+    "word_family": [
+      {
+        "word": "alleviate",
+        "pos": "verb"
+      },
+      {
+        "word": "alleviation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 547,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "health",
+      "economics"
+    ]
+  },
+  {
+    "word": "allocate",
+    "pos": "verb",
+    "phonetic": "/ˈæləkeɪt/",
+    "definition": "To distribute resources, duties, funds, or shares for a specific purpose or to particular persons according to a plan.",
+    "definition_zh": "分配；撥給；配置",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / al",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "loc / locare",
+          "origin": "Latin",
+          "meaning": "to place",
+          "meaning_zh": "放置、地方"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AL（朝向）+ LOC（地方、位置）→ 把特定的資金或物資放到專屬的地方定位",
+      "story_en": "The board had to LOC (place) specific funds and ALLOCATE them directly to the research lab.",
+      "story_zh": "董事會必須把特定資金放置（LOC）到對應的位置上，也就是為研發實驗室「撥款 / 分配（ALLOCATE）」資源。",
+      "emojis": [
+        "📊",
+        "💰",
+        "📍"
+      ]
+    },
+    "example": "The municipal government decided to allocate 20% of its annual budget to public education.",
+    "example_zh": "市政府決定將其年度預算的 20%「分配給（ALLOCATE）」公共教育。",
+    "collocations": [
+      "allocate resources",
+      "allocate funds",
+      "allocate time",
+      "efficiently allocate",
+      "allocate a budget"
+    ],
+    "synonyms": [
+      "distribute",
+      "assign",
+      "allot",
+      "apportion"
+    ],
+    "near_synonyms": [
+      {
+        "word": "give",
+        "difference": "give is completely general and casual; allocate implies a strategic, planned organizational distribution of limited assets."
+      }
+    ],
+    "antonyms": [
+      "withhold",
+      "confiscate",
+      "keep"
+    ],
+    "word_family": [
+      {
+        "word": "allocate",
+        "pos": "verb"
+      },
+      {
+        "word": "allocation",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 548,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "business",
+      "economics"
+    ]
+  },
+  {
+    "word": "allude",
+    "pos": "verb",
+    "phonetic": "/əˈluːd/",
+    "definition": "To suggest or call attention to something indirectly; to hint at an issue without mentioning it explicitly.",
+    "definition_zh": "暗指；影射；間接提到",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad / al",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "lud / ludere",
+          "origin": "Latin",
+          "meaning": "to play",
+          "meaning_zh": "玩耍、戲弄、演戲"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AL（朝向）+ LUD（開玩笑、玩弄、戲耍）→ 說話時像在玩捉迷藏，不點破，繞著圈子提示",
+      "story_en": "Instead of speaking directly, the speaker chose to LUD (play) around the topic and ALLUDE to the recent scandal.",
+      "story_zh": "演講者沒有直說，而是圍繞話題開玩笑 / 玩文字遊戲（LUD），「暗指 / 影射（ALLUDE）」最近的醜聞。",
+      "emojis": [
+        "🕵️‍♂️",
+        "💬",
+        "🎭"
+      ]
+    },
+    "example": "During the interview, the director would frequently allude to a secret project he was developing with Marvel.",
+    "example_zh": "在接受採訪時，導演頻繁地「暗指（ALLUDE）」他正在與漫威合作開發的一個秘密項目。",
+    "collocations": [
+      "allude to a scandal",
+      "frequently allude to",
+      "allude to the past",
+      "allude to the fact that",
+      "never allude to"
+    ],
+    "synonyms": [
+      "hint",
+      "imply",
+      "insinuate",
+      "intimate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "mention",
+        "difference": "mention means naming something directly and clearly; allude means referencing it via hidden codes or indirect context clues without naming it."
+      }
+    ],
+    "antonyms": [
+      "state explicitly",
+      "declare",
+      "specify"
+    ],
+    "word_family": [
+      {
+        "word": "allude",
+        "pos": "verb"
+      },
+      {
+        "word": "allusion",
+        "pos": "noun"
+      },
+      {
+        "word": "allusive",
+        "pos": "adjective"
+      }
+    ],
+    "frequency_rank": 549,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "language",
+      "art"
+    ]
+  },
+  {
+    "word": "aloof",
+    "pos": "adjective",
+    "phonetic": "/əˈluːf/",
+    "definition": "Not friendly or forthcoming; cool, distant, and detached from others, either emotionally or socially.",
+    "definition_zh": "冷漠的；高傲的；遠離的；獨善其身的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "a",
+          "origin": "Old English / Dutch",
+          "meaning": "on, toward",
+          "meaning_zh": "在、朝向"
+        },
+        {
+          "root": "loof / luff",
+          "origin": "Dutch",
+          "meaning": "the windward side of a ship",
+          "meaning_zh": "船的迎風面、轉向避開"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "A（朝向）+ LOOF（航海用語：迎風偏航）→ 航海時把船頭偏轉，刻意保持距離避開危險岸礁",
+      "story_en": "The cat stood on the LOOF (windward ledge), keeping itself ALOOF and distant from the noisy dogs.",
+      "story_zh": "源自航海詞彙「偏航遠離（LOOF）」。形容一個人像高高在上的貓一樣，與群眾保持距離，「冷漠的高傲（ALOOF）」。",
+      "emojis": [
+        "🐱",
+        "🧍",
+        "❄️"
+      ]
+    },
+    "example": "The new CEO was criticized for remaining aloof and refusing to visit the factory floor to meet ordinary workers.",
+    "example_zh": "新任執行長因表現得過於「冷漠與高高在上（ALOOF）」且拒絕前往工廠車間會見普通工人而受到批評。",
+    "collocations": [
+      "remain aloof",
+      "keep aloof from",
+      "aloof attitude",
+      "stand aloof",
+      "cool and aloof"
+    ],
+    "synonyms": [
+      "distant",
+      "detached",
+      "unapproachable",
+      "remote",
+      "indifferent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shy",
+        "difference": "shy means wanting to connect but being too nervous or afraid; aloof implies an intentional choice to stay distant because one feels superior or indifferent."
+      }
+    ],
+    "antonyms": [
+      "friendly",
+      "sociable",
+      "approachable",
+      "engaging"
+    ],
+    "word_family": [
+      {
+        "word": "aloof",
+        "pos": "adjective / adverb"
+      },
+      {
+        "word": "aloofness",
+        "pos": "noun"
+      }
+    ],
+    "frequency_rank": 550,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ]
+  }
+]
