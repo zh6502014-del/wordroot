@@ -344,7 +344,7 @@ function LearnScreen({vocab,resumeData,onDone}){
               <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>{w.phonetic}</span>
               <SpeakBtn word={w.word}/>
             </div>
-            <div style={{fontSize:"clamp(18px,4vw,24px)",letterSpacing:5,opacity:.7,zIndex:1}}>{w.mnemonic.emojis.join("  ")}</div>
+            <div style={{fontSize:"clamp(18px,4vw,24px)",letterSpacing:5,opacity:.7,zIndex:1}}>{(w.mnemonic?.emojis||[]).join("  ")}</div>
             <div style={{position:"absolute",bottom:14,right:18,fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)"}}>↺ 點擊翻面</div>
           </div>
           {/* BACK */}
@@ -363,7 +363,7 @@ function LearnScreen({vocab,resumeData,onDone}){
                 <RootChips roots={w.roots}/>
                 <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.05),rgba(200,240,96,.02))",border:"1px solid rgba(200,240,96,.15)",borderRadius:10,padding:"10px 12px",display:"flex",flexDirection:"column",gap:5}}>
                   <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--accent)",textTransform:"uppercase",letterSpacing:".08em",opacity:.7}}>🧠 記憶聯想</div>
-                  <div style={{fontSize:17,letterSpacing:5}}>{w.mnemonic.emojis.join("  ")}</div>
+                  <div style={{fontSize:17,letterSpacing:5}}>{(w.mnemonic?.emojis||[]).join("  ")}</div>
                   <div style={{fontSize:14,color:"var(--text)",lineHeight:1.6}}>{w.mnemonic.story_en}</div>
                   <div className="divider"/>
                   <div style={{fontSize:16.5,color:"var(--muted)",lineHeight:1.6}}>{w.mnemonic.story_zh}</div>
@@ -609,8 +609,8 @@ function BookScreen({vocab}){
     mastered:{background:"rgba(200,240,96,.1)",color:"var(--accent)",border:"1px solid rgba(200,240,96,.2)"},
   };
 
-  const allInitials=[...new Set(vocab.map(w=>w.word[0].toUpperCase()))].sort();
-  const allRoots=[...new Set(vocab.flatMap(w=>w.roots.map(r=>r.root)))].sort();
+  const allInitials=[...new Set(vocab.map(w=>w.word?.[0]?.toUpperCase()).filter(Boolean))].sort();
+  const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root).filter(Boolean)))].sort();
 
   const fsrsAll=FSRS.all();
   let words=vocab;
@@ -618,7 +618,7 @@ function BookScreen({vocab}){
   else if(filter==="mastered")words=words.filter(w=>FSRS.get(w.word).interval>=7);
   else if(filter==="new")words=words.filter(w=>!fsrsAll[w.word]);
   if(subType==="initial"&&subVal)words=words.filter(w=>w.word[0].toUpperCase()===subVal);
-  if(subType==="root"&&subVal)words=words.filter(w=>w.roots.some(r=>r.root===subVal));
+  if(subType==="root"&&subVal)words=words.filter(w=>(w.roots||[]).some(r=>r.root===subVal));
 
   const modal=modalIdx!==null?words[modalIdx]:null;
   const closeModal=()=>setModalIdx(null);
@@ -735,7 +735,7 @@ function BookScreen({vocab}){
             <div style={{fontSize:14,color:"var(--muted)",marginBottom:14}}>{modal.definition_zh}</div>
             <div className="divider"/>
             <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",marginBottom:8}}>字根</div>
-            <RootChips roots={modal.roots}/>
+            <RootChips roots={modal.roots||[]}/>
             <div className="divider" style={{marginTop:12}}/>
             <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",marginBottom:8}}>記憶聯想</div>
             <div style={{fontSize:21,letterSpacing:5,marginBottom:8}}>{modal.mnemonic.emojis.join("  ")}</div>
