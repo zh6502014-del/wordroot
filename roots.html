@@ -395,6 +395,18 @@ function renderIntro(el){
     <button class="btn-primary" onclick="goToWords()">看代表單字 →</button>`;
 }
 
+// ── TTS ──
+function speak(word){
+  if(!window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(word);
+  u.rate = 0.82; u.lang = 'en-US';
+  const voices = window.speechSynthesis.getVoices();
+  const en = voices.find(v=>v.lang.startsWith('en')&&v.localService) || voices.find(v=>v.lang.startsWith('en'));
+  if(en) u.voice = en;
+  window.speechSynthesis.speak(u);
+}
+
 // ── Word cards ──
 function renderWords(el){
   const r = state.currentRoot;
@@ -409,7 +421,12 @@ function renderWords(el){
             <div class="word-en">${w.word}</div>
             <div class="word-pos">${w.pos}</div>
           </div>
-          <div class="word-phonetic">${w.phonetic}</div>
+          <div style="display:flex;align-items:center;gap:8px">
+            <button onclick="speak('${w.word}')" title="播放發音"
+              style="background:none;border:none;cursor:pointer;font-size:18px;padding:4px;border-radius:6px;color:var(--muted);transition:color .15s;line-height:1"
+              onmouseover="this.style.color='var(--accent2)'" onmouseout="this.style.color='var(--muted)'">🔊</button>
+            <div class="word-phonetic">${w.phonetic}</div>
+          </div>
         </div>
         <div class="word-breakdown">${breakdown}</div>
         <div style="font-size:13px;color:var(--dim);margin-bottom:4px">${w.breakdown_zh}</div>
@@ -433,6 +450,8 @@ function renderWords(el){
       if(el){ el.style.opacity='1'; el.style.transform='translateY(0)'; }
     });
   });
+  // preload voices
+  window.speechSynthesis.getVoices();
 }
 
 // ── Quiz ──
