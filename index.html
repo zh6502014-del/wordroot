@@ -1078,7 +1078,14 @@ function App(){
 
   useEffect(()=>{
     const urls=[
-      "./data/vocab_batch_001.json",
+      "./data/vocab_01_001-050.json",
+      "./data/vocab_02_051-100.json",
+      "./data/vocab_03_101-150.json",
+      "./data/vocab_04_151-200.json",
+      "./data/vocab_05_251-300.json",
+      "./data/vocab_06_351-400.json",
+      "./data/vocab_07_451-500.json",
+      //"./data/vocab_08_551-600.json",
       // "./data/vocab_batch_002.json",
     ];
     Promise.all(urls.map(u=>fetch(u).then(r=>{
