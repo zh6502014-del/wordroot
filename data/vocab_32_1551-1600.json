@@ -1,0 +1,3952 @@
+[
+  {
+    "word": "designation",
+    "pos": "noun",
+    "phonetic": "/designation/",
+    "definition": "A formal English word used to describe a concept or condition connected with mark, sign; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sign",
+          "origin": "Latin",
+          "meaning": "mark, sign",
+          "meaning_zh": "標記、符號"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "SIGN = mark, sign; connect the root idea with the meaning of designation.",
+      "story_en": "In a university report, the highlighted root SIGN helps the student remember DESIGNATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 SIGN 聯想到 DESIGNATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses designation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 designation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "designation analysis",
+      "designation process",
+      "designation framework",
+      "address designation",
+      "evaluate designation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; designation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while designation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "designation",
+        "pos": "noun"
+      },
+      {
+        "word": "design",
+        "pos": "verb"
+      },
+      {
+        "word": "designational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "designation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1551,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "designative",
+    "pos": "adjective",
+    "phonetic": "/designative/",
+    "definition": "A formal English word used to describe a quality or condition connected with mark, sign; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sign",
+          "origin": "Latin",
+          "meaning": "mark, sign",
+          "meaning_zh": "標記、符號"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "SIGN = mark, sign; connect the root idea with the meaning of designative.",
+      "story_en": "In a university report, the highlighted root SIGN helps the student remember DESIGNATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 SIGN 聯想到 DESIGNATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses designative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 designative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "designative analysis",
+      "designative process",
+      "designative framework",
+      "address designative",
+      "evaluate designative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; designative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while designative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "designative",
+        "pos": "adjective"
+      },
+      {
+        "word": "designative",
+        "pos": "verb"
+      },
+      {
+        "word": "designatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "designative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1552,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "designatory",
+    "pos": "adjective",
+    "phonetic": "/designatory/",
+    "definition": "A formal English word used to describe a quality or condition connected with mark, sign; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sign",
+          "origin": "Latin",
+          "meaning": "mark, sign",
+          "meaning_zh": "標記、符號"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "SIGN = mark, sign; connect the root idea with the meaning of designatory.",
+      "story_en": "In a university report, the highlighted root SIGN helps the student remember DESIGNATORY as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 SIGN 聯想到 DESIGNATORY，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses designatory to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 designatory 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "designatory analysis",
+      "designatory process",
+      "designatory framework",
+      "address designatory",
+      "evaluate designatory"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; designatory is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while designatory follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "designatory",
+        "pos": "adjective"
+      },
+      {
+        "word": "designatory",
+        "pos": "verb"
+      },
+      {
+        "word": "designatoryal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "designatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1553,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "desirable",
+    "pos": "adjective",
+    "phonetic": "/desirable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of desirable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DESIRABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DESIRABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses desirable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 desirable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "desirable analysis",
+      "desirable process",
+      "desirable framework",
+      "address desirable",
+      "evaluate desirable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; desirable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while desirable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "desirable",
+        "pos": "adjective"
+      },
+      {
+        "word": "desirable",
+        "pos": "verb"
+      },
+      {
+        "word": "desirablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "desirable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1554,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "desolation",
+    "pos": "noun",
+    "phonetic": "/desolation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of desolation.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DESOLATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DESOLATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses desolation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 desolation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "desolation analysis",
+      "desolation process",
+      "desolation framework",
+      "address desolation",
+      "evaluate desolation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; desolation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while desolation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "desolation",
+        "pos": "noun"
+      },
+      {
+        "word": "desol",
+        "pos": "verb"
+      },
+      {
+        "word": "desolational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "desolation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1555,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "desolative",
+    "pos": "adjective",
+    "phonetic": "/desolative/",
+    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of desolative.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DESOLATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DESOLATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses desolative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 desolative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "desolative analysis",
+      "desolative process",
+      "desolative framework",
+      "address desolative",
+      "evaluate desolative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; desolative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while desolative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "desolative",
+        "pos": "adjective"
+      },
+      {
+        "word": "desolative",
+        "pos": "verb"
+      },
+      {
+        "word": "desolatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "desolative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1556,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "desperation",
+    "pos": "noun",
+    "phonetic": "/desperation/",
+    "definition": "A formal English word used to describe a concept or condition connected with through; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "per",
+          "origin": "Latin",
+          "meaning": "through",
+          "meaning_zh": "穿過"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PER = through; connect the root idea with the meaning of desperation.",
+      "story_en": "In a university report, the highlighted root PER helps the student remember DESPERATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 PER 聯想到 DESPERATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses desperation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 desperation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "desperation analysis",
+      "desperation process",
+      "desperation framework",
+      "address desperation",
+      "evaluate desperation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; desperation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while desperation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "desperation",
+        "pos": "noun"
+      },
+      {
+        "word": "desper",
+        "pos": "verb"
+      },
+      {
+        "word": "desperational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "desperation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1557,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "despicable",
+    "pos": "adjective",
+    "phonetic": "/despicable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of despicable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DESPICABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DESPICABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses despicable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 despicable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "despicable analysis",
+      "despicable process",
+      "despicable framework",
+      "address despicable",
+      "evaluate despicable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; despicable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while despicable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "despicable",
+        "pos": "adjective"
+      },
+      {
+        "word": "despicable",
+        "pos": "verb"
+      },
+      {
+        "word": "despicablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "despicable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1558,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "despisable",
+    "pos": "adjective",
+    "phonetic": "/despisable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of despisable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DESPISABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DESPISABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses despisable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 despisable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "despisable analysis",
+      "despisable process",
+      "despisable framework",
+      "address despisable",
+      "evaluate despisable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; despisable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while despisable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "despisable",
+        "pos": "adjective"
+      },
+      {
+        "word": "despisable",
+        "pos": "verb"
+      },
+      {
+        "word": "despisablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "despisable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1559,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "destroyable",
+    "pos": "adjective",
+    "phonetic": "/destroyable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of destroyable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DESTROYABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DESTROYABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses destroyable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 destroyable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "destroyable analysis",
+      "destroyable process",
+      "destroyable framework",
+      "address destroyable",
+      "evaluate destroyable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; destroyable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while destroyable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "destroyable",
+        "pos": "adjective"
+      },
+      {
+        "word": "destroyable",
+        "pos": "verb"
+      },
+      {
+        "word": "destroyablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "destroyable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1560,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detachable",
+    "pos": "adjective",
+    "phonetic": "/detachable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of detachable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETACHABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETACHABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detachable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detachable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detachable analysis",
+      "detachable process",
+      "detachable framework",
+      "address detachable",
+      "evaluate detachable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detachable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detachable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detachable",
+        "pos": "adjective"
+      },
+      {
+        "word": "detachable",
+        "pos": "verb"
+      },
+      {
+        "word": "detachablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detachable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1561,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detainable",
+    "pos": "adjective",
+    "phonetic": "/detainable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of detainable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETAINABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETAINABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detainable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detainable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detainable analysis",
+      "detainable process",
+      "detainable framework",
+      "address detainable",
+      "evaluate detainable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detainable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detainable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detainable",
+        "pos": "adjective"
+      },
+      {
+        "word": "detainable",
+        "pos": "verb"
+      },
+      {
+        "word": "detainablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detainable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1562,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detectable",
+    "pos": "adjective",
+    "phonetic": "/detectable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of detectable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETECTABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETECTABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detectable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detectable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detectable analysis",
+      "detectable process",
+      "detectable framework",
+      "address detectable",
+      "evaluate detectable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detectable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detectable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detectable",
+        "pos": "adjective"
+      },
+      {
+        "word": "detectable",
+        "pos": "verb"
+      },
+      {
+        "word": "detectablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detectable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1563,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detergence",
+    "pos": "noun",
+    "phonetic": "/detergence/",
+    "definition": "A formal English word used to describe a concept or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "gen",
+          "origin": "Greek",
+          "meaning": "birth, origin",
+          "meaning_zh": "出生、起源"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of detergence.",
+      "story_en": "In a university report, the highlighted root GEN helps the student remember DETERGENCE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 DETERGENCE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detergence to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detergence 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detergence analysis",
+      "detergence process",
+      "detergence framework",
+      "address detergence",
+      "evaluate detergence"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detergence is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detergence follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detergence",
+        "pos": "noun"
+      },
+      {
+        "word": "deterg",
+        "pos": "verb"
+      },
+      {
+        "word": "detergencal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detergence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1564,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "detestable",
+    "pos": "adjective",
+    "phonetic": "/detestable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of detestable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETESTABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETESTABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detestable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detestable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detestable analysis",
+      "detestable process",
+      "detestable framework",
+      "address detestable",
+      "evaluate detestable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detestable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detestable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detestable",
+        "pos": "adjective"
+      },
+      {
+        "word": "detestable",
+        "pos": "verb"
+      },
+      {
+        "word": "detestablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detestable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1565,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detestation",
+    "pos": "noun",
+    "phonetic": "/detestation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stat",
+          "origin": "Latin",
+          "meaning": "to stand",
+          "meaning_zh": "站立"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "STAT = to stand; connect the root idea with the meaning of detestation.",
+      "story_en": "In a university report, the highlighted root STAT helps the student remember DETESTATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 DETESTATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detestation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detestation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detestation analysis",
+      "detestation process",
+      "detestation framework",
+      "address detestation",
+      "evaluate detestation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detestation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detestation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detestation",
+        "pos": "noun"
+      },
+      {
+        "word": "detest",
+        "pos": "verb"
+      },
+      {
+        "word": "detestational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detestation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1566,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "dethronable",
+    "pos": "adjective",
+    "phonetic": "/dethronable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of dethronable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETHRONABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETHRONABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dethronable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dethronable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dethronable analysis",
+      "dethronable process",
+      "dethronable framework",
+      "address dethronable",
+      "evaluate dethronable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dethronable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dethronable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dethronable",
+        "pos": "adjective"
+      },
+      {
+        "word": "dethronable",
+        "pos": "verb"
+      },
+      {
+        "word": "dethronablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dethronable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1567,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "detonable",
+    "pos": "adjective",
+    "phonetic": "/detonable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of detonable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DETONABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DETONABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses detonable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 detonable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "detonable analysis",
+      "detonable process",
+      "detonable framework",
+      "address detonable",
+      "evaluate detonable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; detonable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while detonable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "detonable",
+        "pos": "adjective"
+      },
+      {
+        "word": "detonable",
+        "pos": "verb"
+      },
+      {
+        "word": "detonablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "detonable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1568,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "devastation",
+    "pos": "noun",
+    "phonetic": "/devastation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stat",
+          "origin": "Latin",
+          "meaning": "to stand",
+          "meaning_zh": "站立"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "STAT = to stand; connect the root idea with the meaning of devastation.",
+      "story_en": "In a university report, the highlighted root STAT helps the student remember DEVASTATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 DEVASTATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses devastation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 devastation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "devastation analysis",
+      "devastation process",
+      "devastation framework",
+      "address devastation",
+      "evaluate devastation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; devastation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while devastation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "devastation",
+        "pos": "noun"
+      },
+      {
+        "word": "devast",
+        "pos": "verb"
+      },
+      {
+        "word": "devastational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "devastation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1569,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "devastative",
+    "pos": "adjective",
+    "phonetic": "/devastative/",
+    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stat",
+          "origin": "Latin",
+          "meaning": "to stand",
+          "meaning_zh": "站立"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "STAT = to stand; connect the root idea with the meaning of devastative.",
+      "story_en": "In a university report, the highlighted root STAT helps the student remember DEVASTATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 DEVASTATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses devastative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 devastative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "devastative analysis",
+      "devastative process",
+      "devastative framework",
+      "address devastative",
+      "evaluate devastative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; devastative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while devastative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "devastative",
+        "pos": "adjective"
+      },
+      {
+        "word": "devastative",
+        "pos": "verb"
+      },
+      {
+        "word": "devastatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "devastative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1570,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "developable",
+    "pos": "adjective",
+    "phonetic": "/developable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of developable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DEVELOPABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEVELOPABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses developable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 developable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "developable analysis",
+      "developable process",
+      "developable framework",
+      "address developable",
+      "evaluate developable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; developable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while developable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "developable",
+        "pos": "adjective"
+      },
+      {
+        "word": "developable",
+        "pos": "verb"
+      },
+      {
+        "word": "developablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "developable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1571,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "deviable",
+    "pos": "adjective",
+    "phonetic": "/deviable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of deviable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DEVIABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEVIABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses deviable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 deviable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "deviable analysis",
+      "deviable process",
+      "deviable framework",
+      "address deviable",
+      "evaluate deviable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; deviable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while deviable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "deviable",
+        "pos": "adjective"
+      },
+      {
+        "word": "deviable",
+        "pos": "verb"
+      },
+      {
+        "word": "deviablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "deviable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1572,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "devisable",
+    "pos": "adjective",
+    "phonetic": "/devisable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of devisable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DEVISABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEVISABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses devisable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 devisable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "devisable analysis",
+      "devisable process",
+      "devisable framework",
+      "address devisable",
+      "evaluate devisable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; devisable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while devisable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "devisable",
+        "pos": "adjective"
+      },
+      {
+        "word": "devisable",
+        "pos": "verb"
+      },
+      {
+        "word": "devisablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "devisable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1573,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "devourable",
+    "pos": "adjective",
+    "phonetic": "/devourable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of devourable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DEVOURABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEVOURABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses devourable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 devourable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "devourable analysis",
+      "devourable process",
+      "devourable framework",
+      "address devourable",
+      "evaluate devourable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; devourable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while devourable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "devourable",
+        "pos": "adjective"
+      },
+      {
+        "word": "devourable",
+        "pos": "verb"
+      },
+      {
+        "word": "devourablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "devourable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1574,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "diabolical",
+    "pos": "adjective",
+    "phonetic": "/diabolical/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of diabolical.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DIABOLICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DIABOLICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diabolical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diabolical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diabolical analysis",
+      "diabolical process",
+      "diabolical framework",
+      "address diabolical",
+      "evaluate diabolical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diabolical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diabolical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diabolical",
+        "pos": "adjective"
+      },
+      {
+        "word": "diabolical",
+        "pos": "verb"
+      },
+      {
+        "word": "diabolicalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diabolical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1575,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "diacritical",
+    "pos": "adjective",
+    "phonetic": "/diacritical/",
+    "definition": "A formal English word used to describe a quality or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ac",
+          "origin": "Latin",
+          "meaning": "toward",
+          "meaning_zh": "朝向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC = toward; connect the root idea with the meaning of diacritical.",
+      "story_en": "In a university report, the highlighted root AC helps the student remember DIACRITICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AC 聯想到 DIACRITICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diacritical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diacritical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diacritical analysis",
+      "diacritical process",
+      "diacritical framework",
+      "address diacritical",
+      "evaluate diacritical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diacritical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diacritical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diacritical",
+        "pos": "adjective"
+      },
+      {
+        "word": "diacritical",
+        "pos": "verb"
+      },
+      {
+        "word": "diacriticalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diacritical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1576,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "diagnosable",
+    "pos": "adjective",
+    "phonetic": "/diagnosable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of diagnosable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DIAGNOSABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DIAGNOSABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diagnosable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diagnosable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diagnosable analysis",
+      "diagnosable process",
+      "diagnosable framework",
+      "address diagnosable",
+      "evaluate diagnosable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diagnosable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diagnosable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diagnosable",
+        "pos": "adjective"
+      },
+      {
+        "word": "diagnosable",
+        "pos": "verb"
+      },
+      {
+        "word": "diagnosablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diagnosable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1577,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dialectical",
+    "pos": "adjective",
+    "phonetic": "/dialectical/",
+    "definition": "A formal English word used to describe a quality or condition connected with to choose, read; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lect",
+          "origin": "Latin",
+          "meaning": "to choose, read",
+          "meaning_zh": "選擇、閱讀"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LECT = to choose, read; connect the root idea with the meaning of dialectical.",
+      "story_en": "In a university report, the highlighted root LECT helps the student remember DIALECTICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LECT 聯想到 DIALECTICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dialectical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dialectical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dialectical analysis",
+      "dialectical process",
+      "dialectical framework",
+      "address dialectical",
+      "evaluate dialectical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dialectical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dialectical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dialectical",
+        "pos": "adjective"
+      },
+      {
+        "word": "dialectical",
+        "pos": "verb"
+      },
+      {
+        "word": "dialecticalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dialectical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1578,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dialogic",
+    "pos": "adjective",
+    "phonetic": "/dialogic/",
+    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "log",
+          "origin": "Greek",
+          "meaning": "word, reason, study",
+          "meaning_zh": "語言、理性、研究"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of dialogic.",
+      "story_en": "In a university report, the highlighted root LOG helps the student remember DIALOGIC as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 DIALOGIC，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dialogic to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dialogic 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dialogic analysis",
+      "dialogic process",
+      "dialogic framework",
+      "address dialogic",
+      "evaluate dialogic"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dialogic is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dialogic follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dialogic",
+        "pos": "adjective"
+      },
+      {
+        "word": "dialogic",
+        "pos": "verb"
+      },
+      {
+        "word": "dialogical",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dialogic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1579,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "science",
+      "technology",
+      "academic"
+    ]
+  },
+  {
+    "word": "dialogical",
+    "pos": "adjective",
+    "phonetic": "/dialogical/",
+    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "log",
+          "origin": "Greek",
+          "meaning": "word, reason, study",
+          "meaning_zh": "語言、理性、研究"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of dialogical.",
+      "story_en": "In a university report, the highlighted root LOG helps the student remember DIALOGICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 DIALOGICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dialogical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dialogical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dialogical analysis",
+      "dialogical process",
+      "dialogical framework",
+      "address dialogical",
+      "evaluate dialogical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dialogical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dialogical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dialogical",
+        "pos": "adjective"
+      },
+      {
+        "word": "dialogical",
+        "pos": "verb"
+      },
+      {
+        "word": "dialogicalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dialogical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1580,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "science",
+      "technology",
+      "academic"
+    ]
+  },
+  {
+    "word": "dialyzable",
+    "pos": "adjective",
+    "phonetic": "/dialyzable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of dialyzable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DIALYZABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DIALYZABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dialyzable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dialyzable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dialyzable analysis",
+      "dialyzable process",
+      "dialyzable framework",
+      "address dialyzable",
+      "evaluate dialyzable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dialyzable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dialyzable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dialyzable",
+        "pos": "adjective"
+      },
+      {
+        "word": "dialyzable",
+        "pos": "verb"
+      },
+      {
+        "word": "dialyzablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dialyzable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1581,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "diaphonical",
+    "pos": "adjective",
+    "phonetic": "/diaphonical/",
+    "definition": "A formal English word used to describe a quality or condition connected with sound; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "phon",
+          "origin": "Greek",
+          "meaning": "sound",
+          "meaning_zh": "聲音"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PHON = sound; connect the root idea with the meaning of diaphonical.",
+      "story_en": "In a university report, the highlighted root PHON helps the student remember DIAPHONICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 PHON 聯想到 DIAPHONICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diaphonical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diaphonical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diaphonical analysis",
+      "diaphonical process",
+      "diaphonical framework",
+      "address diaphonical",
+      "evaluate diaphonical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diaphonical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diaphonical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diaphonical",
+        "pos": "adjective"
+      },
+      {
+        "word": "diaphonical",
+        "pos": "verb"
+      },
+      {
+        "word": "diaphonicalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diaphonical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1582,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "language",
+      "academic",
+      "college"
+    ]
+  },
+  {
+    "word": "dictation",
+    "pos": "noun",
+    "phonetic": "/dictation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to say; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dict",
+          "origin": "Latin",
+          "meaning": "to say",
+          "meaning_zh": "說"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DICT = to say; connect the root idea with the meaning of dictation.",
+      "story_en": "In a university report, the highlighted root DICT helps the student remember DICTATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 DICT 聯想到 DICTATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dictation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dictation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dictation analysis",
+      "dictation process",
+      "dictation framework",
+      "address dictation",
+      "evaluate dictation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dictation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dictation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dictation",
+        "pos": "noun"
+      },
+      {
+        "word": "dict",
+        "pos": "verb"
+      },
+      {
+        "word": "dictational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dictation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1583,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "dictational",
+    "pos": "adjective",
+    "phonetic": "/dictational/",
+    "definition": "A formal English word used to describe a quality or condition connected with to say; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dict",
+          "origin": "Latin",
+          "meaning": "to say",
+          "meaning_zh": "說"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DICT = to say; connect the root idea with the meaning of dictational.",
+      "story_en": "In a university report, the highlighted root DICT helps the student remember DICTATIONAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 DICT 聯想到 DICTATIONAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dictational to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dictational 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dictational analysis",
+      "dictational process",
+      "dictational framework",
+      "address dictational",
+      "evaluate dictational"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dictational is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dictational follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dictational",
+        "pos": "adjective"
+      },
+      {
+        "word": "dictational",
+        "pos": "verb"
+      },
+      {
+        "word": "dictationalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dictational is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1584,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dictative",
+    "pos": "adjective",
+    "phonetic": "/dictative/",
+    "definition": "A formal English word used to describe a quality or condition connected with to say; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dict",
+          "origin": "Latin",
+          "meaning": "to say",
+          "meaning_zh": "說"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DICT = to say; connect the root idea with the meaning of dictative.",
+      "story_en": "In a university report, the highlighted root DICT helps the student remember DICTATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 DICT 聯想到 DICTATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dictative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dictative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dictative analysis",
+      "dictative process",
+      "dictative framework",
+      "address dictative",
+      "evaluate dictative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dictative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dictative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dictative",
+        "pos": "adjective"
+      },
+      {
+        "word": "dictative",
+        "pos": "verb"
+      },
+      {
+        "word": "dictatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dictative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1585,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dictatory",
+    "pos": "adjective",
+    "phonetic": "/dictatory/",
+    "definition": "A formal English word used to describe a quality or condition connected with to say; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dict",
+          "origin": "Latin",
+          "meaning": "to say",
+          "meaning_zh": "說"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "DICT = to say; connect the root idea with the meaning of dictatory.",
+      "story_en": "In a university report, the highlighted root DICT helps the student remember DICTATORY as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 DICT 聯想到 DICTATORY，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dictatory to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dictatory 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dictatory analysis",
+      "dictatory process",
+      "dictatory framework",
+      "address dictatory",
+      "evaluate dictatory"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dictatory is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dictatory follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dictatory",
+        "pos": "adjective"
+      },
+      {
+        "word": "dictatory",
+        "pos": "verb"
+      },
+      {
+        "word": "dictatoryal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dictatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1586,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "didactical",
+    "pos": "adjective",
+    "phonetic": "/didactical/",
+    "definition": "A formal English word used to describe a quality or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ac",
+          "origin": "Latin",
+          "meaning": "toward",
+          "meaning_zh": "朝向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AC = toward; connect the root idea with the meaning of didactical.",
+      "story_en": "In a university report, the highlighted root AC helps the student remember DIDACTICAL as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AC 聯想到 DIDACTICAL，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses didactical to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 didactical 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "didactical analysis",
+      "didactical process",
+      "didactical framework",
+      "address didactical",
+      "evaluate didactical"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; didactical is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while didactical follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "didactical",
+        "pos": "adjective"
+      },
+      {
+        "word": "didactical",
+        "pos": "verb"
+      },
+      {
+        "word": "didacticalal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "didactical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1587,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "difference",
+    "pos": "noun",
+    "phonetic": "/difference/",
+    "definition": "A formal English word used to describe a concept or condition connected with to carry; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fer",
+          "origin": "Latin",
+          "meaning": "to carry",
+          "meaning_zh": "攜帶"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "FER = to carry; connect the root idea with the meaning of difference.",
+      "story_en": "In a university report, the highlighted root FER helps the student remember DIFFERENCE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 FER 聯想到 DIFFERENCE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses difference to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 difference 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "difference analysis",
+      "difference process",
+      "difference framework",
+      "address difference",
+      "evaluate difference"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; difference is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while difference follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "difference",
+        "pos": "noun"
+      },
+      {
+        "word": "differ",
+        "pos": "verb"
+      },
+      {
+        "word": "differencal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "difference is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1588,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "diggable",
+    "pos": "adjective",
+    "phonetic": "/diggable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of diggable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DIGGABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DIGGABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diggable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diggable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diggable analysis",
+      "diggable process",
+      "diggable framework",
+      "address diggable",
+      "evaluate diggable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diggable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diggable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diggable",
+        "pos": "adjective"
+      },
+      {
+        "word": "diggable",
+        "pos": "verb"
+      },
+      {
+        "word": "diggablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diggable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1589,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dilatable",
+    "pos": "adjective",
+    "phonetic": "/dilatable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of dilatable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DILATABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DILATABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilatable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilatable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilatable analysis",
+      "dilatable process",
+      "dilatable framework",
+      "address dilatable",
+      "evaluate dilatable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilatable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilatable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilatable",
+        "pos": "adjective"
+      },
+      {
+        "word": "dilatable",
+        "pos": "verb"
+      },
+      {
+        "word": "dilatablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilatable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1590,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dilatation",
+    "pos": "noun",
+    "phonetic": "/dilatation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dilatation.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DILATATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DILATATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilatation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilatation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilatation analysis",
+      "dilatation process",
+      "dilatation framework",
+      "address dilatation",
+      "evaluate dilatation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilatation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilatation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilatation",
+        "pos": "noun"
+      },
+      {
+        "word": "dilat",
+        "pos": "verb"
+      },
+      {
+        "word": "dilatational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilatation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1591,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "dilatative",
+    "pos": "adjective",
+    "phonetic": "/dilatative/",
+    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dilatative.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DILATATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DILATATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilatative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilatative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilatative analysis",
+      "dilatative process",
+      "dilatative framework",
+      "address dilatative",
+      "evaluate dilatative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilatative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilatative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilatative",
+        "pos": "adjective"
+      },
+      {
+        "word": "dilatative",
+        "pos": "verb"
+      },
+      {
+        "word": "dilatatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilatative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1592,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dilatatory",
+    "pos": "adjective",
+    "phonetic": "/dilatatory/",
+    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dilatatory.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DILATATORY as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DILATATORY，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilatatory to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilatatory 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilatatory analysis",
+      "dilatatory process",
+      "dilatatory framework",
+      "address dilatatory",
+      "evaluate dilatatory"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilatatory is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilatatory follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilatatory",
+        "pos": "adjective"
+      },
+      {
+        "word": "dilatatory",
+        "pos": "verb"
+      },
+      {
+        "word": "dilatatoryal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilatatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1593,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "dilation",
+    "pos": "noun",
+    "phonetic": "/dilation/",
+    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dilation.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DILATION as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DILATION，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilation to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilation 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilation analysis",
+      "dilation process",
+      "dilation framework",
+      "address dilation",
+      "evaluate dilation"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilation is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilation follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilation",
+        "pos": "noun"
+      },
+      {
+        "word": "dil",
+        "pos": "verb"
+      },
+      {
+        "word": "dilational",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1594,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "dilative",
+    "pos": "adjective",
+    "phonetic": "/dilative/",
+    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lat",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、帶來"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dilative.",
+      "story_en": "In a university report, the highlighted root LAT helps the student remember DILATIVE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DILATIVE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses dilative to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 dilative 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "dilative analysis",
+      "dilative process",
+      "dilative framework",
+      "address dilative",
+      "evaluate dilative"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; dilative is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while dilative follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "dilative",
+        "pos": "adjective"
+      },
+      {
+        "word": "dilative",
+        "pos": "verb"
+      },
+      {
+        "word": "dilatival",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "dilative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1595,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "diligence",
+    "pos": "noun",
+    "phonetic": "/diligence/",
+    "definition": "A formal English word used to describe a concept or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "gen",
+          "origin": "Greek",
+          "meaning": "birth, origin",
+          "meaning_zh": "出生、起源"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of diligence.",
+      "story_en": "In a university report, the highlighted root GEN helps the student remember DILIGENCE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 DILIGENCE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses diligence to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 diligence 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "diligence analysis",
+      "diligence process",
+      "diligence framework",
+      "address diligence",
+      "evaluate diligence"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; diligence is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while diligence follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "diligence",
+        "pos": "noun"
+      },
+      {
+        "word": "dilig",
+        "pos": "verb"
+      },
+      {
+        "word": "diligencal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "diligence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1596,
+    "frequency_source": "custom",
+    "difficulty": "C1",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "directable",
+    "pos": "adjective",
+    "phonetic": "/directable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of directable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DIRECTABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DIRECTABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses directable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 directable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "directable analysis",
+      "directable process",
+      "directable framework",
+      "address directable",
+      "evaluate directable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; directable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while directable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "directable",
+        "pos": "adjective"
+      },
+      {
+        "word": "directable",
+        "pos": "verb"
+      },
+      {
+        "word": "directablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "directable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1597,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "disable",
+    "pos": "adjective",
+    "phonetic": "/disable/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of disable.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DISABLE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DISABLE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses disable to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 disable 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "disable analysis",
+      "disable process",
+      "disable framework",
+      "address disable",
+      "evaluate disable"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; disable is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while disable follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "disable",
+        "pos": "adjective"
+      },
+      {
+        "word": "disable",
+        "pos": "verb"
+      },
+      {
+        "word": "disablal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "disable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1598,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "disablement",
+    "pos": "adjective",
+    "phonetic": "/disablement/",
+    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB = away from; connect the root idea with the meaning of disablement.",
+      "story_en": "In a university report, the highlighted root AB helps the student remember DISABLEMENT as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DISABLEMENT，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses disablement to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 disablement 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "disablement analysis",
+      "disablement process",
+      "disablement framework",
+      "address disablement",
+      "evaluate disablement"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; disablement is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while disablement follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "disablement",
+        "pos": "adjective"
+      },
+      {
+        "word": "disable",
+        "pos": "verb"
+      },
+      {
+        "word": "disablemental",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "disablement is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1599,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "disadvance",
+    "pos": "noun",
+    "phonetic": "/disadvance/",
+    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AD = to, toward; connect the root idea with the meaning of disadvance.",
+      "story_en": "In a university report, the highlighted root AD helps the student remember DISADVANCE as a precise academic word.",
+      "story_zh": "在大學報告中，學生用字根 AD 聯想到 DISADVANCE，把它記成精準的學術單字。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report uses disadvance to explain an important part of the issue in a formal context.",
+    "example_zh": "這份報告用 disadvance 來說明正式語境中該議題的重要部分。",
+    "collocations": [
+      "disadvance analysis",
+      "disadvance process",
+      "disadvance framework",
+      "address disadvance",
+      "evaluate disadvance"
+    ],
+    "synonyms": [
+      "related concept",
+      "formal equivalent",
+      "academic term"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader and more general; disadvance is used as a more specific vocabulary item."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence in a system, while disadvance follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "opposite concept",
+      "irrelevance",
+      "absence"
+    ],
+    "word_family": [
+      {
+        "word": "disadvance",
+        "pos": "noun"
+      },
+      {
+        "word": "disadv",
+        "pos": "verb"
+      },
+      {
+        "word": "disadvancal",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "disadvance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "frequency_rank": 1600,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  }
+]
