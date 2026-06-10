@@ -85,6 +85,134 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans)}
 <body>
 <div id="root"></div>
 <script type="text/babel">
+
+// ══════════════════════════════════════════════
+// GAMIFICATION ENGINE (shared across pages)
+// ══════════════════════════════════════════════
+const GAME = {
+  KEY: 'wr_gamification',
+
+  load() {
+    try { return JSON.parse(localStorage.getItem(this.KEY) || 'null') || this.defaults(); }
+    catch { return this.defaults(); }
+  },
+
+  defaults() {
+    return {
+      xp: 0,
+      level: 1,
+      streak: 0,
+      lastLogin: null,
+      totalWordsLearned: 0,
+      totalQuizCorrect: 0,
+      totalQuizAnswered: 0,
+      rootsUnlocked: [],
+      achievements: [],
+    };
+  },
+
+  save(g) { localStorage.setItem(this.KEY, JSON.stringify(g)); },
+
+  // XP values
+  XP: {
+    wordLearned: 5,
+    quizCorrect: 10,
+    quizWrong: 2,
+    chapterPass: 50,
+    chapterStar2: 80,
+    chapterStar3: 120,
+    rootUnlock: 30,
+    dailyLogin: 20,
+  },
+
+  // Level thresholds
+  LEVELS: [
+    {lv:1, name:'詞彙學徒', min:0},
+    {lv:2, name:'單字探索者', min:200},
+    {lv:3, name:'字根獵人', min:600},
+    {lv:4, name:'語言武士', min:1500},
+    {lv:5, name:'詞彙大師', min:3500},
+    {lv:6, name:'字根宗師', min:7000},
+  ],
+
+  getLevel(xp) {
+    let cur = this.LEVELS[0];
+    for (const lv of this.LEVELS) { if (xp >= lv.min) cur = lv; }
+    const next = this.LEVELS.find(l => l.min > xp);
+    const pct = next ? Math.round((xp - cur.min) / (next.min - cur.min) * 100) : 100;
+    return { ...cur, xp, nextMin: next ? next.min : cur.min, nextName: next ? next.name : '—', pct };
+  },
+
+  // Check and update daily streak
+  checkStreak() {
+    const g = this.load();
+    const today = new Date().toISOString().slice(0, 10);
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+    let xpGained = 0;
+    if (g.lastLogin === today) return { g, xpGained: 0, streakChanged: false };
+    if (g.lastLogin === yesterday) {
+      g.streak++;
+    } else if (g.lastLogin !== today) {
+      g.streak = g.lastLogin ? 1 : 1;
+    }
+    g.lastLogin = today;
+    xpGained = this.XP.dailyLogin + (g.streak >= 7 ? 30 : g.streak >= 3 ? 10 : 0);
+    g.xp += xpGained;
+    this.save(g);
+    return { g, xpGained, streakChanged: true };
+  },
+
+  // Add XP and check achievements
+  addXP(type, count = 1) {
+    const g = this.load();
+    const amount = (this.XP[type] || 0) * count;
+    g.xp += amount;
+    if (type === 'wordLearned') g.totalWordsLearned += count;
+    if (type === 'quizCorrect') g.totalQuizCorrect += count;
+    if (type === 'quizWrong' || type === 'quizCorrect') g.totalQuizAnswered += count;
+    const newAchievements = this.checkAchievements(g);
+    this.save(g);
+    return { amount, newAchievements, totalXP: g.xp };
+  },
+
+  // Unlock a root
+  unlockRoot(rootId) {
+    const g = this.load();
+    if (g.rootsUnlocked.includes(rootId)) return { alreadyHad: true, amount: 0 };
+    g.rootsUnlocked.push(rootId);
+    g.xp += this.XP.rootUnlock;
+    const newAchievements = this.checkAchievements(g);
+    this.save(g);
+    return { alreadyHad: false, amount: this.XP.rootUnlock, newAchievements };
+  },
+
+  // Achievement definitions
+  ACHIEVEMENTS: [
+    { id: 'first_word', name: '第一個單字', icon: '🌱', desc: '學習第一個單字', check: g => g.totalWordsLearned >= 1 },
+    { id: 'words_50', name: '半百學徒', icon: '📖', desc: '學習 50 個單字', check: g => g.totalWordsLearned >= 50 },
+    { id: 'words_200', name: '單字達人', icon: '📚', desc: '學習 200 個單字', check: g => g.totalWordsLearned >= 200 },
+    { id: 'quiz_100', name: '測驗達人', icon: '🎯', desc: '答對 100 題', check: g => g.totalQuizCorrect >= 100 },
+    { id: 'roots_5', name: '字根收藏者', icon: '🌿', desc: '收集 5 個字根', check: g => g.rootsUnlocked.length >= 5 },
+    { id: 'roots_20', name: '字根獵人', icon: '🔍', desc: '收集 20 個字根', check: g => g.rootsUnlocked.length >= 20 },
+    { id: 'roots_50', name: '字根宗師', icon: '🏆', desc: '收集 50 個字根', check: g => g.rootsUnlocked.length >= 50 },
+    { id: 'streak_3', name: '三天連勝', icon: '🔥', desc: '連續登入 3 天', check: g => g.streak >= 3 },
+    { id: 'streak_7', name: '一週不間斷', icon: '⚡', desc: '連續登入 7 天', check: g => g.streak >= 7 },
+    { id: 'streak_30', name: '月度冠軍', icon: '👑', desc: '連續登入 30 天', check: g => g.streak >= 30 },
+  ],
+
+  checkAchievements(g) {
+    const newOnes = [];
+    for (const ach of this.ACHIEVEMENTS) {
+      if (!g.achievements.includes(ach.id) && ach.check(g)) {
+        g.achievements.push(ach.id);
+        newOnes.push(ach);
+      }
+    }
+    return newOnes;
+  },
+};
+
+
 const{useState,useEffect,useCallback}=React;
 
 // ── VOCAB DATA ──
@@ -997,23 +1125,20 @@ function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,qu
       </div>
       {/* 章節學習 card */}
       {(()=>{
-        const chData=JSON.parse(localStorage.getItem('wr_chapters')||'{}');
-        const stars=Object.values(chData).reduce((s,c)=>s+(c.stars||0),0);
-        const done=Object.keys(chData).length;
-        const current=done>0?done-1:0;
-        const ch=chData[current]||{};
-        const label=ch.quizScore!==null?`Ch.${current+1} 複習中`:`Ch.${current+1} 學習中`;
+        const _gd=GAME.load();
+        const _lvi=GAME.getLevel(_gd.xp);
+        const _streak=_gd.streak>=2?`🔥${_gd.streak}天 · `:'';
         return(
           <a href="chapters.html" style={{textDecoration:"none",width:"100%",maxWidth:600,display:"block"}}>
             <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.08),var(--surface))",border:"1px solid rgba(200,240,96,.25)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
               <div style={{fontSize:32}}>🏆</div>
               <div style={{flex:1}}>
                 <div style={{fontFamily:"var(--serif)",fontSize:16,color:"var(--text)",marginBottom:3}}>章節學習</div>
-                <div style={{fontSize:14,color:"var(--muted)"}}>每 20 個單字一章，星級評分累積等級</div>
+                <div style={{fontSize:14,color:"var(--muted)"}}>{_streak}Lv{_lvi.lv} {_lvi.name} · {_gd.xp} XP</div>
               </div>
               <div style={{textAlign:"right"}}>
                 <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--accent)"}}>探索 →</div>
-                <div style={{fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",marginTop:2}}>⭐{stars}</div>
+                <div style={{fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",marginTop:2}}>字根 {_gd.rootsUnlocked.length} 個</div>
               </div>
             </div>
           </a>

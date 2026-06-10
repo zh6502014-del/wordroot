@@ -15,6 +15,7 @@
   --serif:'DM Serif Display',serif;--mono:'DM Mono',monospace;--sans:'Noto Sans TC',sans-serif;
 }
 body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100vh}
+@keyframes fadeInUp{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
 #app{max-width:480px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
 
 /* ── Header ── */
@@ -234,11 +235,159 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:1
   <div class="tab-bar">
     <div class="tab active" id="tabToday" onclick="switchTab('today')">今日任務</div>
     <div class="tab" id="tabCollection" onclick="switchTab('collection')">字根圖鑑</div>
+    <div class="tab" id="tabTree" onclick="switchTab('tree')">知識樹</div>
   </div>
   <div id="screen"></div>
 </div>
 
 <script>
+
+// ══════════════════════════════════════════════
+// GAMIFICATION ENGINE (shared across pages)
+// ══════════════════════════════════════════════
+const GAME = {
+  KEY: 'wr_gamification',
+
+  load() {
+    try { return JSON.parse(localStorage.getItem(this.KEY) || 'null') || this.defaults(); }
+    catch { return this.defaults(); }
+  },
+
+  defaults() {
+    return {
+      xp: 0,
+      level: 1,
+      streak: 0,
+      lastLogin: null,
+      totalWordsLearned: 0,
+      totalQuizCorrect: 0,
+      totalQuizAnswered: 0,
+      rootsUnlocked: [],
+      achievements: [],
+    };
+  },
+
+  save(g) { localStorage.setItem(this.KEY, JSON.stringify(g)); },
+
+  // XP values
+  XP: {
+    wordLearned: 5,
+    quizCorrect: 10,
+    quizWrong: 2,
+    chapterPass: 50,
+    chapterStar2: 80,
+    chapterStar3: 120,
+    rootUnlock: 30,
+    dailyLogin: 20,
+  },
+
+  // Level thresholds
+  LEVELS: [
+    {lv:1, name:'詞彙學徒', min:0},
+    {lv:2, name:'單字探索者', min:200},
+    {lv:3, name:'字根獵人', min:600},
+    {lv:4, name:'語言武士', min:1500},
+    {lv:5, name:'詞彙大師', min:3500},
+    {lv:6, name:'字根宗師', min:7000},
+  ],
+
+  getLevel(xp) {
+    let cur = this.LEVELS[0];
+    for (const lv of this.LEVELS) { if (xp >= lv.min) cur = lv; }
+    const next = this.LEVELS.find(l => l.min > xp);
+    const pct = next ? Math.round((xp - cur.min) / (next.min - cur.min) * 100) : 100;
+    return { ...cur, xp, nextMin: next ? next.min : cur.min, nextName: next ? next.name : '—', pct };
+  },
+
+  // Check and update daily streak
+  checkStreak() {
+    const g = this.load();
+    const today = new Date().toISOString().slice(0, 10);
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+    let xpGained = 0;
+    if (g.lastLogin === today) return { g, xpGained: 0, streakChanged: false };
+    if (g.lastLogin === yesterday) {
+      g.streak++;
+    } else if (g.lastLogin !== today) {
+      g.streak = g.lastLogin ? 1 : 1;
+    }
+    g.lastLogin = today;
+    xpGained = this.XP.dailyLogin + (g.streak >= 7 ? 30 : g.streak >= 3 ? 10 : 0);
+    g.xp += xpGained;
+    this.save(g);
+    return { g, xpGained, streakChanged: true };
+  },
+
+  // Add XP and check achievements
+  addXP(type, count = 1) {
+    const g = this.load();
+    const amount = (this.XP[type] || 0) * count;
+    g.xp += amount;
+    if (type === 'wordLearned') g.totalWordsLearned += count;
+    if (type === 'quizCorrect') g.totalQuizCorrect += count;
+    if (type === 'quizWrong' || type === 'quizCorrect') g.totalQuizAnswered += count;
+    const newAchievements = this.checkAchievements(g);
+    this.save(g);
+    return { amount, newAchievements, totalXP: g.xp };
+  },
+
+  // Unlock a root
+  unlockRoot(rootId) {
+    const g = this.load();
+    if (g.rootsUnlocked.includes(rootId)) return { alreadyHad: true, amount: 0 };
+    g.rootsUnlocked.push(rootId);
+    g.xp += this.XP.rootUnlock;
+    const newAchievements = this.checkAchievements(g);
+    this.save(g);
+    return { alreadyHad: false, amount: this.XP.rootUnlock, newAchievements };
+  },
+
+  // Achievement definitions
+  ACHIEVEMENTS: [
+    { id: 'first_word', name: '第一個單字', icon: '🌱', desc: '學習第一個單字', check: g => g.totalWordsLearned >= 1 },
+    { id: 'words_50', name: '半百學徒', icon: '📖', desc: '學習 50 個單字', check: g => g.totalWordsLearned >= 50 },
+    { id: 'words_200', name: '單字達人', icon: '📚', desc: '學習 200 個單字', check: g => g.totalWordsLearned >= 200 },
+    { id: 'quiz_100', name: '測驗達人', icon: '🎯', desc: '答對 100 題', check: g => g.totalQuizCorrect >= 100 },
+    { id: 'roots_5', name: '字根收藏者', icon: '🌿', desc: '收集 5 個字根', check: g => g.rootsUnlocked.length >= 5 },
+    { id: 'roots_20', name: '字根獵人', icon: '🔍', desc: '收集 20 個字根', check: g => g.rootsUnlocked.length >= 20 },
+    { id: 'roots_50', name: '字根宗師', icon: '🏆', desc: '收集 50 個字根', check: g => g.rootsUnlocked.length >= 50 },
+    { id: 'streak_3', name: '三天連勝', icon: '🔥', desc: '連續登入 3 天', check: g => g.streak >= 3 },
+    { id: 'streak_7', name: '一週不間斷', icon: '⚡', desc: '連續登入 7 天', check: g => g.streak >= 7 },
+    { id: 'streak_30', name: '月度冠軍', icon: '👑', desc: '連續登入 30 天', check: g => g.streak >= 30 },
+  ],
+
+  checkAchievements(g) {
+    const newOnes = [];
+    for (const ach of this.ACHIEVEMENTS) {
+      if (!g.achievements.includes(ach.id) && ach.check(g)) {
+        g.achievements.push(ach.id);
+        newOnes.push(ach);
+      }
+    }
+    return newOnes;
+  },
+};
+
+// ── Achievement Toast ──
+function showAchToast(ach) {
+  const div = document.createElement('div');
+  div.style.cssText = 'position:fixed;top:80px;left:50%;transform:translateX(-50%);background:#1a2a1a;border:1px solid rgba(200,240,96,.4);border-radius:14px;padding:14px 22px;z-index:201;text-align:center;min-width:220px;box-shadow:0 6px 30px rgba(0,0,0,.5);font-family:var(--sans)';
+  div.innerHTML = `<div style="font-size:32px;margin-bottom:6px">${ach.icon}</div><div style="color:var(--accent);font-weight:700;margin-bottom:2px;font-size:14px">成就解鎖！</div><div style="font-size:14px;color:var(--text)">${ach.name}</div><div style="font-size:12px;color:var(--muted);margin-top:3px">${ach.desc}</div>`;
+  document.body.appendChild(div);
+  setTimeout(() => { div.style.transition = 'opacity .5s'; div.style.opacity = '0'; }, 2500);
+  setTimeout(() => div.remove(), 3000);
+}
+
+// ── XP Toast ──
+function showXPToast(lines) {
+  const div = document.createElement('div');
+  div.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%) translateY(10px);background:#1e2026;border:1px solid rgba(200,240,96,.3);border-radius:12px;padding:12px 20px;font-family:var(--mono);font-size:14px;color:var(--accent);z-index:200;text-align:center;pointer-events:none;min-width:180px;box-shadow:0 4px 20px rgba(0,0,0,.4);animation:fadeInUp .3s ease forwards';
+  div.innerHTML = lines.join('<br>');
+  document.body.appendChild(div);
+  setTimeout(() => { div.style.opacity = '0'; div.style.transition = 'opacity .4s'; }, 1800);
+  setTimeout(() => div.remove(), 2200);
+}
+
 // ══════════════════════════════════════════════
 // CONFIG & DATA
 // ══════════════════════════════════════════════
@@ -319,11 +468,16 @@ function render() {
   const screen = document.getElementById('screen');
   const sub = document.getElementById('headerSub');
   const unlocked = progress.unlockedRoots.length;
-  sub.textContent = `已解鎖 ${unlocked} / ${ROOT_GROUPS.length} 個字根`;
+  const _gd = GAME.load();
+  const _lvi = GAME.getLevel(_gd.xp);
+  const _streak = _gd.streak >= 2 ? ` · 🔥${_gd.streak}天` : '';
+  sub.textContent = `${_gd.xp}XP · Lv${_lvi.lv}${_streak}`;
 
   if(currentTab === 'collection'){
     renderCollection(screen); return;
   }
+
+  if(currentTab === 'tree'){ renderTree(screen); return; }
 
   switch(state.phase){
     case 'task':       renderTask(screen); break;
@@ -675,9 +829,11 @@ function nextQuiz(){
 function unlockRoot(r){
   if(!progress.unlockedRoots.includes(r.id)){
     progress.unlockedRoots.push(r.id);
-    // Set Lv2 (completed first quiz)
     progress.rootLevels[r.id] = 2;
     PROGRESS.save(progress);
+    // Sync with GAME engine
+    const gRes = GAME.unlockRoot(r.id);
+    gRes.newAchievements.forEach(a => showAchToast(a));
     state.phase = 'unlock';
     render();
   } else {
@@ -714,14 +870,77 @@ function reviewRoot(rootId){
   switchTab('today');
 }
 
+// ── Knowledge Tree ──
+function renderTree(el){
+  const gd = GAME.load();
+  const unlocked = progress.unlockedRoots;
+
+  const unlockedRoots = ROOT_GROUPS.filter(r => unlocked.includes(r.id));
+  const lockedRoots = ROOT_GROUPS.filter(r => !unlocked.includes(r.id));
+
+  if(unlockedRoots.length === 0){
+    el.innerHTML = `<div class="empty-state">完成今日任務後<br>字根知識樹會在這裡展開</div>`;
+    return;
+  }
+
+  const lvi = GAME.getLevel(gd.xp);
+  const treeCards = unlockedRoots.map(r => {
+    const lv = progress.rootLevels[r.id] || 1;
+    const lvIcons = ['','👀','✅','🔥','🏆'];
+    const wordBranches = r.words.map(w => `
+      <div style="display:flex;align-items:center;gap:8px;padding:6px 0;border-bottom:1px solid var(--border)">
+        <span style="width:6px;height:6px;border-radius:50%;background:var(--accent2);flex-shrink:0"></span>
+        <span style="font-family:var(--serif);font-size:16px;color:var(--text)">${w.word}</span>
+        <span style="font-family:var(--mono);font-size:12px;color:var(--dim)">${w.phonetic}</span>
+        <span style="font-size:13px;color:var(--muted);flex:1;text-align:right">${w.zh}</span>
+      </div>`).join('');
+
+    return `
+      <div style="background:var(--surface);border:1px solid rgba(96,200,240,.2);border-radius:14px;overflow:hidden;margin-bottom:14px">
+        <div style="background:linear-gradient(135deg,rgba(96,200,240,.08),transparent);padding:14px 18px;display:flex;align-items:center;gap:12px;cursor:pointer"
+          onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'">
+          <div style="font-family:var(--mono);font-size:22px;color:var(--accent2);background:rgba(96,200,240,.08);border:1px solid rgba(96,200,240,.2);border-radius:8px;padding:4px 14px;flex-shrink:0">${r.root}</div>
+          <div style="flex:1">
+            <div style="font-size:15px;color:var(--text)">${r.meaning_zh}</div>
+            <div style="font-family:var(--mono);font-size:12px;color:var(--dim);margin-top:2px">${r.origin} · ${r.words.length} 個單字</div>
+          </div>
+          <div style="font-size:20px">${lvIcons[lv]||'👀'}</div>
+        </div>
+        <div style="padding:0 18px 12px">
+          <div style="font-family:var(--mono);font-size:12px;color:var(--dim);padding:8px 0 4px">解鎖的單字</div>
+          ${wordBranches}
+        </div>
+      </div>`;
+  }).join('');
+
+  const lockedCount = lockedRoots.length;
+
+  el.innerHTML = `
+    <div style="font-family:var(--mono);font-size:13px;color:var(--muted);padding:0 0 12px;display:flex;align-items:center;gap:10px">
+      <span>已解鎖 <strong style="color:var(--accent2)">${unlockedRoots.length}</strong> / ${ROOT_GROUPS.length} 個字根</span>
+      <span style="font-size:12px;color:var(--dim)">Lv${lvi.lv} · ${gd.xp} XP</span>
+    </div>
+    ${treeCards}
+    ${lockedCount > 0 ? `<div style="text-align:center;font-family:var(--mono);font-size:13px;color:var(--dim);padding:16px;background:var(--surface);border-radius:10px;border:1px solid var(--border)">🔒 還有 ${lockedCount} 個字根等待解鎖</div>` : ''}`;
+}
+
+
 function switchTab(tab){
   currentTab = tab;
   document.getElementById('tabToday').className = 'tab' + (tab==='today'?' active':'');
   document.getElementById('tabCollection').className = 'tab' + (tab==='collection'?' active':'');
+  document.getElementById('tabTree').className = 'tab' + (tab==='tree'?' active':'');
   render();
 }
 
 // ── Boot ──
+// Check daily streak
+(() => {
+  const { g, xpGained, streakChanged } = GAME.checkStreak();
+  if (streakChanged && xpGained > 0) {
+    setTimeout(() => showXPToast([`🔥 連續 ${g.streak} 天`, `+${xpGained} XP`]), 600);
+  }
+})();
 render();
 </script>
 </body>
