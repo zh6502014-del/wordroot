@@ -265,24 +265,124 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--s
 
 <script>
 // ══════════════════════════════════════════════
-// VOCAB DATA — loaded from data/vocab_batch_001.json
+// VOCAB DATA — loaded from split JSON files
 // ══════════════════════════════════════════════
-// ── VOCAB DATA — loaded from data/vocab_batch_001.json ──
 let VOCAB = [];
-Promise.all([
-  "./data/vocab_01_001-050.json",
-  "./data/vocab_02_051-100.json",
-  "./data/vocab_03_101-150.json",
-  "./data/vocab_04_151-200.json",
-  "./data/vocab_05_201-250.json",
-  "./data/vocab_06_251-300.json",
-  "./data/vocab_07_301-350.json",
-  "./data/vocab_08_351-400.json",
-  "./data/vocab_09_401-450.json",
-  "./data/vocab_10_451-500.json"
-].map(u=>fetch(u).then(r=>r.ok?r.json():[])))
-  .then(results=>{ VOCAB=results.flat(); console.log('Vocab loaded:',VOCAB.length,'words'); })
+let VOCAB_BY_WORD = new Map();
+let VOCAB_WORD_SET = new Set();
+let VOCAB_BY_TAG = new Map();
+let VOCAB_BY_ROOT = new Map();
+
+const VOCAB_FILES = Array.from({length:40},(_,i)=>{
+  const batch=String(i+1).padStart(2,'0');
+  const start=String(i*50+1).padStart(3,'0');
+  const end=String((i+1)*50).padStart(3,'0');
+  return `./data/vocab_${batch}_${start}-${end}.json`;
+});
+
+Promise.all(VOCAB_FILES.map(u=>fetch(u).then(r=>r.ok?r.json():[])))
+  .then(results=>{
+    VOCAB=results.flat();
+    buildVocabIndexes();
+    console.log('Vocab loaded:',VOCAB.length,'words');
+  })
   .catch(err=>{ console.warn('Vocab load failed:',err); });
+
+function buildVocabIndexes(){
+  VOCAB_BY_WORD=new Map();
+  VOCAB_WORD_SET=new Set();
+  VOCAB_BY_TAG=new Map();
+  VOCAB_BY_ROOT=new Map();
+  VOCAB.forEach(w=>{
+    const key=w.word.toLowerCase();
+    VOCAB_BY_WORD.set(key,w);
+    VOCAB_WORD_SET.add(key);
+    (w.tags||[]).forEach(tag=>{
+      if(!VOCAB_BY_TAG.has(tag))VOCAB_BY_TAG.set(tag,[]);
+      VOCAB_BY_TAG.get(tag).push(w);
+    });
+    (w.etymology?.roots||[]).forEach(r=>{
+      const root=(r.root||'').toLowerCase().split('/')[0].trim();
+      if(!root)return;
+      if(!VOCAB_BY_ROOT.has(root))VOCAB_BY_ROOT.set(root,[]);
+      VOCAB_BY_ROOT.get(root).push(w);
+    });
+  });
+}
+
+function tokenizeWords(text){
+  return (text.toLowerCase().match(/[a-z]+(?:'[a-z]+)?/g)||[])
+    .map(w=>w.replace(/'s$/,''));
+}
+
+function getVocabWord(word){
+  return VOCAB_BY_WORD.get(String(word||'').toLowerCase())||null;
+}
+
+function findMentionedVocab(text){
+  const tokens=tokenizeWords(text);
+  for(const token of tokens){
+    const direct=getVocabWord(token);
+    if(direct)return direct;
+    for(const suffix of ['ing','ed','s','es']){
+      if(token.endsWith(suffix)){
+        const base=getVocabWord(token.slice(0,-suffix.length));
+        if(base)return base;
+      }
+    }
+  }
+  return null;
+}
+
+function pickRandom(arr){
+  return arr&&arr.length?arr[Math.floor(Math.random()*arr.length)]:null;
+}
+
+function pickRelatedVocab(topic=null,userText=''){
+  const mentioned=findMentionedVocab(userText);
+  if(mentioned)return mentioned;
+  const topicTagMap={
+    study:['academic','language','TOEFL','college'],
+    work:['business','economics','finance'],
+    health:['science','psychology','medical'],
+    money:['finance','economics','business'],
+    technology:['technology','science'],
+    feeling:['psychology','philosophy'],
+    motivation:['common','psychology'],
+    hobby:['art','language'],
+    travel:['history','geography','culture'],
+    relationships:['psychology','social'],
+    opinion:['philosophy','politics'],
+  };
+  const candidates=[];
+  (topicTagMap[topic]||[]).forEach(tag=>candidates.push(...(VOCAB_BY_TAG.get(tag)||[])));
+  return pickRandom(candidates)||pickRandom(VOCAB);
+}
+
+function isVocabIntent(text){
+  const lower=text.toLowerCase().trim();
+  return /^(?:define|meaning of|tell me about|what(?:'s| is)|use|using|example of|example sentence for|sentence with)\s+/.test(lower)||
+    /(?:意思|例句|造句|解釋|查詢|單字|詞根|字根|搭配|同義|近義|反義|考|測驗|小考)/.test(lower)||
+    /^[a-z]+\s*(?:詞根|字根|來源|搭配|片語|用法|同義|近義|反義|例句|造句|意思|root|etymology|collocations?|synonyms?|antonyms?|example|sentence|meaning)$/.test(lower)||
+    /(?:quiz|test|challenge|check|ask)\s*(?:me|my vocab)?/.test(lower);
+}
+
+function formatVocabCard(w,mode='full'){
+  const bits=[`${w.word} (${w.pos})`];
+  if(w.phonetic)bits.push(w.phonetic);
+  const head=bits.join(' · ');
+  const zh=w.definition_zh?`中文：${w.definition_zh}`:'';
+  const example=w.example?`Example: "${w.example}"`:'';
+  const coll=(w.collocations||[]).slice(0,3).join(', ');
+  const syn=(w.synonyms||[]).slice(0,4).join(', ');
+  const ant=(w.antonyms||[]).slice(0,3).join(', ');
+  const roots=(w.etymology?.roots||[]).map(r=>`${r.root} = ${r.meaning_zh||r.meaning}`).join('; ');
+  if(mode==='example')return `Sure! ${example} ${w.word} means: ${w.definition} (${w.definition_zh}).`;
+  if(mode==='roots')return roots?`${head}\n詞根：${roots}\n${w.mnemonic?.root_memory||''}`:`${head}\nI don't have root notes for this word yet.`;
+  if(mode==='collocations')return coll?`${head}\n常見搭配：${coll}\n${example}`:`${head}\nI don't have collocations for this word yet, but ${example}`;
+  if(mode==='synonyms')return `${head}\nSynonyms: ${syn||'none listed'}\nAntonyms: ${ant||'none listed'}`;
+  return `${head}\n${w.definition}\n${zh}\n${example}${coll?`\nCollocations: ${coll}`:''}${syn?`\nSynonyms: ${syn}`:''}`;
+}
 
 // ══════════════════════════════════════════════
 // LANGUAGETOOL — grammar check
@@ -877,8 +977,8 @@ const QUIZ={
     const mistakes=Object.entries(JSON.parse(raw));
     if(!mistakes.length)return null;
     const [correctWord,data]=mistakes[Math.floor(Math.random()*mistakes.length)];
-    const correctVocab=VOCAB.find(v=>v.word===correctWord);
-    const wrongVocab=VOCAB.find(v=>v.word===data.wrongWord);
+    const correctVocab=getVocabWord(correctWord);
+    const wrongVocab=getVocabWord(data.wrongWord);
     if(!correctVocab||!wrongVocab)return null;
     this.active=true;this.word=correctVocab;this.type='brutal';
     this.opts=shuffle([
@@ -894,9 +994,12 @@ const QUIZ={
     const w=this.word;
     this.active=false;this.word=null;this.type=null;
     const synonyms=[...(w.synonyms||[])];
-    const correct=synonyms.some(s=>userAnswer.toLowerCase().includes(s.toLowerCase()))||
-      userAnswer.toLowerCase().includes(w.word.toLowerCase())||
-      userAnswer.toLowerCase().includes(w.definition.toLowerCase().split(' ').slice(0,3).join(' '));
+    const answer=userAnswer.toLowerCase();
+    const zhParts=(w.definition_zh||'').replace(/[；;，,。]/g,' ').split(/\s+/).filter(Boolean);
+    const correct=synonyms.some(s=>answer.includes(s.toLowerCase()))||
+      answer.includes(w.word.toLowerCase())||
+      answer.includes(w.definition.toLowerCase().split(' ').slice(0,3).join(' '))||
+      zhParts.some(part=>part.length>=2&&userAnswer.includes(part));
     return{word:w,isCorrect:correct};
   },
 
@@ -1027,11 +1130,10 @@ function _getBotResponseCore(userText){
   const prefix=UMEM.personalTouch();
 
   // -1. Celebrate if user naturally used a vocab word
-  const usedVocab=VOCAB.find(v=>
-    lower.includes(v.word.toLowerCase())&&
-    !lower.startsWith('what')&&!lower.startsWith('define')&&
-    !lower.includes('use the word')&&words.length>3
-  );
+  const usedVocab=(!lower.startsWith('what')&&!lower.startsWith('define')&&
+    !lower.includes('use the word')&&words.length>3)
+      ? findMentionedVocab(userText)
+      : null;
   if(usedVocab&&Math.random()<0.45){
     // Celebrate + ask a natural follow-up (no vocab injection after this)
     const c=[
@@ -1050,24 +1152,53 @@ function _getBotResponseCore(userText){
     return c+f;
   }
 
-  // 0. Vocab command — "use X in a sentence" / "what does X mean" / "example of X"
-  const vocabCmdMatch=lower.match(/(?:use|using|example of|what (?:is|does)|define|meaning of|tell me about)\s+(?:the word\s+)?['""]?([a-z]+)['""]?/);
-  if(vocabCmdMatch){
-    const reqWord=vocabCmdMatch[1].toLowerCase();
-    const found=VOCAB.find(v=>v.word.toLowerCase()===reqWord);
+  // 0. Direct vocab mode — "advocate 詞根" / "advocate collocations"
+  const directVocabMode=lower.match(/^([a-z]+)\s*(詞根|字根|來源|搭配|片語|用法|同義|近義|反義|例句|造句|意思|root|etymology|collocations?|synonyms?|antonyms?|example|sentence|meaning)$/);
+  if(directVocabMode){
+    const found=getVocabWord(directVocabMode[1]);
+    const mode=directVocabMode[2];
     if(found){
-      const sentences=[
-        `Sure! Here's an example: "${found.example}" — ${found.word} means to ${found.definition}.`,
-        `Of course! "${found.example}" — that's a great use of ${found.word}, which means to ${found.definition}.`,
-        `Happy to! "${found.example}" — ${found.word} (${found.pos}): ${found.definition}.`,
-        `Here you go: "${found.example}" — use "${found.word}" when you mean: ${found.definition}.`,
-      ];
       CTX.push('user',userText,'vocab_cmd');
-      return sentences[Math.floor(Math.random()*sentences.length)];
+      if(/root|etymology|詞根|字根|來源/.test(mode))return formatVocabCard(found,'roots');
+      if(/collocation|搭配|片語|用法/.test(mode))return formatVocabCard(found,'collocations');
+      if(/synonym|antonym|同義|近義|反義/.test(mode))return formatVocabCard(found,'synonyms');
+      if(/example|sentence|例句|造句/.test(mode))return formatVocabCard(found,'example');
+      return formatVocabCard(found,'full');
     }
   }
 
-  // 0a. Quiz answer detection
+  // 0a. Vocab command — "use X in a sentence" / "what does X mean" / "example of X"
+  const vocabCmdMatch=lower.match(/(?:use|using|example of|example sentence for|sentence with|what (?:is|does)|define|meaning of|tell me about|意思|例句|造句|解釋|查詢|單字)\s+(?:the word\s+)?['""]?([a-z]+)['""]?/);
+  if(vocabCmdMatch){
+    const reqWord=vocabCmdMatch[1].toLowerCase();
+    const found=getVocabWord(reqWord);
+    if(found){
+      const wantsRoots=/root|etymology|詞根|字根|來源/.test(lower);
+      const wantsCollocations=/collocation|搭配|片語|用法/.test(lower);
+      const wantsSynonyms=/synonym|antonym|同義|近義|反義/.test(lower);
+      const wantsExample=/example|sentence|例句|造句|use|using/.test(lower);
+      CTX.push('user',userText,'vocab_cmd');
+      if(wantsRoots)return formatVocabCard(found,'roots');
+      if(wantsCollocations)return formatVocabCard(found,'collocations');
+      if(wantsSynonyms)return formatVocabCard(found,'synonyms');
+      if(wantsExample)return formatVocabCard(found,'example');
+      return formatVocabCard(found,'full');
+    }
+  }
+
+  // 0b. Root lookup — "words with spect" / "spect 詞根"
+  const rootMatch=lower.match(/(?:root|字根|詞根|words with|包含)\s+([a-z]{2,})|([a-z]{2,})\s*(?:root|字根|詞根)/);
+  if(rootMatch){
+    const root=(rootMatch[1]||rootMatch[2]||'').toLowerCase();
+    const matches=VOCAB_BY_ROOT.get(root)||[];
+    if(matches.length){
+      CTX.push('user',userText,'vocab_cmd');
+      const sample=matches.slice(0,6).map(w=>`${w.word} (${w.definition_zh})`).join(', ');
+      return `Words connected to the root "${root}": ${sample}. Want me to quiz you on one of them?`;
+    }
+  }
+
+  // 0c. Quiz answer detection
   if(QUIZ.active){
     if(QUIZ.type==='meaning'){
       const result=QUIZ.checkMeaning(userText);
@@ -1094,7 +1225,7 @@ function _getBotResponseCore(userText){
   }
 
   // Explicit quiz request
-  const quizMatch=lower.match(/(?:quiz|test|challenge|check|ask)\s*(?:me|my vocab)?/);
+  const quizMatch=lower.match(/(?:quiz|test|challenge|check|ask|考|測驗|小考|單字測驗)\s*(?:me|my vocab)?/);
   if(quizMatch||lower==='quiz'||lower==='test me'||lower==='challenge me'){
     // Prefer brutal if mistakes exist
     if(QUIZ.hasMistakes()&&Math.random()<0.6){
@@ -1111,14 +1242,14 @@ function _getBotResponseCore(userText){
     }
   }
 
-  // 0b. Pure vocab question — "what is abandon" / "define analyze"
+  // 0d. Pure vocab question — "what is abandon" / "define analyze"
   const defineMatch=lower.match(/^(?:what(?:'s| is) |define |meaning of |tell me about )([a-z]+)\??$/);
   if(defineMatch){
     const reqWord=defineMatch[1].toLowerCase();
-    const found=VOCAB.find(v=>v.word.toLowerCase()===reqWord);
+    const found=getVocabWord(reqWord);
     if(found){
       CTX.push('user',userText,'vocab_cmd');
-      return `${found.word} (${found.pos}): ${found.definition}. Example: "${found.example}"`;
+      return formatVocabCard(found,'full');
     }
   }
 
@@ -1185,6 +1316,7 @@ function _getBotResponseCore(userText){
   }
   // Boost score if user mentioned a vocab word related to a topic
   if(VOCAB.length){
+    const mentionedVocab=findMentionedVocab(userText);
     for(const [key,topic] of Object.entries(TOPICS)){
       const tagMap={
         study:['academic','language','math'],work:['business','economics'],
@@ -1193,10 +1325,7 @@ function _getBotResponseCore(userText){
         legal:['law','politics'],motivation:['common'],
       };
       const tags=tagMap[key]||[];
-      const vocabHit=VOCAB.find(v=>
-        lower.includes(v.word.toLowerCase())&&
-        tags.some(t=>(v.tags||[]).includes(t))
-      );
+      const vocabHit=mentionedVocab&&tags.some(t=>(mentionedVocab.tags||[]).includes(t));
       if(vocabHit&&(!bestTopic||bestScore<2)){
         bestTopic={key,topic};bestScore=2;
       }
@@ -1291,13 +1420,11 @@ function formatTime(date){
 
 function highlightVocab(text){
   if(!VOCAB.length)return escapeHtml(text);
-  // Build word set for O(1) lookup
-  const wordSet=new Set(VOCAB.map(v=>v.word.toLowerCase()));
   // Split text into tokens preserving spaces and punctuation
   const tokens=text.split(/([\s\.,!?;:'"\-()]+)/);
   return tokens.map(token=>{
     const lower=token.toLowerCase().replace(/[^a-z]/g,'');
-    if(wordSet.has(lower)){
+    if(VOCAB_WORD_SET.has(lower)){
       const safe=escapeHtml(token);
       return `<span class="vocab-word" onclick="handleVocabClick(this,'${lower}')" onmouseenter="showTooltip(this,'${lower}')" onmouseleave="hideTooltip()">${safe}</span>`;
     }
@@ -1426,40 +1553,19 @@ let isProcessing=false;
 // Use vocab example sentences as natural conversation injections
 function maybeInjectVocab(botText,userText){
   if(Math.random()>0.22||!VOCAB.length)return botText;
-  const lower=userText.toLowerCase();
 
   // 1. Try to find a word directly mentioned by user
   // Skip if we just celebrated this word (avoid double-mention)
-  let pick=VOCAB.find(v=>
-    lower.includes(v.word.toLowerCase())&&
-    v.word!==CTX._lastCelebrated
-  );
+  let pick=findMentionedVocab(userText);
+  if(pick&&pick.word===CTX._lastCelebrated)pick=null;
   CTX._lastCelebrated=null; // reset after one use
 
   // 2. Try topic-relevance: match vocab tags to current topic
   if(!pick){
-    const lastTopic=CTX.lastUserTopic();
-    const topicTagMap={
-      study:['academic','language','math'],
-      work:['business','economics','finance'],
-      health:['science','psychology'],
-      money:['finance','economics','business'],
-      technology:['technology','science'],
-      feeling:['psychology','philosophy'],
-      motivation:['common','psychology'],
-      hobby:['art','language'],
-      travel:['common','history'],
-      relationships:['psychology','social'],
-      opinion:['philosophy','politics'],
-    };
-    const tags=topicTagMap[lastTopic]||[];
-    if(tags.length){
-      const candidates=VOCAB.filter(v=>(v.tags||[]).some(t=>tags.includes(t)));
-      if(candidates.length) pick=candidates[Math.floor(Math.random()*candidates.length)];
-    }
+    pick=pickRelatedVocab(CTX.lastUserTopic(),userText);
   }
 
-  // 3. Fallback: random from first 60 words
+  // 3. Fallback: random word
   if(!pick) pick=VOCAB[Math.floor(Math.random()*VOCAB.length)];
 
   // Use vocab example sentence as bridge — grammatically guaranteed correct
@@ -1562,7 +1668,8 @@ async function sendMessage(){
 
   // Grammar check + bot response in parallel
   showTyping();
-  const [grammarMatches]=await Promise.all([checkGrammar(text)]);
+  let [grammarMatches]=await Promise.all([checkGrammar(text)]);
+  if(isVocabIntent(text))grammarMatches=[];
   if(activeQuote) cancelQuote();
 
   // Grammar-linked response: if errors found, bot weaves correction into reply
