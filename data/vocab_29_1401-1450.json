@@ -3,56 +3,56 @@
     "word": "convictable",
     "pos": "adjective",
     "phonetic": "/convictable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to together, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "con",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "together",
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of convictable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CONVICTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CONVICTABLE，把它記成精準的學術單字。",
+      "root_memory": "CON = together; connect this root idea with the meaning of convictable.",
+      "story_en": "A student remembers CONVICTABLE by linking CON to a real academic or professional situation.",
+      "story_zh": "學生把字根 CON 和 CONVICTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses convictable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 convictable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a convictable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 convictable 因素。",
     "collocations": [
-      "convictable analysis",
-      "convictable process",
-      "convictable framework",
-      "address convictable",
-      "evaluate convictable"
+      "convictable approach",
+      "convictable factor",
+      "convictable issue",
+      "convictable evidence",
+      "convictable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; convictable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; convictable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while convictable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; convictable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "adjective"
       },
       {
-        "word": "convictable",
-        "pos": "verb"
-      },
-      {
         "word": "convictablal",
         "pos": "adjective"
+      },
+      {
+        "word": "convictableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "convictable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "convictable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1401,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,7 +82,7 @@
     "word": "convocation",
     "pos": "noun",
     "phonetic": "/convocation/",
-    "definition": "A formal English word used to describe a concept or condition connected with together; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to together, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -90,48 +90,48 @@
           "root": "con",
           "origin": "Latin",
           "meaning": "together",
-          "meaning_zh": "共同、一起"
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CON = together; connect the root idea with the meaning of convocation.",
-      "story_en": "In a university report, the highlighted root CON helps the student remember CONVOCATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CON 聯想到 CONVOCATION，把它記成精準的學術單字。",
+      "root_memory": "CON = together; connect this root idea with the meaning of convocation.",
+      "story_en": "A student remembers CONVOCATION by linking CON to a real academic or professional situation.",
+      "story_zh": "學生把字根 CON 和 CONVOCATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses convocation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 convocation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses convocation as an important part of the issue.",
+    "example_zh": "報告將 convocation 作為該議題的重要部分來討論。",
     "collocations": [
-      "convocation analysis",
-      "convocation process",
-      "convocation framework",
-      "address convocation",
-      "evaluate convocation"
+      "key convocation",
+      "convocation factor",
+      "convocation role",
+      "convocation in context",
+      "convocation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; convocation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; convocation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while convocation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; convocation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "noun"
       },
       {
-        "word": "convoc",
-        "pos": "verb"
-      },
-      {
         "word": "convocational",
         "pos": "adjective"
+      },
+      {
+        "word": "convocationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "convocation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "convocation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1402,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,7 +161,7 @@
     "word": "convocative",
     "pos": "adjective",
     "phonetic": "/convocative/",
-    "definition": "A formal English word used to describe a quality or condition connected with together; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to together, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -169,48 +169,48 @@
           "root": "con",
           "origin": "Latin",
           "meaning": "together",
-          "meaning_zh": "共同、一起"
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CON = together; connect the root idea with the meaning of convocative.",
-      "story_en": "In a university report, the highlighted root CON helps the student remember CONVOCATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CON 聯想到 CONVOCATIVE，把它記成精準的學術單字。",
+      "root_memory": "CON = together; connect this root idea with the meaning of convocative.",
+      "story_en": "A student remembers CONVOCATIVE by linking CON to a real academic or professional situation.",
+      "story_zh": "學生把字根 CON 和 CONVOCATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses convocative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 convocative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a convocative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 convocative 因素。",
     "collocations": [
-      "convocative analysis",
-      "convocative process",
-      "convocative framework",
-      "address convocative",
-      "evaluate convocative"
+      "convocative approach",
+      "convocative factor",
+      "convocative issue",
+      "convocative evidence",
+      "convocative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; convocative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; convocative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while convocative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; convocative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "adjective"
       },
       {
-        "word": "convocative",
-        "pos": "verb"
-      },
-      {
         "word": "convocatival",
         "pos": "adjective"
+      },
+      {
+        "word": "convocativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "convocative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "convocative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1403,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,56 +240,56 @@
     "word": "cookable",
     "pos": "adjective",
     "phonetic": "/cookable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cookabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of cookable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COOKABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COOKABLE，把它記成精準的學術單字。",
+      "root_memory": "COOKABL = base form or inherited word element; connect this root idea with the meaning of cookable.",
+      "story_en": "A student remembers COOKABLE by linking COOKABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 COOKABL 和 COOKABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cookable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cookable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cookable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cookable 因素。",
     "collocations": [
-      "cookable analysis",
-      "cookable process",
-      "cookable framework",
-      "address cookable",
-      "evaluate cookable"
+      "cookable approach",
+      "cookable factor",
+      "cookable issue",
+      "cookable evidence",
+      "cookable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cookable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cookable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cookable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cookable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cookable",
-        "pos": "verb"
-      },
-      {
         "word": "cookablal",
         "pos": "adjective"
+      },
+      {
+        "word": "cookableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cookable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cookable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1404,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -319,56 +319,56 @@
     "word": "copable",
     "pos": "adjective",
     "phonetic": "/copable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "copable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of copable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COPABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COPABLE，把它記成精準的學術單字。",
+      "root_memory": "COPABLE = base form or inherited word element; connect this root idea with the meaning of copable.",
+      "story_en": "A student remembers COPABLE by linking COPABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPABLE 和 COPABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a copable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 copable 因素。",
     "collocations": [
-      "copable analysis",
-      "copable process",
-      "copable framework",
-      "address copable",
-      "evaluate copable"
+      "copable approach",
+      "copable factor",
+      "copable issue",
+      "copable evidence",
+      "copable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "adjective"
       },
       {
-        "word": "copable",
-        "pos": "verb"
-      },
-      {
         "word": "copablal",
         "pos": "adjective"
+      },
+      {
+        "word": "copableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1405,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,56 +398,56 @@
     "word": "copiable",
     "pos": "adjective",
     "phonetic": "/copiable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "copiabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of copiable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COPIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COPIABLE，把它記成精準的學術單字。",
+      "root_memory": "COPIABL = base form or inherited word element; connect this root idea with the meaning of copiable.",
+      "story_en": "A student remembers COPIABLE by linking COPIABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPIABL 和 COPIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copiable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copiable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a copiable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 copiable 因素。",
     "collocations": [
-      "copiable analysis",
-      "copiable process",
-      "copiable framework",
-      "address copiable",
-      "evaluate copiable"
+      "copiable approach",
+      "copiable factor",
+      "copiable issue",
+      "copiable evidence",
+      "copiable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copiable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copiable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copiable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copiable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "adjective"
       },
       {
-        "word": "copiable",
-        "pos": "verb"
-      },
-      {
         "word": "copiablal",
         "pos": "adjective"
+      },
+      {
+        "word": "copiableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copiable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copiable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1406,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,7 +477,7 @@
     "word": "copresence",
     "pos": "noun",
     "phonetic": "/copresence/",
-    "definition": "A formal English word used to describe a concept or condition connected with before; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to before, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -490,43 +490,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PRE = before; connect the root idea with the meaning of copresence.",
-      "story_en": "In a university report, the highlighted root PRE helps the student remember COPRESENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRE 聯想到 COPRESENCE，把它記成精準的學術單字。",
+      "root_memory": "PRE = before; connect this root idea with the meaning of copresence.",
+      "story_en": "A student remembers COPRESENCE by linking PRE to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRE 和 COPRESENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copresence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copresence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses copresence as an important part of the issue.",
+    "example_zh": "報告將 copresence 作為該議題的重要部分來討論。",
     "collocations": [
-      "copresence analysis",
-      "copresence process",
-      "copresence framework",
-      "address copresence",
-      "evaluate copresence"
+      "key copresence",
+      "copresence factor",
+      "copresence role",
+      "copresence in context",
+      "copresence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copresence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copresence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copresence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copresence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "noun"
       },
       {
-        "word": "copres",
-        "pos": "verb"
-      },
-      {
         "word": "copresencal",
         "pos": "adjective"
+      },
+      {
+        "word": "copresenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copresence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copresence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1407,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -556,56 +556,56 @@
     "word": "copulable",
     "pos": "adjective",
     "phonetic": "/copulable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "copulab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of copulable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COPULABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COPULABLE，把它記成精準的學術單字。",
+      "root_memory": "COPULAB = base form or inherited word element; connect this root idea with the meaning of copulable.",
+      "story_en": "A student remembers COPULABLE by linking COPULAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPULAB 和 COPULABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copulable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copulable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a copulable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 copulable 因素。",
     "collocations": [
-      "copulable analysis",
-      "copulable process",
-      "copulable framework",
-      "address copulable",
-      "evaluate copulable"
+      "copulable approach",
+      "copulable factor",
+      "copulable issue",
+      "copulable evidence",
+      "copulable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copulable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copulable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copulable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copulable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "adjective"
       },
       {
-        "word": "copulable",
-        "pos": "verb"
-      },
-      {
         "word": "copulablal",
         "pos": "adjective"
+      },
+      {
+        "word": "copulableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copulable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copulable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1408,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,56 +635,56 @@
     "word": "copulation",
     "pos": "noun",
     "phonetic": "/copulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "copul",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of copulation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember COPULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 COPULATION，把它記成精準的學術單字。",
+      "root_memory": "COPUL = base form or inherited word element; connect this root idea with the meaning of copulation.",
+      "story_en": "A student remembers COPULATION by linking COPUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPUL 和 COPULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses copulation as an important part of the issue.",
+    "example_zh": "報告將 copulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "copulation analysis",
-      "copulation process",
-      "copulation framework",
-      "address copulation",
-      "evaluate copulation"
+      "key copulation",
+      "copulation factor",
+      "copulation role",
+      "copulation in context",
+      "copulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "noun"
       },
       {
-        "word": "copul",
-        "pos": "verb"
-      },
-      {
         "word": "copulational",
         "pos": "adjective"
+      },
+      {
+        "word": "copulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1409,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,56 +714,56 @@
     "word": "copulative",
     "pos": "adjective",
     "phonetic": "/copulative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "copulat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of copulative.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember COPULATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 COPULATIVE，把它記成精準的學術單字。",
+      "root_memory": "COPULAT = base form or inherited word element; connect this root idea with the meaning of copulative.",
+      "story_en": "A student remembers COPULATIVE by linking COPULAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPULAT 和 COPULATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copulative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copulative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a copulative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 copulative 因素。",
     "collocations": [
-      "copulative analysis",
-      "copulative process",
-      "copulative framework",
-      "address copulative",
-      "evaluate copulative"
+      "copulative approach",
+      "copulative factor",
+      "copulative issue",
+      "copulative evidence",
+      "copulative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copulative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copulative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copulative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copulative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "adjective"
       },
       {
-        "word": "copulative",
-        "pos": "verb"
-      },
-      {
         "word": "copulatival",
         "pos": "adjective"
+      },
+      {
+        "word": "copulativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copulative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copulative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1410,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -793,56 +793,56 @@
     "word": "copulatory",
     "pos": "adjective",
     "phonetic": "/copulatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "copulat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of copulatory.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember COPULATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 COPULATORY，把它記成精準的學術單字。",
+      "root_memory": "COPULAT = base form or inherited word element; connect this root idea with the meaning of copulatory.",
+      "story_en": "A student remembers COPULATORY by linking COPULAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 COPULAT 和 COPULATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses copulatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 copulatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a copulatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 copulatory 因素。",
     "collocations": [
-      "copulatory analysis",
-      "copulatory process",
-      "copulatory framework",
-      "address copulatory",
-      "evaluate copulatory"
+      "copulatory approach",
+      "copulatory factor",
+      "copulatory issue",
+      "copulatory evidence",
+      "copulatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; copulatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; copulatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while copulatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; copulatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,15 +850,15 @@
         "pos": "adjective"
       },
       {
-        "word": "copulatory",
-        "pos": "verb"
-      },
-      {
         "word": "copulatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "copulatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "copulatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "copulatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1411,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -872,7 +872,7 @@
     "word": "coradical",
     "pos": "adjective",
     "phonetic": "/coradical/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -885,43 +885,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of coradical.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember CORADICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 CORADICAL，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of coradical.",
+      "story_en": "A student remembers CORADICAL by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 CORADICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses coradical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 coradical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a coradical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 coradical 因素。",
     "collocations": [
-      "coradical analysis",
-      "coradical process",
-      "coradical framework",
-      "address coradical",
-      "evaluate coradical"
+      "coradical approach",
+      "coradical factor",
+      "coradical issue",
+      "coradical evidence",
+      "coradical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; coradical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; coradical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while coradical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; coradical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,15 +929,15 @@
         "pos": "adjective"
       },
       {
-        "word": "coradical",
-        "pos": "verb"
-      },
-      {
         "word": "coradicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "coradicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "coradical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "coradical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1412,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -951,56 +951,56 @@
     "word": "coregence",
     "pos": "noun",
     "phonetic": "/coregence/",
-    "definition": "A formal English word used to describe a concept or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to rule, guide, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "gen",
-          "origin": "Greek",
-          "meaning": "birth, origin",
-          "meaning_zh": "出生、起源"
+          "root": "reg",
+          "origin": "Latin",
+          "meaning": "rule, guide",
+          "meaning_zh": "規則、引導"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of coregence.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember COREGENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 COREGENCE，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of coregence.",
+      "story_en": "A student remembers COREGENCE by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 COREGENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses coregence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 coregence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses coregence as an important part of the issue.",
+    "example_zh": "報告將 coregence 作為該議題的重要部分來討論。",
     "collocations": [
-      "coregence analysis",
-      "coregence process",
-      "coregence framework",
-      "address coregence",
-      "evaluate coregence"
+      "key coregence",
+      "coregence factor",
+      "coregence role",
+      "coregence in context",
+      "coregence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; coregence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; coregence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while coregence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; coregence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "noun"
       },
       {
-        "word": "coreg",
-        "pos": "verb"
-      },
-      {
         "word": "coregencal",
         "pos": "adjective"
+      },
+      {
+        "word": "coregenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "coregence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "coregence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1413,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,56 +1030,56 @@
     "word": "correctable",
     "pos": "adjective",
     "phonetic": "/correctable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "correct",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of correctable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CORRECTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CORRECTABLE，把它記成精準的學術單字。",
+      "root_memory": "CORRECT = base form or inherited word element; connect this root idea with the meaning of correctable.",
+      "story_en": "A student remembers CORRECTABLE by linking CORRECT to a real academic or professional situation.",
+      "story_zh": "學生把字根 CORRECT 和 CORRECTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses correctable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 correctable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a correctable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 correctable 因素。",
     "collocations": [
-      "correctable analysis",
-      "correctable process",
-      "correctable framework",
-      "address correctable",
-      "evaluate correctable"
+      "correctable approach",
+      "correctable factor",
+      "correctable issue",
+      "correctable evidence",
+      "correctable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; correctable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; correctable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while correctable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; correctable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "correctable",
-        "pos": "verb"
-      },
-      {
         "word": "correctablal",
         "pos": "adjective"
+      },
+      {
+        "word": "correctableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "correctable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "correctable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1414,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1109,56 +1109,56 @@
     "word": "correlative",
     "pos": "adjective",
     "phonetic": "/correlative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "correla",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of correlative.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CORRELATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CORRELATIVE，把它記成精準的學術單字。",
+      "root_memory": "CORRELA = base form or inherited word element; connect this root idea with the meaning of correlative.",
+      "story_en": "A student remembers CORRELATIVE by linking CORRELA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CORRELA 和 CORRELATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses correlative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 correlative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a correlative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 correlative 因素。",
     "collocations": [
-      "correlative analysis",
-      "correlative process",
-      "correlative framework",
-      "address correlative",
-      "evaluate correlative"
+      "correlative approach",
+      "correlative factor",
+      "correlative issue",
+      "correlative evidence",
+      "correlative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; correlative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; correlative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while correlative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; correlative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "correlative",
-        "pos": "verb"
-      },
-      {
         "word": "correlatival",
         "pos": "adjective"
+      },
+      {
+        "word": "correlativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "correlative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "correlative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1415,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,56 +1188,56 @@
     "word": "cosignatory",
     "pos": "adjective",
     "phonetic": "/cosignatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with mark, sign; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "sign",
-          "origin": "Latin",
-          "meaning": "mark, sign",
-          "meaning_zh": "標記、符號"
+          "root": "cosigna",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SIGN = mark, sign; connect the root idea with the meaning of cosignatory.",
-      "story_en": "In a university report, the highlighted root SIGN helps the student remember COSIGNATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SIGN 聯想到 COSIGNATORY，把它記成精準的學術單字。",
+      "root_memory": "COSIGNA = base form or inherited word element; connect this root idea with the meaning of cosignatory.",
+      "story_en": "A student remembers COSIGNATORY by linking COSIGNA to a real academic or professional situation.",
+      "story_zh": "學生把字根 COSIGNA 和 COSIGNATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cosignatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cosignatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cosignatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cosignatory 因素。",
     "collocations": [
-      "cosignatory analysis",
-      "cosignatory process",
-      "cosignatory framework",
-      "address cosignatory",
-      "evaluate cosignatory"
+      "cosignatory approach",
+      "cosignatory factor",
+      "cosignatory issue",
+      "cosignatory evidence",
+      "cosignatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cosignatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cosignatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cosignatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cosignatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cosignatory",
-        "pos": "verb"
-      },
-      {
         "word": "cosignatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "cosignatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cosignatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cosignatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1416,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,56 +1267,56 @@
     "word": "cosmologic",
     "pos": "adjective",
     "phonetic": "/cosmologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of cosmologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember COSMOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 COSMOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of cosmologic.",
+      "story_en": "A student remembers COSMOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 COSMOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cosmologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cosmologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cosmologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cosmologic 因素。",
     "collocations": [
-      "cosmologic analysis",
-      "cosmologic process",
-      "cosmologic framework",
-      "address cosmologic",
-      "evaluate cosmologic"
+      "cosmologic approach",
+      "cosmologic factor",
+      "cosmologic issue",
+      "cosmologic evidence",
+      "cosmologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cosmologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cosmologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cosmologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cosmologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1324,21 +1324,21 @@
         "pos": "adjective"
       },
       {
-        "word": "cosmologic",
-        "pos": "verb"
-      },
-      {
         "word": "cosmological",
         "pos": "adjective"
+      },
+      {
+        "word": "cosmologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cosmologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cosmologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1417,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -1346,56 +1346,56 @@
     "word": "costulation",
     "pos": "noun",
     "phonetic": "/costulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "costul",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of costulation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember COSTULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 COSTULATION，把它記成精準的學術單字。",
+      "root_memory": "COSTUL = base form or inherited word element; connect this root idea with the meaning of costulation.",
+      "story_en": "A student remembers COSTULATION by linking COSTUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 COSTUL 和 COSTULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses costulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 costulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses costulation as an important part of the issue.",
+    "example_zh": "報告將 costulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "costulation analysis",
-      "costulation process",
-      "costulation framework",
-      "address costulation",
-      "evaluate costulation"
+      "key costulation",
+      "costulation factor",
+      "costulation role",
+      "costulation in context",
+      "costulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; costulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; costulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while costulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; costulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "noun"
       },
       {
-        "word": "costul",
-        "pos": "verb"
-      },
-      {
         "word": "costulational",
         "pos": "adjective"
+      },
+      {
+        "word": "costulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "costulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "costulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1418,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "counselable",
     "pos": "adjective",
     "phonetic": "/counselable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "counsel",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of counselable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COUNSELABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COUNSELABLE，把它記成精準的學術單字。",
+      "root_memory": "COUNSEL = base form or inherited word element; connect this root idea with the meaning of counselable.",
+      "story_en": "A student remembers COUNSELABLE by linking COUNSEL to a real academic or professional situation.",
+      "story_zh": "學生把字根 COUNSEL 和 COUNSELABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses counselable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 counselable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a counselable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 counselable 因素。",
     "collocations": [
-      "counselable analysis",
-      "counselable process",
-      "counselable framework",
-      "address counselable",
-      "evaluate counselable"
+      "counselable approach",
+      "counselable factor",
+      "counselable issue",
+      "counselable evidence",
+      "counselable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; counselable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; counselable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while counselable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; counselable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "adjective"
       },
       {
-        "word": "counselable",
-        "pos": "verb"
-      },
-      {
         "word": "counselablal",
         "pos": "adjective"
+      },
+      {
+        "word": "counselableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "counselable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "counselable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1419,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,56 +1504,56 @@
     "word": "countable",
     "pos": "adjective",
     "phonetic": "/countable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "countab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of countable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COUNTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COUNTABLE，把它記成精準的學術單字。",
+      "root_memory": "COUNTAB = base form or inherited word element; connect this root idea with the meaning of countable.",
+      "story_en": "A student remembers COUNTABLE by linking COUNTAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 COUNTAB 和 COUNTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses countable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 countable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a countable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 countable 因素。",
     "collocations": [
-      "countable analysis",
-      "countable process",
-      "countable framework",
-      "address countable",
-      "evaluate countable"
+      "countable approach",
+      "countable factor",
+      "countable issue",
+      "countable evidence",
+      "countable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; countable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; countable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while countable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; countable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "countable",
-        "pos": "verb"
-      },
-      {
         "word": "countablal",
         "pos": "adjective"
+      },
+      {
+        "word": "countableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "countable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "countable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1420,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,7 +1583,7 @@
     "word": "countenance",
     "pos": "noun",
     "phonetic": "/countenance/",
-    "definition": "A formal English word used to describe a concept or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1596,43 +1596,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of countenance.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember COUNTENANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 COUNTENANCE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of countenance.",
+      "story_en": "A student remembers COUNTENANCE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 COUNTENANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses countenance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 countenance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses countenance as an important part of the issue.",
+    "example_zh": "報告將 countenance 作為該議題的重要部分來討論。",
     "collocations": [
-      "countenance analysis",
-      "countenance process",
-      "countenance framework",
-      "address countenance",
-      "evaluate countenance"
+      "key countenance",
+      "countenance factor",
+      "countenance role",
+      "countenance in context",
+      "countenance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; countenance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; countenance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while countenance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; countenance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "counten",
-        "pos": "verb"
-      },
-      {
         "word": "countenancal",
         "pos": "adjective"
+      },
+      {
+        "word": "countenanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "countenance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "countenance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1421,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1662,56 +1662,56 @@
     "word": "covariable",
     "pos": "adjective",
     "phonetic": "/covariable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "covaria",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of covariable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COVARIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COVARIABLE，把它記成精準的學術單字。",
+      "root_memory": "COVARIA = base form or inherited word element; connect this root idea with the meaning of covariable.",
+      "story_en": "A student remembers COVARIABLE by linking COVARIA to a real academic or professional situation.",
+      "story_zh": "學生把字根 COVARIA 和 COVARIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses covariable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 covariable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a covariable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 covariable 因素。",
     "collocations": [
-      "covariable analysis",
-      "covariable process",
-      "covariable framework",
-      "address covariable",
-      "evaluate covariable"
+      "covariable approach",
+      "covariable factor",
+      "covariable issue",
+      "covariable evidence",
+      "covariable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; covariable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; covariable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while covariable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; covariable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "covariable",
-        "pos": "verb"
-      },
-      {
         "word": "covariablal",
         "pos": "adjective"
+      },
+      {
+        "word": "covariableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "covariable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "covariable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1422,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "covetable",
     "pos": "adjective",
     "phonetic": "/covetable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "covetab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of covetable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember COVETABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 COVETABLE，把它記成精準的學術單字。",
+      "root_memory": "COVETAB = base form or inherited word element; connect this root idea with the meaning of covetable.",
+      "story_en": "A student remembers COVETABLE by linking COVETAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 COVETAB 和 COVETABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses covetable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 covetable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a covetable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 covetable 因素。",
     "collocations": [
-      "covetable analysis",
-      "covetable process",
-      "covetable framework",
-      "address covetable",
-      "evaluate covetable"
+      "covetable approach",
+      "covetable factor",
+      "covetable issue",
+      "covetable evidence",
+      "covetable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; covetable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; covetable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while covetable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; covetable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "adjective"
       },
       {
-        "word": "covetable",
-        "pos": "verb"
-      },
-      {
         "word": "covetablal",
         "pos": "adjective"
+      },
+      {
+        "word": "covetableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "covetable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "covetable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1423,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,7 +1820,7 @@
     "word": "coxcombical",
     "pos": "adjective",
     "phonetic": "/coxcombical/",
-    "definition": "A formal English word used to describe a quality or condition connected with together; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to together, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1828,48 +1828,48 @@
           "root": "com",
           "origin": "Latin",
           "meaning": "together",
-          "meaning_zh": "共同、一起"
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "COM = together; connect the root idea with the meaning of coxcombical.",
-      "story_en": "In a university report, the highlighted root COM helps the student remember COXCOMBICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 COM 聯想到 COXCOMBICAL，把它記成精準的學術單字。",
+      "root_memory": "COM = together; connect this root idea with the meaning of coxcombical.",
+      "story_en": "A student remembers COXCOMBICAL by linking COM to a real academic or professional situation.",
+      "story_zh": "學生把字根 COM 和 COXCOMBICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses coxcombical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 coxcombical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a coxcombical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 coxcombical 因素。",
     "collocations": [
-      "coxcombical analysis",
-      "coxcombical process",
-      "coxcombical framework",
-      "address coxcombical",
-      "evaluate coxcombical"
+      "coxcombical approach",
+      "coxcombical factor",
+      "coxcombical issue",
+      "coxcombical evidence",
+      "coxcombical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; coxcombical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; coxcombical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while coxcombical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; coxcombical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "adjective"
       },
       {
-        "word": "coxcombical",
-        "pos": "verb"
-      },
-      {
         "word": "coxcombicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "coxcombicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "coxcombical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "coxcombical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1424,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,7 +1899,7 @@
     "word": "coxcomical",
     "pos": "adjective",
     "phonetic": "/coxcomical/",
-    "definition": "A formal English word used to describe a quality or condition connected with together; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to together, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1907,48 +1907,48 @@
           "root": "com",
           "origin": "Latin",
           "meaning": "together",
-          "meaning_zh": "共同、一起"
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "COM = together; connect the root idea with the meaning of coxcomical.",
-      "story_en": "In a university report, the highlighted root COM helps the student remember COXCOMICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 COM 聯想到 COXCOMICAL，把它記成精準的學術單字。",
+      "root_memory": "COM = together; connect this root idea with the meaning of coxcomical.",
+      "story_en": "A student remembers COXCOMICAL by linking COM to a real academic or professional situation.",
+      "story_zh": "學生把字根 COM 和 COXCOMICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses coxcomical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 coxcomical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a coxcomical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 coxcomical 因素。",
     "collocations": [
-      "coxcomical analysis",
-      "coxcomical process",
-      "coxcomical framework",
-      "address coxcomical",
-      "evaluate coxcomical"
+      "coxcomical approach",
+      "coxcomical factor",
+      "coxcomical issue",
+      "coxcomical evidence",
+      "coxcomical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; coxcomical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; coxcomical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while coxcomical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; coxcomical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "adjective"
       },
       {
-        "word": "coxcomical",
-        "pos": "verb"
-      },
-      {
         "word": "coxcomicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "coxcomicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "coxcomical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "coxcomical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1425,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1978,56 +1978,56 @@
     "word": "crackable",
     "pos": "adjective",
     "phonetic": "/crackable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "crackab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of crackable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CRACKABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CRACKABLE，把它記成精準的學術單字。",
+      "root_memory": "CRACKAB = base form or inherited word element; connect this root idea with the meaning of crackable.",
+      "story_en": "A student remembers CRACKABLE by linking CRACKAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRACKAB 和 CRACKABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crackable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crackable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a crackable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 crackable 因素。",
     "collocations": [
-      "crackable analysis",
-      "crackable process",
-      "crackable framework",
-      "address crackable",
-      "evaluate crackable"
+      "crackable approach",
+      "crackable factor",
+      "crackable issue",
+      "crackable evidence",
+      "crackable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crackable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crackable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crackable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crackable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "adjective"
       },
       {
-        "word": "crackable",
-        "pos": "verb"
-      },
-      {
         "word": "crackablal",
         "pos": "adjective"
+      },
+      {
+        "word": "crackableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crackable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crackable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1426,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "creatable",
     "pos": "adjective",
     "phonetic": "/creatable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "creatab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of creatable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CREATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CREATABLE，把它記成精準的學術單字。",
+      "root_memory": "CREATAB = base form or inherited word element; connect this root idea with the meaning of creatable.",
+      "story_en": "A student remembers CREATABLE by linking CREATAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 CREATAB 和 CREATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses creatable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 creatable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a creatable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 creatable 因素。",
     "collocations": [
-      "creatable analysis",
-      "creatable process",
-      "creatable framework",
-      "address creatable",
-      "evaluate creatable"
+      "creatable approach",
+      "creatable factor",
+      "creatable issue",
+      "creatable evidence",
+      "creatable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; creatable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; creatable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while creatable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; creatable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "creatable",
-        "pos": "verb"
-      },
-      {
         "word": "creatablal",
         "pos": "adjective"
+      },
+      {
+        "word": "creatableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "creatable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "creatable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1427,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,7 +2136,7 @@
     "word": "credence",
     "pos": "noun",
     "phonetic": "/credence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to believe; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to believe, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -2149,43 +2149,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "CRED = to believe; connect the root idea with the meaning of credence.",
-      "story_en": "In a university report, the highlighted root CRED helps the student remember CREDENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CRED 聯想到 CREDENCE，把它記成精準的學術單字。",
+      "root_memory": "CRED = to believe; connect this root idea with the meaning of credence.",
+      "story_en": "A student remembers CREDENCE by linking CRED to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRED 和 CREDENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses credence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 credence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses credence as an important part of the issue.",
+    "example_zh": "報告將 credence 作為該議題的重要部分來討論。",
     "collocations": [
-      "credence analysis",
-      "credence process",
-      "credence framework",
-      "address credence",
-      "evaluate credence"
+      "key credence",
+      "credence factor",
+      "credence role",
+      "credence in context",
+      "credence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; credence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; credence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while credence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; credence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "noun"
       },
       {
-        "word": "cred",
-        "pos": "verb"
-      },
-      {
         "word": "credencal",
         "pos": "adjective"
+      },
+      {
+        "word": "credenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "credence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "credence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1428,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2215,56 +2215,56 @@
     "word": "creditable",
     "pos": "adjective",
     "phonetic": "/creditable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to believe, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "cred",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to believe",
+          "meaning_zh": "相信"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of creditable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CREDITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CREDITABLE，把它記成精準的學術單字。",
+      "root_memory": "CRED = to believe; connect this root idea with the meaning of creditable.",
+      "story_en": "A student remembers CREDITABLE by linking CRED to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRED 和 CREDITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses creditable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 creditable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a creditable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 creditable 因素。",
     "collocations": [
-      "creditable analysis",
-      "creditable process",
-      "creditable framework",
-      "address creditable",
-      "evaluate creditable"
+      "creditable approach",
+      "creditable factor",
+      "creditable issue",
+      "creditable evidence",
+      "creditable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; creditable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; creditable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while creditable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; creditable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,78 +2272,78 @@
         "pos": "adjective"
       },
       {
-        "word": "creditable",
-        "pos": "verb"
-      },
-      {
         "word": "creditablal",
         "pos": "adjective"
+      },
+      {
+        "word": "creditableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "creditable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "creditable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1429,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "business",
-      "finance",
-      "economics"
+      "college",
+      "academic",
+      "IELTS"
     ]
   },
   {
     "word": "crenelation",
     "pos": "noun",
     "phonetic": "/crenelation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "crenel",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of crenelation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CRENELATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CRENELATION，把它記成精準的學術單字。",
+      "root_memory": "CRENEL = base form or inherited word element; connect this root idea with the meaning of crenelation.",
+      "story_en": "A student remembers CRENELATION by linking CRENEL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRENEL 和 CRENELATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crenelation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crenelation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses crenelation as an important part of the issue.",
+    "example_zh": "報告將 crenelation 作為該議題的重要部分來討論。",
     "collocations": [
-      "crenelation analysis",
-      "crenelation process",
-      "crenelation framework",
-      "address crenelation",
-      "evaluate crenelation"
+      "key crenelation",
+      "crenelation factor",
+      "crenelation role",
+      "crenelation in context",
+      "crenelation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crenelation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crenelation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crenelation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crenelation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "noun"
       },
       {
-        "word": "crenel",
-        "pos": "verb"
-      },
-      {
         "word": "crenelational",
         "pos": "adjective"
+      },
+      {
+        "word": "crenelationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crenelation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crenelation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1430,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "crenulation",
     "pos": "noun",
     "phonetic": "/crenulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "crenul",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of crenulation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CRENULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CRENULATION，把它記成精準的學術單字。",
+      "root_memory": "CRENUL = base form or inherited word element; connect this root idea with the meaning of crenulation.",
+      "story_en": "A student remembers CRENULATION by linking CRENUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRENUL 和 CRENULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crenulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crenulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses crenulation as an important part of the issue.",
+    "example_zh": "報告將 crenulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "crenulation analysis",
-      "crenulation process",
-      "crenulation framework",
-      "address crenulation",
-      "evaluate crenulation"
+      "key crenulation",
+      "crenulation factor",
+      "crenulation role",
+      "crenulation in context",
+      "crenulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crenulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crenulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crenulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crenulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "noun"
       },
       {
-        "word": "crenul",
-        "pos": "verb"
-      },
-      {
         "word": "crenulational",
         "pos": "adjective"
+      },
+      {
+        "word": "crenulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crenulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crenulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1431,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,7 +2452,7 @@
     "word": "crimination",
     "pos": "noun",
     "phonetic": "/crimination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -2465,43 +2465,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of crimination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember CRIMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 CRIMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of crimination.",
+      "story_en": "A student remembers CRIMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 CRIMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crimination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crimination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses crimination as an important part of the issue.",
+    "example_zh": "報告將 crimination 作為該議題的重要部分來討論。",
     "collocations": [
-      "crimination analysis",
-      "crimination process",
-      "crimination framework",
-      "address crimination",
-      "evaluate crimination"
+      "key crimination",
+      "crimination factor",
+      "crimination role",
+      "crimination in context",
+      "crimination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crimination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crimination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crimination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crimination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "noun"
       },
       {
-        "word": "crimin",
-        "pos": "verb"
-      },
-      {
         "word": "criminational",
         "pos": "adjective"
+      },
+      {
+        "word": "criminationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crimination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crimination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1432,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,7 +2531,7 @@
     "word": "criminative",
     "pos": "adjective",
     "phonetic": "/criminative/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2544,43 +2544,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of criminative.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember CRIMINATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 CRIMINATIVE，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of criminative.",
+      "story_en": "A student remembers CRIMINATIVE by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 CRIMINATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses criminative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 criminative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a criminative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 criminative 因素。",
     "collocations": [
-      "criminative analysis",
-      "criminative process",
-      "criminative framework",
-      "address criminative",
-      "evaluate criminative"
+      "criminative approach",
+      "criminative factor",
+      "criminative issue",
+      "criminative evidence",
+      "criminative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; criminative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; criminative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while criminative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; criminative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "criminative",
-        "pos": "verb"
-      },
-      {
         "word": "criminatival",
         "pos": "adjective"
+      },
+      {
+        "word": "criminativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "criminative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "criminative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1433,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2610,7 +2610,7 @@
     "word": "criminatory",
     "pos": "adjective",
     "phonetic": "/criminatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2623,43 +2623,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of criminatory.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember CRIMINATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 CRIMINATORY，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of criminatory.",
+      "story_en": "A student remembers CRIMINATORY by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 CRIMINATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses criminatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 criminatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a criminatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 criminatory 因素。",
     "collocations": [
-      "criminatory analysis",
-      "criminatory process",
-      "criminatory framework",
-      "address criminatory",
-      "evaluate criminatory"
+      "criminatory approach",
+      "criminatory factor",
+      "criminatory issue",
+      "criminatory evidence",
+      "criminatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; criminatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; criminatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while criminatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; criminatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "adjective"
       },
       {
-        "word": "criminatory",
-        "pos": "verb"
-      },
-      {
         "word": "criminatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "criminatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "criminatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "criminatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1434,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2689,56 +2689,56 @@
     "word": "crossable",
     "pos": "adjective",
     "phonetic": "/crossable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "crossab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of crossable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CROSSABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CROSSABLE，把它記成精準的學術單字。",
+      "root_memory": "CROSSAB = base form or inherited word element; connect this root idea with the meaning of crossable.",
+      "story_en": "A student remembers CROSSABLE by linking CROSSAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 CROSSAB 和 CROSSABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crossable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crossable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a crossable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 crossable 因素。",
     "collocations": [
-      "crossable analysis",
-      "crossable process",
-      "crossable framework",
-      "address crossable",
-      "evaluate crossable"
+      "crossable approach",
+      "crossable factor",
+      "crossable issue",
+      "crossable evidence",
+      "crossable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crossable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crossable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crossable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crossable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "adjective"
       },
       {
-        "word": "crossable",
-        "pos": "verb"
-      },
-      {
         "word": "crossablal",
         "pos": "adjective"
+      },
+      {
+        "word": "crossableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crossable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crossable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1435,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2768,56 +2768,56 @@
     "word": "crumbable",
     "pos": "adjective",
     "phonetic": "/crumbable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "crumbab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of crumbable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CRUMBABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CRUMBABLE，把它記成精準的學術單字。",
+      "root_memory": "CRUMBAB = base form or inherited word element; connect this root idea with the meaning of crumbable.",
+      "story_en": "A student remembers CRUMBABLE by linking CRUMBAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRUMBAB 和 CRUMBABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crumbable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crumbable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a crumbable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 crumbable 因素。",
     "collocations": [
-      "crumbable analysis",
-      "crumbable process",
-      "crumbable framework",
-      "address crumbable",
-      "evaluate crumbable"
+      "crumbable approach",
+      "crumbable factor",
+      "crumbable issue",
+      "crumbable evidence",
+      "crumbable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crumbable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crumbable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crumbable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crumbable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "adjective"
       },
       {
-        "word": "crumbable",
-        "pos": "verb"
-      },
-      {
         "word": "crumbablal",
         "pos": "adjective"
+      },
+      {
+        "word": "crumbableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crumbable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crumbable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1436,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,56 +2847,56 @@
     "word": "crunchable",
     "pos": "adjective",
     "phonetic": "/crunchable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cruncha",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of crunchable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CRUNCHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CRUNCHABLE，把它記成精準的學術單字。",
+      "root_memory": "CRUNCHA = base form or inherited word element; connect this root idea with the meaning of crunchable.",
+      "story_en": "A student remembers CRUNCHABLE by linking CRUNCHA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRUNCHA 和 CRUNCHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crunchable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crunchable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a crunchable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 crunchable 因素。",
     "collocations": [
-      "crunchable analysis",
-      "crunchable process",
-      "crunchable framework",
-      "address crunchable",
-      "evaluate crunchable"
+      "crunchable approach",
+      "crunchable factor",
+      "crunchable issue",
+      "crunchable evidence",
+      "crunchable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crunchable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crunchable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crunchable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crunchable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "adjective"
       },
       {
-        "word": "crunchable",
-        "pos": "verb"
-      },
-      {
         "word": "crunchablal",
         "pos": "adjective"
+      },
+      {
+        "word": "crunchableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crunchable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crunchable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1437,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "crushable",
     "pos": "adjective",
     "phonetic": "/crushable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "crushab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of crushable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CRUSHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CRUSHABLE，把它記成精準的學術單字。",
+      "root_memory": "CRUSHAB = base form or inherited word element; connect this root idea with the meaning of crushable.",
+      "story_en": "A student remembers CRUSHABLE by linking CRUSHAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRUSHAB 和 CRUSHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crushable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crushable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a crushable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 crushable 因素。",
     "collocations": [
-      "crushable analysis",
-      "crushable process",
-      "crushable framework",
-      "address crushable",
-      "evaluate crushable"
+      "crushable approach",
+      "crushable factor",
+      "crushable issue",
+      "crushable evidence",
+      "crushable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crushable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crushable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crushable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crushable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "adjective"
       },
       {
-        "word": "crushable",
-        "pos": "verb"
-      },
-      {
         "word": "crushablal",
         "pos": "adjective"
+      },
+      {
+        "word": "crushableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crushable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crushable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1438,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3005,7 +3005,7 @@
     "word": "crustation",
     "pos": "noun",
     "phonetic": "/crustation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3018,43 +3018,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of crustation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember CRUSTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 CRUSTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of crustation.",
+      "story_en": "A student remembers CRUSTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 CRUSTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses crustation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 crustation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses crustation as an important part of the issue.",
+    "example_zh": "報告將 crustation 作為該議題的重要部分來討論。",
     "collocations": [
-      "crustation analysis",
-      "crustation process",
-      "crustation framework",
-      "address crustation",
-      "evaluate crustation"
+      "key crustation",
+      "crustation factor",
+      "crustation role",
+      "crustation in context",
+      "crustation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; crustation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; crustation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while crustation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; crustation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "noun"
       },
       {
-        "word": "crust",
-        "pos": "verb"
-      },
-      {
         "word": "crustational",
         "pos": "adjective"
+      },
+      {
+        "word": "crustationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "crustation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "crustation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1439,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "cryable",
     "pos": "adjective",
     "phonetic": "/cryable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cryable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of cryable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CRYABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CRYABLE，把它記成精準的學術單字。",
+      "root_memory": "CRYABLE = base form or inherited word element; connect this root idea with the meaning of cryable.",
+      "story_en": "A student remembers CRYABLE by linking CRYABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 CRYABLE 和 CRYABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cryable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cryable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cryable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cryable 因素。",
     "collocations": [
-      "cryable analysis",
-      "cryable process",
-      "cryable framework",
-      "address cryable",
-      "evaluate cryable"
+      "cryable approach",
+      "cryable factor",
+      "cryable issue",
+      "cryable evidence",
+      "cryable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cryable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cryable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cryable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cryable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cryable",
-        "pos": "verb"
-      },
-      {
         "word": "cryablal",
         "pos": "adjective"
+      },
+      {
+        "word": "cryableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cryable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cryable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1440,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "cuddleable",
     "pos": "adjective",
     "phonetic": "/cuddleable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cuddlea",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of cuddleable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CUDDLEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CUDDLEABLE，把它記成精準的學術單字。",
+      "root_memory": "CUDDLEA = base form or inherited word element; connect this root idea with the meaning of cuddleable.",
+      "story_en": "A student remembers CUDDLEABLE by linking CUDDLEA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUDDLEA 和 CUDDLEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cuddleable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cuddleable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cuddleable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cuddleable 因素。",
     "collocations": [
-      "cuddleable analysis",
-      "cuddleable process",
-      "cuddleable framework",
-      "address cuddleable",
-      "evaluate cuddleable"
+      "cuddleable approach",
+      "cuddleable factor",
+      "cuddleable issue",
+      "cuddleable evidence",
+      "cuddleable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cuddleable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cuddleable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cuddleable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cuddleable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cuddleable",
-        "pos": "verb"
-      },
-      {
         "word": "cuddleablal",
         "pos": "adjective"
+      },
+      {
+        "word": "cuddleableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cuddleable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cuddleable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1441,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,7 +3242,7 @@
     "word": "culmination",
     "pos": "noun",
     "phonetic": "/culmination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3255,43 +3255,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of culmination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember CULMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 CULMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of culmination.",
+      "story_en": "A student remembers CULMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 CULMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses culmination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 culmination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses culmination as an important part of the issue.",
+    "example_zh": "報告將 culmination 作為該議題的重要部分來討論。",
     "collocations": [
-      "culmination analysis",
-      "culmination process",
-      "culmination framework",
-      "address culmination",
-      "evaluate culmination"
+      "key culmination",
+      "culmination factor",
+      "culmination role",
+      "culmination in context",
+      "culmination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; culmination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; culmination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while culmination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; culmination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "noun"
       },
       {
-        "word": "culmin",
-        "pos": "verb"
-      },
-      {
         "word": "culminational",
         "pos": "adjective"
+      },
+      {
+        "word": "culminationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "culmination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "culmination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1442,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3321,56 +3321,56 @@
     "word": "culpable",
     "pos": "adjective",
     "phonetic": "/culpable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "culpabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of culpable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CULPABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CULPABLE，把它記成精準的學術單字。",
+      "root_memory": "CULPABL = base form or inherited word element; connect this root idea with the meaning of culpable.",
+      "story_en": "A student remembers CULPABLE by linking CULPABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CULPABL 和 CULPABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses culpable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 culpable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a culpable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 culpable 因素。",
     "collocations": [
-      "culpable analysis",
-      "culpable process",
-      "culpable framework",
-      "address culpable",
-      "evaluate culpable"
+      "culpable approach",
+      "culpable factor",
+      "culpable issue",
+      "culpable evidence",
+      "culpable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; culpable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; culpable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while culpable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; culpable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "culpable",
-        "pos": "verb"
-      },
-      {
         "word": "culpablal",
         "pos": "adjective"
+      },
+      {
+        "word": "culpableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "culpable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "culpable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1443,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "cultivable",
     "pos": "adjective",
     "phonetic": "/cultivable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cultiva",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of cultivable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CULTIVABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CULTIVABLE，把它記成精準的學術單字。",
+      "root_memory": "CULTIVA = base form or inherited word element; connect this root idea with the meaning of cultivable.",
+      "story_en": "A student remembers CULTIVABLE by linking CULTIVA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CULTIVA 和 CULTIVABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cultivable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cultivable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cultivable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cultivable 因素。",
     "collocations": [
-      "cultivable analysis",
-      "cultivable process",
-      "cultivable framework",
-      "address cultivable",
-      "evaluate cultivable"
+      "cultivable approach",
+      "cultivable factor",
+      "cultivable issue",
+      "cultivable evidence",
+      "cultivable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cultivable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cultivable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cultivable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cultivable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cultivable",
-        "pos": "verb"
-      },
-      {
         "word": "cultivablal",
         "pos": "adjective"
+      },
+      {
+        "word": "cultivableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cultivable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cultivable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1444,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,56 +3479,56 @@
     "word": "culturable",
     "pos": "adjective",
     "phonetic": "/culturable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cultura",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of culturable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CULTURABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CULTURABLE，把它記成精準的學術單字。",
+      "root_memory": "CULTURA = base form or inherited word element; connect this root idea with the meaning of culturable.",
+      "story_en": "A student remembers CULTURABLE by linking CULTURA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CULTURA 和 CULTURABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses culturable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 culturable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a culturable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 culturable 因素。",
     "collocations": [
-      "culturable analysis",
-      "culturable process",
-      "culturable framework",
-      "address culturable",
-      "evaluate culturable"
+      "culturable approach",
+      "culturable factor",
+      "culturable issue",
+      "culturable evidence",
+      "culturable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; culturable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; culturable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while culturable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; culturable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3536,78 +3536,78 @@
         "pos": "adjective"
       },
       {
-        "word": "culturable",
-        "pos": "verb"
-      },
-      {
         "word": "culturablal",
         "pos": "adjective"
+      },
+      {
+        "word": "culturableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "culturable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "culturable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1445,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "social",
-      "psychology",
-      "academic"
+      "college",
+      "academic",
+      "IELTS"
     ]
   },
   {
     "word": "cumulation",
     "pos": "noun",
     "phonetic": "/cumulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "cumul",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of cumulation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CUMULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CUMULATION，把它記成精準的學術單字。",
+      "root_memory": "CUMUL = base form or inherited word element; connect this root idea with the meaning of cumulation.",
+      "story_en": "A student remembers CUMULATION by linking CUMUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUMUL 和 CUMULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cumulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cumulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses cumulation as an important part of the issue.",
+    "example_zh": "報告將 cumulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "cumulation analysis",
-      "cumulation process",
-      "cumulation framework",
-      "address cumulation",
-      "evaluate cumulation"
+      "key cumulation",
+      "cumulation factor",
+      "cumulation role",
+      "cumulation in context",
+      "cumulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cumulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cumulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cumulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cumulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "noun"
       },
       {
-        "word": "cumul",
-        "pos": "verb"
-      },
-      {
         "word": "cumulational",
         "pos": "adjective"
+      },
+      {
+        "word": "cumulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cumulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cumulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1446,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "cumulative",
     "pos": "adjective",
     "phonetic": "/cumulative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "cumulat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of cumulative.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CUMULATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CUMULATIVE，把它記成精準的學術單字。",
+      "root_memory": "CUMULAT = base form or inherited word element; connect this root idea with the meaning of cumulative.",
+      "story_en": "A student remembers CUMULATIVE by linking CUMULAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUMULAT 和 CUMULATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cumulative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cumulative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cumulative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cumulative 因素。",
     "collocations": [
-      "cumulative analysis",
-      "cumulative process",
-      "cumulative framework",
-      "address cumulative",
-      "evaluate cumulative"
+      "cumulative approach",
+      "cumulative factor",
+      "cumulative issue",
+      "cumulative evidence",
+      "cumulative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cumulative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cumulative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cumulative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cumulative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cumulative",
-        "pos": "verb"
-      },
-      {
         "word": "cumulatival",
         "pos": "adjective"
+      },
+      {
+        "word": "cumulativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cumulative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cumulative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1447,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "cupellation",
     "pos": "noun",
     "phonetic": "/cupellation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "cupell",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of cupellation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember CUPELLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 CUPELLATION，把它記成精準的學術單字。",
+      "root_memory": "CUPELL = base form or inherited word element; connect this root idea with the meaning of cupellation.",
+      "story_en": "A student remembers CUPELLATION by linking CUPELL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUPELL 和 CUPELLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cupellation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cupellation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses cupellation as an important part of the issue.",
+    "example_zh": "報告將 cupellation 作為該議題的重要部分來討論。",
     "collocations": [
-      "cupellation analysis",
-      "cupellation process",
-      "cupellation framework",
-      "address cupellation",
-      "evaluate cupellation"
+      "key cupellation",
+      "cupellation factor",
+      "cupellation role",
+      "cupellation in context",
+      "cupellation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cupellation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cupellation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cupellation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cupellation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "noun"
       },
       {
-        "word": "cupell",
-        "pos": "verb"
-      },
-      {
         "word": "cupellational",
         "pos": "adjective"
+      },
+      {
+        "word": "cupellationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cupellation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cupellation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1448,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,56 +3795,56 @@
     "word": "curable",
     "pos": "adjective",
     "phonetic": "/curable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to run, flow, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "cur",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to run, flow",
+          "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of curable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CURABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CURABLE，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curable.",
+      "story_en": "A student remembers CURABLE by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a curable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 curable 因素。",
     "collocations": [
-      "curable analysis",
-      "curable process",
-      "curable framework",
-      "address curable",
-      "evaluate curable"
+      "curable approach",
+      "curable factor",
+      "curable issue",
+      "curable evidence",
+      "curable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "curable",
-        "pos": "verb"
-      },
-      {
         "word": "curablal",
         "pos": "adjective"
+      },
+      {
+        "word": "curableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1449,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3874,56 +3874,56 @@
     "word": "curation",
     "pos": "noun",
     "phonetic": "/curation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curation.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURATION，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curation.",
+      "story_en": "A student remembers CURATION by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses curation as an important part of the issue.",
+    "example_zh": "報告將 curation 作為該議題的重要部分來討論。",
     "collocations": [
-      "curation analysis",
-      "curation process",
-      "curation framework",
-      "address curation",
-      "evaluate curation"
+      "key curation",
+      "curation factor",
+      "curation role",
+      "curation in context",
+      "curation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3931,22 +3931,22 @@
         "pos": "noun"
       },
       {
-        "word": "cur",
-        "pos": "verb"
-      },
-      {
         "word": "curational",
         "pos": "adjective"
+      },
+      {
+        "word": "curationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1450,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   }
 ]

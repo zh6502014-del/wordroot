@@ -3,56 +3,56 @@
     "word": "frigostable",
     "pos": "adjective",
     "phonetic": "/frigostable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "frigost",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of frigostable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FRIGOSTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FRIGOSTABLE，把它記成精準的學術單字。",
+      "root_memory": "FRIGOST = base form or inherited word element; connect this root idea with the meaning of frigostable.",
+      "story_en": "A student remembers FRIGOSTABLE by linking FRIGOST to a real academic or professional situation.",
+      "story_zh": "學生把字根 FRIGOST 和 FRIGOSTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses frigostable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 frigostable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a frigostable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 frigostable 因素。",
     "collocations": [
-      "frigostable analysis",
-      "frigostable process",
-      "frigostable framework",
-      "address frigostable",
-      "evaluate frigostable"
+      "frigostable approach",
+      "frigostable factor",
+      "frigostable issue",
+      "frigostable evidence",
+      "frigostable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; frigostable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; frigostable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while frigostable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; frigostable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "adjective"
       },
       {
-        "word": "frigostable",
-        "pos": "verb"
-      },
-      {
         "word": "frigostablal",
         "pos": "adjective"
+      },
+      {
+        "word": "frigostableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "frigostable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "frigostable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1951,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,7 +82,7 @@
     "word": "frostation",
     "pos": "noun",
     "phonetic": "/frostation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -95,43 +95,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of frostation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember FROSTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 FROSTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of frostation.",
+      "story_en": "A student remembers FROSTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 FROSTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses frostation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 frostation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses frostation as an important part of the issue.",
+    "example_zh": "報告將 frostation 作為該議題的重要部分來討論。",
     "collocations": [
-      "frostation analysis",
-      "frostation process",
-      "frostation framework",
-      "address frostation",
-      "evaluate frostation"
+      "key frostation",
+      "frostation factor",
+      "frostation role",
+      "frostation in context",
+      "frostation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; frostation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; frostation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while frostation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; frostation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "noun"
       },
       {
-        "word": "frost",
-        "pos": "verb"
-      },
-      {
         "word": "frostational",
         "pos": "adjective"
+      },
+      {
+        "word": "frostationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "frostation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "frostation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1952,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,7 +161,7 @@
     "word": "fulmination",
     "pos": "noun",
     "phonetic": "/fulmination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -174,43 +174,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of fulmination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember FULMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 FULMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of fulmination.",
+      "story_en": "A student remembers FULMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 FULMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fulmination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fulmination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fulmination as an important part of the issue.",
+    "example_zh": "報告將 fulmination 作為該議題的重要部分來討論。",
     "collocations": [
-      "fulmination analysis",
-      "fulmination process",
-      "fulmination framework",
-      "address fulmination",
-      "evaluate fulmination"
+      "key fulmination",
+      "fulmination factor",
+      "fulmination role",
+      "fulmination in context",
+      "fulmination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fulmination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fulmination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fulmination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fulmination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "noun"
       },
       {
-        "word": "fulmin",
-        "pos": "verb"
-      },
-      {
         "word": "fulminational",
         "pos": "adjective"
+      },
+      {
+        "word": "fulminationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fulmination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fulmination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1953,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -240,7 +240,7 @@
     "word": "fulminatory",
     "pos": "adjective",
     "phonetic": "/fulminatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -253,43 +253,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of fulminatory.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember FULMINATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 FULMINATORY，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of fulminatory.",
+      "story_en": "A student remembers FULMINATORY by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 FULMINATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fulminatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fulminatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fulminatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fulminatory 因素。",
     "collocations": [
-      "fulminatory analysis",
-      "fulminatory process",
-      "fulminatory framework",
-      "address fulminatory",
-      "evaluate fulminatory"
+      "fulminatory approach",
+      "fulminatory factor",
+      "fulminatory issue",
+      "fulminatory evidence",
+      "fulminatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fulminatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fulminatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fulminatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fulminatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fulminatory",
-        "pos": "verb"
-      },
-      {
         "word": "fulminatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "fulminatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fulminatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fulminatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1954,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -319,56 +319,56 @@
     "word": "fundable",
     "pos": "adjective",
     "phonetic": "/fundable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fundabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fundable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FUNDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FUNDABLE，把它記成精準的學術單字。",
+      "root_memory": "FUNDABL = base form or inherited word element; connect this root idea with the meaning of fundable.",
+      "story_en": "A student remembers FUNDABLE by linking FUNDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FUNDABL 和 FUNDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fundable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fundable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fundable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fundable 因素。",
     "collocations": [
-      "fundable analysis",
-      "fundable process",
-      "fundable framework",
-      "address fundable",
-      "evaluate fundable"
+      "fundable approach",
+      "fundable factor",
+      "fundable issue",
+      "fundable evidence",
+      "fundable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fundable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fundable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fundable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fundable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fundable",
-        "pos": "verb"
-      },
-      {
         "word": "fundablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fundableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fundable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fundable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1955,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,56 +398,56 @@
     "word": "furbishable",
     "pos": "adjective",
     "phonetic": "/furbishable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "furbish",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of furbishable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FURBISHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FURBISHABLE，把它記成精準的學術單字。",
+      "root_memory": "FURBISH = base form or inherited word element; connect this root idea with the meaning of furbishable.",
+      "story_en": "A student remembers FURBISHABLE by linking FURBISH to a real academic or professional situation.",
+      "story_zh": "學生把字根 FURBISH 和 FURBISHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses furbishable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 furbishable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a furbishable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 furbishable 因素。",
     "collocations": [
-      "furbishable analysis",
-      "furbishable process",
-      "furbishable framework",
-      "address furbishable",
-      "evaluate furbishable"
+      "furbishable approach",
+      "furbishable factor",
+      "furbishable issue",
+      "furbishable evidence",
+      "furbishable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; furbishable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; furbishable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while furbishable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; furbishable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "adjective"
       },
       {
-        "word": "furbishable",
-        "pos": "verb"
-      },
-      {
         "word": "furbishablal",
         "pos": "adjective"
+      },
+      {
+        "word": "furbishableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "furbishable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "furbishable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1956,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,56 +477,56 @@
     "word": "furlable",
     "pos": "adjective",
     "phonetic": "/furlable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "furlabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of furlable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FURLABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FURLABLE，把它記成精準的學術單字。",
+      "root_memory": "FURLABL = base form or inherited word element; connect this root idea with the meaning of furlable.",
+      "story_en": "A student remembers FURLABLE by linking FURLABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FURLABL 和 FURLABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses furlable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 furlable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a furlable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 furlable 因素。",
     "collocations": [
-      "furlable analysis",
-      "furlable process",
-      "furlable framework",
-      "address furlable",
-      "evaluate furlable"
+      "furlable approach",
+      "furlable factor",
+      "furlable issue",
+      "furlable evidence",
+      "furlable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; furlable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; furlable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while furlable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; furlable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "furlable",
-        "pos": "verb"
-      },
-      {
         "word": "furlablal",
         "pos": "adjective"
+      },
+      {
+        "word": "furlableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "furlable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "furlable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1957,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -556,56 +556,56 @@
     "word": "furnishable",
     "pos": "adjective",
     "phonetic": "/furnishable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "furnish",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of furnishable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FURNISHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FURNISHABLE，把它記成精準的學術單字。",
+      "root_memory": "FURNISH = base form or inherited word element; connect this root idea with the meaning of furnishable.",
+      "story_en": "A student remembers FURNISHABLE by linking FURNISH to a real academic or professional situation.",
+      "story_zh": "學生把字根 FURNISH 和 FURNISHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses furnishable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 furnishable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a furnishable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 furnishable 因素。",
     "collocations": [
-      "furnishable analysis",
-      "furnishable process",
-      "furnishable framework",
-      "address furnishable",
-      "evaluate furnishable"
+      "furnishable approach",
+      "furnishable factor",
+      "furnishable issue",
+      "furnishable evidence",
+      "furnishable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; furnishable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; furnishable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while furnishable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; furnishable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "adjective"
       },
       {
-        "word": "furnishable",
-        "pos": "verb"
-      },
-      {
         "word": "furnishablal",
         "pos": "adjective"
+      },
+      {
+        "word": "furnishableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "furnishable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "furnishable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1958,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,62 +635,58 @@
     "word": "gablewise",
     "pos": "verb",
     "phonetic": "/gablewise/",
-    "definition": "A formal English word used to describe a action or process connected with away from; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "處理；執行；使產生相關變化",
+    "definition": "To perform, cause, or manage an action related to base form or inherited word element, especially in academic, professional, or analytical contexts.",
+    "definition_zh": "執行；造成變化；在正式語境中使用的動作",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gablew",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gablewise.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GABLEWISE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GABLEWISE，把它記成精準的學術單字。",
+      "root_memory": "GABLEW = base form or inherited word element; connect this root idea with the meaning of gablewise.",
+      "story_en": "A student remembers GABLEWISE by linking GABLEW to a real academic or professional situation.",
+      "story_zh": "學生把字根 GABLEW 和 GABLEWISE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gablewise to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gablewise 來說明正式語境中該議題的重要部分。",
+    "example": "The team must gablewise the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 gablewise 該計畫，然後再呈現結果。",
     "collocations": [
-      "gablewise analysis",
-      "gablewise process",
-      "gablewise framework",
-      "address gablewise",
-      "evaluate gablewise"
+      "gablewise a plan",
+      "gablewise effectively",
+      "gablewise the process",
+      "gablewise in practice",
+      "gablewise carefully"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gablewise is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gablewise is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gablewise follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gablewise follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "gablewise",
-        "pos": "verb"
-      },
       {
         "word": "gablewise",
         "pos": "verb"
@@ -698,72 +694,76 @@
       {
         "word": "gablewisal",
         "pos": "adjective"
+      },
+      {
+        "word": "gablewiseion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gablewise is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gablewise is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1959,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
       "college",
       "academic",
-      "IELTS"
+      "TOEFL"
     ]
   },
   {
     "word": "gageable",
     "pos": "adjective",
     "phonetic": "/gageable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gageabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gageable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GAGEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GAGEABLE，把它記成精準的學術單字。",
+      "root_memory": "GAGEABL = base form or inherited word element; connect this root idea with the meaning of gageable.",
+      "story_en": "A student remembers GAGEABLE by linking GAGEABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GAGEABL 和 GAGEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gageable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gageable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gageable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gageable 因素。",
     "collocations": [
-      "gageable analysis",
-      "gageable process",
-      "gageable framework",
-      "address gageable",
-      "evaluate gageable"
+      "gageable approach",
+      "gageable factor",
+      "gageable issue",
+      "gageable evidence",
+      "gageable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gageable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gageable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gageable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gageable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gageable",
-        "pos": "verb"
-      },
-      {
         "word": "gageablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gageableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gageable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gageable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1960,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -793,56 +793,56 @@
     "word": "gainable",
     "pos": "adjective",
     "phonetic": "/gainable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gainable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GAINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GAINABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of gainable.",
+      "story_en": "A student remembers GAINABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 GAINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gainable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gainable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gainable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gainable 因素。",
     "collocations": [
-      "gainable analysis",
-      "gainable process",
-      "gainable framework",
-      "address gainable",
-      "evaluate gainable"
+      "gainable approach",
+      "gainable factor",
+      "gainable issue",
+      "gainable evidence",
+      "gainable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gainable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gainable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gainable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gainable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,15 +850,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gainable",
-        "pos": "verb"
-      },
-      {
         "word": "gainablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gainableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gainable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gainable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1961,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -872,56 +872,56 @@
     "word": "garbleable",
     "pos": "adjective",
     "phonetic": "/garbleable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "garblea",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of garbleable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GARBLEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GARBLEABLE，把它記成精準的學術單字。",
+      "root_memory": "GARBLEA = base form or inherited word element; connect this root idea with the meaning of garbleable.",
+      "story_en": "A student remembers GARBLEABLE by linking GARBLEA to a real academic or professional situation.",
+      "story_zh": "學生把字根 GARBLEA 和 GARBLEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses garbleable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 garbleable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a garbleable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 garbleable 因素。",
     "collocations": [
-      "garbleable analysis",
-      "garbleable process",
-      "garbleable framework",
-      "address garbleable",
-      "evaluate garbleable"
+      "garbleable approach",
+      "garbleable factor",
+      "garbleable issue",
+      "garbleable evidence",
+      "garbleable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; garbleable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; garbleable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while garbleable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; garbleable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,15 +929,15 @@
         "pos": "adjective"
       },
       {
-        "word": "garbleable",
-        "pos": "verb"
-      },
-      {
         "word": "garbleablal",
         "pos": "adjective"
+      },
+      {
+        "word": "garbleableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "garbleable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "garbleable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1962,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -951,56 +951,56 @@
     "word": "gardenable",
     "pos": "adjective",
     "phonetic": "/gardenable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gardenable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GARDENABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GARDENABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of gardenable.",
+      "story_en": "A student remembers GARDENABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 GARDENABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gardenable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gardenable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gardenable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gardenable 因素。",
     "collocations": [
-      "gardenable analysis",
-      "gardenable process",
-      "gardenable framework",
-      "address gardenable",
-      "evaluate gardenable"
+      "gardenable approach",
+      "gardenable factor",
+      "gardenable issue",
+      "gardenable evidence",
+      "gardenable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gardenable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gardenable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gardenable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gardenable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gardenable",
-        "pos": "verb"
-      },
-      {
         "word": "gardenablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gardenableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gardenable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gardenable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1963,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,56 +1030,56 @@
     "word": "garnishable",
     "pos": "adjective",
     "phonetic": "/garnishable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "garnish",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of garnishable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GARNISHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GARNISHABLE，把它記成精準的學術單字。",
+      "root_memory": "GARNISH = base form or inherited word element; connect this root idea with the meaning of garnishable.",
+      "story_en": "A student remembers GARNISHABLE by linking GARNISH to a real academic or professional situation.",
+      "story_zh": "學生把字根 GARNISH 和 GARNISHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses garnishable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 garnishable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a garnishable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 garnishable 因素。",
     "collocations": [
-      "garnishable analysis",
-      "garnishable process",
-      "garnishable framework",
-      "address garnishable",
-      "evaluate garnishable"
+      "garnishable approach",
+      "garnishable factor",
+      "garnishable issue",
+      "garnishable evidence",
+      "garnishable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; garnishable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; garnishable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while garnishable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; garnishable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "garnishable",
-        "pos": "verb"
-      },
-      {
         "word": "garnishablal",
         "pos": "adjective"
+      },
+      {
+        "word": "garnishableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "garnishable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "garnishable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1964,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1109,56 +1109,56 @@
     "word": "gasifiable",
     "pos": "adjective",
     "phonetic": "/gasifiable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gasifia",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gasifiable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GASIFIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GASIFIABLE，把它記成精準的學術單字。",
+      "root_memory": "GASIFIA = base form or inherited word element; connect this root idea with the meaning of gasifiable.",
+      "story_en": "A student remembers GASIFIABLE by linking GASIFIA to a real academic or professional situation.",
+      "story_zh": "學生把字根 GASIFIA 和 GASIFIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gasifiable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gasifiable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gasifiable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gasifiable 因素。",
     "collocations": [
-      "gasifiable analysis",
-      "gasifiable process",
-      "gasifiable framework",
-      "address gasifiable",
-      "evaluate gasifiable"
+      "gasifiable approach",
+      "gasifiable factor",
+      "gasifiable issue",
+      "gasifiable evidence",
+      "gasifiable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gasifiable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gasifiable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gasifiable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gasifiable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gasifiable",
-        "pos": "verb"
-      },
-      {
         "word": "gasifiablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gasifiableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gasifiable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gasifiable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1965,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,56 +1188,56 @@
     "word": "gatherable",
     "pos": "adjective",
     "phonetic": "/gatherable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gathera",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gatherable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GATHERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GATHERABLE，把它記成精準的學術單字。",
+      "root_memory": "GATHERA = base form or inherited word element; connect this root idea with the meaning of gatherable.",
+      "story_en": "A student remembers GATHERABLE by linking GATHERA to a real academic or professional situation.",
+      "story_zh": "學生把字根 GATHERA 和 GATHERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gatherable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gatherable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gatherable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gatherable 因素。",
     "collocations": [
-      "gatherable analysis",
-      "gatherable process",
-      "gatherable framework",
-      "address gatherable",
-      "evaluate gatherable"
+      "gatherable approach",
+      "gatherable factor",
+      "gatherable issue",
+      "gatherable evidence",
+      "gatherable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gatherable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gatherable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gatherable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gatherable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gatherable",
-        "pos": "verb"
-      },
-      {
         "word": "gatherablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gatherableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gatherable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gatherable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1966,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,56 +1267,56 @@
     "word": "gaugeable",
     "pos": "adjective",
     "phonetic": "/gaugeable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gaugeab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gaugeable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GAUGEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GAUGEABLE，把它記成精準的學術單字。",
+      "root_memory": "GAUGEAB = base form or inherited word element; connect this root idea with the meaning of gaugeable.",
+      "story_en": "A student remembers GAUGEABLE by linking GAUGEAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 GAUGEAB 和 GAUGEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gaugeable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gaugeable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gaugeable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gaugeable 因素。",
     "collocations": [
-      "gaugeable analysis",
-      "gaugeable process",
-      "gaugeable framework",
-      "address gaugeable",
-      "evaluate gaugeable"
+      "gaugeable approach",
+      "gaugeable factor",
+      "gaugeable issue",
+      "gaugeable evidence",
+      "gaugeable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gaugeable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gaugeable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gaugeable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gaugeable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gaugeable",
-        "pos": "verb"
-      },
-      {
         "word": "gaugeablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gaugeableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gaugeable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gaugeable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1967,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1346,56 +1346,56 @@
     "word": "gelable",
     "pos": "adjective",
     "phonetic": "/gelable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gelable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gelable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GELABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GELABLE，把它記成精準的學術單字。",
+      "root_memory": "GELABLE = base form or inherited word element; connect this root idea with the meaning of gelable.",
+      "story_en": "A student remembers GELABLE by linking GELABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 GELABLE 和 GELABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gelable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gelable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gelable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gelable 因素。",
     "collocations": [
-      "gelable analysis",
-      "gelable process",
-      "gelable framework",
-      "address gelable",
-      "evaluate gelable"
+      "gelable approach",
+      "gelable factor",
+      "gelable issue",
+      "gelable evidence",
+      "gelable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gelable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gelable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gelable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gelable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gelable",
-        "pos": "verb"
-      },
-      {
         "word": "gelablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gelableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gelable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gelable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1968,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "gelation",
     "pos": "noun",
     "phonetic": "/gelation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "gel",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of gelation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember GELATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 GELATION，把它記成精準的學術單字。",
+      "root_memory": "GEL = base form or inherited word element; connect this root idea with the meaning of gelation.",
+      "story_en": "A student remembers GELATION by linking GEL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEL 和 GELATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gelation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gelation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses gelation as an important part of the issue.",
+    "example_zh": "報告將 gelation 作為該議題的重要部分來討論。",
     "collocations": [
-      "gelation analysis",
-      "gelation process",
-      "gelation framework",
-      "address gelation",
-      "evaluate gelation"
+      "key gelation",
+      "gelation factor",
+      "gelation role",
+      "gelation in context",
+      "gelation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gelation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gelation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gelation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gelation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "noun"
       },
       {
-        "word": "gel",
-        "pos": "verb"
-      },
-      {
         "word": "gelational",
         "pos": "adjective"
+      },
+      {
+        "word": "gelationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gelation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gelation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1969,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,56 +1504,56 @@
     "word": "geldable",
     "pos": "adjective",
     "phonetic": "/geldable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "geldabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of geldable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GELDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GELDABLE，把它記成精準的學術單字。",
+      "root_memory": "GELDABL = base form or inherited word element; connect this root idea with the meaning of geldable.",
+      "story_en": "A student remembers GELDABLE by linking GELDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GELDABL 和 GELDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geldable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geldable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geldable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geldable 因素。",
     "collocations": [
-      "geldable analysis",
-      "geldable process",
-      "geldable framework",
-      "address geldable",
-      "evaluate geldable"
+      "geldable approach",
+      "geldable factor",
+      "geldable issue",
+      "geldable evidence",
+      "geldable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geldable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geldable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geldable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geldable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "geldable",
-        "pos": "verb"
-      },
-      {
         "word": "geldablal",
         "pos": "adjective"
+      },
+      {
+        "word": "geldableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geldable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geldable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1970,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,7 +1583,7 @@
     "word": "gemination",
     "pos": "noun",
     "phonetic": "/gemination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1596,43 +1596,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of gemination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember GEMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 GEMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of gemination.",
+      "story_en": "A student remembers GEMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GEMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gemination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gemination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses gemination as an important part of the issue.",
+    "example_zh": "報告將 gemination 作為該議題的重要部分來討論。",
     "collocations": [
-      "gemination analysis",
-      "gemination process",
-      "gemination framework",
-      "address gemination",
-      "evaluate gemination"
+      "key gemination",
+      "gemination factor",
+      "gemination role",
+      "gemination in context",
+      "gemination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gemination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gemination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gemination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gemination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "gemin",
-        "pos": "verb"
-      },
-      {
         "word": "geminational",
         "pos": "adjective"
+      },
+      {
+        "word": "geminationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gemination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gemination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1971,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1662,7 +1662,7 @@
     "word": "geminative",
     "pos": "adjective",
     "phonetic": "/geminative/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1675,43 +1675,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of geminative.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember GEMINATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 GEMINATIVE，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of geminative.",
+      "story_en": "A student remembers GEMINATIVE by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GEMINATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geminative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geminative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geminative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geminative 因素。",
     "collocations": [
-      "geminative analysis",
-      "geminative process",
-      "geminative framework",
-      "address geminative",
-      "evaluate geminative"
+      "geminative approach",
+      "geminative factor",
+      "geminative issue",
+      "geminative evidence",
+      "geminative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geminative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geminative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geminative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geminative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "geminative",
-        "pos": "verb"
-      },
-      {
         "word": "geminatival",
         "pos": "adjective"
+      },
+      {
+        "word": "geminativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geminative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geminative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1972,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "gemmulation",
     "pos": "noun",
     "phonetic": "/gemmulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "gemmul",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of gemmulation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember GEMMULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 GEMMULATION，把它記成精準的學術單字。",
+      "root_memory": "GEMMUL = base form or inherited word element; connect this root idea with the meaning of gemmulation.",
+      "story_en": "A student remembers GEMMULATION by linking GEMMUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEMMUL 和 GEMMULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gemmulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gemmulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses gemmulation as an important part of the issue.",
+    "example_zh": "報告將 gemmulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "gemmulation analysis",
-      "gemmulation process",
-      "gemmulation framework",
-      "address gemmulation",
-      "evaluate gemmulation"
+      "key gemmulation",
+      "gemmulation factor",
+      "gemmulation role",
+      "gemmulation in context",
+      "gemmulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gemmulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gemmulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gemmulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gemmulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "noun"
       },
       {
-        "word": "gemmul",
-        "pos": "verb"
-      },
-      {
         "word": "gemmulational",
         "pos": "adjective"
+      },
+      {
+        "word": "gemmulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gemmulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gemmulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1973,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "genealogic",
     "pos": "adjective",
     "phonetic": "/genealogic/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "gen",
+          "root": "log",
           "origin": "Greek",
-          "meaning": "birth, origin",
-          "meaning_zh": "出生、起源"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of genealogic.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENEALOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENEALOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of genealogic.",
+      "story_en": "A student remembers GENEALOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GENEALOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses genealogic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 genealogic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a genealogic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 genealogic 因素。",
     "collocations": [
-      "genealogic analysis",
-      "genealogic process",
-      "genealogic framework",
-      "address genealogic",
-      "evaluate genealogic"
+      "genealogic approach",
+      "genealogic factor",
+      "genealogic issue",
+      "genealogic evidence",
+      "genealogic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; genealogic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; genealogic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while genealogic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; genealogic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,21 +1877,21 @@
         "pos": "adjective"
       },
       {
-        "word": "genealogic",
-        "pos": "verb"
-      },
-      {
         "word": "genealogical",
         "pos": "adjective"
+      },
+      {
+        "word": "genealogicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "genealogic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "genealogic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1974,
     "frequency_source": "custom",
     "difficulty": "C1",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -1899,56 +1899,56 @@
     "word": "genecologic",
     "pos": "adjective",
     "phonetic": "/genecologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "gen",
+          "root": "log",
           "origin": "Greek",
-          "meaning": "birth, origin",
-          "meaning_zh": "出生、起源"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of genecologic.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENECOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENECOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of genecologic.",
+      "story_en": "A student remembers GENECOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GENECOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses genecologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 genecologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a genecologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 genecologic 因素。",
     "collocations": [
-      "genecologic analysis",
-      "genecologic process",
-      "genecologic framework",
-      "address genecologic",
-      "evaluate genecologic"
+      "genecologic approach",
+      "genecologic factor",
+      "genecologic issue",
+      "genecologic evidence",
+      "genecologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; genecologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; genecologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while genecologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; genecologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,21 +1956,21 @@
         "pos": "adjective"
       },
       {
-        "word": "genecologic",
-        "pos": "verb"
-      },
-      {
         "word": "genecological",
         "pos": "adjective"
+      },
+      {
+        "word": "genecologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "genecologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "genecologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1975,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -1978,56 +1978,56 @@
     "word": "generable",
     "pos": "adjective",
     "phonetic": "/generable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to birth, origin, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gen",
+          "origin": "Greek / Latin",
+          "meaning": "birth, origin",
+          "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of generable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GENERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GENERABLE，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of generable.",
+      "story_en": "A student remembers GENERABLE by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 GENERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses generable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 generable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a generable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 generable 因素。",
     "collocations": [
-      "generable analysis",
-      "generable process",
-      "generable framework",
-      "address generable",
-      "evaluate generable"
+      "generable approach",
+      "generable factor",
+      "generable issue",
+      "generable evidence",
+      "generable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; generable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; generable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while generable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; generable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "adjective"
       },
       {
-        "word": "generable",
-        "pos": "verb"
-      },
-      {
         "word": "generablal",
         "pos": "adjective"
+      },
+      {
+        "word": "generableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "generable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "generable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1976,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "generative",
     "pos": "adjective",
     "phonetic": "/generative/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to birth, origin, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of generative.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENERATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENERATIVE，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of generative.",
+      "story_en": "A student remembers GENERATIVE by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 GENERATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses generative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 generative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a generative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 generative 因素。",
     "collocations": [
-      "generative analysis",
-      "generative process",
-      "generative framework",
-      "address generative",
-      "evaluate generative"
+      "generative approach",
+      "generative factor",
+      "generative issue",
+      "generative evidence",
+      "generative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; generative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; generative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while generative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; generative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "generative",
-        "pos": "verb"
-      },
-      {
         "word": "generatival",
         "pos": "adjective"
+      },
+      {
+        "word": "generativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "generative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "generative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1977,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,56 +2136,56 @@
     "word": "generical",
     "pos": "adjective",
     "phonetic": "/generical/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to birth, origin, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of generical.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENERICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENERICAL，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of generical.",
+      "story_en": "A student remembers GENERICAL by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 GENERICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses generical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 generical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a generical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 generical 因素。",
     "collocations": [
-      "generical analysis",
-      "generical process",
-      "generical framework",
-      "address generical",
-      "evaluate generical"
+      "generical approach",
+      "generical factor",
+      "generical issue",
+      "generical evidence",
+      "generical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; generical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; generical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while generical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; generical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "adjective"
       },
       {
-        "word": "generical",
-        "pos": "verb"
-      },
-      {
         "word": "genericalal",
         "pos": "adjective"
+      },
+      {
+        "word": "genericalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "generical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "generical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1978,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2215,56 +2215,56 @@
     "word": "genetical",
     "pos": "adjective",
     "phonetic": "/genetical/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to birth, origin, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of genetical.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENETICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENETICAL，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of genetical.",
+      "story_en": "A student remembers GENETICAL by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 GENETICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses genetical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 genetical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a genetical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 genetical 因素。",
     "collocations": [
-      "genetical analysis",
-      "genetical process",
-      "genetical framework",
-      "address genetical",
-      "evaluate genetical"
+      "genetical approach",
+      "genetical factor",
+      "genetical issue",
+      "genetical evidence",
+      "genetical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; genetical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; genetical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while genetical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; genetical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "adjective"
       },
       {
-        "word": "genetical",
-        "pos": "verb"
-      },
-      {
         "word": "geneticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "geneticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "genetical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "genetical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1979,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "genotypical",
     "pos": "adjective",
     "phonetic": "/genotypical/",
-    "definition": "A formal English word used to describe a quality or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to birth, origin, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of genotypical.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember GENOTYPICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 GENOTYPICAL，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of genotypical.",
+      "story_en": "A student remembers GENOTYPICAL by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 GENOTYPICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses genotypical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 genotypical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a genotypical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 genotypical 因素。",
     "collocations": [
-      "genotypical analysis",
-      "genotypical process",
-      "genotypical framework",
-      "address genotypical",
-      "evaluate genotypical"
+      "genotypical approach",
+      "genotypical factor",
+      "genotypical issue",
+      "genotypical evidence",
+      "genotypical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; genotypical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; genotypical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while genotypical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; genotypical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "genotypical",
-        "pos": "verb"
-      },
-      {
         "word": "genotypicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "genotypicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "genotypical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "genotypical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1980,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "geobiologic",
     "pos": "adjective",
     "phonetic": "/geobiologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with life; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "bio",
+          "root": "log",
           "origin": "Greek",
-          "meaning": "life",
-          "meaning_zh": "生命"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "BIO = life; connect the root idea with the meaning of geobiologic.",
-      "story_en": "In a university report, the highlighted root BIO helps the student remember GEOBIOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 BIO 聯想到 GEOBIOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of geobiologic.",
+      "story_en": "A student remembers GEOBIOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GEOBIOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geobiologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geobiologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geobiologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geobiologic 因素。",
     "collocations": [
-      "geobiologic analysis",
-      "geobiologic process",
-      "geobiologic framework",
-      "address geobiologic",
-      "evaluate geobiologic"
+      "geobiologic approach",
+      "geobiologic factor",
+      "geobiologic issue",
+      "geobiologic evidence",
+      "geobiologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geobiologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geobiologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geobiologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geobiologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2430,21 +2430,21 @@
         "pos": "adjective"
       },
       {
-        "word": "geobiologic",
-        "pos": "verb"
-      },
-      {
         "word": "geobiological",
         "pos": "adjective"
+      },
+      {
+        "word": "geobiologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geobiologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geobiologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1981,
     "frequency_source": "custom",
     "difficulty": "C1",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2452,56 +2452,56 @@
     "word": "geologic",
     "pos": "adjective",
     "phonetic": "/geologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of geologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember GEOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 GEOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of geologic.",
+      "story_en": "A student remembers GEOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GEOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geologic 因素。",
     "collocations": [
-      "geologic analysis",
-      "geologic process",
-      "geologic framework",
-      "address geologic",
-      "evaluate geologic"
+      "geologic approach",
+      "geologic factor",
+      "geologic issue",
+      "geologic evidence",
+      "geologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,21 +2509,21 @@
         "pos": "adjective"
       },
       {
-        "word": "geologic",
-        "pos": "verb"
-      },
-      {
         "word": "geological",
         "pos": "adjective"
+      },
+      {
+        "word": "geologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1982,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2531,56 +2531,56 @@
     "word": "geological",
     "pos": "adjective",
     "phonetic": "/geological/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of geological.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember GEOLOGICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 GEOLOGICAL，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of geological.",
+      "story_en": "A student remembers GEOLOGICAL by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GEOLOGICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geological to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geological 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geological factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geological 因素。",
     "collocations": [
-      "geological analysis",
-      "geological process",
-      "geological framework",
-      "address geological",
-      "evaluate geological"
+      "geological approach",
+      "geological factor",
+      "geological issue",
+      "geological evidence",
+      "geological context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geological is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geological is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geological follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geological follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,21 +2588,21 @@
         "pos": "adjective"
       },
       {
-        "word": "geological",
-        "pos": "verb"
-      },
-      {
         "word": "geologicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "geologicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geological is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geological is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1983,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2610,56 +2610,56 @@
     "word": "geomance",
     "pos": "noun",
     "phonetic": "/geomance/",
-    "definition": "A formal English word used to describe a concept or condition connected with hand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "man",
-          "origin": "Latin",
-          "meaning": "hand",
-          "meaning_zh": "手"
+          "root": "geom",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "MAN = hand; connect the root idea with the meaning of geomance.",
-      "story_en": "In a university report, the highlighted root MAN helps the student remember GEOMANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MAN 聯想到 GEOMANCE，把它記成精準的學術單字。",
+      "root_memory": "GEOM = base form or inherited word element; connect this root idea with the meaning of geomance.",
+      "story_en": "A student remembers GEOMANCE by linking GEOM to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEOM 和 GEOMANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geomance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geomance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses geomance as an important part of the issue.",
+    "example_zh": "報告將 geomance 作為該議題的重要部分來討論。",
     "collocations": [
-      "geomance analysis",
-      "geomance process",
-      "geomance framework",
-      "address geomance",
-      "evaluate geomance"
+      "key geomance",
+      "geomance factor",
+      "geomance role",
+      "geomance in context",
+      "geomance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geomance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geomance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geomance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geomance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "noun"
       },
       {
-        "word": "geom",
-        "pos": "verb"
-      },
-      {
         "word": "geomancal",
         "pos": "adjective"
+      },
+      {
+        "word": "geomanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geomance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geomance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1984,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2689,56 +2689,56 @@
     "word": "geomantical",
     "pos": "adjective",
     "phonetic": "/geomantical/",
-    "definition": "A formal English word used to describe a quality or condition connected with against; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "anti",
-          "origin": "Greek",
-          "meaning": "against",
-          "meaning_zh": "反對、對抗"
+          "root": "geomant",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANTI = against; connect the root idea with the meaning of geomantical.",
-      "story_en": "In a university report, the highlighted root ANTI helps the student remember GEOMANTICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANTI 聯想到 GEOMANTICAL，把它記成精準的學術單字。",
+      "root_memory": "GEOMANT = base form or inherited word element; connect this root idea with the meaning of geomantical.",
+      "story_en": "A student remembers GEOMANTICAL by linking GEOMANT to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEOMANT 和 GEOMANTICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geomantical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geomantical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geomantical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geomantical 因素。",
     "collocations": [
-      "geomantical analysis",
-      "geomantical process",
-      "geomantical framework",
-      "address geomantical",
-      "evaluate geomantical"
+      "geomantical approach",
+      "geomantical factor",
+      "geomantical issue",
+      "geomantical evidence",
+      "geomantical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geomantical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geomantical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geomantical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geomantical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "adjective"
       },
       {
-        "word": "geomantical",
-        "pos": "verb"
-      },
-      {
         "word": "geomanticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "geomanticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geomantical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geomantical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1985,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2768,56 +2768,56 @@
     "word": "geratologic",
     "pos": "adjective",
     "phonetic": "/geratologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of geratologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember GERATOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 GERATOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of geratologic.",
+      "story_en": "A student remembers GERATOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 GERATOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses geratologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 geratologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a geratologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 geratologic 因素。",
     "collocations": [
-      "geratologic analysis",
-      "geratologic process",
-      "geratologic framework",
-      "address geratologic",
-      "evaluate geratologic"
+      "geratologic approach",
+      "geratologic factor",
+      "geratologic issue",
+      "geratologic evidence",
+      "geratologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; geratologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; geratologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while geratologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; geratologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,21 +2825,21 @@
         "pos": "adjective"
       },
       {
-        "word": "geratologic",
-        "pos": "verb"
-      },
-      {
         "word": "geratological",
         "pos": "adjective"
+      },
+      {
+        "word": "geratologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "geratologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "geratologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1986,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2847,56 +2847,56 @@
     "word": "germanical",
     "pos": "adjective",
     "phonetic": "/germanical/",
-    "definition": "A formal English word used to describe a quality or condition connected with hand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "man",
-          "origin": "Latin",
-          "meaning": "hand",
-          "meaning_zh": "手"
+          "root": "germani",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "MAN = hand; connect the root idea with the meaning of germanical.",
-      "story_en": "In a university report, the highlighted root MAN helps the student remember GERMANICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MAN 聯想到 GERMANICAL，把它記成精準的學術單字。",
+      "root_memory": "GERMANI = base form or inherited word element; connect this root idea with the meaning of germanical.",
+      "story_en": "A student remembers GERMANICAL by linking GERMANI to a real academic or professional situation.",
+      "story_zh": "學生把字根 GERMANI 和 GERMANICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses germanical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 germanical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a germanical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 germanical 因素。",
     "collocations": [
-      "germanical analysis",
-      "germanical process",
-      "germanical framework",
-      "address germanical",
-      "evaluate germanical"
+      "germanical approach",
+      "germanical factor",
+      "germanical issue",
+      "germanical evidence",
+      "germanical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; germanical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; germanical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while germanical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; germanical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "adjective"
       },
       {
-        "word": "germanical",
-        "pos": "verb"
-      },
-      {
         "word": "germanicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "germanicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "germanical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "germanical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1987,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "germinable",
     "pos": "adjective",
     "phonetic": "/germinable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "min",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "small, less",
+          "meaning_zh": "小、較少"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of germinable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GERMINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GERMINABLE，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of germinable.",
+      "story_en": "A student remembers GERMINABLE by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GERMINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses germinable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 germinable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a germinable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 germinable 因素。",
     "collocations": [
-      "germinable analysis",
-      "germinable process",
-      "germinable framework",
-      "address germinable",
-      "evaluate germinable"
+      "germinable approach",
+      "germinable factor",
+      "germinable issue",
+      "germinable evidence",
+      "germinable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; germinable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; germinable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while germinable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; germinable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "adjective"
       },
       {
-        "word": "germinable",
-        "pos": "verb"
-      },
-      {
         "word": "germinablal",
         "pos": "adjective"
+      },
+      {
+        "word": "germinableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "germinable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "germinable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1988,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3005,7 +3005,7 @@
     "word": "germinance",
     "pos": "noun",
     "phonetic": "/germinance/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3018,43 +3018,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of germinance.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember GERMINANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 GERMINANCE，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of germinance.",
+      "story_en": "A student remembers GERMINANCE by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GERMINANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses germinance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 germinance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses germinance as an important part of the issue.",
+    "example_zh": "報告將 germinance 作為該議題的重要部分來討論。",
     "collocations": [
-      "germinance analysis",
-      "germinance process",
-      "germinance framework",
-      "address germinance",
-      "evaluate germinance"
+      "key germinance",
+      "germinance factor",
+      "germinance role",
+      "germinance in context",
+      "germinance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; germinance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; germinance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while germinance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; germinance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "noun"
       },
       {
-        "word": "germin",
-        "pos": "verb"
-      },
-      {
         "word": "germinancal",
         "pos": "adjective"
+      },
+      {
+        "word": "germinanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "germinance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "germinance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1989,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,7 +3084,7 @@
     "word": "germination",
     "pos": "noun",
     "phonetic": "/germination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3097,43 +3097,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of germination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember GERMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 GERMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of germination.",
+      "story_en": "A student remembers GERMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GERMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses germination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 germination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses germination as an important part of the issue.",
+    "example_zh": "報告將 germination 作為該議題的重要部分來討論。",
     "collocations": [
-      "germination analysis",
-      "germination process",
-      "germination framework",
-      "address germination",
-      "evaluate germination"
+      "key germination",
+      "germination factor",
+      "germination role",
+      "germination in context",
+      "germination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; germination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; germination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while germination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; germination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "noun"
       },
       {
-        "word": "germin",
-        "pos": "verb"
-      },
-      {
         "word": "germinational",
         "pos": "adjective"
+      },
+      {
+        "word": "germinationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "germination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "germination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1990,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,7 +3163,7 @@
     "word": "germinative",
     "pos": "adjective",
     "phonetic": "/germinative/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3176,43 +3176,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of germinative.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember GERMINATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 GERMINATIVE，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of germinative.",
+      "story_en": "A student remembers GERMINATIVE by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 GERMINATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses germinative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 germinative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a germinative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 germinative 因素。",
     "collocations": [
-      "germinative analysis",
-      "germinative process",
-      "germinative framework",
-      "address germinative",
-      "evaluate germinative"
+      "germinative approach",
+      "germinative factor",
+      "germinative issue",
+      "germinative evidence",
+      "germinative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; germinative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; germinative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while germinative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; germinative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "germinative",
-        "pos": "verb"
-      },
-      {
         "word": "germinatival",
         "pos": "adjective"
+      },
+      {
+        "word": "germinativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "germinative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "germinative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1991,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,7 +3242,7 @@
     "word": "gerocomical",
     "pos": "adjective",
     "phonetic": "/gerocomical/",
-    "definition": "A formal English word used to describe a quality or condition connected with together; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to together, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3250,48 +3250,48 @@
           "root": "com",
           "origin": "Latin",
           "meaning": "together",
-          "meaning_zh": "共同、一起"
+          "meaning_zh": "共同"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "COM = together; connect the root idea with the meaning of gerocomical.",
-      "story_en": "In a university report, the highlighted root COM helps the student remember GEROCOMICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 COM 聯想到 GEROCOMICAL，把它記成精準的學術單字。",
+      "root_memory": "COM = together; connect this root idea with the meaning of gerocomical.",
+      "story_en": "A student remembers GEROCOMICAL by linking COM to a real academic or professional situation.",
+      "story_zh": "學生把字根 COM 和 GEROCOMICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gerocomical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gerocomical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gerocomical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gerocomical 因素。",
     "collocations": [
-      "gerocomical analysis",
-      "gerocomical process",
-      "gerocomical framework",
-      "address gerocomical",
-      "evaluate gerocomical"
+      "gerocomical approach",
+      "gerocomical factor",
+      "gerocomical issue",
+      "gerocomical evidence",
+      "gerocomical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gerocomical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gerocomical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gerocomical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gerocomical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gerocomical",
-        "pos": "verb"
-      },
-      {
         "word": "gerocomicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "gerocomicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gerocomical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gerocomical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1992,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3321,7 +3321,7 @@
     "word": "gestation",
     "pos": "noun",
     "phonetic": "/gestation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3334,43 +3334,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of gestation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember GESTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 GESTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of gestation.",
+      "story_en": "A student remembers GESTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 GESTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gestation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gestation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses gestation as an important part of the issue.",
+    "example_zh": "報告將 gestation 作為該議題的重要部分來討論。",
     "collocations": [
-      "gestation analysis",
-      "gestation process",
-      "gestation framework",
-      "address gestation",
-      "evaluate gestation"
+      "key gestation",
+      "gestation factor",
+      "gestation role",
+      "gestation in context",
+      "gestation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gestation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gestation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gestation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gestation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "noun"
       },
       {
-        "word": "gest",
-        "pos": "verb"
-      },
-      {
         "word": "gestational",
         "pos": "adjective"
+      },
+      {
+        "word": "gestationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gestation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gestation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1993,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,7 +3400,7 @@
     "word": "gestational",
     "pos": "adjective",
     "phonetic": "/gestational/",
-    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to stand, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3413,43 +3413,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of gestational.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember GESTATIONAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 GESTATIONAL，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of gestational.",
+      "story_en": "A student remembers GESTATIONAL by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 GESTATIONAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gestational to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gestational 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gestational factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gestational 因素。",
     "collocations": [
-      "gestational analysis",
-      "gestational process",
-      "gestational framework",
-      "address gestational",
-      "evaluate gestational"
+      "gestational approach",
+      "gestational factor",
+      "gestational issue",
+      "gestational evidence",
+      "gestational context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gestational is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gestational is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gestational follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gestational follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gestational",
-        "pos": "verb"
-      },
-      {
         "word": "gestationalal",
         "pos": "adjective"
+      },
+      {
+        "word": "gestationalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gestational is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gestational is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1994,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,7 +3479,7 @@
     "word": "gestative",
     "pos": "adjective",
     "phonetic": "/gestative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to stand, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3492,43 +3492,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of gestative.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember GESTATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 GESTATIVE，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of gestative.",
+      "story_en": "A student remembers GESTATIVE by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 GESTATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gestative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gestative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gestative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gestative 因素。",
     "collocations": [
-      "gestative analysis",
-      "gestative process",
-      "gestative framework",
-      "address gestative",
-      "evaluate gestative"
+      "gestative approach",
+      "gestative factor",
+      "gestative issue",
+      "gestative evidence",
+      "gestative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gestative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gestative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gestative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gestative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gestative",
-        "pos": "verb"
-      },
-      {
         "word": "gestatival",
         "pos": "adjective"
+      },
+      {
+        "word": "gestativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gestative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gestative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1995,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3558,7 +3558,7 @@
     "word": "gestatory",
     "pos": "adjective",
     "phonetic": "/gestatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to stand, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3571,43 +3571,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of gestatory.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember GESTATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 GESTATORY，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of gestatory.",
+      "story_en": "A student remembers GESTATORY by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 GESTATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gestatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gestatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gestatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gestatory 因素。",
     "collocations": [
-      "gestatory analysis",
-      "gestatory process",
-      "gestatory framework",
-      "address gestatory",
-      "evaluate gestatory"
+      "gestatory approach",
+      "gestatory factor",
+      "gestatory issue",
+      "gestatory evidence",
+      "gestatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gestatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gestatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gestatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gestatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gestatory",
-        "pos": "verb"
-      },
-      {
         "word": "gestatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "gestatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gestatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gestatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1996,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "gettable",
     "pos": "adjective",
     "phonetic": "/gettable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gettabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gettable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GETTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GETTABLE，把它記成精準的學術單字。",
+      "root_memory": "GETTABL = base form or inherited word element; connect this root idea with the meaning of gettable.",
+      "story_en": "A student remembers GETTABLE by linking GETTABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GETTABL 和 GETTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gettable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gettable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gettable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gettable 因素。",
     "collocations": [
-      "gettable analysis",
-      "gettable process",
-      "gettable framework",
-      "address gettable",
-      "evaluate gettable"
+      "gettable approach",
+      "gettable factor",
+      "gettable issue",
+      "gettable evidence",
+      "gettable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gettable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gettable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gettable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gettable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gettable",
-        "pos": "verb"
-      },
-      {
         "word": "gettablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gettableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gettable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gettable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1997,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "gigantical",
     "pos": "adjective",
     "phonetic": "/gigantical/",
-    "definition": "A formal English word used to describe a quality or condition connected with against; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "anti",
-          "origin": "Greek",
-          "meaning": "against",
-          "meaning_zh": "反對、對抗"
+          "root": "giganti",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANTI = against; connect the root idea with the meaning of gigantical.",
-      "story_en": "In a university report, the highlighted root ANTI helps the student remember GIGANTICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANTI 聯想到 GIGANTICAL，把它記成精準的學術單字。",
+      "root_memory": "GIGANTI = base form or inherited word element; connect this root idea with the meaning of gigantical.",
+      "story_en": "A student remembers GIGANTICAL by linking GIGANTI to a real academic or professional situation.",
+      "story_zh": "學生把字根 GIGANTI 和 GIGANTICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gigantical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gigantical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gigantical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gigantical 因素。",
     "collocations": [
-      "gigantical analysis",
-      "gigantical process",
-      "gigantical framework",
-      "address gigantical",
-      "evaluate gigantical"
+      "gigantical approach",
+      "gigantical factor",
+      "gigantical issue",
+      "gigantical evidence",
+      "gigantical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gigantical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gigantical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gigantical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gigantical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gigantical",
-        "pos": "verb"
-      },
-      {
         "word": "giganticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "giganticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gigantical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gigantical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1998,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,56 +3795,56 @@
     "word": "gildable",
     "pos": "adjective",
     "phonetic": "/gildable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "gildabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of gildable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GILDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GILDABLE，把它記成精準的學術單字。",
+      "root_memory": "GILDABL = base form or inherited word element; connect this root idea with the meaning of gildable.",
+      "story_en": "A student remembers GILDABLE by linking GILDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GILDABL 和 GILDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses gildable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 gildable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a gildable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 gildable 因素。",
     "collocations": [
-      "gildable analysis",
-      "gildable process",
-      "gildable framework",
-      "address gildable",
-      "evaluate gildable"
+      "gildable approach",
+      "gildable factor",
+      "gildable issue",
+      "gildable evidence",
+      "gildable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; gildable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; gildable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while gildable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; gildable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "gildable",
-        "pos": "verb"
-      },
-      {
         "word": "gildablal",
         "pos": "adjective"
+      },
+      {
+        "word": "gildableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "gildable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "gildable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1999,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3874,56 +3874,56 @@
     "word": "giveable",
     "pos": "adjective",
     "phonetic": "/giveable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "giveabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of giveable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember GIVEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 GIVEABLE，把它記成精準的學術單字。",
+      "root_memory": "GIVEABL = base form or inherited word element; connect this root idea with the meaning of giveable.",
+      "story_en": "A student remembers GIVEABLE by linking GIVEABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 GIVEABL 和 GIVEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses giveable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 giveable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a giveable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 giveable 因素。",
     "collocations": [
-      "giveable analysis",
-      "giveable process",
-      "giveable framework",
-      "address giveable",
-      "evaluate giveable"
+      "giveable approach",
+      "giveable factor",
+      "giveable issue",
+      "giveable evidence",
+      "giveable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; giveable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; giveable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while giveable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; giveable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "adjective"
       },
       {
-        "word": "giveable",
-        "pos": "verb"
-      },
-      {
         "word": "giveablal",
         "pos": "adjective"
+      },
+      {
+        "word": "giveableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "giveable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "giveable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 2000,
     "frequency_source": "custom",
     "difficulty": "B2",

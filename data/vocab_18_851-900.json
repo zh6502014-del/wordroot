@@ -3,7 +3,7 @@
     "word": "adjuratory",
     "pos": "adjective",
     "phonetic": "/adjuratory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -16,43 +16,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adjuratory.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADJURATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADJURATORY，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adjuratory.",
+      "story_en": "A student remembers ADJURATORY by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADJURATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adjuratory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adjuratory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adjuratory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adjuratory 因素。",
     "collocations": [
-      "adjuratory analysis",
-      "adjuratory process",
-      "adjuratory framework",
-      "address adjuratory",
-      "evaluate adjuratory"
+      "adjuratory approach",
+      "adjuratory factor",
+      "adjuratory issue",
+      "adjuratory evidence",
+      "adjuratory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adjuratory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adjuratory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adjuratory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adjuratory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -60,78 +60,78 @@
         "pos": "adjective"
       },
       {
-        "word": "adjuratory",
-        "pos": "verb"
-      },
-      {
         "word": "adjuratoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "adjuratoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adjuratory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adjuratory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 851,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "law",
+      "college",
       "academic",
-      "college"
+      "IELTS"
     ]
   },
   {
     "word": "adjustable",
     "pos": "adjective",
     "phonetic": "/adjustable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of adjustable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADJUSTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADJUSTABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adjustable.",
+      "story_en": "A student remembers ADJUSTABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADJUSTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adjustable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adjustable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adjustable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adjustable 因素。",
     "collocations": [
-      "adjustable analysis",
-      "adjustable process",
-      "adjustable framework",
-      "address adjustable",
-      "evaluate adjustable"
+      "adjustable approach",
+      "adjustable factor",
+      "adjustable issue",
+      "adjustable evidence",
+      "adjustable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adjustable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adjustable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adjustable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adjustable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adjustable",
-        "pos": "verb"
-      },
-      {
         "word": "adjustablal",
         "pos": "adjective"
+      },
+      {
+        "word": "adjustableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adjustable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adjustable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 852,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,56 +161,56 @@
     "word": "adjustation",
     "pos": "noun",
     "phonetic": "/adjustation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "stat",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "to stand",
+          "meaning_zh": "站立"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adjustation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADJUSTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADJUSTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of adjustation.",
+      "story_en": "A student remembers ADJUSTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 ADJUSTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adjustation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adjustation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adjustation as an important part of the issue.",
+    "example_zh": "報告將 adjustation 作為該議題的重要部分來討論。",
     "collocations": [
-      "adjustation analysis",
-      "adjustation process",
-      "adjustation framework",
-      "address adjustation",
-      "evaluate adjustation"
+      "key adjustation",
+      "adjustation factor",
+      "adjustation role",
+      "adjustation in context",
+      "adjustation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adjustation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adjustation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adjustation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adjustation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "noun"
       },
       {
-        "word": "adjust",
-        "pos": "verb"
-      },
-      {
         "word": "adjustational",
         "pos": "adjective"
+      },
+      {
+        "word": "adjustationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adjustation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adjustation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 853,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,56 +240,56 @@
     "word": "admirable",
     "pos": "adjective",
     "phonetic": "/admirable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of admirable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADMIRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADMIRABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of admirable.",
+      "story_en": "A student remembers ADMIRABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADMIRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses admirable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 admirable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a admirable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 admirable 因素。",
     "collocations": [
-      "admirable analysis",
-      "admirable process",
-      "admirable framework",
-      "address admirable",
-      "evaluate admirable"
+      "admirable approach",
+      "admirable factor",
+      "admirable issue",
+      "admirable evidence",
+      "admirable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; admirable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; admirable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while admirable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; admirable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "adjective"
       },
       {
-        "word": "admirable",
-        "pos": "verb"
-      },
-      {
         "word": "admirablal",
         "pos": "adjective"
+      },
+      {
+        "word": "admirableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "admirable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "admirable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 854,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -319,7 +319,7 @@
     "word": "admiration",
     "pos": "noun",
     "phonetic": "/admiration/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -332,43 +332,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of admiration.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADMIRATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADMIRATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of admiration.",
+      "story_en": "A student remembers ADMIRATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADMIRATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses admiration to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 admiration 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses admiration as an important part of the issue.",
+    "example_zh": "報告將 admiration 作為該議題的重要部分來討論。",
     "collocations": [
-      "admiration analysis",
-      "admiration process",
-      "admiration framework",
-      "address admiration",
-      "evaluate admiration"
+      "key admiration",
+      "admiration factor",
+      "admiration role",
+      "admiration in context",
+      "admiration and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; admiration is used as a more specific vocabulary item."
+        "difference": "aspect is broader; admiration is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while admiration follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; admiration follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -376,29 +376,29 @@
         "pos": "noun"
       },
       {
-        "word": "admir",
-        "pos": "verb"
-      },
-      {
         "word": "admirational",
         "pos": "adjective"
+      },
+      {
+        "word": "admirationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "admiration is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "admiration is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 855,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "admirative",
     "pos": "adjective",
     "phonetic": "/admirative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -411,43 +411,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of admirative.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADMIRATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADMIRATIVE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of admirative.",
+      "story_en": "A student remembers ADMIRATIVE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADMIRATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses admirative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 admirative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a admirative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 admirative 因素。",
     "collocations": [
-      "admirative analysis",
-      "admirative process",
-      "admirative framework",
-      "address admirative",
-      "evaluate admirative"
+      "admirative approach",
+      "admirative factor",
+      "admirative issue",
+      "admirative evidence",
+      "admirative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; admirative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; admirative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while admirative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; admirative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "adjective"
       },
       {
-        "word": "admirative",
-        "pos": "verb"
-      },
-      {
         "word": "admiratival",
         "pos": "adjective"
+      },
+      {
+        "word": "admirativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "admirative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "admirative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 856,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,56 +477,56 @@
     "word": "admittable",
     "pos": "adjective",
     "phonetic": "/admittable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to send, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "mit",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to send",
+          "meaning_zh": "送出"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of admittable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADMITTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADMITTABLE，把它記成精準的學術單字。",
+      "root_memory": "MIT = to send; connect this root idea with the meaning of admittable.",
+      "story_en": "A student remembers ADMITTABLE by linking MIT to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIT 和 ADMITTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses admittable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 admittable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a admittable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 admittable 因素。",
     "collocations": [
-      "admittable analysis",
-      "admittable process",
-      "admittable framework",
-      "address admittable",
-      "evaluate admittable"
+      "admittable approach",
+      "admittable factor",
+      "admittable issue",
+      "admittable evidence",
+      "admittable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; admittable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; admittable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while admittable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; admittable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "admittable",
-        "pos": "verb"
-      },
-      {
         "word": "admittablal",
         "pos": "adjective"
+      },
+      {
+        "word": "admittableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "admittable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "admittable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 857,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -556,56 +556,56 @@
     "word": "admittance",
     "pos": "noun",
     "phonetic": "/admittance/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to send, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "mit",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "to send",
+          "meaning_zh": "送出"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of admittance.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADMITTANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADMITTANCE，把它記成精準的學術單字。",
+      "root_memory": "MIT = to send; connect this root idea with the meaning of admittance.",
+      "story_en": "A student remembers ADMITTANCE by linking MIT to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIT 和 ADMITTANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses admittance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 admittance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses admittance as an important part of the issue.",
+    "example_zh": "報告將 admittance 作為該議題的重要部分來討論。",
     "collocations": [
-      "admittance analysis",
-      "admittance process",
-      "admittance framework",
-      "address admittance",
-      "evaluate admittance"
+      "key admittance",
+      "admittance factor",
+      "admittance role",
+      "admittance in context",
+      "admittance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; admittance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; admittance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while admittance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; admittance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "noun"
       },
       {
-        "word": "admitt",
-        "pos": "verb"
-      },
-      {
         "word": "admittancal",
         "pos": "adjective"
+      },
+      {
+        "word": "admittanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "admittance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "admittance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 858,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,7 +635,7 @@
     "word": "adnascence",
     "pos": "noun",
     "phonetic": "/adnascence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -648,43 +648,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adnascence.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADNASCENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADNASCENCE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adnascence.",
+      "story_en": "A student remembers ADNASCENCE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADNASCENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adnascence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adnascence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adnascence as an important part of the issue.",
+    "example_zh": "報告將 adnascence 作為該議題的重要部分來討論。",
     "collocations": [
-      "adnascence analysis",
-      "adnascence process",
-      "adnascence framework",
-      "address adnascence",
-      "evaluate adnascence"
+      "key adnascence",
+      "adnascence factor",
+      "adnascence role",
+      "adnascence in context",
+      "adnascence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adnascence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adnascence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adnascence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adnascence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "noun"
       },
       {
-        "word": "adnasc",
-        "pos": "verb"
-      },
-      {
         "word": "adnascencal",
         "pos": "adjective"
+      },
+      {
+        "word": "adnascenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adnascence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adnascence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 859,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,7 +714,7 @@
     "word": "adnation",
     "pos": "noun",
     "phonetic": "/adnation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -727,43 +727,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adnation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADNATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADNATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adnation.",
+      "story_en": "A student remembers ADNATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADNATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adnation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adnation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adnation as an important part of the issue.",
+    "example_zh": "報告將 adnation 作為該議題的重要部分來討論。",
     "collocations": [
-      "adnation analysis",
-      "adnation process",
-      "adnation framework",
-      "address adnation",
-      "evaluate adnation"
+      "key adnation",
+      "adnation factor",
+      "adnation role",
+      "adnation in context",
+      "adnation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adnation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adnation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adnation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adnation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "noun"
       },
       {
-        "word": "adn",
-        "pos": "verb"
-      },
-      {
         "word": "adnational",
         "pos": "adjective"
+      },
+      {
+        "word": "adnationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adnation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adnation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 860,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -793,7 +793,7 @@
     "word": "adolescence",
     "pos": "noun",
     "phonetic": "/adolescence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -806,43 +806,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adolescence.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADOLESCENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADOLESCENCE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adolescence.",
+      "story_en": "A student remembers ADOLESCENCE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADOLESCENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adolescence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adolescence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adolescence as an important part of the issue.",
+    "example_zh": "報告將 adolescence 作為該議題的重要部分來討論。",
     "collocations": [
-      "adolescence analysis",
-      "adolescence process",
-      "adolescence framework",
-      "address adolescence",
-      "evaluate adolescence"
+      "key adolescence",
+      "adolescence factor",
+      "adolescence role",
+      "adolescence in context",
+      "adolescence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adolescence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adolescence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adolescence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adolescence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -850,15 +850,15 @@
         "pos": "noun"
       },
       {
-        "word": "adolesc",
-        "pos": "verb"
-      },
-      {
         "word": "adolescencal",
         "pos": "adjective"
+      },
+      {
+        "word": "adolescenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adolescence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adolescence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 861,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -872,7 +872,7 @@
     "word": "adoperation",
     "pos": "noun",
     "phonetic": "/adoperation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -885,43 +885,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adoperation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADOPERATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADOPERATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adoperation.",
+      "story_en": "A student remembers ADOPERATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADOPERATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adoperation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adoperation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adoperation as an important part of the issue.",
+    "example_zh": "報告將 adoperation 作為該議題的重要部分來討論。",
     "collocations": [
-      "adoperation analysis",
-      "adoperation process",
-      "adoperation framework",
-      "address adoperation",
-      "evaluate adoperation"
+      "key adoperation",
+      "adoperation factor",
+      "adoperation role",
+      "adoperation in context",
+      "adoperation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adoperation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adoperation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adoperation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adoperation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -929,78 +929,78 @@
         "pos": "noun"
       },
       {
-        "word": "adoper",
-        "pos": "verb"
-      },
-      {
         "word": "adoperational",
         "pos": "adjective"
+      },
+      {
+        "word": "adoperationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adoperation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adoperation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 862,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "adoptable",
     "pos": "adjective",
     "phonetic": "/adoptable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of adoptable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADOPTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADOPTABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adoptable.",
+      "story_en": "A student remembers ADOPTABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADOPTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adoptable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adoptable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adoptable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adoptable 因素。",
     "collocations": [
-      "adoptable analysis",
-      "adoptable process",
-      "adoptable framework",
-      "address adoptable",
-      "evaluate adoptable"
+      "adoptable approach",
+      "adoptable factor",
+      "adoptable issue",
+      "adoptable evidence",
+      "adoptable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adoptable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adoptable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adoptable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adoptable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adoptable",
-        "pos": "verb"
-      },
-      {
         "word": "adoptablal",
         "pos": "adjective"
+      },
+      {
+        "word": "adoptableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adoptable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adoptable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 863,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,7 +1030,7 @@
     "word": "adoptative",
     "pos": "adjective",
     "phonetic": "/adoptative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1043,43 +1043,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adoptative.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADOPTATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADOPTATIVE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adoptative.",
+      "story_en": "A student remembers ADOPTATIVE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADOPTATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adoptative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adoptative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adoptative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adoptative 因素。",
     "collocations": [
-      "adoptative analysis",
-      "adoptative process",
-      "adoptative framework",
-      "address adoptative",
-      "evaluate adoptative"
+      "adoptative approach",
+      "adoptative factor",
+      "adoptative issue",
+      "adoptative evidence",
+      "adoptative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adoptative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adoptative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adoptative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adoptative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adoptative",
-        "pos": "verb"
-      },
-      {
         "word": "adoptatival",
         "pos": "adjective"
+      },
+      {
+        "word": "adoptativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adoptative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adoptative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 864,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1109,56 +1109,56 @@
     "word": "adorable",
     "pos": "adjective",
     "phonetic": "/adorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of adorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADORABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adorable.",
+      "story_en": "A student remembers ADORABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adorable 因素。",
     "collocations": [
-      "adorable analysis",
-      "adorable process",
-      "adorable framework",
-      "address adorable",
-      "evaluate adorable"
+      "adorable approach",
+      "adorable factor",
+      "adorable issue",
+      "adorable evidence",
+      "adorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adorable",
-        "pos": "verb"
-      },
-      {
         "word": "adorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "adorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 865,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,7 +1188,7 @@
     "word": "adoration",
     "pos": "noun",
     "phonetic": "/adoration/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1201,43 +1201,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adoration.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADORATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADORATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adoration.",
+      "story_en": "A student remembers ADORATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADORATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adoration to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adoration 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adoration as an important part of the issue.",
+    "example_zh": "報告將 adoration 作為該議題的重要部分來討論。",
     "collocations": [
-      "adoration analysis",
-      "adoration process",
-      "adoration framework",
-      "address adoration",
-      "evaluate adoration"
+      "key adoration",
+      "adoration factor",
+      "adoration role",
+      "adoration in context",
+      "adoration and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adoration is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adoration is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adoration follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adoration follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1245,29 +1245,29 @@
         "pos": "noun"
       },
       {
-        "word": "ador",
-        "pos": "verb"
-      },
-      {
         "word": "adorational",
         "pos": "adjective"
+      },
+      {
+        "word": "adorationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adoration is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adoration is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 866,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "adoratory",
     "pos": "adjective",
     "phonetic": "/adoratory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1280,43 +1280,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adoratory.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADORATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADORATORY，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adoratory.",
+      "story_en": "A student remembers ADORATORY by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADORATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adoratory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adoratory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adoratory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adoratory 因素。",
     "collocations": [
-      "adoratory analysis",
-      "adoratory process",
-      "adoratory framework",
-      "address adoratory",
-      "evaluate adoratory"
+      "adoratory approach",
+      "adoratory factor",
+      "adoratory issue",
+      "adoratory evidence",
+      "adoratory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adoratory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adoratory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adoratory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adoratory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adoratory",
-        "pos": "verb"
-      },
-      {
         "word": "adoratoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "adoratoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adoratory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adoratory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 867,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1346,56 +1346,56 @@
     "word": "adsorbable",
     "pos": "adjective",
     "phonetic": "/adsorbable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of adsorbable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADSORBABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADSORBABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adsorbable.",
+      "story_en": "A student remembers ADSORBABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADSORBABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adsorbable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adsorbable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adsorbable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adsorbable 因素。",
     "collocations": [
-      "adsorbable analysis",
-      "adsorbable process",
-      "adsorbable framework",
-      "address adsorbable",
-      "evaluate adsorbable"
+      "adsorbable approach",
+      "adsorbable factor",
+      "adsorbable issue",
+      "adsorbable evidence",
+      "adsorbable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adsorbable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adsorbable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adsorbable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adsorbable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adsorbable",
-        "pos": "verb"
-      },
-      {
         "word": "adsorbablal",
         "pos": "adjective"
+      },
+      {
+        "word": "adsorbableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adsorbable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adsorbable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 868,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1425,7 +1425,7 @@
     "word": "adulation",
     "pos": "noun",
     "phonetic": "/adulation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1438,43 +1438,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adulation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADULATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adulation.",
+      "story_en": "A student remembers ADULATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adulation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adulation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adulation as an important part of the issue.",
+    "example_zh": "報告將 adulation 作為該議題的重要部分來討論。",
     "collocations": [
-      "adulation analysis",
-      "adulation process",
-      "adulation framework",
-      "address adulation",
-      "evaluate adulation"
+      "key adulation",
+      "adulation factor",
+      "adulation role",
+      "adulation in context",
+      "adulation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adulation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adulation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adulation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adulation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "noun"
       },
       {
-        "word": "adul",
-        "pos": "verb"
-      },
-      {
         "word": "adulational",
         "pos": "adjective"
+      },
+      {
+        "word": "adulationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adulation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adulation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 869,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,7 +1504,7 @@
     "word": "adulatory",
     "pos": "adjective",
     "phonetic": "/adulatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1517,43 +1517,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adulatory.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADULATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADULATORY，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adulatory.",
+      "story_en": "A student remembers ADULATORY by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADULATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adulatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adulatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adulatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adulatory 因素。",
     "collocations": [
-      "adulatory analysis",
-      "adulatory process",
-      "adulatory framework",
-      "address adulatory",
-      "evaluate adulatory"
+      "adulatory approach",
+      "adulatory factor",
+      "adulatory issue",
+      "adulatory evidence",
+      "adulatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adulatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adulatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adulatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adulatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adulatory",
-        "pos": "verb"
-      },
-      {
         "word": "adulatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "adulatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adulatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adulatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 870,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,7 +1583,7 @@
     "word": "adumbration",
     "pos": "noun",
     "phonetic": "/adumbration/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1596,43 +1596,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adumbration.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADUMBRATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADUMBRATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adumbration.",
+      "story_en": "A student remembers ADUMBRATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADUMBRATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adumbration to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adumbration 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses adumbration as an important part of the issue.",
+    "example_zh": "報告將 adumbration 作為該議題的重要部分來討論。",
     "collocations": [
-      "adumbration analysis",
-      "adumbration process",
-      "adumbration framework",
-      "address adumbration",
-      "evaluate adumbration"
+      "key adumbration",
+      "adumbration factor",
+      "adumbration role",
+      "adumbration in context",
+      "adumbration and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adumbration is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adumbration is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adumbration follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adumbration follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,29 +1640,29 @@
         "pos": "noun"
       },
       {
-        "word": "adumbr",
-        "pos": "verb"
-      },
-      {
         "word": "adumbrational",
         "pos": "adjective"
+      },
+      {
+        "word": "adumbrationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adumbration is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adumbration is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 871,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "adumbrative",
     "pos": "adjective",
     "phonetic": "/adumbrative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1675,43 +1675,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adumbrative.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADUMBRATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADUMBRATIVE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adumbrative.",
+      "story_en": "A student remembers ADUMBRATIVE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADUMBRATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adumbrative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adumbrative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adumbrative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adumbrative 因素。",
     "collocations": [
-      "adumbrative analysis",
-      "adumbrative process",
-      "adumbrative framework",
-      "address adumbrative",
-      "evaluate adumbrative"
+      "adumbrative approach",
+      "adumbrative factor",
+      "adumbrative issue",
+      "adumbrative evidence",
+      "adumbrative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adumbrative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adumbrative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adumbrative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adumbrative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adumbrative",
-        "pos": "verb"
-      },
-      {
         "word": "adumbratival",
         "pos": "adjective"
+      },
+      {
+        "word": "adumbrativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adumbrative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adumbrative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 872,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,7 +1741,7 @@
     "word": "advance",
     "pos": "noun",
     "phonetic": "/advance/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1754,43 +1754,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advance.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVANCE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advance.",
+      "story_en": "A student remembers ADVANCE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses advance as an important part of the issue.",
+    "example_zh": "報告將 advance 作為該議題的重要部分來討論。",
     "collocations": [
-      "advance analysis",
-      "advance process",
-      "advance framework",
-      "address advance",
-      "evaluate advance"
+      "key advance",
+      "advance factor",
+      "advance role",
+      "advance in context",
+      "advance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "noun"
       },
       {
-        "word": "adv",
-        "pos": "verb"
-      },
-      {
         "word": "advancal",
         "pos": "adjective"
+      },
+      {
+        "word": "advanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 873,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "advanceable",
     "pos": "adjective",
     "phonetic": "/advanceable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of advanceable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADVANCEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADVANCEABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advanceable.",
+      "story_en": "A student remembers ADVANCEABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVANCEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advanceable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advanceable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a advanceable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 advanceable 因素。",
     "collocations": [
-      "advanceable analysis",
-      "advanceable process",
-      "advanceable framework",
-      "address advanceable",
-      "evaluate advanceable"
+      "advanceable approach",
+      "advanceable factor",
+      "advanceable issue",
+      "advanceable evidence",
+      "advanceable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advanceable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advanceable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advanceable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advanceable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "adjective"
       },
       {
-        "word": "advanceable",
-        "pos": "verb"
-      },
-      {
         "word": "advanceablal",
         "pos": "adjective"
+      },
+      {
+        "word": "advanceableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advanceable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advanceable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 874,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,7 +1899,7 @@
     "word": "advancement",
     "pos": "adjective",
     "phonetic": "/advancement/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1912,43 +1912,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advancement.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVANCEMENT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVANCEMENT，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advancement.",
+      "story_en": "A student remembers ADVANCEMENT by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVANCEMENT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advancement to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advancement 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a advancement factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 advancement 因素。",
     "collocations": [
-      "advancement analysis",
-      "advancement process",
-      "advancement framework",
-      "address advancement",
-      "evaluate advancement"
+      "advancement approach",
+      "advancement factor",
+      "advancement issue",
+      "advancement evidence",
+      "advancement context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advancement is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advancement is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advancement follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advancement follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "adjective"
       },
       {
-        "word": "advance",
-        "pos": "verb"
-      },
-      {
         "word": "advancemental",
         "pos": "adjective"
+      },
+      {
+        "word": "advancemention",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advancement is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advancement is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 875,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1978,7 +1978,7 @@
     "word": "advenience",
     "pos": "noun",
     "phonetic": "/advenience/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1991,43 +1991,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advenience.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVENIENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVENIENCE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advenience.",
+      "story_en": "A student remembers ADVENIENCE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVENIENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advenience to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advenience 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses advenience as an important part of the issue.",
+    "example_zh": "報告將 advenience 作為該議題的重要部分來討論。",
     "collocations": [
-      "advenience analysis",
-      "advenience process",
-      "advenience framework",
-      "address advenience",
-      "evaluate advenience"
+      "key advenience",
+      "advenience factor",
+      "advenience role",
+      "advenience in context",
+      "advenience and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advenience is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advenience is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advenience follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advenience follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "noun"
       },
       {
-        "word": "adveni",
-        "pos": "verb"
-      },
-      {
         "word": "adveniencal",
         "pos": "adjective"
+      },
+      {
+        "word": "advenienceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advenience is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advenience is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 876,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,7 +2057,7 @@
     "word": "adversative",
     "pos": "adjective",
     "phonetic": "/adversative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2070,43 +2070,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of adversative.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVERSATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVERSATIVE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of adversative.",
+      "story_en": "A student remembers ADVERSATIVE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVERSATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses adversative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 adversative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a adversative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 adversative 因素。",
     "collocations": [
-      "adversative analysis",
-      "adversative process",
-      "adversative framework",
-      "address adversative",
-      "evaluate adversative"
+      "adversative approach",
+      "adversative factor",
+      "adversative issue",
+      "adversative evidence",
+      "adversative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; adversative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; adversative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while adversative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; adversative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "adversative",
-        "pos": "verb"
-      },
-      {
         "word": "adversatival",
         "pos": "adjective"
+      },
+      {
+        "word": "adversativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "adversative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "adversative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 877,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,56 +2136,56 @@
     "word": "advertence",
     "pos": "noun",
     "phonetic": "/advertence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "ten",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "to hold",
+          "meaning_zh": "握住、持有"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advertence.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVERTENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVERTENCE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of advertence.",
+      "story_en": "A student remembers ADVERTENCE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 ADVERTENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advertence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advertence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses advertence as an important part of the issue.",
+    "example_zh": "報告將 advertence 作為該議題的重要部分來討論。",
     "collocations": [
-      "advertence analysis",
-      "advertence process",
-      "advertence framework",
-      "address advertence",
-      "evaluate advertence"
+      "key advertence",
+      "advertence factor",
+      "advertence role",
+      "advertence in context",
+      "advertence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advertence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advertence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advertence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advertence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "noun"
       },
       {
-        "word": "advert",
-        "pos": "verb"
-      },
-      {
         "word": "advertencal",
         "pos": "adjective"
+      },
+      {
+        "word": "advertenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advertence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advertence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 878,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2215,56 +2215,56 @@
     "word": "advisable",
     "pos": "adjective",
     "phonetic": "/advisable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to see, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "vis",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to see",
+          "meaning_zh": "看"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of advisable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ADVISABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ADVISABLE，把它記成精準的學術單字。",
+      "root_memory": "VIS = to see; connect this root idea with the meaning of advisable.",
+      "story_en": "A student remembers ADVISABLE by linking VIS to a real academic or professional situation.",
+      "story_zh": "學生把字根 VIS 和 ADVISABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advisable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advisable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a advisable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 advisable 因素。",
     "collocations": [
-      "advisable analysis",
-      "advisable process",
-      "advisable framework",
-      "address advisable",
-      "evaluate advisable"
+      "advisable approach",
+      "advisable factor",
+      "advisable issue",
+      "advisable evidence",
+      "advisable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advisable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advisable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advisable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advisable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "adjective"
       },
       {
-        "word": "advisable",
-        "pos": "verb"
-      },
-      {
         "word": "advisablal",
         "pos": "adjective"
+      },
+      {
+        "word": "advisableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advisable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advisable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 879,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "advisatory",
     "pos": "adjective",
     "phonetic": "/advisatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to see, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "vis",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "to see",
+          "meaning_zh": "看"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advisatory.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVISATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVISATORY，把它記成精準的學術單字。",
+      "root_memory": "VIS = to see; connect this root idea with the meaning of advisatory.",
+      "story_en": "A student remembers ADVISATORY by linking VIS to a real academic or professional situation.",
+      "story_zh": "學生把字根 VIS 和 ADVISATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advisatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advisatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a advisatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 advisatory 因素。",
     "collocations": [
-      "advisatory analysis",
-      "advisatory process",
-      "advisatory framework",
-      "address advisatory",
-      "evaluate advisatory"
+      "advisatory approach",
+      "advisatory factor",
+      "advisatory issue",
+      "advisatory evidence",
+      "advisatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advisatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advisatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advisatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advisatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "advisatory",
-        "pos": "verb"
-      },
-      {
         "word": "advisatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "advisatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advisatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advisatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 880,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,7 +2373,7 @@
     "word": "advocation",
     "pos": "noun",
     "phonetic": "/advocation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -2386,43 +2386,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advocation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVOCATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVOCATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advocation.",
+      "story_en": "A student remembers ADVOCATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVOCATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advocation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advocation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses advocation as an important part of the issue.",
+    "example_zh": "報告將 advocation 作為該議題的重要部分來討論。",
     "collocations": [
-      "advocation analysis",
-      "advocation process",
-      "advocation framework",
-      "address advocation",
-      "evaluate advocation"
+      "key advocation",
+      "advocation factor",
+      "advocation role",
+      "advocation in context",
+      "advocation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advocation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advocation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advocation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advocation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "noun"
       },
       {
-        "word": "advoc",
-        "pos": "verb"
-      },
-      {
         "word": "advocational",
         "pos": "adjective"
+      },
+      {
+        "word": "advocationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advocation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advocation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 881,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,7 +2452,7 @@
     "word": "advocatory",
     "pos": "adjective",
     "phonetic": "/advocatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2465,43 +2465,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of advocatory.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember ADVOCATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 ADVOCATORY，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of advocatory.",
+      "story_en": "A student remembers ADVOCATORY by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 ADVOCATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses advocatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 advocatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a advocatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 advocatory 因素。",
     "collocations": [
-      "advocatory analysis",
-      "advocatory process",
-      "advocatory framework",
-      "address advocatory",
-      "evaluate advocatory"
+      "advocatory approach",
+      "advocatory factor",
+      "advocatory issue",
+      "advocatory evidence",
+      "advocatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; advocatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; advocatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while advocatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; advocatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "adjective"
       },
       {
-        "word": "advocatory",
-        "pos": "verb"
-      },
-      {
         "word": "advocatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "advocatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "advocatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "advocatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 882,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2531,56 +2531,56 @@
     "word": "aerologic",
     "pos": "adjective",
     "phonetic": "/aerologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of aerologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember AEROLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 AEROLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of aerologic.",
+      "story_en": "A student remembers AEROLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 AEROLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aerologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aerologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a aerologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 aerologic 因素。",
     "collocations": [
-      "aerologic analysis",
-      "aerologic process",
-      "aerologic framework",
-      "address aerologic",
-      "evaluate aerologic"
+      "aerologic approach",
+      "aerologic factor",
+      "aerologic issue",
+      "aerologic evidence",
+      "aerologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aerologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aerologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aerologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aerologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,21 +2588,21 @@
         "pos": "adjective"
       },
       {
-        "word": "aerologic",
-        "pos": "verb"
-      },
-      {
         "word": "aerological",
         "pos": "adjective"
+      },
+      {
+        "word": "aerologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aerologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aerologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 883,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2610,56 +2610,56 @@
     "word": "aerological",
     "pos": "adjective",
     "phonetic": "/aerological/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of aerological.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember AEROLOGICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 AEROLOGICAL，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of aerological.",
+      "story_en": "A student remembers AEROLOGICAL by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 AEROLOGICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aerological to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aerological 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a aerological factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 aerological 因素。",
     "collocations": [
-      "aerological analysis",
-      "aerological process",
-      "aerological framework",
-      "address aerological",
-      "evaluate aerological"
+      "aerological approach",
+      "aerological factor",
+      "aerological issue",
+      "aerological evidence",
+      "aerological context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aerological is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aerological is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aerological follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aerological follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,21 +2667,21 @@
         "pos": "adjective"
       },
       {
-        "word": "aerological",
-        "pos": "verb"
-      },
-      {
         "word": "aerologicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "aerologicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aerological is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aerological is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 884,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2689,7 +2689,7 @@
     "word": "aerostation",
     "pos": "noun",
     "phonetic": "/aerostation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -2702,43 +2702,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of aerostation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember AEROSTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 AEROSTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of aerostation.",
+      "story_en": "A student remembers AEROSTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 AEROSTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aerostation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aerostation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses aerostation as an important part of the issue.",
+    "example_zh": "報告將 aerostation 作為該議題的重要部分來討論。",
     "collocations": [
-      "aerostation analysis",
-      "aerostation process",
-      "aerostation framework",
-      "address aerostation",
-      "evaluate aerostation"
+      "key aerostation",
+      "aerostation factor",
+      "aerostation role",
+      "aerostation in context",
+      "aerostation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aerostation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aerostation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aerostation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aerostation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "noun"
       },
       {
-        "word": "aerost",
-        "pos": "verb"
-      },
-      {
         "word": "aerostational",
         "pos": "adjective"
+      },
+      {
+        "word": "aerostationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aerostation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aerostation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 885,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2768,56 +2768,56 @@
     "word": "affable",
     "pos": "adjective",
     "phonetic": "/affable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "affable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of affable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AFFABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AFFABLE，把它記成精準的學術單字。",
+      "root_memory": "AFFABLE = base form or inherited word element; connect this root idea with the meaning of affable.",
+      "story_en": "A student remembers AFFABLE by linking AFFABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFABLE 和 AFFABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a affable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 affable 因素。",
     "collocations": [
-      "affable analysis",
-      "affable process",
-      "affable framework",
-      "address affable",
-      "evaluate affable"
+      "affable approach",
+      "affable factor",
+      "affable issue",
+      "affable evidence",
+      "affable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "adjective"
       },
       {
-        "word": "affable",
-        "pos": "verb"
-      },
-      {
         "word": "affablal",
         "pos": "adjective"
+      },
+      {
+        "word": "affableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 886,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,56 +2847,56 @@
     "word": "affectable",
     "pos": "adjective",
     "phonetic": "/affectable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "affecta",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of affectable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AFFECTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AFFECTABLE，把它記成精準的學術單字。",
+      "root_memory": "AFFECTA = base form or inherited word element; connect this root idea with the meaning of affectable.",
+      "story_en": "A student remembers AFFECTABLE by linking AFFECTA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFECTA 和 AFFECTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affectable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affectable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a affectable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 affectable 因素。",
     "collocations": [
-      "affectable analysis",
-      "affectable process",
-      "affectable framework",
-      "address affectable",
-      "evaluate affectable"
+      "affectable approach",
+      "affectable factor",
+      "affectable issue",
+      "affectable evidence",
+      "affectable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affectable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affectable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affectable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affectable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "adjective"
       },
       {
-        "word": "affectable",
-        "pos": "verb"
-      },
-      {
         "word": "affectablal",
         "pos": "adjective"
+      },
+      {
+        "word": "affectableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affectable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affectable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 887,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "affiliable",
     "pos": "adjective",
     "phonetic": "/affiliable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "affilia",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of affiliable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AFFILIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AFFILIABLE，把它記成精準的學術單字。",
+      "root_memory": "AFFILIA = base form or inherited word element; connect this root idea with the meaning of affiliable.",
+      "story_en": "A student remembers AFFILIABLE by linking AFFILIA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFILIA 和 AFFILIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affiliable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affiliable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a affiliable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 affiliable 因素。",
     "collocations": [
-      "affiliable analysis",
-      "affiliable process",
-      "affiliable framework",
-      "address affiliable",
-      "evaluate affiliable"
+      "affiliable approach",
+      "affiliable factor",
+      "affiliable issue",
+      "affiliable evidence",
+      "affiliable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affiliable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affiliable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affiliable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affiliable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,78 +2983,78 @@
         "pos": "adjective"
       },
       {
-        "word": "affiliable",
-        "pos": "verb"
-      },
-      {
         "word": "affiliablal",
         "pos": "adjective"
+      },
+      {
+        "word": "affiliableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affiliable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affiliable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 888,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "law",
+      "college",
       "academic",
-      "college"
+      "IELTS"
     ]
   },
   {
     "word": "affination",
     "pos": "noun",
     "phonetic": "/affination/",
-    "definition": "A formal English word used to describe a concept or condition connected with end, boundary; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to in, into, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "fin",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "end, boundary",
-          "meaning_zh": "結束、界線"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FIN = end, boundary; connect the root idea with the meaning of affination.",
-      "story_en": "In a university report, the highlighted root FIN helps the student remember AFFINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FIN 聯想到 AFFINATION，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of affination.",
+      "story_en": "A student remembers AFFINATION by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 AFFINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses affination as an important part of the issue.",
+    "example_zh": "報告將 affination 作為該議題的重要部分來討論。",
     "collocations": [
-      "affination analysis",
-      "affination process",
-      "affination framework",
-      "address affination",
-      "evaluate affination"
+      "key affination",
+      "affination factor",
+      "affination role",
+      "affination in context",
+      "affination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "noun"
       },
       {
-        "word": "affin",
-        "pos": "verb"
-      },
-      {
         "word": "affinational",
         "pos": "adjective"
+      },
+      {
+        "word": "affinationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 889,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3084,56 +3084,56 @@
     "word": "affirmable",
     "pos": "adjective",
     "phonetic": "/affirmable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "affirma",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of affirmable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AFFIRMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AFFIRMABLE，把它記成精準的學術單字。",
+      "root_memory": "AFFIRMA = base form or inherited word element; connect this root idea with the meaning of affirmable.",
+      "story_en": "A student remembers AFFIRMABLE by linking AFFIRMA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFIRMA 和 AFFIRMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affirmable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affirmable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a affirmable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 affirmable 因素。",
     "collocations": [
-      "affirmable analysis",
-      "affirmable process",
-      "affirmable framework",
-      "address affirmable",
-      "evaluate affirmable"
+      "affirmable approach",
+      "affirmable factor",
+      "affirmable issue",
+      "affirmable evidence",
+      "affirmable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affirmable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affirmable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affirmable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affirmable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "affirmable",
-        "pos": "verb"
-      },
-      {
         "word": "affirmablal",
         "pos": "adjective"
+      },
+      {
+        "word": "affirmableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affirmable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affirmable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 890,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "affirmance",
     "pos": "noun",
     "phonetic": "/affirmance/",
-    "definition": "A formal English word used to describe a concept or condition connected with hand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "man",
-          "origin": "Latin",
-          "meaning": "hand",
-          "meaning_zh": "手"
+          "root": "affirm",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "MAN = hand; connect the root idea with the meaning of affirmance.",
-      "story_en": "In a university report, the highlighted root MAN helps the student remember AFFIRMANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MAN 聯想到 AFFIRMANCE，把它記成精準的學術單字。",
+      "root_memory": "AFFIRM = base form or inherited word element; connect this root idea with the meaning of affirmance.",
+      "story_en": "A student remembers AFFIRMANCE by linking AFFIRM to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFIRM 和 AFFIRMANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affirmance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affirmance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses affirmance as an important part of the issue.",
+    "example_zh": "報告將 affirmance 作為該議題的重要部分來討論。",
     "collocations": [
-      "affirmance analysis",
-      "affirmance process",
-      "affirmance framework",
-      "address affirmance",
-      "evaluate affirmance"
+      "key affirmance",
+      "affirmance factor",
+      "affirmance role",
+      "affirmance in context",
+      "affirmance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affirmance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affirmance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affirmance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affirmance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "noun"
       },
       {
-        "word": "affirm",
-        "pos": "verb"
-      },
-      {
         "word": "affirmancal",
         "pos": "adjective"
+      },
+      {
+        "word": "affirmanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affirmance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affirmance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 891,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,56 +3242,56 @@
     "word": "afflation",
     "pos": "noun",
     "phonetic": "/afflation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "affl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of afflation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember AFFLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 AFFLATION，把它記成精準的學術單字。",
+      "root_memory": "AFFL = base form or inherited word element; connect this root idea with the meaning of afflation.",
+      "story_en": "A student remembers AFFLATION by linking AFFL to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFL 和 AFFLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses afflation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 afflation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses afflation as an important part of the issue.",
+    "example_zh": "報告將 afflation 作為該議題的重要部分來討論。",
     "collocations": [
-      "afflation analysis",
-      "afflation process",
-      "afflation framework",
-      "address afflation",
-      "evaluate afflation"
+      "key afflation",
+      "afflation factor",
+      "afflation role",
+      "afflation in context",
+      "afflation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; afflation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; afflation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while afflation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; afflation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "noun"
       },
       {
-        "word": "affl",
-        "pos": "verb"
-      },
-      {
         "word": "afflational",
         "pos": "adjective"
+      },
+      {
+        "word": "afflationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "afflation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "afflation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 892,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3321,56 +3321,56 @@
     "word": "affordable",
     "pos": "adjective",
     "phonetic": "/affordable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "afforda",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of affordable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AFFORDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AFFORDABLE，把它記成精準的學術單字。",
+      "root_memory": "AFFORDA = base form or inherited word element; connect this root idea with the meaning of affordable.",
+      "story_en": "A student remembers AFFORDABLE by linking AFFORDA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AFFORDA 和 AFFORDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses affordable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 affordable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a affordable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 affordable 因素。",
     "collocations": [
-      "affordable analysis",
-      "affordable process",
-      "affordable framework",
-      "address affordable",
-      "evaluate affordable"
+      "affordable approach",
+      "affordable factor",
+      "affordable issue",
+      "affordable evidence",
+      "affordable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; affordable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; affordable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while affordable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; affordable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "affordable",
-        "pos": "verb"
-      },
-      {
         "word": "affordablal",
         "pos": "adjective"
+      },
+      {
+        "word": "affordableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "affordable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "affordable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 893,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "afformative",
     "pos": "adjective",
     "phonetic": "/afformative/",
-    "definition": "A formal English word used to describe a quality or condition connected with shape; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to shape, form, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "form",
           "origin": "Latin",
-          "meaning": "shape",
-          "meaning_zh": "形狀"
+          "meaning": "shape, form",
+          "meaning_zh": "形狀、形式"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FORM = shape; connect the root idea with the meaning of afformative.",
-      "story_en": "In a university report, the highlighted root FORM helps the student remember AFFORMATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FORM 聯想到 AFFORMATIVE，把它記成精準的學術單字。",
+      "root_memory": "FORM = shape, form; connect this root idea with the meaning of afformative.",
+      "story_en": "A student remembers AFFORMATIVE by linking FORM to a real academic or professional situation.",
+      "story_zh": "學生把字根 FORM 和 AFFORMATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses afformative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 afformative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a afformative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 afformative 因素。",
     "collocations": [
-      "afformative analysis",
-      "afformative process",
-      "afformative framework",
-      "address afformative",
-      "evaluate afformative"
+      "afformative approach",
+      "afformative factor",
+      "afformative issue",
+      "afformative evidence",
+      "afformative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; afformative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; afformative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while afformative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; afformative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "afformative",
-        "pos": "verb"
-      },
-      {
         "word": "afformatival",
         "pos": "adjective"
+      },
+      {
+        "word": "afformativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "afformative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "afformative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 894,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,7 +3479,7 @@
     "word": "aggradation",
     "pos": "noun",
     "phonetic": "/aggradation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to, toward, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3492,43 +3492,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of aggradation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember AGGRADATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 AGGRADATION，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of aggradation.",
+      "story_en": "A student remembers AGGRADATION by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 AGGRADATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aggradation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aggradation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses aggradation as an important part of the issue.",
+    "example_zh": "報告將 aggradation 作為該議題的重要部分來討論。",
     "collocations": [
-      "aggradation analysis",
-      "aggradation process",
-      "aggradation framework",
-      "address aggradation",
-      "evaluate aggradation"
+      "key aggradation",
+      "aggradation factor",
+      "aggradation role",
+      "aggradation in context",
+      "aggradation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aggradation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aggradation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aggradation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aggradation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "noun"
       },
       {
-        "word": "aggrad",
-        "pos": "verb"
-      },
-      {
         "word": "aggradational",
         "pos": "adjective"
+      },
+      {
+        "word": "aggradationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aggradation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aggradation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 895,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "aggregable",
     "pos": "adjective",
     "phonetic": "/aggregable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to rule, guide, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "reg",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "rule, guide",
+          "meaning_zh": "規則、引導"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of aggregable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AGGREGABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AGGREGABLE，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of aggregable.",
+      "story_en": "A student remembers AGGREGABLE by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 AGGREGABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aggregable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aggregable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a aggregable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 aggregable 因素。",
     "collocations": [
-      "aggregable analysis",
-      "aggregable process",
-      "aggregable framework",
-      "address aggregable",
-      "evaluate aggregable"
+      "aggregable approach",
+      "aggregable factor",
+      "aggregable issue",
+      "aggregable evidence",
+      "aggregable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aggregable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aggregable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aggregable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aggregable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "adjective"
       },
       {
-        "word": "aggregable",
-        "pos": "verb"
-      },
-      {
         "word": "aggregablal",
         "pos": "adjective"
+      },
+      {
+        "word": "aggregableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aggregable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aggregable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 896,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3637,7 +3637,7 @@
     "word": "aggregation",
     "pos": "noun",
     "phonetic": "/aggregation/",
-    "definition": "A formal English word used to describe a concept or condition connected with rule, guide; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to rule, guide, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3650,43 +3650,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "REG = rule, guide; connect the root idea with the meaning of aggregation.",
-      "story_en": "In a university report, the highlighted root REG helps the student remember AGGREGATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 REG 聯想到 AGGREGATION，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of aggregation.",
+      "story_en": "A student remembers AGGREGATION by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 AGGREGATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aggregation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aggregation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses aggregation as an important part of the issue.",
+    "example_zh": "報告將 aggregation 作為該議題的重要部分來討論。",
     "collocations": [
-      "aggregation analysis",
-      "aggregation process",
-      "aggregation framework",
-      "address aggregation",
-      "evaluate aggregation"
+      "key aggregation",
+      "aggregation factor",
+      "aggregation role",
+      "aggregation in context",
+      "aggregation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aggregation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aggregation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aggregation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aggregation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "noun"
       },
       {
-        "word": "aggreg",
-        "pos": "verb"
-      },
-      {
         "word": "aggregational",
         "pos": "adjective"
+      },
+      {
+        "word": "aggregationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aggregation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aggregation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 897,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,7 +3716,7 @@
     "word": "aggregative",
     "pos": "adjective",
     "phonetic": "/aggregative/",
-    "definition": "A formal English word used to describe a quality or condition connected with rule, guide; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to rule, guide, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3729,43 +3729,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "REG = rule, guide; connect the root idea with the meaning of aggregative.",
-      "story_en": "In a university report, the highlighted root REG helps the student remember AGGREGATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 REG 聯想到 AGGREGATIVE，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of aggregative.",
+      "story_en": "A student remembers AGGREGATIVE by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 AGGREGATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aggregative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aggregative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a aggregative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 aggregative 因素。",
     "collocations": [
-      "aggregative analysis",
-      "aggregative process",
-      "aggregative framework",
-      "address aggregative",
-      "evaluate aggregative"
+      "aggregative approach",
+      "aggregative factor",
+      "aggregative issue",
+      "aggregative evidence",
+      "aggregative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aggregative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aggregative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aggregative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aggregative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "adjective"
       },
       {
-        "word": "aggregative",
-        "pos": "verb"
-      },
-      {
         "word": "aggregatival",
         "pos": "adjective"
+      },
+      {
+        "word": "aggregativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aggregative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aggregative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 898,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,7 +3795,7 @@
     "word": "aggregatory",
     "pos": "adjective",
     "phonetic": "/aggregatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with rule, guide; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to rule, guide, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3808,43 +3808,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "REG = rule, guide; connect the root idea with the meaning of aggregatory.",
-      "story_en": "In a university report, the highlighted root REG helps the student remember AGGREGATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 REG 聯想到 AGGREGATORY，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of aggregatory.",
+      "story_en": "A student remembers AGGREGATORY by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 AGGREGATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aggregatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aggregatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a aggregatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 aggregatory 因素。",
     "collocations": [
-      "aggregatory analysis",
-      "aggregatory process",
-      "aggregatory framework",
-      "address aggregatory",
-      "evaluate aggregatory"
+      "aggregatory approach",
+      "aggregatory factor",
+      "aggregatory issue",
+      "aggregatory evidence",
+      "aggregatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aggregatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aggregatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aggregatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aggregatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "aggregatory",
-        "pos": "verb"
-      },
-      {
         "word": "aggregatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "aggregatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aggregatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aggregatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 899,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3874,56 +3874,56 @@
     "word": "agitable",
     "pos": "adjective",
     "phonetic": "/agitable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "agitabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of agitable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AGITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AGITABLE，把它記成精準的學術單字。",
+      "root_memory": "AGITABL = base form or inherited word element; connect this root idea with the meaning of agitable.",
+      "story_en": "A student remembers AGITABLE by linking AGITABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 AGITABL 和 AGITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses agitable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 agitable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a agitable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 agitable 因素。",
     "collocations": [
-      "agitable analysis",
-      "agitable process",
-      "agitable framework",
-      "address agitable",
-      "evaluate agitable"
+      "agitable approach",
+      "agitable factor",
+      "agitable issue",
+      "agitable evidence",
+      "agitable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; agitable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; agitable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while agitable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; agitable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "adjective"
       },
       {
-        "word": "agitable",
-        "pos": "verb"
-      },
-      {
         "word": "agitablal",
         "pos": "adjective"
+      },
+      {
+        "word": "agitableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "agitable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "agitable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 900,
     "frequency_source": "custom",
     "difficulty": "B2",

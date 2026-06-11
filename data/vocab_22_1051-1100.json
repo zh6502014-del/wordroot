@@ -3,7 +3,7 @@
     "word": "attendance",
     "pos": "noun",
     "phonetic": "/attendance/",
-    "definition": "A formal English word used to describe a concept or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -16,43 +16,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of attendance.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember ATTENDANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 ATTENDANCE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of attendance.",
+      "story_en": "A student remembers ATTENDANCE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 ATTENDANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attendance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attendance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses attendance as an important part of the issue.",
+    "example_zh": "報告將 attendance 作為該議題的重要部分來討論。",
     "collocations": [
-      "attendance analysis",
-      "attendance process",
-      "attendance framework",
-      "address attendance",
-      "evaluate attendance"
+      "key attendance",
+      "attendance factor",
+      "attendance role",
+      "attendance in context",
+      "attendance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attendance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attendance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attendance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attendance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "noun"
       },
       {
-        "word": "attend",
-        "pos": "verb"
-      },
-      {
         "word": "attendancal",
         "pos": "adjective"
+      },
+      {
+        "word": "attendanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attendance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attendance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1051,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,56 +82,56 @@
     "word": "attenuable",
     "pos": "adjective",
     "phonetic": "/attenuable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to hold, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ten",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to hold",
+          "meaning_zh": "握住、持有"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of attenuable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ATTENUABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ATTENUABLE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of attenuable.",
+      "story_en": "A student remembers ATTENUABLE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 ATTENUABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attenuable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attenuable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a attenuable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 attenuable 因素。",
     "collocations": [
-      "attenuable analysis",
-      "attenuable process",
-      "attenuable framework",
-      "address attenuable",
-      "evaluate attenuable"
+      "attenuable approach",
+      "attenuable factor",
+      "attenuable issue",
+      "attenuable evidence",
+      "attenuable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attenuable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attenuable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attenuable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attenuable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "adjective"
       },
       {
-        "word": "attenuable",
-        "pos": "verb"
-      },
-      {
         "word": "attenuablal",
         "pos": "adjective"
+      },
+      {
+        "word": "attenuableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attenuable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attenuable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1052,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,7 +161,7 @@
     "word": "attenuation",
     "pos": "noun",
     "phonetic": "/attenuation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -174,43 +174,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of attenuation.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember ATTENUATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 ATTENUATION，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of attenuation.",
+      "story_en": "A student remembers ATTENUATION by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 ATTENUATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attenuation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attenuation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses attenuation as an important part of the issue.",
+    "example_zh": "報告將 attenuation 作為該議題的重要部分來討論。",
     "collocations": [
-      "attenuation analysis",
-      "attenuation process",
-      "attenuation framework",
-      "address attenuation",
-      "evaluate attenuation"
+      "key attenuation",
+      "attenuation factor",
+      "attenuation role",
+      "attenuation in context",
+      "attenuation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attenuation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attenuation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attenuation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attenuation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "noun"
       },
       {
-        "word": "attenu",
-        "pos": "verb"
-      },
-      {
         "word": "attenuational",
         "pos": "adjective"
+      },
+      {
+        "word": "attenuationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attenuation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attenuation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1053,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,7 +240,7 @@
     "word": "attenuative",
     "pos": "adjective",
     "phonetic": "/attenuative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to hold, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -253,43 +253,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of attenuative.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember ATTENUATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 ATTENUATIVE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of attenuative.",
+      "story_en": "A student remembers ATTENUATIVE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 ATTENUATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attenuative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attenuative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a attenuative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 attenuative 因素。",
     "collocations": [
-      "attenuative analysis",
-      "attenuative process",
-      "attenuative framework",
-      "address attenuative",
-      "evaluate attenuative"
+      "attenuative approach",
+      "attenuative factor",
+      "attenuative issue",
+      "attenuative evidence",
+      "attenuative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attenuative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attenuative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attenuative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attenuative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "adjective"
       },
       {
-        "word": "attenuative",
-        "pos": "verb"
-      },
-      {
         "word": "attenuatival",
         "pos": "adjective"
+      },
+      {
+        "word": "attenuativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attenuative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attenuative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1054,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -319,56 +319,56 @@
     "word": "attestable",
     "pos": "adjective",
     "phonetic": "/attestable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "attesta",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of attestable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ATTESTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ATTESTABLE，把它記成精準的學術單字。",
+      "root_memory": "ATTESTA = base form or inherited word element; connect this root idea with the meaning of attestable.",
+      "story_en": "A student remembers ATTESTABLE by linking ATTESTA to a real academic or professional situation.",
+      "story_zh": "學生把字根 ATTESTA 和 ATTESTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attestable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attestable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a attestable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 attestable 因素。",
     "collocations": [
-      "attestable analysis",
-      "attestable process",
-      "attestable framework",
-      "address attestable",
-      "evaluate attestable"
+      "attestable approach",
+      "attestable factor",
+      "attestable issue",
+      "attestable evidence",
+      "attestable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attestable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attestable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attestable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attestable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "adjective"
       },
       {
-        "word": "attestable",
-        "pos": "verb"
-      },
-      {
         "word": "attestablal",
         "pos": "adjective"
+      },
+      {
+        "word": "attestableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attestable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attestable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1055,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,7 +398,7 @@
     "word": "attestation",
     "pos": "noun",
     "phonetic": "/attestation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -411,43 +411,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of attestation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember ATTESTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 ATTESTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of attestation.",
+      "story_en": "A student remembers ATTESTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 ATTESTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attestation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attestation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses attestation as an important part of the issue.",
+    "example_zh": "報告將 attestation 作為該議題的重要部分來討論。",
     "collocations": [
-      "attestation analysis",
-      "attestation process",
-      "attestation framework",
-      "address attestation",
-      "evaluate attestation"
+      "key attestation",
+      "attestation factor",
+      "attestation role",
+      "attestation in context",
+      "attestation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attestation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attestation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attestation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attestation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "noun"
       },
       {
-        "word": "attest",
-        "pos": "verb"
-      },
-      {
         "word": "attestational",
         "pos": "adjective"
+      },
+      {
+        "word": "attestationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attestation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attestation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1056,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,7 +477,7 @@
     "word": "attestative",
     "pos": "adjective",
     "phonetic": "/attestative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to stand, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -490,43 +490,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of attestative.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember ATTESTATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 ATTESTATIVE，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of attestative.",
+      "story_en": "A student remembers ATTESTATIVE by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 ATTESTATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attestative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attestative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a attestative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 attestative 因素。",
     "collocations": [
-      "attestative analysis",
-      "attestative process",
-      "attestative framework",
-      "address attestative",
-      "evaluate attestative"
+      "attestative approach",
+      "attestative factor",
+      "attestative issue",
+      "attestative evidence",
+      "attestative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attestative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attestative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attestative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attestative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "attestative",
-        "pos": "verb"
-      },
-      {
         "word": "attestatival",
         "pos": "adjective"
+      },
+      {
+        "word": "attestativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attestative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attestative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1057,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -556,56 +556,56 @@
     "word": "attingence",
     "pos": "noun",
     "phonetic": "/attingence/",
-    "definition": "A formal English word used to describe a concept or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to birth, origin, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of attingence.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember ATTINGENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 ATTINGENCE，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of attingence.",
+      "story_en": "A student remembers ATTINGENCE by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 ATTINGENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attingence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attingence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses attingence as an important part of the issue.",
+    "example_zh": "報告將 attingence 作為該議題的重要部分來討論。",
     "collocations": [
-      "attingence analysis",
-      "attingence process",
-      "attingence framework",
-      "address attingence",
-      "evaluate attingence"
+      "key attingence",
+      "attingence factor",
+      "attingence role",
+      "attingence in context",
+      "attingence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attingence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attingence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attingence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attingence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "noun"
       },
       {
-        "word": "atting",
-        "pos": "verb"
-      },
-      {
         "word": "attingencal",
         "pos": "adjective"
+      },
+      {
+        "word": "attingenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attingence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attingence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1058,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,56 +635,56 @@
     "word": "attractable",
     "pos": "adjective",
     "phonetic": "/attractable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to pull, draw, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "tract",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to pull, draw",
+          "meaning_zh": "拉、牽引"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of attractable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ATTRACTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ATTRACTABLE，把它記成精準的學術單字。",
+      "root_memory": "TRACT = to pull, draw; connect this root idea with the meaning of attractable.",
+      "story_en": "A student remembers ATTRACTABLE by linking TRACT to a real academic or professional situation.",
+      "story_zh": "學生把字根 TRACT 和 ATTRACTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses attractable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 attractable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a attractable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 attractable 因素。",
     "collocations": [
-      "attractable analysis",
-      "attractable process",
-      "attractable framework",
-      "address attractable",
-      "evaluate attractable"
+      "attractable approach",
+      "attractable factor",
+      "attractable issue",
+      "attractable evidence",
+      "attractable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; attractable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; attractable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while attractable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; attractable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "adjective"
       },
       {
-        "word": "attractable",
-        "pos": "verb"
-      },
-      {
         "word": "attractablal",
         "pos": "adjective"
+      },
+      {
+        "word": "attractableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "attractable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "attractable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1059,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,56 +714,56 @@
     "word": "augmentable",
     "pos": "adjective",
     "phonetic": "/augmentable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "augment",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of augmentable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AUGMENTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AUGMENTABLE，把它記成精準的學術單字。",
+      "root_memory": "AUGMENT = base form or inherited word element; connect this root idea with the meaning of augmentable.",
+      "story_en": "A student remembers AUGMENTABLE by linking AUGMENT to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUGMENT 和 AUGMENTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses augmentable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 augmentable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a augmentable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 augmentable 因素。",
     "collocations": [
-      "augmentable analysis",
-      "augmentable process",
-      "augmentable framework",
-      "address augmentable",
-      "evaluate augmentable"
+      "augmentable approach",
+      "augmentable factor",
+      "augmentable issue",
+      "augmentable evidence",
+      "augmentable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; augmentable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; augmentable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while augmentable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; augmentable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "adjective"
       },
       {
-        "word": "augmentable",
-        "pos": "verb"
-      },
-      {
         "word": "augmentablal",
         "pos": "adjective"
+      },
+      {
+        "word": "augmentableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "augmentable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "augmentable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1060,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -793,56 +793,56 @@
     "word": "autecologic",
     "pos": "adjective",
     "phonetic": "/autecologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of autecologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember AUTECOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 AUTECOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of autecologic.",
+      "story_en": "A student remembers AUTECOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 AUTECOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autecologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autecologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autecologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autecologic 因素。",
     "collocations": [
-      "autecologic analysis",
-      "autecologic process",
-      "autecologic framework",
-      "address autecologic",
-      "evaluate autecologic"
+      "autecologic approach",
+      "autecologic factor",
+      "autecologic issue",
+      "autecologic evidence",
+      "autecologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autecologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autecologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autecologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autecologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,21 +850,21 @@
         "pos": "adjective"
       },
       {
-        "word": "autecologic",
-        "pos": "verb"
-      },
-      {
         "word": "autecological",
         "pos": "adjective"
+      },
+      {
+        "word": "autecologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autecologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autecologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1061,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -872,56 +872,56 @@
     "word": "autological",
     "pos": "adjective",
     "phonetic": "/autological/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "auto",
+          "root": "log",
           "origin": "Greek",
-          "meaning": "self",
-          "meaning_zh": "自己"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autological.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOLOGICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOLOGICAL，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of autological.",
+      "story_en": "A student remembers AUTOLOGICAL by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 AUTOLOGICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autological to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autological 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autological factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autological 因素。",
     "collocations": [
-      "autological analysis",
-      "autological process",
-      "autological framework",
-      "address autological",
-      "evaluate autological"
+      "autological approach",
+      "autological factor",
+      "autological issue",
+      "autological evidence",
+      "autological context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autological is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autological is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autological follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autological follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,21 +929,21 @@
         "pos": "adjective"
       },
       {
-        "word": "autological",
-        "pos": "verb"
-      },
-      {
         "word": "autologicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "autologicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autological is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autological is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1062,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -951,7 +951,7 @@
     "word": "automatical",
     "pos": "adjective",
     "phonetic": "/automatical/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to self, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -964,43 +964,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of automatical.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOMATICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOMATICAL，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of automatical.",
+      "story_en": "A student remembers AUTOMATICAL by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTOMATICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses automatical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 automatical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a automatical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 automatical 因素。",
     "collocations": [
-      "automatical analysis",
-      "automatical process",
-      "automatical framework",
-      "address automatical",
-      "evaluate automatical"
+      "automatical approach",
+      "automatical factor",
+      "automatical issue",
+      "automatical evidence",
+      "automatical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; automatical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; automatical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while automatical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; automatical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "adjective"
       },
       {
-        "word": "automatical",
-        "pos": "verb"
-      },
-      {
         "word": "automaticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "automaticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "automatical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "automatical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1063,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,7 +1030,7 @@
     "word": "autometric",
     "pos": "adjective",
     "phonetic": "/autometric/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to self, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1043,43 +1043,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autometric.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOMETRIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOMETRIC，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of autometric.",
+      "story_en": "A student remembers AUTOMETRIC by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTOMETRIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autometric to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autometric 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autometric factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autometric 因素。",
     "collocations": [
-      "autometric analysis",
-      "autometric process",
-      "autometric framework",
-      "address autometric",
-      "evaluate autometric"
+      "autometric approach",
+      "autometric factor",
+      "autometric issue",
+      "autometric evidence",
+      "autometric context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autometric is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autometric is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autometric follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autometric follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "autometric",
-        "pos": "verb"
-      },
-      {
         "word": "autometrical",
         "pos": "adjective"
+      },
+      {
+        "word": "autometricion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autometric is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autometric is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1064,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1109,7 +1109,7 @@
     "word": "autonomical",
     "pos": "adjective",
     "phonetic": "/autonomical/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to self, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1122,43 +1122,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autonomical.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTONOMICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTONOMICAL，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of autonomical.",
+      "story_en": "A student remembers AUTONOMICAL by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTONOMICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autonomical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autonomical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autonomical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autonomical 因素。",
     "collocations": [
-      "autonomical analysis",
-      "autonomical process",
-      "autonomical framework",
-      "address autonomical",
-      "evaluate autonomical"
+      "autonomical approach",
+      "autonomical factor",
+      "autonomical issue",
+      "autonomical evidence",
+      "autonomical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autonomical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autonomical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autonomical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autonomical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "autonomical",
-        "pos": "verb"
-      },
-      {
         "word": "autonomicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "autonomicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autonomical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autonomical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1065,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,7 +1188,7 @@
     "word": "autopsical",
     "pos": "adjective",
     "phonetic": "/autopsical/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to self, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1201,43 +1201,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autopsical.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOPSICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOPSICAL，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of autopsical.",
+      "story_en": "A student remembers AUTOPSICAL by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTOPSICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autopsical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autopsical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autopsical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autopsical 因素。",
     "collocations": [
-      "autopsical analysis",
-      "autopsical process",
-      "autopsical framework",
-      "address autopsical",
-      "evaluate autopsical"
+      "autopsical approach",
+      "autopsical factor",
+      "autopsical issue",
+      "autopsical evidence",
+      "autopsical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autopsical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autopsical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autopsical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autopsical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "adjective"
       },
       {
-        "word": "autopsical",
-        "pos": "verb"
-      },
-      {
         "word": "autopsicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "autopsicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autopsical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autopsical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1066,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,7 +1267,7 @@
     "word": "autoptical",
     "pos": "adjective",
     "phonetic": "/autoptical/",
-    "definition": "A formal English word used to describe a quality or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to self, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1280,43 +1280,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autoptical.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOPTICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOPTICAL，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of autoptical.",
+      "story_en": "A student remembers AUTOPTICAL by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTOPTICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autoptical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autoptical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a autoptical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 autoptical 因素。",
     "collocations": [
-      "autoptical analysis",
-      "autoptical process",
-      "autoptical framework",
-      "address autoptical",
-      "evaluate autoptical"
+      "autoptical approach",
+      "autoptical factor",
+      "autoptical issue",
+      "autoptical evidence",
+      "autoptical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autoptical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autoptical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autoptical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autoptical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "adjective"
       },
       {
-        "word": "autoptical",
-        "pos": "verb"
-      },
-      {
         "word": "autopticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "autopticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autoptical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autoptical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1067,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1346,7 +1346,7 @@
     "word": "autoscience",
     "pos": "noun",
     "phonetic": "/autoscience/",
-    "definition": "A formal English word used to describe a concept or condition connected with self; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to self, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1359,43 +1359,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AUTO = self; connect the root idea with the meaning of autoscience.",
-      "story_en": "In a university report, the highlighted root AUTO helps the student remember AUTOSCIENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AUTO 聯想到 AUTOSCIENCE，把它記成精準的學術單字。",
+      "root_memory": "AUTO = self; connect this root idea with the meaning of autoscience.",
+      "story_en": "A student remembers AUTOSCIENCE by linking AUTO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AUTO 和 AUTOSCIENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses autoscience to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 autoscience 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses autoscience as an important part of the issue.",
+    "example_zh": "報告將 autoscience 作為該議題的重要部分來討論。",
     "collocations": [
-      "autoscience analysis",
-      "autoscience process",
-      "autoscience framework",
-      "address autoscience",
-      "evaluate autoscience"
+      "key autoscience",
+      "autoscience factor",
+      "autoscience role",
+      "autoscience in context",
+      "autoscience and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; autoscience is used as a more specific vocabulary item."
+        "difference": "aspect is broader; autoscience is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while autoscience follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; autoscience follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "noun"
       },
       {
-        "word": "autosci",
-        "pos": "verb"
-      },
-      {
         "word": "autosciencal",
         "pos": "adjective"
+      },
+      {
+        "word": "autoscienceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "autoscience is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "autoscience is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1068,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "averrable",
     "pos": "adjective",
     "phonetic": "/averrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "averrab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of averrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AVERRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AVERRABLE，把它記成精準的學術單字。",
+      "root_memory": "AVERRAB = base form or inherited word element; connect this root idea with the meaning of averrable.",
+      "story_en": "A student remembers AVERRABLE by linking AVERRAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVERRAB 和 AVERRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses averrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 averrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a averrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 averrable 因素。",
     "collocations": [
-      "averrable analysis",
-      "averrable process",
-      "averrable framework",
-      "address averrable",
-      "evaluate averrable"
+      "averrable approach",
+      "averrable factor",
+      "averrable issue",
+      "averrable evidence",
+      "averrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; averrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; averrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while averrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; averrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "adjective"
       },
       {
-        "word": "averrable",
-        "pos": "verb"
-      },
-      {
         "word": "averrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "averrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "averrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "averrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1069,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,56 +1504,56 @@
     "word": "avertable",
     "pos": "adjective",
     "phonetic": "/avertable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "avertab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of avertable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AVERTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AVERTABLE，把它記成精準的學術單字。",
+      "root_memory": "AVERTAB = base form or inherited word element; connect this root idea with the meaning of avertable.",
+      "story_en": "A student remembers AVERTABLE by linking AVERTAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVERTAB 和 AVERTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avertable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avertable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avertable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avertable 因素。",
     "collocations": [
-      "avertable analysis",
-      "avertable process",
-      "avertable framework",
-      "address avertable",
-      "evaluate avertable"
+      "avertable approach",
+      "avertable factor",
+      "avertable issue",
+      "avertable evidence",
+      "avertable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avertable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avertable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avertable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avertable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avertable",
-        "pos": "verb"
-      },
-      {
         "word": "avertablal",
         "pos": "adjective"
+      },
+      {
+        "word": "avertableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avertable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avertable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1070,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,56 +1583,56 @@
     "word": "avocation",
     "pos": "noun",
     "phonetic": "/avocation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to call; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "voc",
-          "origin": "Latin",
-          "meaning": "to call",
-          "meaning_zh": "呼喚"
+          "root": "avoc",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "VOC = to call; connect the root idea with the meaning of avocation.",
-      "story_en": "In a university report, the highlighted root VOC helps the student remember AVOCATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VOC 聯想到 AVOCATION，把它記成精準的學術單字。",
+      "root_memory": "AVOC = base form or inherited word element; connect this root idea with the meaning of avocation.",
+      "story_en": "A student remembers AVOCATION by linking AVOC to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOC 和 AVOCATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avocation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avocation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses avocation as an important part of the issue.",
+    "example_zh": "報告將 avocation 作為該議題的重要部分來討論。",
     "collocations": [
-      "avocation analysis",
-      "avocation process",
-      "avocation framework",
-      "address avocation",
-      "evaluate avocation"
+      "key avocation",
+      "avocation factor",
+      "avocation role",
+      "avocation in context",
+      "avocation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avocation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avocation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avocation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avocation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "avoc",
-        "pos": "verb"
-      },
-      {
         "word": "avocational",
         "pos": "adjective"
+      },
+      {
+        "word": "avocationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avocation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avocation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1071,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1662,56 +1662,56 @@
     "word": "avocative",
     "pos": "adjective",
     "phonetic": "/avocative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to call; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "voc",
-          "origin": "Latin",
-          "meaning": "to call",
-          "meaning_zh": "呼喚"
+          "root": "avocat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "VOC = to call; connect the root idea with the meaning of avocative.",
-      "story_en": "In a university report, the highlighted root VOC helps the student remember AVOCATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VOC 聯想到 AVOCATIVE，把它記成精準的學術單字。",
+      "root_memory": "AVOCAT = base form or inherited word element; connect this root idea with the meaning of avocative.",
+      "story_en": "A student remembers AVOCATIVE by linking AVOCAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOCAT 和 AVOCATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avocative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avocative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avocative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avocative 因素。",
     "collocations": [
-      "avocative analysis",
-      "avocative process",
-      "avocative framework",
-      "address avocative",
-      "evaluate avocative"
+      "avocative approach",
+      "avocative factor",
+      "avocative issue",
+      "avocative evidence",
+      "avocative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avocative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avocative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avocative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avocative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avocative",
-        "pos": "verb"
-      },
-      {
         "word": "avocatival",
         "pos": "adjective"
+      },
+      {
+        "word": "avocativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avocative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avocative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1072,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "avocatory",
     "pos": "adjective",
     "phonetic": "/avocatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to call; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "voc",
-          "origin": "Latin",
-          "meaning": "to call",
-          "meaning_zh": "呼喚"
+          "root": "avocato",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "VOC = to call; connect the root idea with the meaning of avocatory.",
-      "story_en": "In a university report, the highlighted root VOC helps the student remember AVOCATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VOC 聯想到 AVOCATORY，把它記成精準的學術單字。",
+      "root_memory": "AVOCATO = base form or inherited word element; connect this root idea with the meaning of avocatory.",
+      "story_en": "A student remembers AVOCATORY by linking AVOCATO to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOCATO 和 AVOCATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avocatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avocatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avocatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avocatory 因素。",
     "collocations": [
-      "avocatory analysis",
-      "avocatory process",
-      "avocatory framework",
-      "address avocatory",
-      "evaluate avocatory"
+      "avocatory approach",
+      "avocatory factor",
+      "avocatory issue",
+      "avocatory evidence",
+      "avocatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avocatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avocatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avocatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avocatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avocatory",
-        "pos": "verb"
-      },
-      {
         "word": "avocatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "avocatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avocatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avocatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1073,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "avoidable",
     "pos": "adjective",
     "phonetic": "/avoidable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "avoidab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of avoidable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AVOIDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AVOIDABLE，把它記成精準的學術單字。",
+      "root_memory": "AVOIDAB = base form or inherited word element; connect this root idea with the meaning of avoidable.",
+      "story_en": "A student remembers AVOIDABLE by linking AVOIDAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOIDAB 和 AVOIDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avoidable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avoidable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avoidable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avoidable 因素。",
     "collocations": [
-      "avoidable analysis",
-      "avoidable process",
-      "avoidable framework",
-      "address avoidable",
-      "evaluate avoidable"
+      "avoidable approach",
+      "avoidable factor",
+      "avoidable issue",
+      "avoidable evidence",
+      "avoidable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avoidable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avoidable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avoidable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avoidable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avoidable",
-        "pos": "verb"
-      },
-      {
         "word": "avoidablal",
         "pos": "adjective"
+      },
+      {
+        "word": "avoidableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avoidable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avoidable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1074,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,56 +1899,56 @@
     "word": "avolation",
     "pos": "noun",
     "phonetic": "/avolation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "avol",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of avolation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember AVOLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 AVOLATION，把它記成精準的學術單字。",
+      "root_memory": "AVOL = base form or inherited word element; connect this root idea with the meaning of avolation.",
+      "story_en": "A student remembers AVOLATION by linking AVOL to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOL 和 AVOLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avolation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avolation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses avolation as an important part of the issue.",
+    "example_zh": "報告將 avolation 作為該議題的重要部分來討論。",
     "collocations": [
-      "avolation analysis",
-      "avolation process",
-      "avolation framework",
-      "address avolation",
-      "evaluate avolation"
+      "key avolation",
+      "avolation factor",
+      "avolation role",
+      "avolation in context",
+      "avolation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avolation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avolation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avolation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avolation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "noun"
       },
       {
-        "word": "avol",
-        "pos": "verb"
-      },
-      {
         "word": "avolational",
         "pos": "adjective"
+      },
+      {
+        "word": "avolationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avolation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avolation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1075,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1978,56 +1978,56 @@
     "word": "avouchable",
     "pos": "adjective",
     "phonetic": "/avouchable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "avoucha",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of avouchable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AVOUCHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AVOUCHABLE，把它記成精準的學術單字。",
+      "root_memory": "AVOUCHA = base form or inherited word element; connect this root idea with the meaning of avouchable.",
+      "story_en": "A student remembers AVOUCHABLE by linking AVOUCHA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOUCHA 和 AVOUCHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avouchable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avouchable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avouchable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avouchable 因素。",
     "collocations": [
-      "avouchable analysis",
-      "avouchable process",
-      "avouchable framework",
-      "address avouchable",
-      "evaluate avouchable"
+      "avouchable approach",
+      "avouchable factor",
+      "avouchable issue",
+      "avouchable evidence",
+      "avouchable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avouchable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avouchable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avouchable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avouchable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avouchable",
-        "pos": "verb"
-      },
-      {
         "word": "avouchablal",
         "pos": "adjective"
+      },
+      {
+        "word": "avouchableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avouchable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avouchable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1076,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "avowable",
     "pos": "adjective",
     "phonetic": "/avowable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "avowabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of avowable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AVOWABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AVOWABLE，把它記成精準的學術單字。",
+      "root_memory": "AVOWABL = base form or inherited word element; connect this root idea with the meaning of avowable.",
+      "story_en": "A student remembers AVOWABLE by linking AVOWABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 AVOWABL 和 AVOWABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses avowable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 avowable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a avowable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 avowable 因素。",
     "collocations": [
-      "avowable analysis",
-      "avowable process",
-      "avowable framework",
-      "address avowable",
-      "evaluate avowable"
+      "avowable approach",
+      "avowable factor",
+      "avowable issue",
+      "avowable evidence",
+      "avowable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; avowable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; avowable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while avowable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; avowable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "avowable",
-        "pos": "verb"
-      },
-      {
         "word": "avowablal",
         "pos": "adjective"
+      },
+      {
+        "word": "avowableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "avowable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "avowable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1077,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,56 +2136,56 @@
     "word": "awakable",
     "pos": "adjective",
     "phonetic": "/awakable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "awakabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of awakable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AWAKABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AWAKABLE，把它記成精準的學術單字。",
+      "root_memory": "AWAKABL = base form or inherited word element; connect this root idea with the meaning of awakable.",
+      "story_en": "A student remembers AWAKABLE by linking AWAKABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 AWAKABL 和 AWAKABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses awakable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 awakable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a awakable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 awakable 因素。",
     "collocations": [
-      "awakable analysis",
-      "awakable process",
-      "awakable framework",
-      "address awakable",
-      "evaluate awakable"
+      "awakable approach",
+      "awakable factor",
+      "awakable issue",
+      "awakable evidence",
+      "awakable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; awakable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; awakable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while awakable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; awakable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "adjective"
       },
       {
-        "word": "awakable",
-        "pos": "verb"
-      },
-      {
         "word": "awakablal",
         "pos": "adjective"
+      },
+      {
+        "word": "awakableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "awakable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "awakable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1078,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2215,56 +2215,56 @@
     "word": "awakenable",
     "pos": "adjective",
     "phonetic": "/awakenable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "awakena",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of awakenable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AWAKENABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AWAKENABLE，把它記成精準的學術單字。",
+      "root_memory": "AWAKENA = base form or inherited word element; connect this root idea with the meaning of awakenable.",
+      "story_en": "A student remembers AWAKENABLE by linking AWAKENA to a real academic or professional situation.",
+      "story_zh": "學生把字根 AWAKENA 和 AWAKENABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses awakenable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 awakenable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a awakenable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 awakenable 因素。",
     "collocations": [
-      "awakenable analysis",
-      "awakenable process",
-      "awakenable framework",
-      "address awakenable",
-      "evaluate awakenable"
+      "awakenable approach",
+      "awakenable factor",
+      "awakenable issue",
+      "awakenable evidence",
+      "awakenable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; awakenable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; awakenable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while awakenable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; awakenable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "adjective"
       },
       {
-        "word": "awakenable",
-        "pos": "verb"
-      },
-      {
         "word": "awakenablal",
         "pos": "adjective"
+      },
+      {
+        "word": "awakenableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "awakenable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "awakenable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1079,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "awardable",
     "pos": "adjective",
     "phonetic": "/awardable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "awardab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of awardable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember AWARDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 AWARDABLE，把它記成精準的學術單字。",
+      "root_memory": "AWARDAB = base form or inherited word element; connect this root idea with the meaning of awardable.",
+      "story_en": "A student remembers AWARDABLE by linking AWARDAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 AWARDAB 和 AWARDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses awardable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 awardable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a awardable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 awardable 因素。",
     "collocations": [
-      "awardable analysis",
-      "awardable process",
-      "awardable framework",
-      "address awardable",
-      "evaluate awardable"
+      "awardable approach",
+      "awardable factor",
+      "awardable issue",
+      "awardable evidence",
+      "awardable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; awardable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; awardable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while awardable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; awardable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "awardable",
-        "pos": "verb"
-      },
-      {
         "word": "awardablal",
         "pos": "adjective"
+      },
+      {
+        "word": "awardableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "awardable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "awardable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1080,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "axiological",
     "pos": "adjective",
     "phonetic": "/axiological/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of axiological.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember AXIOLOGICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 AXIOLOGICAL，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of axiological.",
+      "story_en": "A student remembers AXIOLOGICAL by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 AXIOLOGICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses axiological to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 axiological 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a axiological factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 axiological 因素。",
     "collocations": [
-      "axiological analysis",
-      "axiological process",
-      "axiological framework",
-      "address axiological",
-      "evaluate axiological"
+      "axiological approach",
+      "axiological factor",
+      "axiological issue",
+      "axiological evidence",
+      "axiological context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; axiological is used as a more specific vocabulary item."
+        "difference": "aspect is broader; axiological is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while axiological follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; axiological follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2430,21 +2430,21 @@
         "pos": "adjective"
       },
       {
-        "word": "axiological",
-        "pos": "verb"
-      },
-      {
         "word": "axiologicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "axiologicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "axiological is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "axiological is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1081,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2452,56 +2452,56 @@
     "word": "babblative",
     "pos": "adjective",
     "phonetic": "/babblative/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "babblat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of babblative.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BABBLATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BABBLATIVE，把它記成精準的學術單字。",
+      "root_memory": "BABBLAT = base form or inherited word element; connect this root idea with the meaning of babblative.",
+      "story_en": "A student remembers BABBLATIVE by linking BABBLAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 BABBLAT 和 BABBLATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses babblative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 babblative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a babblative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 babblative 因素。",
     "collocations": [
-      "babblative analysis",
-      "babblative process",
-      "babblative framework",
-      "address babblative",
-      "evaluate babblative"
+      "babblative approach",
+      "babblative factor",
+      "babblative issue",
+      "babblative evidence",
+      "babblative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; babblative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; babblative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while babblative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; babblative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "adjective"
       },
       {
-        "word": "babblative",
-        "pos": "verb"
-      },
-      {
         "word": "babblatival",
         "pos": "adjective"
+      },
+      {
+        "word": "babblativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "babblative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "babblative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1082,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,56 +2531,56 @@
     "word": "bacchical",
     "pos": "adjective",
     "phonetic": "/bacchical/",
-    "definition": "A formal English word used to describe a quality or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ac",
-          "origin": "Latin",
-          "meaning": "toward",
-          "meaning_zh": "朝向"
+          "root": "bacchic",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AC = toward; connect the root idea with the meaning of bacchical.",
-      "story_en": "In a university report, the highlighted root AC helps the student remember BACCHICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AC 聯想到 BACCHICAL，把它記成精準的學術單字。",
+      "root_memory": "BACCHIC = base form or inherited word element; connect this root idea with the meaning of bacchical.",
+      "story_en": "A student remembers BACCHICAL by linking BACCHIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 BACCHIC 和 BACCHICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bacchical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bacchical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bacchical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bacchical 因素。",
     "collocations": [
-      "bacchical analysis",
-      "bacchical process",
-      "bacchical framework",
-      "address bacchical",
-      "evaluate bacchical"
+      "bacchical approach",
+      "bacchical factor",
+      "bacchical issue",
+      "bacchical evidence",
+      "bacchical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bacchical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bacchical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bacchical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bacchical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "bacchical",
-        "pos": "verb"
-      },
-      {
         "word": "bacchicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "bacchicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bacchical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bacchical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1083,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2610,56 +2610,56 @@
     "word": "bailable",
     "pos": "adjective",
     "phonetic": "/bailable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "bailabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of bailable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BAILABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BAILABLE，把它記成精準的學術單字。",
+      "root_memory": "BAILABL = base form or inherited word element; connect this root idea with the meaning of bailable.",
+      "story_en": "A student remembers BAILABLE by linking BAILABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BAILABL 和 BAILABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bailable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bailable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bailable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bailable 因素。",
     "collocations": [
-      "bailable analysis",
-      "bailable process",
-      "bailable framework",
-      "address bailable",
-      "evaluate bailable"
+      "bailable approach",
+      "bailable factor",
+      "bailable issue",
+      "bailable evidence",
+      "bailable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bailable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bailable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bailable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bailable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "adjective"
       },
       {
-        "word": "bailable",
-        "pos": "verb"
-      },
-      {
         "word": "bailablal",
         "pos": "adjective"
+      },
+      {
+        "word": "bailableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bailable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bailable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1084,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2689,56 +2689,56 @@
     "word": "balanceable",
     "pos": "adjective",
     "phonetic": "/balanceable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "balance",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of balanceable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BALANCEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BALANCEABLE，把它記成精準的學術單字。",
+      "root_memory": "BALANCE = base form or inherited word element; connect this root idea with the meaning of balanceable.",
+      "story_en": "A student remembers BALANCEABLE by linking BALANCE to a real academic or professional situation.",
+      "story_zh": "學生把字根 BALANCE 和 BALANCEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses balanceable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 balanceable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a balanceable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 balanceable 因素。",
     "collocations": [
-      "balanceable analysis",
-      "balanceable process",
-      "balanceable framework",
-      "address balanceable",
-      "evaluate balanceable"
+      "balanceable approach",
+      "balanceable factor",
+      "balanceable issue",
+      "balanceable evidence",
+      "balanceable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; balanceable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; balanceable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while balanceable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; balanceable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "adjective"
       },
       {
-        "word": "balanceable",
-        "pos": "verb"
-      },
-      {
         "word": "balanceablal",
         "pos": "adjective"
+      },
+      {
+        "word": "balanceableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "balanceable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "balanceable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1085,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2768,7 +2768,7 @@
     "word": "balladical",
     "pos": "adjective",
     "phonetic": "/balladical/",
-    "definition": "A formal English word used to describe a quality or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2781,43 +2781,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of balladical.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember BALLADICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 BALLADICAL，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of balladical.",
+      "story_en": "A student remembers BALLADICAL by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 BALLADICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses balladical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 balladical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a balladical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 balladical 因素。",
     "collocations": [
-      "balladical analysis",
-      "balladical process",
-      "balladical framework",
-      "address balladical",
-      "evaluate balladical"
+      "balladical approach",
+      "balladical factor",
+      "balladical issue",
+      "balladical evidence",
+      "balladical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; balladical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; balladical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while balladical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; balladical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "adjective"
       },
       {
-        "word": "balladical",
-        "pos": "verb"
-      },
-      {
         "word": "balladicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "balladicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "balladical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "balladical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1086,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,56 +2847,56 @@
     "word": "balneologic",
     "pos": "adjective",
     "phonetic": "/balneologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of balneologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember BALNEOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 BALNEOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of balneologic.",
+      "story_en": "A student remembers BALNEOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 BALNEOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses balneologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 balneologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a balneologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 balneologic 因素。",
     "collocations": [
-      "balneologic analysis",
-      "balneologic process",
-      "balneologic framework",
-      "address balneologic",
-      "evaluate balneologic"
+      "balneologic approach",
+      "balneologic factor",
+      "balneologic issue",
+      "balneologic evidence",
+      "balneologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; balneologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; balneologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while balneologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; balneologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2904,21 +2904,21 @@
         "pos": "adjective"
       },
       {
-        "word": "balneologic",
-        "pos": "verb"
-      },
-      {
         "word": "balneological",
         "pos": "adjective"
+      },
+      {
+        "word": "balneologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "balneologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "balneologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1087,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -2926,56 +2926,56 @@
     "word": "bankable",
     "pos": "adjective",
     "phonetic": "/bankable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "bankabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of bankable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BANKABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BANKABLE，把它記成精準的學術單字。",
+      "root_memory": "BANKABL = base form or inherited word element; connect this root idea with the meaning of bankable.",
+      "story_en": "A student remembers BANKABLE by linking BANKABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BANKABL 和 BANKABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bankable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bankable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bankable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bankable 因素。",
     "collocations": [
-      "bankable analysis",
-      "bankable process",
-      "bankable framework",
-      "address bankable",
-      "evaluate bankable"
+      "bankable approach",
+      "bankable factor",
+      "bankable issue",
+      "bankable evidence",
+      "bankable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bankable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bankable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bankable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bankable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,78 +2983,78 @@
         "pos": "adjective"
       },
       {
-        "word": "bankable",
-        "pos": "verb"
-      },
-      {
         "word": "bankablal",
         "pos": "adjective"
+      },
+      {
+        "word": "bankableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bankable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bankable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1088,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "business",
-      "finance",
-      "economics"
+      "college",
+      "academic",
+      "IELTS"
     ]
   },
   {
     "word": "baptizable",
     "pos": "adjective",
     "phonetic": "/baptizable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "baptiza",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of baptizable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BAPTIZABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BAPTIZABLE，把它記成精準的學術單字。",
+      "root_memory": "BAPTIZA = base form or inherited word element; connect this root idea with the meaning of baptizable.",
+      "story_en": "A student remembers BAPTIZABLE by linking BAPTIZA to a real academic or professional situation.",
+      "story_zh": "學生把字根 BAPTIZA 和 BAPTIZABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses baptizable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 baptizable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a baptizable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 baptizable 因素。",
     "collocations": [
-      "baptizable analysis",
-      "baptizable process",
-      "baptizable framework",
-      "address baptizable",
-      "evaluate baptizable"
+      "baptizable approach",
+      "baptizable factor",
+      "baptizable issue",
+      "baptizable evidence",
+      "baptizable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; baptizable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; baptizable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while baptizable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; baptizable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "adjective"
       },
       {
-        "word": "baptizable",
-        "pos": "verb"
-      },
-      {
         "word": "baptizablal",
         "pos": "adjective"
+      },
+      {
+        "word": "baptizableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "baptizable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "baptizable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1089,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "barrable",
     "pos": "adjective",
     "phonetic": "/barrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "barrabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of barrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BARRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BARRABLE，把它記成精準的學術單字。",
+      "root_memory": "BARRABL = base form or inherited word element; connect this root idea with the meaning of barrable.",
+      "story_en": "A student remembers BARRABLE by linking BARRABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BARRABL 和 BARRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses barrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 barrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a barrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 barrable 因素。",
     "collocations": [
-      "barrable analysis",
-      "barrable process",
-      "barrable framework",
-      "address barrable",
-      "evaluate barrable"
+      "barrable approach",
+      "barrable factor",
+      "barrable issue",
+      "barrable evidence",
+      "barrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; barrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; barrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while barrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; barrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "barrable",
-        "pos": "verb"
-      },
-      {
         "word": "barrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "barrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "barrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "barrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1090,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "batheable",
     "pos": "adjective",
     "phonetic": "/batheable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "batheab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of batheable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BATHEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BATHEABLE，把它記成精準的學術單字。",
+      "root_memory": "BATHEAB = base form or inherited word element; connect this root idea with the meaning of batheable.",
+      "story_en": "A student remembers BATHEABLE by linking BATHEAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 BATHEAB 和 BATHEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses batheable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 batheable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a batheable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 batheable 因素。",
     "collocations": [
-      "batheable analysis",
-      "batheable process",
-      "batheable framework",
-      "address batheable",
-      "evaluate batheable"
+      "batheable approach",
+      "batheable factor",
+      "batheable issue",
+      "batheable evidence",
+      "batheable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; batheable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; batheable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while batheable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; batheable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "batheable",
-        "pos": "verb"
-      },
-      {
         "word": "batheablal",
         "pos": "adjective"
+      },
+      {
+        "word": "batheableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "batheable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "batheable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1091,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,56 +3242,56 @@
     "word": "batterable",
     "pos": "adjective",
     "phonetic": "/batterable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "battera",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of batterable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BATTERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BATTERABLE，把它記成精準的學術單字。",
+      "root_memory": "BATTERA = base form or inherited word element; connect this root idea with the meaning of batterable.",
+      "story_en": "A student remembers BATTERABLE by linking BATTERA to a real academic or professional situation.",
+      "story_zh": "學生把字根 BATTERA 和 BATTERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses batterable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 batterable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a batterable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 batterable 因素。",
     "collocations": [
-      "batterable analysis",
-      "batterable process",
-      "batterable framework",
-      "address batterable",
-      "evaluate batterable"
+      "batterable approach",
+      "batterable factor",
+      "batterable issue",
+      "batterable evidence",
+      "batterable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; batterable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; batterable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while batterable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; batterable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "adjective"
       },
       {
-        "word": "batterable",
-        "pos": "verb"
-      },
-      {
         "word": "batterablal",
         "pos": "adjective"
+      },
+      {
+        "word": "batterableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "batterable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "batterable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1092,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3321,56 +3321,56 @@
     "word": "bearable",
     "pos": "adjective",
     "phonetic": "/bearable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "bearabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of bearable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BEARABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BEARABLE，把它記成精準的學術單字。",
+      "root_memory": "BEARABL = base form or inherited word element; connect this root idea with the meaning of bearable.",
+      "story_en": "A student remembers BEARABLE by linking BEARABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BEARABL 和 BEARABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bearable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bearable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bearable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bearable 因素。",
     "collocations": [
-      "bearable analysis",
-      "bearable process",
-      "bearable framework",
-      "address bearable",
-      "evaluate bearable"
+      "bearable approach",
+      "bearable factor",
+      "bearable issue",
+      "bearable evidence",
+      "bearable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bearable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bearable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bearable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bearable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "bearable",
-        "pos": "verb"
-      },
-      {
         "word": "bearablal",
         "pos": "adjective"
+      },
+      {
+        "word": "bearableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bearable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bearable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1093,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "beatable",
     "pos": "adjective",
     "phonetic": "/beatable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "beatabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of beatable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BEATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BEATABLE，把它記成精準的學術單字。",
+      "root_memory": "BEATABL = base form or inherited word element; connect this root idea with the meaning of beatable.",
+      "story_en": "A student remembers BEATABLE by linking BEATABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BEATABL 和 BEATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses beatable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 beatable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a beatable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 beatable 因素。",
     "collocations": [
-      "beatable analysis",
-      "beatable process",
-      "beatable framework",
-      "address beatable",
-      "evaluate beatable"
+      "beatable approach",
+      "beatable factor",
+      "beatable issue",
+      "beatable evidence",
+      "beatable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; beatable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; beatable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while beatable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; beatable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "beatable",
-        "pos": "verb"
-      },
-      {
         "word": "beatablal",
         "pos": "adjective"
+      },
+      {
+        "word": "beatableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "beatable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "beatable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1094,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,56 +3479,56 @@
     "word": "beggable",
     "pos": "adjective",
     "phonetic": "/beggable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "beggabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of beggable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BEGGABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BEGGABLE，把它記成精準的學術單字。",
+      "root_memory": "BEGGABL = base form or inherited word element; connect this root idea with the meaning of beggable.",
+      "story_en": "A student remembers BEGGABLE by linking BEGGABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BEGGABL 和 BEGGABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses beggable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 beggable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a beggable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 beggable 因素。",
     "collocations": [
-      "beggable analysis",
-      "beggable process",
-      "beggable framework",
-      "address beggable",
-      "evaluate beggable"
+      "beggable approach",
+      "beggable factor",
+      "beggable issue",
+      "beggable evidence",
+      "beggable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; beggable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; beggable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while beggable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; beggable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "adjective"
       },
       {
-        "word": "beggable",
-        "pos": "verb"
-      },
-      {
         "word": "beggablal",
         "pos": "adjective"
+      },
+      {
+        "word": "beggableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "beggable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "beggable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1095,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "beholdable",
     "pos": "adjective",
     "phonetic": "/beholdable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "beholda",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of beholdable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BEHOLDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BEHOLDABLE，把它記成精準的學術單字。",
+      "root_memory": "BEHOLDA = base form or inherited word element; connect this root idea with the meaning of beholdable.",
+      "story_en": "A student remembers BEHOLDABLE by linking BEHOLDA to a real academic or professional situation.",
+      "story_zh": "學生把字根 BEHOLDA 和 BEHOLDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses beholdable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 beholdable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a beholdable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 beholdable 因素。",
     "collocations": [
-      "beholdable analysis",
-      "beholdable process",
-      "beholdable framework",
-      "address beholdable",
-      "evaluate beholdable"
+      "beholdable approach",
+      "beholdable factor",
+      "beholdable issue",
+      "beholdable evidence",
+      "beholdable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; beholdable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; beholdable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while beholdable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; beholdable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "adjective"
       },
       {
-        "word": "beholdable",
-        "pos": "verb"
-      },
-      {
         "word": "beholdablal",
         "pos": "adjective"
+      },
+      {
+        "word": "beholdableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "beholdable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "beholdable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1096,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "believable",
     "pos": "adjective",
     "phonetic": "/believable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "believa",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of believable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BELIEVABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BELIEVABLE，把它記成精準的學術單字。",
+      "root_memory": "BELIEVA = base form or inherited word element; connect this root idea with the meaning of believable.",
+      "story_en": "A student remembers BELIEVABLE by linking BELIEVA to a real academic or professional situation.",
+      "story_zh": "學生把字根 BELIEVA 和 BELIEVABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses believable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 believable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a believable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 believable 因素。",
     "collocations": [
-      "believable analysis",
-      "believable process",
-      "believable framework",
-      "address believable",
-      "evaluate believable"
+      "believable approach",
+      "believable factor",
+      "believable issue",
+      "believable evidence",
+      "believable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; believable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; believable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while believable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; believable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "believable",
-        "pos": "verb"
-      },
-      {
         "word": "believablal",
         "pos": "adjective"
+      },
+      {
+        "word": "believableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "believable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "believable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1097,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "bemoanable",
     "pos": "adjective",
     "phonetic": "/bemoanable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "bemoana",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of bemoanable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BEMOANABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BEMOANABLE，把它記成精準的學術單字。",
+      "root_memory": "BEMOANA = base form or inherited word element; connect this root idea with the meaning of bemoanable.",
+      "story_en": "A student remembers BEMOANABLE by linking BEMOANA to a real academic or professional situation.",
+      "story_zh": "學生把字根 BEMOANA 和 BEMOANABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bemoanable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bemoanable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bemoanable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bemoanable 因素。",
     "collocations": [
-      "bemoanable analysis",
-      "bemoanable process",
-      "bemoanable framework",
-      "address bemoanable",
-      "evaluate bemoanable"
+      "bemoanable approach",
+      "bemoanable factor",
+      "bemoanable issue",
+      "bemoanable evidence",
+      "bemoanable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bemoanable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bemoanable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bemoanable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bemoanable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "adjective"
       },
       {
-        "word": "bemoanable",
-        "pos": "verb"
-      },
-      {
         "word": "bemoanablal",
         "pos": "adjective"
+      },
+      {
+        "word": "bemoanableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bemoanable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bemoanable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1098,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,56 +3795,56 @@
     "word": "bendable",
     "pos": "adjective",
     "phonetic": "/bendable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "bendabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of bendable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember BENDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 BENDABLE，把它記成精準的學術單字。",
+      "root_memory": "BENDABL = base form or inherited word element; connect this root idea with the meaning of bendable.",
+      "story_en": "A student remembers BENDABLE by linking BENDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 BENDABL 和 BENDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses bendable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 bendable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a bendable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 bendable 因素。",
     "collocations": [
-      "bendable analysis",
-      "bendable process",
-      "bendable framework",
-      "address bendable",
-      "evaluate bendable"
+      "bendable approach",
+      "bendable factor",
+      "bendable issue",
+      "bendable evidence",
+      "bendable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; bendable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; bendable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while bendable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; bendable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "bendable",
-        "pos": "verb"
-      },
-      {
         "word": "bendablal",
         "pos": "adjective"
+      },
+      {
+        "word": "bendableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "bendable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "bendable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1099,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3874,56 +3874,56 @@
     "word": "beneficence",
     "pos": "noun",
     "phonetic": "/beneficence/",
-    "definition": "A formal English word used to describe a concept or condition connected with well, good; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "bene",
-          "origin": "Latin",
-          "meaning": "well, good",
-          "meaning_zh": "好、善"
+          "root": "benefic",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "BENE = well, good; connect the root idea with the meaning of beneficence.",
-      "story_en": "In a university report, the highlighted root BENE helps the student remember BENEFICENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 BENE 聯想到 BENEFICENCE，把它記成精準的學術單字。",
+      "root_memory": "BENEFIC = base form or inherited word element; connect this root idea with the meaning of beneficence.",
+      "story_en": "A student remembers BENEFICENCE by linking BENEFIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 BENEFIC 和 BENEFICENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses beneficence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 beneficence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses beneficence as an important part of the issue.",
+    "example_zh": "報告將 beneficence 作為該議題的重要部分來討論。",
     "collocations": [
-      "beneficence analysis",
-      "beneficence process",
-      "beneficence framework",
-      "address beneficence",
-      "evaluate beneficence"
+      "key beneficence",
+      "beneficence factor",
+      "beneficence role",
+      "beneficence in context",
+      "beneficence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; beneficence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; beneficence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while beneficence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; beneficence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "noun"
       },
       {
-        "word": "benefic",
-        "pos": "verb"
-      },
-      {
         "word": "beneficencal",
         "pos": "adjective"
+      },
+      {
+        "word": "beneficenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "beneficence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "beneficence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1100,
     "frequency_source": "custom",
     "difficulty": "B2",

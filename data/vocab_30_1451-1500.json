@@ -3,56 +3,56 @@
     "word": "curative",
     "pos": "adjective",
     "phonetic": "/curative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to run, flow, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curative.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURATIVE，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curative.",
+      "story_en": "A student remembers CURATIVE by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a curative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 curative 因素。",
     "collocations": [
-      "curative analysis",
-      "curative process",
-      "curative framework",
-      "address curative",
-      "evaluate curative"
+      "curative approach",
+      "curative factor",
+      "curative issue",
+      "curative evidence",
+      "curative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "adjective"
       },
       {
-        "word": "curative",
-        "pos": "verb"
-      },
-      {
         "word": "curatival",
         "pos": "adjective"
+      },
+      {
+        "word": "curativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1451,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,56 +82,56 @@
     "word": "curatory",
     "pos": "adjective",
     "phonetic": "/curatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to run, flow, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curatory.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURATORY，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curatory.",
+      "story_en": "A student remembers CURATORY by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a curatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 curatory 因素。",
     "collocations": [
-      "curatory analysis",
-      "curatory process",
-      "curatory framework",
-      "address curatory",
-      "evaluate curatory"
+      "curatory approach",
+      "curatory factor",
+      "curatory issue",
+      "curatory evidence",
+      "curatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "adjective"
       },
       {
-        "word": "curatory",
-        "pos": "verb"
-      },
-      {
         "word": "curatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "curatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1452,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,56 +161,56 @@
     "word": "curbable",
     "pos": "adjective",
     "phonetic": "/curbable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to run, flow, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "cur",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to run, flow",
+          "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of curbable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CURBABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CURBABLE，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curbable.",
+      "story_en": "A student remembers CURBABLE by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURBABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curbable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curbable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a curbable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 curbable 因素。",
     "collocations": [
-      "curbable analysis",
-      "curbable process",
-      "curbable framework",
-      "address curbable",
-      "evaluate curbable"
+      "curbable approach",
+      "curbable factor",
+      "curbable issue",
+      "curbable evidence",
+      "curbable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curbable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curbable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curbable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curbable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "adjective"
       },
       {
-        "word": "curbable",
-        "pos": "verb"
-      },
-      {
         "word": "curbablal",
         "pos": "adjective"
+      },
+      {
+        "word": "curbableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curbable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curbable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1453,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,56 +240,56 @@
     "word": "curiologic",
     "pos": "adjective",
     "phonetic": "/curiologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "cur",
-          "origin": "Latin",
-          "meaning": "to run",
-          "meaning_zh": "跑、流動"
+          "root": "log",
+          "origin": "Greek",
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curiologic.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURIOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURIOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of curiologic.",
+      "story_en": "A student remembers CURIOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 CURIOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curiologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curiologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a curiologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 curiologic 因素。",
     "collocations": [
-      "curiologic analysis",
-      "curiologic process",
-      "curiologic framework",
-      "address curiologic",
-      "evaluate curiologic"
+      "curiologic approach",
+      "curiologic factor",
+      "curiologic issue",
+      "curiologic evidence",
+      "curiologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curiologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curiologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curiologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curiologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,21 +297,21 @@
         "pos": "adjective"
       },
       {
-        "word": "curiologic",
-        "pos": "verb"
-      },
-      {
         "word": "curiological",
         "pos": "adjective"
+      },
+      {
+        "word": "curiologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curiologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curiologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1454,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -319,56 +319,56 @@
     "word": "curtation",
     "pos": "noun",
     "phonetic": "/curtation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curtation.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURTATION，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curtation.",
+      "story_en": "A student remembers CURTATION by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curtation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curtation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses curtation as an important part of the issue.",
+    "example_zh": "報告將 curtation 作為該議題的重要部分來討論。",
     "collocations": [
-      "curtation analysis",
-      "curtation process",
-      "curtation framework",
-      "address curtation",
-      "evaluate curtation"
+      "key curtation",
+      "curtation factor",
+      "curtation role",
+      "curtation in context",
+      "curtation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curtation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curtation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curtation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curtation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "noun"
       },
       {
-        "word": "curt",
-        "pos": "verb"
-      },
-      {
         "word": "curtational",
         "pos": "adjective"
+      },
+      {
+        "word": "curtationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curtation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curtation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1455,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,56 +398,56 @@
     "word": "curvation",
     "pos": "noun",
     "phonetic": "/curvation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of curvation.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember CURVATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 CURVATION，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of curvation.",
+      "story_en": "A student remembers CURVATION by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 CURVATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses curvation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 curvation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses curvation as an important part of the issue.",
+    "example_zh": "報告將 curvation 作為該議題的重要部分來討論。",
     "collocations": [
-      "curvation analysis",
-      "curvation process",
-      "curvation framework",
-      "address curvation",
-      "evaluate curvation"
+      "key curvation",
+      "curvation factor",
+      "curvation role",
+      "curvation in context",
+      "curvation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; curvation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; curvation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while curvation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; curvation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "noun"
       },
       {
-        "word": "curv",
-        "pos": "verb"
-      },
-      {
         "word": "curvational",
         "pos": "adjective"
+      },
+      {
+        "word": "curvationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "curvation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "curvation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1456,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -477,56 +477,56 @@
     "word": "customable",
     "pos": "adjective",
     "phonetic": "/customable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "customa",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of customable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CUSTOMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CUSTOMABLE，把它記成精準的學術單字。",
+      "root_memory": "CUSTOMA = base form or inherited word element; connect this root idea with the meaning of customable.",
+      "story_en": "A student remembers CUSTOMABLE by linking CUSTOMA to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUSTOMA 和 CUSTOMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses customable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 customable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a customable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 customable 因素。",
     "collocations": [
-      "customable analysis",
-      "customable process",
-      "customable framework",
-      "address customable",
-      "evaluate customable"
+      "customable approach",
+      "customable factor",
+      "customable issue",
+      "customable evidence",
+      "customable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; customable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; customable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while customable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; customable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "customable",
-        "pos": "verb"
-      },
-      {
         "word": "customablal",
         "pos": "adjective"
+      },
+      {
+        "word": "customableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "customable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "customable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1457,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -556,56 +556,56 @@
     "word": "cuttable",
     "pos": "adjective",
     "phonetic": "/cuttable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "cuttabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of cuttable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember CUTTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 CUTTABLE，把它記成精準的學術單字。",
+      "root_memory": "CUTTABL = base form or inherited word element; connect this root idea with the meaning of cuttable.",
+      "story_en": "A student remembers CUTTABLE by linking CUTTABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUTTABL 和 CUTTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cuttable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cuttable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cuttable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cuttable 因素。",
     "collocations": [
-      "cuttable analysis",
-      "cuttable process",
-      "cuttable framework",
-      "address cuttable",
-      "evaluate cuttable"
+      "cuttable approach",
+      "cuttable factor",
+      "cuttable issue",
+      "cuttable evidence",
+      "cuttable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cuttable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cuttable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cuttable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cuttable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "adjective"
       },
       {
-        "word": "cuttable",
-        "pos": "verb"
-      },
-      {
         "word": "cuttablal",
         "pos": "adjective"
+      },
+      {
+        "word": "cuttableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cuttable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cuttable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1458,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,56 +635,56 @@
     "word": "cyriologic",
     "pos": "adjective",
     "phonetic": "/cyriologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of cyriologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember CYRIOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 CYRIOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of cyriologic.",
+      "story_en": "A student remembers CYRIOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 CYRIOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cyriologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cyriologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cyriologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cyriologic 因素。",
     "collocations": [
-      "cyriologic analysis",
-      "cyriologic process",
-      "cyriologic framework",
-      "address cyriologic",
-      "evaluate cyriologic"
+      "cyriologic approach",
+      "cyriologic factor",
+      "cyriologic issue",
+      "cyriologic evidence",
+      "cyriologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cyriologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cyriologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cyriologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cyriologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -692,21 +692,21 @@
         "pos": "adjective"
       },
       {
-        "word": "cyriologic",
-        "pos": "verb"
-      },
-      {
         "word": "cyriological",
         "pos": "adjective"
+      },
+      {
+        "word": "cyriologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cyriologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cyriologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1459,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -714,56 +714,56 @@
     "word": "cytologic",
     "pos": "adjective",
     "phonetic": "/cytologic/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of cytologic.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember CYTOLOGIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 CYTOLOGIC，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of cytologic.",
+      "story_en": "A student remembers CYTOLOGIC by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 CYTOLOGIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cytologic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cytologic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cytologic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cytologic 因素。",
     "collocations": [
-      "cytologic analysis",
-      "cytologic process",
-      "cytologic framework",
-      "address cytologic",
-      "evaluate cytologic"
+      "cytologic approach",
+      "cytologic factor",
+      "cytologic issue",
+      "cytologic evidence",
+      "cytologic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cytologic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cytologic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cytologic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cytologic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -771,21 +771,21 @@
         "pos": "adjective"
       },
       {
-        "word": "cytologic",
-        "pos": "verb"
-      },
-      {
         "word": "cytological",
         "pos": "adjective"
+      },
+      {
+        "word": "cytologicion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cytologic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cytologic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1460,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -793,56 +793,56 @@
     "word": "cytological",
     "pos": "adjective",
     "phonetic": "/cytological/",
-    "definition": "A formal English word used to describe a quality or condition connected with word, reason, study; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to reason, word, study, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "log",
           "origin": "Greek",
-          "meaning": "word, reason, study",
-          "meaning_zh": "語言、理性、研究"
+          "meaning": "reason, word, study",
+          "meaning_zh": "理性、語言、研究"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LOG = word, reason, study; connect the root idea with the meaning of cytological.",
-      "story_en": "In a university report, the highlighted root LOG helps the student remember CYTOLOGICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LOG 聯想到 CYTOLOGICAL，把它記成精準的學術單字。",
+      "root_memory": "LOG = reason, word, study; connect this root idea with the meaning of cytological.",
+      "story_en": "A student remembers CYTOLOGICAL by linking LOG to a real academic or professional situation.",
+      "story_zh": "學生把字根 LOG 和 CYTOLOGICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses cytological to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 cytological 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a cytological factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 cytological 因素。",
     "collocations": [
-      "cytological analysis",
-      "cytological process",
-      "cytological framework",
-      "address cytological",
-      "evaluate cytological"
+      "cytological approach",
+      "cytological factor",
+      "cytological issue",
+      "cytological evidence",
+      "cytological context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; cytological is used as a more specific vocabulary item."
+        "difference": "aspect is broader; cytological is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while cytological follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; cytological follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,21 +850,21 @@
         "pos": "adjective"
       },
       {
-        "word": "cytological",
-        "pos": "verb"
-      },
-      {
         "word": "cytologicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "cytologicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "cytological is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "cytological is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1461,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -872,56 +872,56 @@
     "word": "damageable",
     "pos": "adjective",
     "phonetic": "/damageable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "damagea",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of damageable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DAMAGEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DAMAGEABLE，把它記成精準的學術單字。",
+      "root_memory": "DAMAGEA = base form or inherited word element; connect this root idea with the meaning of damageable.",
+      "story_en": "A student remembers DAMAGEABLE by linking DAMAGEA to a real academic or professional situation.",
+      "story_zh": "學生把字根 DAMAGEA 和 DAMAGEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses damageable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 damageable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a damageable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 damageable 因素。",
     "collocations": [
-      "damageable analysis",
-      "damageable process",
-      "damageable framework",
-      "address damageable",
-      "evaluate damageable"
+      "damageable approach",
+      "damageable factor",
+      "damageable issue",
+      "damageable evidence",
+      "damageable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; damageable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; damageable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while damageable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; damageable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,15 +929,15 @@
         "pos": "adjective"
       },
       {
-        "word": "damageable",
-        "pos": "verb"
-      },
-      {
         "word": "damageablal",
         "pos": "adjective"
+      },
+      {
+        "word": "damageableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "damageable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "damageable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1462,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -951,56 +951,56 @@
     "word": "damnable",
     "pos": "adjective",
     "phonetic": "/damnable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "damnabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of damnable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DAMNABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DAMNABLE，把它記成精準的學術單字。",
+      "root_memory": "DAMNABL = base form or inherited word element; connect this root idea with the meaning of damnable.",
+      "story_en": "A student remembers DAMNABLE by linking DAMNABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 DAMNABL 和 DAMNABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses damnable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 damnable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a damnable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 damnable 因素。",
     "collocations": [
-      "damnable analysis",
-      "damnable process",
-      "damnable framework",
-      "address damnable",
-      "evaluate damnable"
+      "damnable approach",
+      "damnable factor",
+      "damnable issue",
+      "damnable evidence",
+      "damnable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; damnable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; damnable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while damnable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; damnable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "adjective"
       },
       {
-        "word": "damnable",
-        "pos": "verb"
-      },
-      {
         "word": "damnablal",
         "pos": "adjective"
+      },
+      {
+        "word": "damnableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "damnable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "damnable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1463,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1030,56 +1030,56 @@
     "word": "datable",
     "pos": "adjective",
     "phonetic": "/datable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "datable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of datable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DATABLE，把它記成精準的學術單字。",
+      "root_memory": "DATABLE = base form or inherited word element; connect this root idea with the meaning of datable.",
+      "story_en": "A student remembers DATABLE by linking DATABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DATABLE 和 DATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses datable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 datable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a datable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 datable 因素。",
     "collocations": [
-      "datable analysis",
-      "datable process",
-      "datable framework",
-      "address datable",
-      "evaluate datable"
+      "datable approach",
+      "datable factor",
+      "datable issue",
+      "datable evidence",
+      "datable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; datable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; datable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while datable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; datable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,21 +1087,21 @@
         "pos": "adjective"
       },
       {
-        "word": "datable",
-        "pos": "verb"
-      },
-      {
         "word": "datablal",
         "pos": "adjective"
+      },
+      {
+        "word": "datableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "datable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "datable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1464,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
       "technology",
+      "science",
       "academic"
     ]
   },
@@ -1109,7 +1109,7 @@
     "word": "davidical",
     "pos": "adjective",
     "phonetic": "/davidical/",
-    "definition": "A formal English word used to describe a quality or condition connected with to see; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to see, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -1122,43 +1122,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "VID = to see; connect the root idea with the meaning of davidical.",
-      "story_en": "In a university report, the highlighted root VID helps the student remember DAVIDICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VID 聯想到 DAVIDICAL，把它記成精準的學術單字。",
+      "root_memory": "VID = to see; connect this root idea with the meaning of davidical.",
+      "story_en": "A student remembers DAVIDICAL by linking VID to a real academic or professional situation.",
+      "story_zh": "學生把字根 VID 和 DAVIDICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses davidical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 davidical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a davidical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 davidical 因素。",
     "collocations": [
-      "davidical analysis",
-      "davidical process",
-      "davidical framework",
-      "address davidical",
-      "evaluate davidical"
+      "davidical approach",
+      "davidical factor",
+      "davidical issue",
+      "davidical evidence",
+      "davidical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; davidical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; davidical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while davidical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; davidical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "davidical",
-        "pos": "verb"
-      },
-      {
         "word": "davidicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "davidicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "davidical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "davidical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1465,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,56 +1188,56 @@
     "word": "dealable",
     "pos": "adjective",
     "phonetic": "/dealable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of dealable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEALABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEALABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of dealable.",
+      "story_en": "A student remembers DEALABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEALABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses dealable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 dealable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a dealable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 dealable 因素。",
     "collocations": [
-      "dealable analysis",
-      "dealable process",
-      "dealable framework",
-      "address dealable",
-      "evaluate dealable"
+      "dealable approach",
+      "dealable factor",
+      "dealable issue",
+      "dealable evidence",
+      "dealable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; dealable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; dealable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while dealable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; dealable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "adjective"
       },
       {
-        "word": "dealable",
-        "pos": "verb"
-      },
-      {
         "word": "dealablal",
         "pos": "adjective"
+      },
+      {
+        "word": "dealableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "dealable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "dealable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1466,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,56 +1267,56 @@
     "word": "dealation",
     "pos": "noun",
     "phonetic": "/dealation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dealation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember DEALATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DEALATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of dealation.",
+      "story_en": "A student remembers DEALATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEALATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses dealation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 dealation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses dealation as an important part of the issue.",
+    "example_zh": "報告將 dealation 作為該議題的重要部分來討論。",
     "collocations": [
-      "dealation analysis",
-      "dealation process",
-      "dealation framework",
-      "address dealation",
-      "evaluate dealation"
+      "key dealation",
+      "dealation factor",
+      "dealation role",
+      "dealation in context",
+      "dealation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; dealation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; dealation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while dealation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; dealation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "noun"
       },
       {
-        "word": "deal",
-        "pos": "verb"
-      },
-      {
         "word": "dealational",
         "pos": "adjective"
+      },
+      {
+        "word": "dealationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "dealation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "dealation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1467,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1346,7 +1346,7 @@
     "word": "deamination",
     "pos": "noun",
     "phonetic": "/deamination/",
-    "definition": "A formal English word used to describe a concept or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to small, less, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1359,43 +1359,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of deamination.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember DEAMINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 DEAMINATION，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of deamination.",
+      "story_en": "A student remembers DEAMINATION by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 DEAMINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deamination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deamination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses deamination as an important part of the issue.",
+    "example_zh": "報告將 deamination 作為該議題的重要部分來討論。",
     "collocations": [
-      "deamination analysis",
-      "deamination process",
-      "deamination framework",
-      "address deamination",
-      "evaluate deamination"
+      "key deamination",
+      "deamination factor",
+      "deamination role",
+      "deamination in context",
+      "deamination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deamination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deamination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deamination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deamination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "noun"
       },
       {
-        "word": "deamin",
-        "pos": "verb"
-      },
-      {
         "word": "deaminational",
         "pos": "adjective"
+      },
+      {
+        "word": "deaminationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deamination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deamination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1468,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "debatable",
     "pos": "adjective",
     "phonetic": "/debatable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of debatable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEBATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEBATABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of debatable.",
+      "story_en": "A student remembers DEBATABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEBATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses debatable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 debatable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a debatable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 debatable 因素。",
     "collocations": [
-      "debatable analysis",
-      "debatable process",
-      "debatable framework",
-      "address debatable",
-      "evaluate debatable"
+      "debatable approach",
+      "debatable factor",
+      "debatable issue",
+      "debatable evidence",
+      "debatable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; debatable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; debatable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while debatable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; debatable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "adjective"
       },
       {
-        "word": "debatable",
-        "pos": "verb"
-      },
-      {
         "word": "debatablal",
         "pos": "adjective"
+      },
+      {
+        "word": "debatableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "debatable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "debatable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1469,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,56 +1504,56 @@
     "word": "debellation",
     "pos": "noun",
     "phonetic": "/debellation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of debellation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember DEBELLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DEBELLATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of debellation.",
+      "story_en": "A student remembers DEBELLATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEBELLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses debellation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 debellation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses debellation as an important part of the issue.",
+    "example_zh": "報告將 debellation 作為該議題的重要部分來討論。",
     "collocations": [
-      "debellation analysis",
-      "debellation process",
-      "debellation framework",
-      "address debellation",
-      "evaluate debellation"
+      "key debellation",
+      "debellation factor",
+      "debellation role",
+      "debellation in context",
+      "debellation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; debellation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; debellation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while debellation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; debellation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "noun"
       },
       {
-        "word": "debell",
-        "pos": "verb"
-      },
-      {
         "word": "debellational",
         "pos": "adjective"
+      },
+      {
+        "word": "debellationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "debellation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "debellation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1470,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1583,56 +1583,56 @@
     "word": "decadation",
     "pos": "noun",
     "phonetic": "/decadation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of decadation.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember DECADATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 DECADATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decadation.",
+      "story_en": "A student remembers DECADATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECADATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decadation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decadation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses decadation as an important part of the issue.",
+    "example_zh": "報告將 decadation 作為該議題的重要部分來討論。",
     "collocations": [
-      "decadation analysis",
-      "decadation process",
-      "decadation framework",
-      "address decadation",
-      "evaluate decadation"
+      "key decadation",
+      "decadation factor",
+      "decadation role",
+      "decadation in context",
+      "decadation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decadation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decadation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decadation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decadation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "decad",
-        "pos": "verb"
-      },
-      {
         "word": "decadational",
         "pos": "adjective"
+      },
+      {
+        "word": "decadationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decadation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decadation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1471,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1662,56 +1662,56 @@
     "word": "decadence",
     "pos": "noun",
     "phonetic": "/decadence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to, toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ad",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to, toward",
-          "meaning_zh": "朝向"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AD = to, toward; connect the root idea with the meaning of decadence.",
-      "story_en": "In a university report, the highlighted root AD helps the student remember DECADENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AD 聯想到 DECADENCE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decadence.",
+      "story_en": "A student remembers DECADENCE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECADENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decadence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decadence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses decadence as an important part of the issue.",
+    "example_zh": "報告將 decadence 作為該議題的重要部分來討論。",
     "collocations": [
-      "decadence analysis",
-      "decadence process",
-      "decadence framework",
-      "address decadence",
-      "evaluate decadence"
+      "key decadence",
+      "decadence factor",
+      "decadence role",
+      "decadence in context",
+      "decadence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decadence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decadence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decadence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decadence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "noun"
       },
       {
-        "word": "decad",
-        "pos": "verb"
-      },
-      {
         "word": "decadencal",
         "pos": "adjective"
+      },
+      {
+        "word": "decadenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decadence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decadence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1472,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "decapitable",
     "pos": "adjective",
     "phonetic": "/decapitable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to take, grasp, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "cap",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to take, grasp",
+          "meaning_zh": "拿取、抓住"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of decapitable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECAPITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECAPITABLE，把它記成精準的學術單字。",
+      "root_memory": "CAP = to take, grasp; connect this root idea with the meaning of decapitable.",
+      "story_en": "A student remembers DECAPITABLE by linking CAP to a real academic or professional situation.",
+      "story_zh": "學生把字根 CAP 和 DECAPITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decapitable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decapitable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a decapitable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 decapitable 因素。",
     "collocations": [
-      "decapitable analysis",
-      "decapitable process",
-      "decapitable framework",
-      "address decapitable",
-      "evaluate decapitable"
+      "decapitable approach",
+      "decapitable factor",
+      "decapitable issue",
+      "decapitable evidence",
+      "decapitable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decapitable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decapitable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decapitable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decapitable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "adjective"
       },
       {
-        "word": "decapitable",
-        "pos": "verb"
-      },
-      {
         "word": "decapitablal",
         "pos": "adjective"
+      },
+      {
+        "word": "decapitableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decapitable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decapitable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1473,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "decayable",
     "pos": "adjective",
     "phonetic": "/decayable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of decayable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECAYABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECAYABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decayable.",
+      "story_en": "A student remembers DECAYABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECAYABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decayable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decayable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a decayable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 decayable 因素。",
     "collocations": [
-      "decayable analysis",
-      "decayable process",
-      "decayable framework",
-      "address decayable",
-      "evaluate decayable"
+      "decayable approach",
+      "decayable factor",
+      "decayable issue",
+      "decayable evidence",
+      "decayable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decayable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decayable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decayable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decayable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "adjective"
       },
       {
-        "word": "decayable",
-        "pos": "verb"
-      },
-      {
         "word": "decayablal",
         "pos": "adjective"
+      },
+      {
+        "word": "decayableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decayable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decayable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1474,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,56 +1899,56 @@
     "word": "deceivable",
     "pos": "adjective",
     "phonetic": "/deceivable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deceivable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECEIVABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECEIVABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of deceivable.",
+      "story_en": "A student remembers DECEIVABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECEIVABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deceivable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deceivable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deceivable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deceivable 因素。",
     "collocations": [
-      "deceivable analysis",
-      "deceivable process",
-      "deceivable framework",
-      "address deceivable",
-      "evaluate deceivable"
+      "deceivable approach",
+      "deceivable factor",
+      "deceivable issue",
+      "deceivable evidence",
+      "deceivable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deceivable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deceivable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deceivable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deceivable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deceivable",
-        "pos": "verb"
-      },
-      {
         "word": "deceivablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deceivableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deceivable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deceivable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1475,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1978,56 +1978,56 @@
     "word": "decidable",
     "pos": "adjective",
     "phonetic": "/decidable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of decidable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECIDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECIDABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decidable.",
+      "story_en": "A student remembers DECIDABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECIDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decidable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decidable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a decidable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 decidable 因素。",
     "collocations": [
-      "decidable analysis",
-      "decidable process",
-      "decidable framework",
-      "address decidable",
-      "evaluate decidable"
+      "decidable approach",
+      "decidable factor",
+      "decidable issue",
+      "decidable evidence",
+      "decidable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decidable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decidable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decidable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decidable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "adjective"
       },
       {
-        "word": "decidable",
-        "pos": "verb"
-      },
-      {
         "word": "decidablal",
         "pos": "adjective"
+      },
+      {
+        "word": "decidableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decidable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decidable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1476,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "declarable",
     "pos": "adjective",
     "phonetic": "/declarable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of declarable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECLARABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECLARABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of declarable.",
+      "story_en": "A student remembers DECLARABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECLARABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses declarable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 declarable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a declarable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 declarable 因素。",
     "collocations": [
-      "declarable analysis",
-      "declarable process",
-      "declarable framework",
-      "address declarable",
-      "evaluate declarable"
+      "declarable approach",
+      "declarable factor",
+      "declarable issue",
+      "declarable evidence",
+      "declarable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; declarable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; declarable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while declarable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; declarable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "declarable",
-        "pos": "verb"
-      },
-      {
         "word": "declarablal",
         "pos": "adjective"
+      },
+      {
+        "word": "declarableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "declarable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "declarable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1477,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2136,56 +2136,56 @@
     "word": "declaration",
     "pos": "noun",
     "phonetic": "/declaration/",
-    "definition": "A formal English word used to describe a concept or condition connected with clear; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "clar",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "clear",
-          "meaning_zh": "清楚"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CLAR = clear; connect the root idea with the meaning of declaration.",
-      "story_en": "In a university report, the highlighted root CLAR helps the student remember DECLARATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CLAR 聯想到 DECLARATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of declaration.",
+      "story_en": "A student remembers DECLARATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECLARATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses declaration to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 declaration 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses declaration as an important part of the issue.",
+    "example_zh": "報告將 declaration 作為該議題的重要部分來討論。",
     "collocations": [
-      "declaration analysis",
-      "declaration process",
-      "declaration framework",
-      "address declaration",
-      "evaluate declaration"
+      "key declaration",
+      "declaration factor",
+      "declaration role",
+      "declaration in context",
+      "declaration and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; declaration is used as a more specific vocabulary item."
+        "difference": "aspect is broader; declaration is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while declaration follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; declaration follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2193,78 +2193,78 @@
         "pos": "noun"
       },
       {
-        "word": "declar",
-        "pos": "verb"
-      },
-      {
         "word": "declarational",
         "pos": "adjective"
+      },
+      {
+        "word": "declarationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "declaration is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "declaration is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1478,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "declarative",
     "pos": "adjective",
     "phonetic": "/declarative/",
-    "definition": "A formal English word used to describe a quality or condition connected with clear; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "clar",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "clear",
-          "meaning_zh": "清楚"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CLAR = clear; connect the root idea with the meaning of declarative.",
-      "story_en": "In a university report, the highlighted root CLAR helps the student remember DECLARATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CLAR 聯想到 DECLARATIVE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of declarative.",
+      "story_en": "A student remembers DECLARATIVE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECLARATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses declarative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 declarative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a declarative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 declarative 因素。",
     "collocations": [
-      "declarative analysis",
-      "declarative process",
-      "declarative framework",
-      "address declarative",
-      "evaluate declarative"
+      "declarative approach",
+      "declarative factor",
+      "declarative issue",
+      "declarative evidence",
+      "declarative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; declarative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; declarative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while declarative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; declarative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "adjective"
       },
       {
-        "word": "declarative",
-        "pos": "verb"
-      },
-      {
         "word": "declaratival",
         "pos": "adjective"
+      },
+      {
+        "word": "declarativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "declarative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "declarative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1479,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "declaratory",
     "pos": "adjective",
     "phonetic": "/declaratory/",
-    "definition": "A formal English word used to describe a quality or condition connected with clear; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "clar",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "clear",
-          "meaning_zh": "清楚"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CLAR = clear; connect the root idea with the meaning of declaratory.",
-      "story_en": "In a university report, the highlighted root CLAR helps the student remember DECLARATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CLAR 聯想到 DECLARATORY，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of declaratory.",
+      "story_en": "A student remembers DECLARATORY by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECLARATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses declaratory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 declaratory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a declaratory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 declaratory 因素。",
     "collocations": [
-      "declaratory analysis",
-      "declaratory process",
-      "declaratory framework",
-      "address declaratory",
-      "evaluate declaratory"
+      "declaratory approach",
+      "declaratory factor",
+      "declaratory issue",
+      "declaratory evidence",
+      "declaratory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; declaratory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; declaratory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while declaratory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; declaratory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "declaratory",
-        "pos": "verb"
-      },
-      {
         "word": "declaratoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "declaratoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "declaratory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "declaratory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1480,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "declinable",
     "pos": "adjective",
     "phonetic": "/declinable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of declinable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECLINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECLINABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of declinable.",
+      "story_en": "A student remembers DECLINABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECLINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses declinable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 declinable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a declinable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 declinable 因素。",
     "collocations": [
-      "declinable analysis",
-      "declinable process",
-      "declinable framework",
-      "address declinable",
-      "evaluate declinable"
+      "declinable approach",
+      "declinable factor",
+      "declinable issue",
+      "declinable evidence",
+      "declinable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; declinable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; declinable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while declinable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; declinable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "adjective"
       },
       {
-        "word": "declinable",
-        "pos": "verb"
-      },
-      {
         "word": "declinablal",
         "pos": "adjective"
+      },
+      {
+        "word": "declinableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "declinable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "declinable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1481,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,56 +2452,56 @@
     "word": "decollation",
     "pos": "noun",
     "phonetic": "/decollation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of decollation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember DECOLLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DECOLLATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decollation.",
+      "story_en": "A student remembers DECOLLATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECOLLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decollation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decollation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses decollation as an important part of the issue.",
+    "example_zh": "報告將 decollation 作為該議題的重要部分來討論。",
     "collocations": [
-      "decollation analysis",
-      "decollation process",
-      "decollation framework",
-      "address decollation",
-      "evaluate decollation"
+      "key decollation",
+      "decollation factor",
+      "decollation role",
+      "decollation in context",
+      "decollation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decollation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decollation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decollation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decollation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "noun"
       },
       {
-        "word": "decoll",
-        "pos": "verb"
-      },
-      {
         "word": "decollational",
         "pos": "adjective"
+      },
+      {
+        "word": "decollationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decollation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decollation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1482,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,56 +2531,56 @@
     "word": "decorable",
     "pos": "adjective",
     "phonetic": "/decorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of decorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECORABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decorable.",
+      "story_en": "A student remembers DECORABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a decorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 decorable 因素。",
     "collocations": [
-      "decorable analysis",
-      "decorable process",
-      "decorable framework",
-      "address decorable",
-      "evaluate decorable"
+      "decorable approach",
+      "decorable factor",
+      "decorable issue",
+      "decorable evidence",
+      "decorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "decorable",
-        "pos": "verb"
-      },
-      {
         "word": "decorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "decorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1483,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2610,56 +2610,56 @@
     "word": "decreeable",
     "pos": "adjective",
     "phonetic": "/decreeable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of decreeable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DECREEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DECREEABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of decreeable.",
+      "story_en": "A student remembers DECREEABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DECREEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decreeable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decreeable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a decreeable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 decreeable 因素。",
     "collocations": [
-      "decreeable analysis",
-      "decreeable process",
-      "decreeable framework",
-      "address decreeable",
-      "evaluate decreeable"
+      "decreeable approach",
+      "decreeable factor",
+      "decreeable issue",
+      "decreeable evidence",
+      "decreeable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decreeable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decreeable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decreeable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decreeable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "adjective"
       },
       {
-        "word": "decreeable",
-        "pos": "verb"
-      },
-      {
         "word": "decreeablal",
         "pos": "adjective"
+      },
+      {
+        "word": "decreeableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decreeable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decreeable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1484,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2689,56 +2689,56 @@
     "word": "decurrence",
     "pos": "noun",
     "phonetic": "/decurrence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of decurrence.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember DECURRENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 DECURRENCE，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of decurrence.",
+      "story_en": "A student remembers DECURRENCE by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 DECURRENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decurrence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decurrence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses decurrence as an important part of the issue.",
+    "example_zh": "報告將 decurrence 作為該議題的重要部分來討論。",
     "collocations": [
-      "decurrence analysis",
-      "decurrence process",
-      "decurrence framework",
-      "address decurrence",
-      "evaluate decurrence"
+      "key decurrence",
+      "decurrence factor",
+      "decurrence role",
+      "decurrence in context",
+      "decurrence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decurrence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decurrence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decurrence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decurrence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "noun"
       },
       {
-        "word": "decurr",
-        "pos": "verb"
-      },
-      {
         "word": "decurrencal",
         "pos": "adjective"
+      },
+      {
+        "word": "decurrenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decurrence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decurrence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1485,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2768,56 +2768,56 @@
     "word": "decurvation",
     "pos": "noun",
     "phonetic": "/decurvation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of decurvation.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember DECURVATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 DECURVATION，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of decurvation.",
+      "story_en": "A student remembers DECURVATION by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 DECURVATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses decurvation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 decurvation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses decurvation as an important part of the issue.",
+    "example_zh": "報告將 decurvation 作為該議題的重要部分來討論。",
     "collocations": [
-      "decurvation analysis",
-      "decurvation process",
-      "decurvation framework",
-      "address decurvation",
-      "evaluate decurvation"
+      "key decurvation",
+      "decurvation factor",
+      "decurvation role",
+      "decurvation in context",
+      "decurvation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; decurvation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; decurvation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while decurvation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; decurvation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "noun"
       },
       {
-        "word": "decurv",
-        "pos": "verb"
-      },
-      {
         "word": "decurvational",
         "pos": "adjective"
+      },
+      {
+        "word": "decurvationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "decurvation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "decurvation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1486,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,56 +2847,56 @@
     "word": "dedolation",
     "pos": "noun",
     "phonetic": "/dedolation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of dedolation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember DEDOLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DEDOLATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of dedolation.",
+      "story_en": "A student remembers DEDOLATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEDOLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses dedolation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 dedolation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses dedolation as an important part of the issue.",
+    "example_zh": "報告將 dedolation 作為該議題的重要部分來討論。",
     "collocations": [
-      "dedolation analysis",
-      "dedolation process",
-      "dedolation framework",
-      "address dedolation",
-      "evaluate dedolation"
+      "key dedolation",
+      "dedolation factor",
+      "dedolation role",
+      "dedolation in context",
+      "dedolation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; dedolation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; dedolation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while dedolation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; dedolation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "noun"
       },
       {
-        "word": "dedol",
-        "pos": "verb"
-      },
-      {
         "word": "dedolational",
         "pos": "adjective"
+      },
+      {
+        "word": "dedolationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "dedolation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "dedolation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1487,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "defaceable",
     "pos": "adjective",
     "phonetic": "/defaceable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to make, do, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of defaceable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFACEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFACEABLE，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of defaceable.",
+      "story_en": "A student remembers DEFACEABLE by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 DEFACEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses defaceable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 defaceable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a defaceable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 defaceable 因素。",
     "collocations": [
-      "defaceable analysis",
-      "defaceable process",
-      "defaceable framework",
-      "address defaceable",
-      "evaluate defaceable"
+      "defaceable approach",
+      "defaceable factor",
+      "defaceable issue",
+      "defaceable evidence",
+      "defaceable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; defaceable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; defaceable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while defaceable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; defaceable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "adjective"
       },
       {
-        "word": "defaceable",
-        "pos": "verb"
-      },
-      {
         "word": "defaceablal",
         "pos": "adjective"
+      },
+      {
+        "word": "defaceableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "defaceable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "defaceable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1488,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3005,56 +3005,56 @@
     "word": "defendable",
     "pos": "adjective",
     "phonetic": "/defendable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of defendable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFENDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFENDABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of defendable.",
+      "story_en": "A student remembers DEFENDABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFENDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses defendable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 defendable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a defendable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 defendable 因素。",
     "collocations": [
-      "defendable analysis",
-      "defendable process",
-      "defendable framework",
-      "address defendable",
-      "evaluate defendable"
+      "defendable approach",
+      "defendable factor",
+      "defendable issue",
+      "defendable evidence",
+      "defendable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; defendable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; defendable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while defendable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; defendable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "adjective"
       },
       {
-        "word": "defendable",
-        "pos": "verb"
-      },
-      {
         "word": "defendablal",
         "pos": "adjective"
+      },
+      {
+        "word": "defendableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "defendable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "defendable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1489,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "deferable",
     "pos": "adjective",
     "phonetic": "/deferable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to carry, bring, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fer",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to carry, bring",
+          "meaning_zh": "帶來、攜帶"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deferable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFERABLE，把它記成精準的學術單字。",
+      "root_memory": "FER = to carry, bring; connect this root idea with the meaning of deferable.",
+      "story_en": "A student remembers DEFERABLE by linking FER to a real academic or professional situation.",
+      "story_zh": "學生把字根 FER 和 DEFERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deferable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deferable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deferable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deferable 因素。",
     "collocations": [
-      "deferable analysis",
-      "deferable process",
-      "deferable framework",
-      "address deferable",
-      "evaluate deferable"
+      "deferable approach",
+      "deferable factor",
+      "deferable issue",
+      "deferable evidence",
+      "deferable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deferable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deferable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deferable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deferable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deferable",
-        "pos": "verb"
-      },
-      {
         "word": "deferablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deferableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deferable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deferable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1490,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "deferrable",
     "pos": "adjective",
     "phonetic": "/deferrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to carry, bring, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fer",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to carry, bring",
+          "meaning_zh": "帶來、攜帶"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deferrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFERRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFERRABLE，把它記成精準的學術單字。",
+      "root_memory": "FER = to carry, bring; connect this root idea with the meaning of deferrable.",
+      "story_en": "A student remembers DEFERRABLE by linking FER to a real academic or professional situation.",
+      "story_zh": "學生把字根 FER 和 DEFERRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deferrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deferrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deferrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deferrable 因素。",
     "collocations": [
-      "deferrable analysis",
-      "deferrable process",
-      "deferrable framework",
-      "address deferrable",
-      "evaluate deferrable"
+      "deferrable approach",
+      "deferrable factor",
+      "deferrable issue",
+      "deferrable evidence",
+      "deferrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deferrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deferrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deferrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deferrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deferrable",
-        "pos": "verb"
-      },
-      {
         "word": "deferrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deferrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deferrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deferrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1491,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3242,56 +3242,56 @@
     "word": "defiable",
     "pos": "adjective",
     "phonetic": "/defiable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of defiable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFIABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of defiable.",
+      "story_en": "A student remembers DEFIABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses defiable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 defiable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a defiable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 defiable 因素。",
     "collocations": [
-      "defiable analysis",
-      "defiable process",
-      "defiable framework",
-      "address defiable",
-      "evaluate defiable"
+      "defiable approach",
+      "defiable factor",
+      "defiable issue",
+      "defiable evidence",
+      "defiable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; defiable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; defiable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while defiable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; defiable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "adjective"
       },
       {
-        "word": "defiable",
-        "pos": "verb"
-      },
-      {
         "word": "defiablal",
         "pos": "adjective"
+      },
+      {
+        "word": "defiableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "defiable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "defiable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1492,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3321,56 +3321,56 @@
     "word": "definable",
     "pos": "adjective",
     "phonetic": "/definable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of definable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFINABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of definable.",
+      "story_en": "A student remembers DEFINABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses definable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 definable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a definable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 definable 因素。",
     "collocations": [
-      "definable analysis",
-      "definable process",
-      "definable framework",
-      "address definable",
-      "evaluate definable"
+      "definable approach",
+      "definable factor",
+      "definable issue",
+      "definable evidence",
+      "definable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; definable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; definable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while definable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; definable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "definable",
-        "pos": "verb"
-      },
-      {
         "word": "definablal",
         "pos": "adjective"
+      },
+      {
+        "word": "definableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "definable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "definable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1493,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "deflagrable",
     "pos": "adjective",
     "phonetic": "/deflagrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deflagrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFLAGRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFLAGRABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of deflagrable.",
+      "story_en": "A student remembers DEFLAGRABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFLAGRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deflagrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deflagrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deflagrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deflagrable 因素。",
     "collocations": [
-      "deflagrable analysis",
-      "deflagrable process",
-      "deflagrable framework",
-      "address deflagrable",
-      "evaluate deflagrable"
+      "deflagrable approach",
+      "deflagrable factor",
+      "deflagrable issue",
+      "deflagrable evidence",
+      "deflagrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deflagrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deflagrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deflagrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deflagrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deflagrable",
-        "pos": "verb"
-      },
-      {
         "word": "deflagrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deflagrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deflagrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deflagrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1494,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,56 +3479,56 @@
     "word": "deflation",
     "pos": "noun",
     "phonetic": "/deflation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to down, away, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of deflation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember DEFLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 DEFLATION，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of deflation.",
+      "story_en": "A student remembers DEFLATION by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deflation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deflation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses deflation as an important part of the issue.",
+    "example_zh": "報告將 deflation 作為該議題的重要部分來討論。",
     "collocations": [
-      "deflation analysis",
-      "deflation process",
-      "deflation framework",
-      "address deflation",
-      "evaluate deflation"
+      "key deflation",
+      "deflation factor",
+      "deflation role",
+      "deflation in context",
+      "deflation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deflation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deflation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deflation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deflation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "noun"
       },
       {
-        "word": "defl",
-        "pos": "verb"
-      },
-      {
         "word": "deflational",
         "pos": "adjective"
+      },
+      {
+        "word": "deflationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deflation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deflation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1495,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "deflectable",
     "pos": "adjective",
     "phonetic": "/deflectable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deflectable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFLECTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFLECTABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of deflectable.",
+      "story_en": "A student remembers DEFLECTABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFLECTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deflectable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deflectable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deflectable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deflectable 因素。",
     "collocations": [
-      "deflectable analysis",
-      "deflectable process",
-      "deflectable framework",
-      "address deflectable",
-      "evaluate deflectable"
+      "deflectable approach",
+      "deflectable factor",
+      "deflectable issue",
+      "deflectable evidence",
+      "deflectable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deflectable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deflectable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deflectable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deflectable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deflectable",
-        "pos": "verb"
-      },
-      {
         "word": "deflectablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deflectableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deflectable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deflectable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1496,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "deformable",
     "pos": "adjective",
     "phonetic": "/deformable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to shape, form, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "form",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "shape, form",
+          "meaning_zh": "形狀、形式"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of deformable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFORMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFORMABLE，把它記成精準的學術單字。",
+      "root_memory": "FORM = shape, form; connect this root idea with the meaning of deformable.",
+      "story_en": "A student remembers DEFORMABLE by linking FORM to a real academic or professional situation.",
+      "story_zh": "學生把字根 FORM 和 DEFORMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deformable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deformable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deformable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deformable 因素。",
     "collocations": [
-      "deformable analysis",
-      "deformable process",
-      "deformable framework",
-      "address deformable",
-      "evaluate deformable"
+      "deformable approach",
+      "deformable factor",
+      "deformable issue",
+      "deformable evidence",
+      "deformable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deformable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deformable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deformable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deformable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deformable",
-        "pos": "verb"
-      },
-      {
         "word": "deformablal",
         "pos": "adjective"
+      },
+      {
+        "word": "deformableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deformable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deformable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1497,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "deformation",
     "pos": "noun",
     "phonetic": "/deformation/",
-    "definition": "A formal English word used to describe a concept or condition connected with shape; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to shape, form, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "form",
           "origin": "Latin",
-          "meaning": "shape",
-          "meaning_zh": "形狀"
+          "meaning": "shape, form",
+          "meaning_zh": "形狀、形式"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FORM = shape; connect the root idea with the meaning of deformation.",
-      "story_en": "In a university report, the highlighted root FORM helps the student remember DEFORMATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FORM 聯想到 DEFORMATION，把它記成精準的學術單字。",
+      "root_memory": "FORM = shape, form; connect this root idea with the meaning of deformation.",
+      "story_en": "A student remembers DEFORMATION by linking FORM to a real academic or professional situation.",
+      "story_zh": "學生把字根 FORM 和 DEFORMATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deformation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deformation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses deformation as an important part of the issue.",
+    "example_zh": "報告將 deformation 作為該議題的重要部分來討論。",
     "collocations": [
-      "deformation analysis",
-      "deformation process",
-      "deformation framework",
-      "address deformation",
-      "evaluate deformation"
+      "key deformation",
+      "deformation factor",
+      "deformation role",
+      "deformation in context",
+      "deformation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deformation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deformation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deformation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deformation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "noun"
       },
       {
-        "word": "deform",
-        "pos": "verb"
-      },
-      {
         "word": "deformational",
         "pos": "adjective"
+      },
+      {
+        "word": "deformationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deformation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deformation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1498,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3795,56 +3795,56 @@
     "word": "deformative",
     "pos": "adjective",
     "phonetic": "/deformative/",
-    "definition": "A formal English word used to describe a quality or condition connected with shape; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to shape, form, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
           "root": "form",
           "origin": "Latin",
-          "meaning": "shape",
-          "meaning_zh": "形狀"
+          "meaning": "shape, form",
+          "meaning_zh": "形狀、形式"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FORM = shape; connect the root idea with the meaning of deformative.",
-      "story_en": "In a university report, the highlighted root FORM helps the student remember DEFORMATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FORM 聯想到 DEFORMATIVE，把它記成精準的學術單字。",
+      "root_memory": "FORM = shape, form; connect this root idea with the meaning of deformative.",
+      "story_en": "A student remembers DEFORMATIVE by linking FORM to a real academic or professional situation.",
+      "story_zh": "學生把字根 FORM 和 DEFORMATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses deformative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 deformative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a deformative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 deformative 因素。",
     "collocations": [
-      "deformative analysis",
-      "deformative process",
-      "deformative framework",
-      "address deformative",
-      "evaluate deformative"
+      "deformative approach",
+      "deformative factor",
+      "deformative issue",
+      "deformative evidence",
+      "deformative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; deformative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; deformative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while deformative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; deformative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "deformative",
-        "pos": "verb"
-      },
-      {
         "word": "deformatival",
         "pos": "adjective"
+      },
+      {
+        "word": "deformativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "deformative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "deformative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1499,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3874,56 +3874,56 @@
     "word": "defrayable",
     "pos": "adjective",
     "phonetic": "/defrayable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to down, away, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "de",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "down, away",
+          "meaning_zh": "向下、離開"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of defrayable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember DEFRAYABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 DEFRAYABLE，把它記成精準的學術單字。",
+      "root_memory": "DE = down, away; connect this root idea with the meaning of defrayable.",
+      "story_en": "A student remembers DEFRAYABLE by linking DE to a real academic or professional situation.",
+      "story_zh": "學生把字根 DE 和 DEFRAYABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses defrayable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 defrayable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a defrayable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 defrayable 因素。",
     "collocations": [
-      "defrayable analysis",
-      "defrayable process",
-      "defrayable framework",
-      "address defrayable",
-      "evaluate defrayable"
+      "defrayable approach",
+      "defrayable factor",
+      "defrayable issue",
+      "defrayable evidence",
+      "defrayable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; defrayable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; defrayable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while defrayable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; defrayable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "adjective"
       },
       {
-        "word": "defrayable",
-        "pos": "verb"
-      },
-      {
         "word": "defrayablal",
         "pos": "adjective"
+      },
+      {
+        "word": "defrayableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "defrayable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "defrayable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1500,
     "frequency_source": "custom",
     "difficulty": "B2",

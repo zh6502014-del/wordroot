@@ -3,56 +3,56 @@
     "word": "fabrication",
     "pos": "noun",
     "phonetic": "/fabrication/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fabric",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fabrication.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FABRICATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FABRICATION，把它記成精準的學術單字。",
+      "root_memory": "FABRIC = base form or inherited word element; connect this root idea with the meaning of fabrication.",
+      "story_en": "A student remembers FABRICATION by linking FABRIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FABRIC 和 FABRICATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fabrication to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fabrication 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fabrication as an important part of the issue.",
+    "example_zh": "報告將 fabrication 作為該議題的重要部分來討論。",
     "collocations": [
-      "fabrication analysis",
-      "fabrication process",
-      "fabrication framework",
-      "address fabrication",
-      "evaluate fabrication"
+      "key fabrication",
+      "fabrication factor",
+      "fabrication role",
+      "fabrication in context",
+      "fabrication and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fabrication is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fabrication is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fabrication follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fabrication follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "noun"
       },
       {
-        "word": "fabric",
-        "pos": "verb"
-      },
-      {
         "word": "fabricational",
         "pos": "adjective"
+      },
+      {
+        "word": "fabricationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fabrication is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fabrication is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1851,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,56 +82,56 @@
     "word": "fabricative",
     "pos": "adjective",
     "phonetic": "/fabricative/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fabrica",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fabricative.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FABRICATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FABRICATIVE，把它記成精準的學術單字。",
+      "root_memory": "FABRICA = base form or inherited word element; connect this root idea with the meaning of fabricative.",
+      "story_en": "A student remembers FABRICATIVE by linking FABRICA to a real academic or professional situation.",
+      "story_zh": "學生把字根 FABRICA 和 FABRICATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fabricative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fabricative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fabricative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fabricative 因素。",
     "collocations": [
-      "fabricative analysis",
-      "fabricative process",
-      "fabricative framework",
-      "address fabricative",
-      "evaluate fabricative"
+      "fabricative approach",
+      "fabricative factor",
+      "fabricative issue",
+      "fabricative evidence",
+      "fabricative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fabricative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fabricative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fabricative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fabricative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fabricative",
-        "pos": "verb"
-      },
-      {
         "word": "fabricatival",
         "pos": "adjective"
+      },
+      {
+        "word": "fabricativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fabricative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fabricative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1852,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,56 +161,56 @@
     "word": "faceable",
     "pos": "adjective",
     "phonetic": "/faceable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to make, do, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of faceable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FACEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FACEABLE，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of faceable.",
+      "story_en": "A student remembers FACEABLE by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses faceable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 faceable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a faceable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 faceable 因素。",
     "collocations": [
-      "faceable analysis",
-      "faceable process",
-      "faceable framework",
-      "address faceable",
-      "evaluate faceable"
+      "faceable approach",
+      "faceable factor",
+      "faceable issue",
+      "faceable evidence",
+      "faceable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; faceable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; faceable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while faceable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; faceable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "adjective"
       },
       {
-        "word": "faceable",
-        "pos": "verb"
-      },
-      {
         "word": "faceablal",
         "pos": "adjective"
+      },
+      {
+        "word": "faceableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "faceable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "faceable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1853,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,56 +240,56 @@
     "word": "facetiation",
     "pos": "noun",
     "phonetic": "/facetiation/",
-    "definition": "A formal English word used to describe a concept or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to make, do, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ac",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "toward",
-          "meaning_zh": "朝向"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AC = toward; connect the root idea with the meaning of facetiation.",
-      "story_en": "In a university report, the highlighted root AC helps the student remember FACETIATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AC 聯想到 FACETIATION，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of facetiation.",
+      "story_en": "A student remembers FACETIATION by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACETIATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses facetiation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 facetiation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses facetiation as an important part of the issue.",
+    "example_zh": "報告將 facetiation 作為該議題的重要部分來討論。",
     "collocations": [
-      "facetiation analysis",
-      "facetiation process",
-      "facetiation framework",
-      "address facetiation",
-      "evaluate facetiation"
+      "key facetiation",
+      "facetiation factor",
+      "facetiation role",
+      "facetiation in context",
+      "facetiation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; facetiation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; facetiation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while facetiation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; facetiation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "noun"
       },
       {
-        "word": "faceti",
-        "pos": "verb"
-      },
-      {
         "word": "facetiational",
         "pos": "adjective"
+      },
+      {
+        "word": "facetiationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "facetiation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "facetiation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1854,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -319,56 +319,56 @@
     "word": "faciation",
     "pos": "noun",
     "phonetic": "/faciation/",
-    "definition": "A formal English word used to describe a concept or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to make, do, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ac",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "toward",
-          "meaning_zh": "朝向"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AC = toward; connect the root idea with the meaning of faciation.",
-      "story_en": "In a university report, the highlighted root AC helps the student remember FACIATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AC 聯想到 FACIATION，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of faciation.",
+      "story_en": "A student remembers FACIATION by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACIATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses faciation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 faciation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses faciation as an important part of the issue.",
+    "example_zh": "報告將 faciation 作為該議題的重要部分來討論。",
     "collocations": [
-      "faciation analysis",
-      "faciation process",
-      "faciation framework",
-      "address faciation",
-      "evaluate faciation"
+      "key faciation",
+      "faciation factor",
+      "faciation role",
+      "faciation in context",
+      "faciation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; faciation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; faciation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while faciation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; faciation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "noun"
       },
       {
-        "word": "faci",
-        "pos": "verb"
-      },
-      {
         "word": "faciational",
         "pos": "adjective"
+      },
+      {
+        "word": "faciationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "faciation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "faciation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1855,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -398,56 +398,56 @@
     "word": "factable",
     "pos": "adjective",
     "phonetic": "/factable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to make, do, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of factable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FACTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FACTABLE，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of factable.",
+      "story_en": "A student remembers FACTABLE by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses factable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 factable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a factable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 factable 因素。",
     "collocations": [
-      "factable analysis",
-      "factable process",
-      "factable framework",
-      "address factable",
-      "evaluate factable"
+      "factable approach",
+      "factable factor",
+      "factable issue",
+      "factable evidence",
+      "factable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; factable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; factable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while factable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; factable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "adjective"
       },
       {
-        "word": "factable",
-        "pos": "verb"
-      },
-      {
         "word": "factablal",
         "pos": "adjective"
+      },
+      {
+        "word": "factableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "factable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "factable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1856,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,56 +477,56 @@
     "word": "factorable",
     "pos": "adjective",
     "phonetic": "/factorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to make, do, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of factorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FACTORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FACTORABLE，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of factorable.",
+      "story_en": "A student remembers FACTORABLE by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACTORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses factorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 factorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a factorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 factorable 因素。",
     "collocations": [
-      "factorable analysis",
-      "factorable process",
-      "factorable framework",
-      "address factorable",
-      "evaluate factorable"
+      "factorable approach",
+      "factorable factor",
+      "factorable issue",
+      "factorable evidence",
+      "factorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; factorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; factorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while factorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; factorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "factorable",
-        "pos": "verb"
-      },
-      {
         "word": "factorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "factorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "factorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "factorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1857,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -556,56 +556,56 @@
     "word": "facultative",
     "pos": "adjective",
     "phonetic": "/facultative/",
-    "definition": "A formal English word used to describe a quality or condition connected with toward; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to make, do, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ac",
+          "root": "fac",
           "origin": "Latin",
-          "meaning": "toward",
-          "meaning_zh": "朝向"
+          "meaning": "to make, do",
+          "meaning_zh": "做、製造"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AC = toward; connect the root idea with the meaning of facultative.",
-      "story_en": "In a university report, the highlighted root AC helps the student remember FACULTATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AC 聯想到 FACULTATIVE，把它記成精準的學術單字。",
+      "root_memory": "FAC = to make, do; connect this root idea with the meaning of facultative.",
+      "story_en": "A student remembers FACULTATIVE by linking FAC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAC 和 FACULTATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses facultative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 facultative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a facultative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 facultative 因素。",
     "collocations": [
-      "facultative analysis",
-      "facultative process",
-      "facultative framework",
-      "address facultative",
-      "evaluate facultative"
+      "facultative approach",
+      "facultative factor",
+      "facultative issue",
+      "facultative evidence",
+      "facultative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; facultative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; facultative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while facultative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; facultative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "adjective"
       },
       {
-        "word": "facultative",
-        "pos": "verb"
-      },
-      {
         "word": "facultatival",
         "pos": "adjective"
+      },
+      {
+        "word": "facultativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "facultative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "facultative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1858,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,56 +635,56 @@
     "word": "fadable",
     "pos": "adjective",
     "phonetic": "/fadable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to, toward, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ad",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fadable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FADABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FADABLE，把它記成精準的學術單字。",
+      "root_memory": "AD = to, toward; connect this root idea with the meaning of fadable.",
+      "story_en": "A student remembers FADABLE by linking AD to a real academic or professional situation.",
+      "story_zh": "學生把字根 AD 和 FADABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fadable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fadable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fadable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fadable 因素。",
     "collocations": [
-      "fadable analysis",
-      "fadable process",
-      "fadable framework",
-      "address fadable",
-      "evaluate fadable"
+      "fadable approach",
+      "fadable factor",
+      "fadable issue",
+      "fadable evidence",
+      "fadable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fadable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fadable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fadable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fadable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fadable",
-        "pos": "verb"
-      },
-      {
         "word": "fadablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fadableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fadable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fadable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1859,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,56 +714,56 @@
     "word": "fallation",
     "pos": "noun",
     "phonetic": "/fallation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "fall",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of fallation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember FALLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 FALLATION，把它記成精準的學術單字。",
+      "root_memory": "FALL = base form or inherited word element; connect this root idea with the meaning of fallation.",
+      "story_en": "A student remembers FALLATION by linking FALL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FALL 和 FALLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fallation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fallation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fallation as an important part of the issue.",
+    "example_zh": "報告將 fallation 作為該議題的重要部分來討論。",
     "collocations": [
-      "fallation analysis",
-      "fallation process",
-      "fallation framework",
-      "address fallation",
-      "evaluate fallation"
+      "key fallation",
+      "fallation factor",
+      "fallation role",
+      "fallation in context",
+      "fallation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fallation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fallation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fallation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fallation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "noun"
       },
       {
-        "word": "fall",
-        "pos": "verb"
-      },
-      {
         "word": "fallational",
         "pos": "adjective"
+      },
+      {
+        "word": "fallationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fallation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fallation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1860,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -793,56 +793,56 @@
     "word": "falsifiable",
     "pos": "adjective",
     "phonetic": "/falsifiable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "falsifi",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of falsifiable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FALSIFIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FALSIFIABLE，把它記成精準的學術單字。",
+      "root_memory": "FALSIFI = base form or inherited word element; connect this root idea with the meaning of falsifiable.",
+      "story_en": "A student remembers FALSIFIABLE by linking FALSIFI to a real academic or professional situation.",
+      "story_zh": "學生把字根 FALSIFI 和 FALSIFIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses falsifiable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 falsifiable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a falsifiable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 falsifiable 因素。",
     "collocations": [
-      "falsifiable analysis",
-      "falsifiable process",
-      "falsifiable framework",
-      "address falsifiable",
-      "evaluate falsifiable"
+      "falsifiable approach",
+      "falsifiable factor",
+      "falsifiable issue",
+      "falsifiable evidence",
+      "falsifiable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; falsifiable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; falsifiable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while falsifiable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; falsifiable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,15 +850,15 @@
         "pos": "adjective"
       },
       {
-        "word": "falsifiable",
-        "pos": "verb"
-      },
-      {
         "word": "falsifiablal",
         "pos": "adjective"
+      },
+      {
+        "word": "falsifiableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "falsifiable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "falsifiable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1861,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -872,56 +872,56 @@
     "word": "fanatical",
     "pos": "adjective",
     "phonetic": "/fanatical/",
-    "definition": "A formal English word used to describe a quality or condition connected with up, back, throughout; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ana",
-          "origin": "Greek",
-          "meaning": "up, back, throughout",
-          "meaning_zh": "向上、回溯、貫穿"
+          "root": "fanatic",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANA = up, back, throughout; connect the root idea with the meaning of fanatical.",
-      "story_en": "In a university report, the highlighted root ANA helps the student remember FANATICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANA 聯想到 FANATICAL，把它記成精準的學術單字。",
+      "root_memory": "FANATIC = base form or inherited word element; connect this root idea with the meaning of fanatical.",
+      "story_en": "A student remembers FANATICAL by linking FANATIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 FANATIC 和 FANATICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fanatical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fanatical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fanatical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fanatical 因素。",
     "collocations": [
-      "fanatical analysis",
-      "fanatical process",
-      "fanatical framework",
-      "address fanatical",
-      "evaluate fanatical"
+      "fanatical approach",
+      "fanatical factor",
+      "fanatical issue",
+      "fanatical evidence",
+      "fanatical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fanatical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fanatical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fanatical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fanatical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,15 +929,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fanatical",
-        "pos": "verb"
-      },
-      {
         "word": "fanaticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "fanaticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fanatical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fanatical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1862,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -951,56 +951,56 @@
     "word": "fanciable",
     "pos": "adjective",
     "phonetic": "/fanciable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fanciab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fanciable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FANCIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FANCIABLE，把它記成精準的學術單字。",
+      "root_memory": "FANCIAB = base form or inherited word element; connect this root idea with the meaning of fanciable.",
+      "story_en": "A student remembers FANCIABLE by linking FANCIAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FANCIAB 和 FANCIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fanciable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fanciable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fanciable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fanciable 因素。",
     "collocations": [
-      "fanciable analysis",
-      "fanciable process",
-      "fanciable framework",
-      "address fanciable",
-      "evaluate fanciable"
+      "fanciable approach",
+      "fanciable factor",
+      "fanciable issue",
+      "fanciable evidence",
+      "fanciable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fanciable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fanciable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fanciable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fanciable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fanciable",
-        "pos": "verb"
-      },
-      {
         "word": "fanciablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fanciableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fanciable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fanciable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1863,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,56 +1030,56 @@
     "word": "farmable",
     "pos": "adjective",
     "phonetic": "/farmable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "farmabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of farmable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FARMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FARMABLE，把它記成精準的學術單字。",
+      "root_memory": "FARMABL = base form or inherited word element; connect this root idea with the meaning of farmable.",
+      "story_en": "A student remembers FARMABLE by linking FARMABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FARMABL 和 FARMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses farmable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 farmable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a farmable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 farmable 因素。",
     "collocations": [
-      "farmable analysis",
-      "farmable process",
-      "farmable framework",
-      "address farmable",
-      "evaluate farmable"
+      "farmable approach",
+      "farmable factor",
+      "farmable issue",
+      "farmable evidence",
+      "farmable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; farmable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; farmable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while farmable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; farmable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "farmable",
-        "pos": "verb"
-      },
-      {
         "word": "farmablal",
         "pos": "adjective"
+      },
+      {
+        "word": "farmableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "farmable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "farmable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1864,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1109,56 +1109,56 @@
     "word": "fashionable",
     "pos": "adjective",
     "phonetic": "/fashionable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fashion",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fashionable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FASHIONABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FASHIONABLE，把它記成精準的學術單字。",
+      "root_memory": "FASHION = base form or inherited word element; connect this root idea with the meaning of fashionable.",
+      "story_en": "A student remembers FASHIONABLE by linking FASHION to a real academic or professional situation.",
+      "story_zh": "學生把字根 FASHION 和 FASHIONABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fashionable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fashionable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fashionable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fashionable 因素。",
     "collocations": [
-      "fashionable analysis",
-      "fashionable process",
-      "fashionable framework",
-      "address fashionable",
-      "evaluate fashionable"
+      "fashionable approach",
+      "fashionable factor",
+      "fashionable issue",
+      "fashionable evidence",
+      "fashionable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fashionable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fashionable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fashionable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fashionable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fashionable",
-        "pos": "verb"
-      },
-      {
         "word": "fashionablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fashionableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fashionable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fashionable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1865,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,56 +1188,56 @@
     "word": "fathomable",
     "pos": "adjective",
     "phonetic": "/fathomable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fathoma",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fathomable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FATHOMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FATHOMABLE，把它記成精準的學術單字。",
+      "root_memory": "FATHOMA = base form or inherited word element; connect this root idea with the meaning of fathomable.",
+      "story_en": "A student remembers FATHOMABLE by linking FATHOMA to a real academic or professional situation.",
+      "story_zh": "學生把字根 FATHOMA 和 FATHOMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fathomable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fathomable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fathomable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fathomable 因素。",
     "collocations": [
-      "fathomable analysis",
-      "fathomable process",
-      "fathomable framework",
-      "address fathomable",
-      "evaluate fathomable"
+      "fathomable approach",
+      "fathomable factor",
+      "fathomable issue",
+      "fathomable evidence",
+      "fathomable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fathomable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fathomable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fathomable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fathomable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fathomable",
-        "pos": "verb"
-      },
-      {
         "word": "fathomablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fathomableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fathomable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fathomable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1866,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,56 +1267,56 @@
     "word": "fatigable",
     "pos": "adjective",
     "phonetic": "/fatigable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fatigab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fatigable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FATIGABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FATIGABLE，把它記成精準的學術單字。",
+      "root_memory": "FATIGAB = base form or inherited word element; connect this root idea with the meaning of fatigable.",
+      "story_en": "A student remembers FATIGABLE by linking FATIGAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FATIGAB 和 FATIGABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fatigable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fatigable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fatigable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fatigable 因素。",
     "collocations": [
-      "fatigable analysis",
-      "fatigable process",
-      "fatigable framework",
-      "address fatigable",
-      "evaluate fatigable"
+      "fatigable approach",
+      "fatigable factor",
+      "fatigable issue",
+      "fatigable evidence",
+      "fatigable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fatigable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fatigable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fatigable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fatigable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fatigable",
-        "pos": "verb"
-      },
-      {
         "word": "fatigablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fatigableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fatigable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fatigable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1867,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1346,56 +1346,56 @@
     "word": "fattable",
     "pos": "adjective",
     "phonetic": "/fattable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fattabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fattable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FATTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FATTABLE，把它記成精準的學術單字。",
+      "root_memory": "FATTABL = base form or inherited word element; connect this root idea with the meaning of fattable.",
+      "story_en": "A student remembers FATTABLE by linking FATTABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FATTABL 和 FATTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fattable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fattable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fattable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fattable 因素。",
     "collocations": [
-      "fattable analysis",
-      "fattable process",
-      "fattable framework",
-      "address fattable",
-      "evaluate fattable"
+      "fattable approach",
+      "fattable factor",
+      "fattable issue",
+      "fattable evidence",
+      "fattable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fattable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fattable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fattable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fattable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fattable",
-        "pos": "verb"
-      },
-      {
         "word": "fattablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fattableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fattable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fattable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1868,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "fattenable",
     "pos": "adjective",
     "phonetic": "/fattenable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to hold, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ten",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to hold",
+          "meaning_zh": "握住、持有"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fattenable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FATTENABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FATTENABLE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of fattenable.",
+      "story_en": "A student remembers FATTENABLE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 FATTENABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fattenable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fattenable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fattenable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fattenable 因素。",
     "collocations": [
-      "fattenable analysis",
-      "fattenable process",
-      "fattenable framework",
-      "address fattenable",
-      "evaluate fattenable"
+      "fattenable approach",
+      "fattenable factor",
+      "fattenable issue",
+      "fattenable evidence",
+      "fattenable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fattenable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fattenable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fattenable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fattenable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fattenable",
-        "pos": "verb"
-      },
-      {
         "word": "fattenablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fattenableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fattenable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fattenable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1869,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1504,56 +1504,56 @@
     "word": "favorable",
     "pos": "adjective",
     "phonetic": "/favorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "favorab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of favorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FAVORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FAVORABLE，把它記成精準的學術單字。",
+      "root_memory": "FAVORAB = base form or inherited word element; connect this root idea with the meaning of favorable.",
+      "story_en": "A student remembers FAVORABLE by linking FAVORAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FAVORAB 和 FAVORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses favorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 favorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a favorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 favorable 因素。",
     "collocations": [
-      "favorable analysis",
-      "favorable process",
-      "favorable framework",
-      "address favorable",
-      "evaluate favorable"
+      "favorable approach",
+      "favorable factor",
+      "favorable issue",
+      "favorable evidence",
+      "favorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; favorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; favorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while favorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; favorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "favorable",
-        "pos": "verb"
-      },
-      {
         "word": "favorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "favorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "favorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "favorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1870,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,56 +1583,56 @@
     "word": "fearable",
     "pos": "adjective",
     "phonetic": "/fearable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fearabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fearable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FEARABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FEARABLE，把它記成精準的學術單字。",
+      "root_memory": "FEARABL = base form or inherited word element; connect this root idea with the meaning of fearable.",
+      "story_en": "A student remembers FEARABLE by linking FEARABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FEARABL 和 FEARABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fearable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fearable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fearable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fearable 因素。",
     "collocations": [
-      "fearable analysis",
-      "fearable process",
-      "fearable framework",
-      "address fearable",
-      "evaluate fearable"
+      "fearable approach",
+      "fearable factor",
+      "fearable issue",
+      "fearable evidence",
+      "fearable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fearable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fearable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fearable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fearable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fearable",
-        "pos": "verb"
-      },
-      {
         "word": "fearablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fearableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fearable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fearable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1871,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1662,56 +1662,56 @@
     "word": "feeable",
     "pos": "adjective",
     "phonetic": "/feeable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "feeable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of feeable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FEEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FEEABLE，把它記成精準的學術單字。",
+      "root_memory": "FEEABLE = base form or inherited word element; connect this root idea with the meaning of feeable.",
+      "story_en": "A student remembers FEEABLE by linking FEEABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 FEEABLE 和 FEEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses feeable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 feeable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a feeable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 feeable 因素。",
     "collocations": [
-      "feeable analysis",
-      "feeable process",
-      "feeable framework",
-      "address feeable",
-      "evaluate feeable"
+      "feeable approach",
+      "feeable factor",
+      "feeable issue",
+      "feeable evidence",
+      "feeable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; feeable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; feeable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while feeable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; feeable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "feeable",
-        "pos": "verb"
-      },
-      {
         "word": "feeablal",
         "pos": "adjective"
+      },
+      {
+        "word": "feeableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "feeable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "feeable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1872,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "feedable",
     "pos": "adjective",
     "phonetic": "/feedable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "feedabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of feedable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FEEDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FEEDABLE，把它記成精準的學術單字。",
+      "root_memory": "FEEDABL = base form or inherited word element; connect this root idea with the meaning of feedable.",
+      "story_en": "A student remembers FEEDABLE by linking FEEDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FEEDABL 和 FEEDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses feedable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 feedable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a feedable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 feedable 因素。",
     "collocations": [
-      "feedable analysis",
-      "feedable process",
-      "feedable framework",
-      "address feedable",
-      "evaluate feedable"
+      "feedable approach",
+      "feedable factor",
+      "feedable issue",
+      "feedable evidence",
+      "feedable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; feedable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; feedable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while feedable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; feedable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "adjective"
       },
       {
-        "word": "feedable",
-        "pos": "verb"
-      },
-      {
         "word": "feedablal",
         "pos": "adjective"
+      },
+      {
+        "word": "feedableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "feedable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "feedable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1873,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "feelable",
     "pos": "adjective",
     "phonetic": "/feelable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "feelabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of feelable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FEELABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FEELABLE，把它記成精準的學術單字。",
+      "root_memory": "FEELABL = base form or inherited word element; connect this root idea with the meaning of feelable.",
+      "story_en": "A student remembers FEELABLE by linking FEELABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FEELABL 和 FEELABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses feelable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 feelable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a feelable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 feelable 因素。",
     "collocations": [
-      "feelable analysis",
-      "feelable process",
-      "feelable framework",
-      "address feelable",
-      "evaluate feelable"
+      "feelable approach",
+      "feelable factor",
+      "feelable issue",
+      "feelable evidence",
+      "feelable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; feelable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; feelable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while feelable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; feelable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "adjective"
       },
       {
-        "word": "feelable",
-        "pos": "verb"
-      },
-      {
         "word": "feelablal",
         "pos": "adjective"
+      },
+      {
+        "word": "feelableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "feelable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "feelable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1874,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,56 +1899,56 @@
     "word": "fellable",
     "pos": "adjective",
     "phonetic": "/fellable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fellabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fellable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FELLABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FELLABLE，把它記成精準的學術單字。",
+      "root_memory": "FELLABL = base form or inherited word element; connect this root idea with the meaning of fellable.",
+      "story_en": "A student remembers FELLABLE by linking FELLABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FELLABL 和 FELLABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fellable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fellable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fellable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fellable 因素。",
     "collocations": [
-      "fellable analysis",
-      "fellable process",
-      "fellable framework",
-      "address fellable",
-      "evaluate fellable"
+      "fellable approach",
+      "fellable factor",
+      "fellable issue",
+      "fellable evidence",
+      "fellable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fellable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fellable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fellable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fellable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fellable",
-        "pos": "verb"
-      },
-      {
         "word": "fellablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fellableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fellable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fellable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1875,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1978,56 +1978,56 @@
     "word": "fellation",
     "pos": "noun",
     "phonetic": "/fellation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
-          "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "root": "fell",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of fellation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember FELLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 FELLATION，把它記成精準的學術單字。",
+      "root_memory": "FELL = base form or inherited word element; connect this root idea with the meaning of fellation.",
+      "story_en": "A student remembers FELLATION by linking FELL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FELL 和 FELLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fellation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fellation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fellation as an important part of the issue.",
+    "example_zh": "報告將 fellation 作為該議題的重要部分來討論。",
     "collocations": [
-      "fellation analysis",
-      "fellation process",
-      "fellation framework",
-      "address fellation",
-      "evaluate fellation"
+      "key fellation",
+      "fellation factor",
+      "fellation role",
+      "fellation in context",
+      "fellation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fellation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fellation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fellation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fellation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "noun"
       },
       {
-        "word": "fell",
-        "pos": "verb"
-      },
-      {
         "word": "fellational",
         "pos": "adjective"
+      },
+      {
+        "word": "fellationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fellation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fellation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1876,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2057,56 +2057,56 @@
     "word": "fendable",
     "pos": "adjective",
     "phonetic": "/fendable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fendabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fendable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FENDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FENDABLE，把它記成精準的學術單字。",
+      "root_memory": "FENDABL = base form or inherited word element; connect this root idea with the meaning of fendable.",
+      "story_en": "A student remembers FENDABLE by linking FENDABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FENDABL 和 FENDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fendable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fendable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fendable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fendable 因素。",
     "collocations": [
-      "fendable analysis",
-      "fendable process",
-      "fendable framework",
-      "address fendable",
-      "evaluate fendable"
+      "fendable approach",
+      "fendable factor",
+      "fendable issue",
+      "fendable evidence",
+      "fendable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fendable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fendable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fendable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fendable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fendable",
-        "pos": "verb"
-      },
-      {
         "word": "fendablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fendableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fendable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fendable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1877,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,56 +2136,56 @@
     "word": "fermentable",
     "pos": "adjective",
     "phonetic": "/fermentable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to carry, bring, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "fer",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to carry, bring",
+          "meaning_zh": "帶來、攜帶"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fermentable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FERMENTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FERMENTABLE，把它記成精準的學術單字。",
+      "root_memory": "FER = to carry, bring; connect this root idea with the meaning of fermentable.",
+      "story_en": "A student remembers FERMENTABLE by linking FER to a real academic or professional situation.",
+      "story_zh": "學生把字根 FER 和 FERMENTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fermentable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fermentable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fermentable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fermentable 因素。",
     "collocations": [
-      "fermentable analysis",
-      "fermentable process",
-      "fermentable framework",
-      "address fermentable",
-      "evaluate fermentable"
+      "fermentable approach",
+      "fermentable factor",
+      "fermentable issue",
+      "fermentable evidence",
+      "fermentable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fermentable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fermentable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fermentable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fermentable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fermentable",
-        "pos": "verb"
-      },
-      {
         "word": "fermentablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fermentableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fermentable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fermentable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1878,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2215,56 +2215,56 @@
     "word": "fervescence",
     "pos": "noun",
     "phonetic": "/fervescence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to carry, bring, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "fer",
           "origin": "Latin",
-          "meaning": "to carry",
-          "meaning_zh": "攜帶"
+          "meaning": "to carry, bring",
+          "meaning_zh": "帶來、攜帶"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FER = to carry; connect the root idea with the meaning of fervescence.",
-      "story_en": "In a university report, the highlighted root FER helps the student remember FERVESCENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FER 聯想到 FERVESCENCE，把它記成精準的學術單字。",
+      "root_memory": "FER = to carry, bring; connect this root idea with the meaning of fervescence.",
+      "story_en": "A student remembers FERVESCENCE by linking FER to a real academic or professional situation.",
+      "story_zh": "學生把字根 FER 和 FERVESCENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fervescence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fervescence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fervescence as an important part of the issue.",
+    "example_zh": "報告將 fervescence 作為該議題的重要部分來討論。",
     "collocations": [
-      "fervescence analysis",
-      "fervescence process",
-      "fervescence framework",
-      "address fervescence",
-      "evaluate fervescence"
+      "key fervescence",
+      "fervescence factor",
+      "fervescence role",
+      "fervescence in context",
+      "fervescence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fervescence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fervescence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fervescence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fervescence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "noun"
       },
       {
-        "word": "fervesc",
-        "pos": "verb"
-      },
-      {
         "word": "fervescencal",
         "pos": "adjective"
+      },
+      {
+        "word": "fervescenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fervescence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fervescence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1879,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "fightable",
     "pos": "adjective",
     "phonetic": "/fightable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fightab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fightable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FIGHTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FIGHTABLE，把它記成精準的學術單字。",
+      "root_memory": "FIGHTAB = base form or inherited word element; connect this root idea with the meaning of fightable.",
+      "story_en": "A student remembers FIGHTABLE by linking FIGHTAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FIGHTAB 和 FIGHTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fightable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fightable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fightable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fightable 因素。",
     "collocations": [
-      "fightable analysis",
-      "fightable process",
-      "fightable framework",
-      "address fightable",
-      "evaluate fightable"
+      "fightable approach",
+      "fightable factor",
+      "fightable issue",
+      "fightable evidence",
+      "fightable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fightable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fightable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fightable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fightable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fightable",
-        "pos": "verb"
-      },
-      {
         "word": "fightablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fightableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fightable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fightable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1880,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "figurable",
     "pos": "adjective",
     "phonetic": "/figurable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "figurab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of figurable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FIGURABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FIGURABLE，把它記成精準的學術單字。",
+      "root_memory": "FIGURAB = base form or inherited word element; connect this root idea with the meaning of figurable.",
+      "story_en": "A student remembers FIGURABLE by linking FIGURAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FIGURAB 和 FIGURABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses figurable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 figurable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a figurable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 figurable 因素。",
     "collocations": [
-      "figurable analysis",
-      "figurable process",
-      "figurable framework",
-      "address figurable",
-      "evaluate figurable"
+      "figurable approach",
+      "figurable factor",
+      "figurable issue",
+      "figurable evidence",
+      "figurable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; figurable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; figurable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while figurable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; figurable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "adjective"
       },
       {
-        "word": "figurable",
-        "pos": "verb"
-      },
-      {
         "word": "figurablal",
         "pos": "adjective"
+      },
+      {
+        "word": "figurableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "figurable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "figurable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1881,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,56 +2452,56 @@
     "word": "fillable",
     "pos": "adjective",
     "phonetic": "/fillable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fillabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fillable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FILLABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FILLABLE，把它記成精準的學術單字。",
+      "root_memory": "FILLABL = base form or inherited word element; connect this root idea with the meaning of fillable.",
+      "story_en": "A student remembers FILLABLE by linking FILLABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FILLABL 和 FILLABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fillable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fillable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fillable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fillable 因素。",
     "collocations": [
-      "fillable analysis",
-      "fillable process",
-      "fillable framework",
-      "address fillable",
-      "evaluate fillable"
+      "fillable approach",
+      "fillable factor",
+      "fillable issue",
+      "fillable evidence",
+      "fillable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fillable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fillable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fillable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fillable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fillable",
-        "pos": "verb"
-      },
-      {
         "word": "fillablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fillableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fillable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fillable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1882,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,56 +2531,56 @@
     "word": "filmable",
     "pos": "adjective",
     "phonetic": "/filmable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "filmabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of filmable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FILMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FILMABLE，把它記成精準的學術單字。",
+      "root_memory": "FILMABL = base form or inherited word element; connect this root idea with the meaning of filmable.",
+      "story_en": "A student remembers FILMABLE by linking FILMABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FILMABL 和 FILMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses filmable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 filmable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a filmable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 filmable 因素。",
     "collocations": [
-      "filmable analysis",
-      "filmable process",
-      "filmable framework",
-      "address filmable",
-      "evaluate filmable"
+      "filmable approach",
+      "filmable factor",
+      "filmable issue",
+      "filmable evidence",
+      "filmable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; filmable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; filmable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while filmable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; filmable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "filmable",
-        "pos": "verb"
-      },
-      {
         "word": "filmablal",
         "pos": "adjective"
+      },
+      {
+        "word": "filmableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "filmable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "filmable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1883,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2610,56 +2610,56 @@
     "word": "filterable",
     "pos": "adjective",
     "phonetic": "/filterable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "filtera",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of filterable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FILTERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FILTERABLE，把它記成精準的學術單字。",
+      "root_memory": "FILTERA = base form or inherited word element; connect this root idea with the meaning of filterable.",
+      "story_en": "A student remembers FILTERABLE by linking FILTERA to a real academic or professional situation.",
+      "story_zh": "學生把字根 FILTERA 和 FILTERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses filterable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 filterable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a filterable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 filterable 因素。",
     "collocations": [
-      "filterable analysis",
-      "filterable process",
-      "filterable framework",
-      "address filterable",
-      "evaluate filterable"
+      "filterable approach",
+      "filterable factor",
+      "filterable issue",
+      "filterable evidence",
+      "filterable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; filterable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; filterable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while filterable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; filterable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "adjective"
       },
       {
-        "word": "filterable",
-        "pos": "verb"
-      },
-      {
         "word": "filterablal",
         "pos": "adjective"
+      },
+      {
+        "word": "filterableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "filterable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "filterable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1884,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2689,56 +2689,56 @@
     "word": "filtrable",
     "pos": "adjective",
     "phonetic": "/filtrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "filtrab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of filtrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FILTRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FILTRABLE，把它記成精準的學術單字。",
+      "root_memory": "FILTRAB = base form or inherited word element; connect this root idea with the meaning of filtrable.",
+      "story_en": "A student remembers FILTRABLE by linking FILTRAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 FILTRAB 和 FILTRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses filtrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 filtrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a filtrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 filtrable 因素。",
     "collocations": [
-      "filtrable analysis",
-      "filtrable process",
-      "filtrable framework",
-      "address filtrable",
-      "evaluate filtrable"
+      "filtrable approach",
+      "filtrable factor",
+      "filtrable issue",
+      "filtrable evidence",
+      "filtrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; filtrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; filtrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while filtrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; filtrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "adjective"
       },
       {
-        "word": "filtrable",
-        "pos": "verb"
-      },
-      {
         "word": "filtrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "filtrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "filtrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "filtrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1885,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2768,56 +2768,56 @@
     "word": "filtratable",
     "pos": "adjective",
     "phonetic": "/filtratable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "filtrat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of filtratable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FILTRATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FILTRATABLE，把它記成精準的學術單字。",
+      "root_memory": "FILTRAT = base form or inherited word element; connect this root idea with the meaning of filtratable.",
+      "story_en": "A student remembers FILTRATABLE by linking FILTRAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 FILTRAT 和 FILTRATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses filtratable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 filtratable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a filtratable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 filtratable 因素。",
     "collocations": [
-      "filtratable analysis",
-      "filtratable process",
-      "filtratable framework",
-      "address filtratable",
-      "evaluate filtratable"
+      "filtratable approach",
+      "filtratable factor",
+      "filtratable issue",
+      "filtratable evidence",
+      "filtratable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; filtratable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; filtratable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while filtratable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; filtratable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "adjective"
       },
       {
-        "word": "filtratable",
-        "pos": "verb"
-      },
-      {
         "word": "filtratablal",
         "pos": "adjective"
+      },
+      {
+        "word": "filtratableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "filtratable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "filtratable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1886,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,56 +2847,56 @@
     "word": "finable",
     "pos": "adjective",
     "phonetic": "/finable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of finable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FINABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of finable.",
+      "story_en": "A student remembers FINABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses finable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 finable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a finable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 finable 因素。",
     "collocations": [
-      "finable analysis",
-      "finable process",
-      "finable framework",
-      "address finable",
-      "evaluate finable"
+      "finable approach",
+      "finable factor",
+      "finable issue",
+      "finable evidence",
+      "finable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; finable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; finable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while finable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; finable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "adjective"
       },
       {
-        "word": "finable",
-        "pos": "verb"
-      },
-      {
         "word": "finablal",
         "pos": "adjective"
+      },
+      {
+        "word": "finableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "finable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "finable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1887,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "findable",
     "pos": "adjective",
     "phonetic": "/findable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of findable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FINDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FINDABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of findable.",
+      "story_en": "A student remembers FINDABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses findable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 findable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a findable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 findable 因素。",
     "collocations": [
-      "findable analysis",
-      "findable process",
-      "findable framework",
-      "address findable",
-      "evaluate findable"
+      "findable approach",
+      "findable factor",
+      "findable issue",
+      "findable evidence",
+      "findable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; findable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; findable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while findable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; findable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "adjective"
       },
       {
-        "word": "findable",
-        "pos": "verb"
-      },
-      {
         "word": "findablal",
         "pos": "adjective"
+      },
+      {
+        "word": "findableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "findable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "findable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1888,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3005,56 +3005,56 @@
     "word": "fineable",
     "pos": "adjective",
     "phonetic": "/fineable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fineable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FINEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FINEABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of fineable.",
+      "story_en": "A student remembers FINEABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fineable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fineable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fineable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fineable 因素。",
     "collocations": [
-      "fineable analysis",
-      "fineable process",
-      "fineable framework",
-      "address fineable",
-      "evaluate fineable"
+      "fineable approach",
+      "fineable factor",
+      "fineable issue",
+      "fineable evidence",
+      "fineable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fineable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fineable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fineable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fineable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fineable",
-        "pos": "verb"
-      },
-      {
         "word": "fineablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fineableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fineable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fineable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1889,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "fingerable",
     "pos": "adjective",
     "phonetic": "/fingerable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fingerable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FINGERABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FINGERABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of fingerable.",
+      "story_en": "A student remembers FINGERABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINGERABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fingerable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fingerable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fingerable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fingerable 因素。",
     "collocations": [
-      "fingerable analysis",
-      "fingerable process",
-      "fingerable framework",
-      "address fingerable",
-      "evaluate fingerable"
+      "fingerable approach",
+      "fingerable factor",
+      "fingerable issue",
+      "fingerable evidence",
+      "fingerable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fingerable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fingerable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fingerable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fingerable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fingerable",
-        "pos": "verb"
-      },
-      {
         "word": "fingerablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fingerableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fingerable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fingerable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1890,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3163,56 +3163,56 @@
     "word": "finical",
     "pos": "adjective",
     "phonetic": "/finical/",
-    "definition": "A formal English word used to describe a quality or condition connected with end, boundary; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "fin",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "end, boundary",
-          "meaning_zh": "結束、界線"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FIN = end, boundary; connect the root idea with the meaning of finical.",
-      "story_en": "In a university report, the highlighted root FIN helps the student remember FINICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FIN 聯想到 FINICAL，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of finical.",
+      "story_en": "A student remembers FINICAL by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses finical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 finical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a finical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 finical 因素。",
     "collocations": [
-      "finical analysis",
-      "finical process",
-      "finical framework",
-      "address finical",
-      "evaluate finical"
+      "finical approach",
+      "finical factor",
+      "finical issue",
+      "finical evidence",
+      "finical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; finical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; finical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while finical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; finical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "finical",
-        "pos": "verb"
-      },
-      {
         "word": "finicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "finicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "finical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "finical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1891,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,56 +3242,56 @@
     "word": "finicality",
     "pos": "noun",
     "phonetic": "/finicality/",
-    "definition": "A formal English word used to describe a concept or condition connected with end, boundary; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to in, into, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "fin",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "end, boundary",
-          "meaning_zh": "結束、界線"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FIN = end, boundary; connect the root idea with the meaning of finicality.",
-      "story_en": "In a university report, the highlighted root FIN helps the student remember FINICALITY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FIN 聯想到 FINICALITY，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of finicality.",
+      "story_en": "A student remembers FINICALITY by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINICALITY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses finicality to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 finicality 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses finicality as an important part of the issue.",
+    "example_zh": "報告將 finicality 作為該議題的重要部分來討論。",
     "collocations": [
-      "finicality analysis",
-      "finicality process",
-      "finicality framework",
-      "address finicality",
-      "evaluate finicality"
+      "key finicality",
+      "finicality factor",
+      "finicality role",
+      "finicality in context",
+      "finicality and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; finicality is used as a more specific vocabulary item."
+        "difference": "aspect is broader; finicality is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while finicality follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; finicality follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "noun"
       },
       {
-        "word": "finical",
-        "pos": "verb"
-      },
-      {
         "word": "finicalityal",
         "pos": "adjective"
+      },
+      {
+        "word": "finicalityion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "finicality is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "finicality is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1892,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3321,56 +3321,56 @@
     "word": "finishable",
     "pos": "adjective",
     "phonetic": "/finishable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to in, into, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of finishable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FINISHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FINISHABLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of finishable.",
+      "story_en": "A student remembers FINISHABLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 FINISHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses finishable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 finishable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a finishable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 finishable 因素。",
     "collocations": [
-      "finishable analysis",
-      "finishable process",
-      "finishable framework",
-      "address finishable",
-      "evaluate finishable"
+      "finishable approach",
+      "finishable factor",
+      "finishable issue",
+      "finishable evidence",
+      "finishable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; finishable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; finishable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while finishable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; finishable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "finishable",
-        "pos": "verb"
-      },
-      {
         "word": "finishablal",
         "pos": "adjective"
+      },
+      {
+        "word": "finishableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "finishable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "finishable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1893,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "fireable",
     "pos": "adjective",
     "phonetic": "/fireable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fireabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fireable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FIREABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FIREABLE，把它記成精準的學術單字。",
+      "root_memory": "FIREABL = base form or inherited word element; connect this root idea with the meaning of fireable.",
+      "story_en": "A student remembers FIREABLE by linking FIREABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FIREABL 和 FIREABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fireable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fireable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fireable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fireable 因素。",
     "collocations": [
-      "fireable analysis",
-      "fireable process",
-      "fireable framework",
-      "address fireable",
-      "evaluate fireable"
+      "fireable approach",
+      "fireable factor",
+      "fireable issue",
+      "fireable evidence",
+      "fireable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fireable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fireable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fireable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fireable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fireable",
-        "pos": "verb"
-      },
-      {
         "word": "fireablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fireableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fireable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fireable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1894,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,56 +3479,56 @@
     "word": "firmance",
     "pos": "noun",
     "phonetic": "/firmance/",
-    "definition": "A formal English word used to describe a concept or condition connected with hand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "man",
-          "origin": "Latin",
-          "meaning": "hand",
-          "meaning_zh": "手"
+          "root": "firm",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "MAN = hand; connect the root idea with the meaning of firmance.",
-      "story_en": "In a university report, the highlighted root MAN helps the student remember FIRMANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MAN 聯想到 FIRMANCE，把它記成精準的學術單字。",
+      "root_memory": "FIRM = base form or inherited word element; connect this root idea with the meaning of firmance.",
+      "story_en": "A student remembers FIRMANCE by linking FIRM to a real academic or professional situation.",
+      "story_zh": "學生把字根 FIRM 和 FIRMANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses firmance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 firmance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses firmance as an important part of the issue.",
+    "example_zh": "報告將 firmance 作為該議題的重要部分來討論。",
     "collocations": [
-      "firmance analysis",
-      "firmance process",
-      "firmance framework",
-      "address firmance",
-      "evaluate firmance"
+      "key firmance",
+      "firmance factor",
+      "firmance role",
+      "firmance in context",
+      "firmance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; firmance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; firmance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while firmance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; firmance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "noun"
       },
       {
-        "word": "firm",
-        "pos": "verb"
-      },
-      {
         "word": "firmancal",
         "pos": "adjective"
+      },
+      {
+        "word": "firmanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "firmance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "firmance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1895,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "fishable",
     "pos": "adjective",
     "phonetic": "/fishable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fishabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fishable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FISHABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FISHABLE，把它記成精準的學術單字。",
+      "root_memory": "FISHABL = base form or inherited word element; connect this root idea with the meaning of fishable.",
+      "story_en": "A student remembers FISHABLE by linking FISHABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FISHABL 和 FISHABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fishable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fishable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fishable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fishable 因素。",
     "collocations": [
-      "fishable analysis",
-      "fishable process",
-      "fishable framework",
-      "address fishable",
-      "evaluate fishable"
+      "fishable approach",
+      "fishable factor",
+      "fishable issue",
+      "fishable evidence",
+      "fishable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fishable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fishable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fishable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fishable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fishable",
-        "pos": "verb"
-      },
-      {
         "word": "fishablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fishableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fishable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fishable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1896,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "fissionable",
     "pos": "adjective",
     "phonetic": "/fissionable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fission",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fissionable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FISSIONABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FISSIONABLE，把它記成精準的學術單字。",
+      "root_memory": "FISSION = base form or inherited word element; connect this root idea with the meaning of fissionable.",
+      "story_en": "A student remembers FISSIONABLE by linking FISSION to a real academic or professional situation.",
+      "story_zh": "學生把字根 FISSION 和 FISSIONABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fissionable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fissionable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fissionable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fissionable 因素。",
     "collocations": [
-      "fissionable analysis",
-      "fissionable process",
-      "fissionable framework",
-      "address fissionable",
-      "evaluate fissionable"
+      "fissionable approach",
+      "fissionable factor",
+      "fissionable issue",
+      "fissionable evidence",
+      "fissionable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fissionable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fissionable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fissionable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fissionable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fissionable",
-        "pos": "verb"
-      },
-      {
         "word": "fissionablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fissionableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fissionable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fissionable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1897,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3716,56 +3716,56 @@
     "word": "fittable",
     "pos": "adjective",
     "phonetic": "/fittable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fittabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fittable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FITTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FITTABLE，把它記成精準的學術單字。",
+      "root_memory": "FITTABL = base form or inherited word element; connect this root idea with the meaning of fittable.",
+      "story_en": "A student remembers FITTABLE by linking FITTABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 FITTABL 和 FITTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fittable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fittable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fittable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fittable 因素。",
     "collocations": [
-      "fittable analysis",
-      "fittable process",
-      "fittable framework",
-      "address fittable",
-      "evaluate fittable"
+      "fittable approach",
+      "fittable factor",
+      "fittable issue",
+      "fittable evidence",
+      "fittable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fittable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fittable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fittable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fittable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fittable",
-        "pos": "verb"
-      },
-      {
         "word": "fittablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fittableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fittable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fittable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1898,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,56 +3795,56 @@
     "word": "fixable",
     "pos": "adjective",
     "phonetic": "/fixable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fixable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fixable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FIXABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FIXABLE，把它記成精準的學術單字。",
+      "root_memory": "FIXABLE = base form or inherited word element; connect this root idea with the meaning of fixable.",
+      "story_en": "A student remembers FIXABLE by linking FIXABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 FIXABLE 和 FIXABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fixable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fixable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a fixable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 fixable 因素。",
     "collocations": [
-      "fixable analysis",
-      "fixable process",
-      "fixable framework",
-      "address fixable",
-      "evaluate fixable"
+      "fixable approach",
+      "fixable factor",
+      "fixable issue",
+      "fixable evidence",
+      "fixable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fixable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fixable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fixable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fixable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "fixable",
-        "pos": "verb"
-      },
-      {
         "word": "fixablal",
         "pos": "adjective"
+      },
+      {
+        "word": "fixableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fixable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fixable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1899,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3874,7 +3874,7 @@
     "word": "flaminical",
     "pos": "adjective",
     "phonetic": "/flaminical/",
-    "definition": "A formal English word used to describe a quality or condition connected with small, less; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to small, less, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3887,43 +3887,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "MIN = small, less; connect the root idea with the meaning of flaminical.",
-      "story_en": "In a university report, the highlighted root MIN helps the student remember FLAMINICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 MIN 聯想到 FLAMINICAL，把它記成精準的學術單字。",
+      "root_memory": "MIN = small, less; connect this root idea with the meaning of flaminical.",
+      "story_en": "A student remembers FLAMINICAL by linking MIN to a real academic or professional situation.",
+      "story_zh": "學生把字根 MIN 和 FLAMINICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses flaminical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 flaminical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a flaminical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 flaminical 因素。",
     "collocations": [
-      "flaminical analysis",
-      "flaminical process",
-      "flaminical framework",
-      "address flaminical",
-      "evaluate flaminical"
+      "flaminical approach",
+      "flaminical factor",
+      "flaminical issue",
+      "flaminical evidence",
+      "flaminical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; flaminical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; flaminical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while flaminical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; flaminical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "adjective"
       },
       {
-        "word": "flaminical",
-        "pos": "verb"
-      },
-      {
         "word": "flaminicalal",
         "pos": "adjective"
+      },
+      {
+        "word": "flaminicalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "flaminical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "flaminical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1900,
     "frequency_source": "custom",
     "difficulty": "B2",

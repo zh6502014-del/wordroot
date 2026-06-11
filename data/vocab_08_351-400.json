@@ -1,1 +1,4218 @@
-[{"word":"adversary","pos":"noun","phonetic":"/ˈædvərseri/","definition":"An opponent or enemy in a contest, conflict, dispute, or game.","definition_zh":"對手；敵手；仇敵","roots":[{"root":"ad-","origin":"Latin","meaning":"to, toward","meaning_zh":"朝向、前去"},{"root":"vers / vert","origin":"Latin","meaning":"to turn","meaning_zh":"轉動、面向"}],"mnemonic":{"story_en":"Your ADVERSARY is the person who has VERT (turned) AD (toward) you to fight against you.","story_zh":"轉過身（VERS）面向（AD）你的人，就是你必須在戰場上面對的「對手」。","emojis":["⚔️","🤺","🥊"]},"example":"Despite being an old political adversary, he paid tribute to the deceased prime minister.","synonyms":["opponent","rival","foe","antagonist"],"frequency_rank":351,"tags":["college","politics","law"]},{"word":"alleviate","pos":"verb","phonetic":"/əˈliːvieɪt/","definition":"To make suffering, deficiency, or a problem less severe or more bearable.","definition_zh":"減輕；緩和；緩解","roots":[{"root":"ad-","origin":"Latin","meaning":"to","meaning_zh":"朝向、去"},{"root":"levis","origin":"Latin","meaning":"light","meaning_zh":"輕的"}],"mnemonic":{"story_en":"Doctors try to ALLEVIATE pain by using medicine to make the heavy burden LEVI (light).","story_zh":"醫生開藥是為了「減輕」痛苦，讓原本沉重的病情變得輕（LEVI）一些。","emojis":["💊","😌","🩹"]},"example":"The government introduced new tax cuts to alleviate the financial burden on middle-class families.","synonyms":["relieve","mitigate","ease","assuage"],"frequency_rank":352,"tags":["college","academic","science"]},{"word":"amend","pos":"verb","phonetic":"/əˈmend/","definition":"To make minor changes in a text, law, or agreement in order to make it fairer, more accurate, or more up-to-date.","definition_zh":"修訂；修正（法規、文本等）；改進","roots":[{"root":"ex-","origin":"Latin","meaning":"out","meaning_zh":"向外、除去"},{"root":"menda","origin":"Latin","meaning":"fault, blemish","meaning_zh":"缺點、錯誤"}],"mnemonic":{"story_en":"To AMEND a constitution means to remove old MENDA (faults) and update it with correct rules.","story_zh":"修改法律（AMEND）的核心在於剔除（EX）原本的瑕疵與錯誤（MENDA），使其更臻完美。","emojis":["📜","✏️","⚖️"]},"example":"The committee voted unanimously to amend the constitution to allow online voting.","synonyms":["modify","revise","alter","rectify"],"frequency_rank":353,"tags":["college","law","politics"]},{"word":"appraise","pos":"verb","phonetic":"/əˈpreɪz/","definition":"To assess the value, quality, or performance of something or someone, typically in an official or professional capacity.","definition_zh":"評估；估價；評價","roots":[{"root":"ad-","origin":"Latin","meaning":"to, toward","meaning_zh":"朝向、給予"},{"root":"pretium","origin":"Latin","meaning":"price, value","meaning_zh":"價格、價值"}],"mnemonic":{"story_en":"An expert will APPRAISE the antique by looking at it closely to assign a fair PRETIUM (price).","story_zh":"古董專家在「估價（APPRAISE）」時，會仔細觀察並對其定出一個合理的價格（PRETIUM）。","emojis":["💎","📊","🧐"]},"example":"Managers will appraise the performance of each employee during the annual review next week.","synonyms":["evaluate","assess","estimate","value"],"frequency_rank":354,"tags":["college","business","finance"]},{"word":"articulate","pos":"adjective","phonetic":"/ɑːrˈtɪkjulət/","definition":"Having or showing the ability to speak fluently, clearly, and coherently, especially in expressing complex ideas.","definition_zh":"口才流利的；表達清晰的；發音清晰的","roots":[{"root":"articulus","origin":"Latin","meaning":"small joint, division","meaning_zh":"小關節、分節"}],"mnemonic":{"story_en":"An ARTICULATE speaker connects thoughts together smoothly, just as functional ARTICULUS (joints) connect bones.","story_zh":"一個「說話清晰流利」的人，能把文字像關節（ARTICULUS）一樣，一節一節完美銜接、表達流暢。","emojis":["🗣️","🎙️","🧠"]},"example":"She is an articulate defender of human rights, capable of swaying large crowds with her speeches.","synonyms":["eloquent","fluent","expressive","coherent"],"frequency_rank":355,"tags":["college","academic","language"]},{"word":"assert","pos":"verb","phonetic":"/əˈsɜːrt/","definition":"To state a fact or belief confidently and forcefully; to cause others to recognize one's authority or rights.","definition_zh":"堅稱；斷言；維護（權利、權威）","roots":[{"root":"ad-","origin":"Latin","meaning":"to","meaning_zh":"朝向、去"},{"root":"serere","origin":"Latin","meaning":"to join, bind","meaning_zh":"連結、編織"}],"mnemonic":{"story_en":"When you ASSERT your rights, you SERERE (bind) your words tightly AD (to) your personal authority.","story_zh":"「堅稱」或「維護」權利時，就像是把自己的立場牢牢綁定（SERERE）在某個立場上，絕不退讓。","emojis":["✊","🗣️","🛡️"]},"example":"The company legal team continues to assert that no patents were violated during development.","synonyms":["declare","maintain","claim","affirm"],"frequency_rank":356,"tags":["college","academic","law"]},{"word":"benign","pos":"adjective","phonetic":"/bɪˈnaɪn/","definition":"Gentle and kindly; (of a disease or tumor) not harmful in effect, not malignant.","definition_zh":"慈祥的；溫和的；（腫瘤）良性的","roots":[{"root":"bene","origin":"Latin","meaning":"well, good","meaning_zh":"好"},{"root":"gignere","origin":"Latin","meaning":"to beget, produce","meaning_zh":"生產、帶來"}],"mnemonic":{"story_en":"The doctor smiled because the test showed a BENIGN tumor, meaning it was BENE (good) and not deadly.","story_zh":"字根 BENE 代表「好」。醫生告訴病人腫瘤是「良性的（BENIGN）」，意味著它不會帶來壞影響。","emojis":["😇","🩺","☀️"]},"example":"The biopsy indicated that the lump was benign, relieving the anxious patient immensely.","synonyms":["harmless","kindly","innocuous","gentle"],"frequency_rank":357,"tags":["college","science","medicine"]},{"word":"bureaucracy","pos":"noun","phonetic":"/bjuːˈrɑːkrəsi/","definition":"A system of government or administration in which most of the important decisions are made by state officials rather than by elected representatives, often characterized by red tape.","definition_zh":"官僚體制；官僚作風；繁文縟節","roots":[{"root":"bureau","origin":"French","meaning":"desk, office","meaning_zh":"辦公桌、辦公室"},{"root":"kratos","origin":"Greek","meaning":"power, rule","meaning_zh":"權力、統治"}],"mnemonic":{"story_en":"In a heavy BUREAUCRACY, power (KRATOS) belongs to the people sitting behind a BUREAU (office desk).","story_zh":"由辦公桌（BUREAU）和權力（KRATOS）結合而成，指「坐在辦公桌後的官員掌握統治權」，多用來諷刺效率低下的體制。","emojis":["🏢","📂","⏳"]},"example":"Small business owners often complain about the excessive corporate bureaucracy required to get a simple permit.","synonyms":["administration","red tape","officialdom","management"],"frequency_rank":358,"tags":["college","politics","social"]},{"word":"clandestine","pos":"adjective","phonetic":"/klænˈdestɪn/","definition":"Kept secret or done secretively, especially because it is illicit, illegal, or unauthorized.","definition_zh":"秘密的；暗中的；私下的（尤指違法活動）","roots":[{"root":"clam","origin":"Latin","meaning":"secretly, in secret","meaning_zh":"秘密地"}],"mnemonic":{"story_en":"The spies held a CLANDESTINE meeting in a dark room, keeping their words hidden like a closed CLAM.","story_zh":"字根 CLAM 意為秘密。把秘密會議想像成緊閉的蚌殼（clam），在暗中「秘密」進行，不為外人所知。","emojis":["🕵️","🤫","🔒"]},"example":"The intelligence agency uncovered a clandestine operation to smuggle high-tech weapons across the border.","synonyms":["secret","covert","surreptitious","furtive"],"frequency_rank":359,"tags":["college","politics","law"]},{"word":"coercion","pos":"noun","phonetic":"/koʊˈɜːrʒn/","definition":"The practice of persuading someone to do something by using force or threats.","definition_zh":"強迫；脅迫；高壓統治","roots":[{"root":"co-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"arcere","origin":"Latin","meaning":"to restrain, enclose","meaning_zh":"限制、圍住"}],"mnemonic":{"story_en":"The dictator used COERCION, bringing forces together (CO) to enclose and restrain (ARCERE) the citizens' freedom.","story_zh":"透過把所有人聚在一起（CO）並加以限制與圍困（ARCERE），達到「強迫」他人服從的目的。","emojis":["⛓️","😡","🛑"]},"example":"The confession was thrown out of court because the judge found it was obtained through police coercion.","synonyms":["compulsion","force","duress","intimidation"],"frequency_rank":360,"tags":["college","law","politics"]},{"word":"cognitive","pos":"adjective","phonetic":"/ˈkɑːɡnətɪv/","definition":"Relating to the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.","definition_zh":"認知的；大腦意識的","roots":[{"root":"cognoscere","origin":"Latin","meaning":"to get to know, recognize","meaning_zh":"認識、得知"}],"mnemonic":{"story_en":"COGNITIVE development in children refers to how they grow to COGNOSCERE (know) and understand the world.","story_zh":"字根 COGNOSCERE 代表去認識。COGNITIVE 便是與人類大腦如何「認知」、獲取知識有關的形容詞。","emojis":["🧠","💡","🧩"]},"example":"As people age, keeping the mind active with puzzles can help delay cognitive decline.","synonyms":["mental","intellectual","rational"],"frequency_rank":361,"tags":["college","academic","psychology"]},{"word":"collaborate","pos":"verb","phonetic":"/kəˈlæbəreɪt/","definition":"To work jointly on an activity or project, especially to produce or create something.","definition_zh":"合作；協作；共同編寫","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"laborare","origin":"Latin","meaning":"to work","meaning_zh":"工作"}],"mnemonic":{"story_en":"To COLLABORATE means to bring people together (COM) to LABOR (work) on a single project.","story_zh":"由 COM（共同）和 LABOR（工作）組成，意思非常直白，就是「共同工作、合作」。","emojis":["🤝","👥","🎨"]},"example":"Researchers from three different universities collaborated to publish the groundbreaking medical study.","synonyms":["cooperate","team up","concur","work together"],"frequency_rank":362,"tags":["college","business","academic"]},{"word":"commodity","pos":"noun","phonetic":"/kəˈmɑːdəti/","definition":"A raw material or primary agricultural product that can be bought and sold, such as copper or coffee; a useful or valuable thing.","definition_zh":"商品；日用品；有價值的物品","roots":[{"root":"commodus","origin":"Latin","meaning":"convenient, suitable, proper","meaning_zh":"方便的、合適的"}],"mnemonic":{"story_en":"A COMMODITY provides a COMMODUS (convenient) solution for buyers who need raw materials like oil or corn.","story_zh":"源於拉丁文的「合適與方便（COMMODUS）」。能夠交易並為大眾生活帶來便利的大宗物資，就被稱為「商品（COMMODITY）」。","emojis":["📦","🌾","🛢️"]},"example":"In today's fast-paced corporate culture, time has become a highly valuable commodity.","synonyms":["product","good","merchandise","asset"],"frequency_rank":363,"tags":["college","economics","finance"]},{"word":"compatible","pos":"adjective","phonetic":"/kəmˈpætəbl/","definition":"Able to exist, occur, or work together without problems or conflict; consistent.","definition_zh":"相容相稱的；能共處的；合得來的","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"pati","origin":"Latin","meaning":"to suffer, endure","meaning_zh":"忍受、經歷"}],"mnemonic":{"story_en":"Two COMPATIBLE software programs can run together (COM) and endure (PATI) the workload without crashing.","story_zh":"字面意思是「能在一起（COM）互相包容與經受考驗（PATI）」，引申為軟體或人際關係間的「相容、合得來」。","emojis":["💻","💑","🧩"]},"example":"The new operating system update is fully compatible with older hardware models.","synonyms":["harmonious","consistent","matching","congruous"],"frequency_rank":364,"tags":["college","technology","academic"]},{"word":"compile","pos":"verb","phonetic":"/kəmˈpaɪl/","definition":"To produce something (such as a list, report, or book) by assembling information collected from other sources.","definition_zh":"彙編；編輯；收集（資料）","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"pilare","origin":"Latin","meaning":"to press down, heap up","meaning_zh":"堆積、緊壓"}],"mnemonic":{"story_en":"To COMPILE data, you gather pages together (COM) and heap them up (PILARE) into an organized folder.","story_zh":"把分散在各處的資料收集起來（COM），像堆木頭一樣堆疊（PILARE）並整理在一起，就是「彙編、編纂」。","emojis":["📚","💻","📊"]},"example":"The research assistant spent weeks trying to compile a comprehensive database of historical climate records.","synonyms":["assemble","gather","collect","accumulate"],"frequency_rank":365,"tags":["college","academic","technology"]},{"word":"compliance","pos":"noun","phonetic":"/kəmˈplaɪəns/","definition":"The action or fact of complying with a wish, command, rule, or law; formal obedience or conformity.","definition_zh":"順從；服從；（對法規的）遵守、符合","roots":[{"root":"com-","origin":"Latin","meaning":"completely","meaning_zh":"完全地"},{"root":"plere","origin":"Latin","meaning":"to fill","meaning_zh":"填滿、完成"}],"mnemonic":{"story_en":"The factory remained in full COMPLIANCE because they fulfilled (PLERE) and satisfied completely (COM) all safety laws.","story_zh":"源自 comply（遵守）。字面意思是完全（COM）填滿（PLERE）法規的要求，達到「符合、遵守法規」的狀態。","emojis":["✅","📜","🏢"]},"example":"The company was fined $50,000 for failing to maintain compliance with environmental regulations.","synonyms":["obedience","conformity","adherence","submission"],"frequency_rank":366,"tags":["college","business","law"]},{"word":"concede","pos":"verb","phonetic":"/kənˈsiːd/","definition":"To admit that something is true or valid after first denying or resisting it; to surrender or yield a right or possession.","definition_zh":"（勉強）承認；讓步；退讓；承認（失敗）","roots":[{"root":"com-","origin":"Latin","meaning":"completely","meaning_zh":"完全地"},{"root":"cedere","origin":"Latin","meaning":"to go, yield","meaning_zh":"行走、讓步"}],"mnemonic":{"story_en":"After realizing he lost the election, the candidate chose to CONCEDE and formally yield (CEDERE) victory to his opponent.","story_zh":"當局勢已定，不得不完全（COM）退讓（CEDERE），這就是「（勉強）承認失敗」或「讓步」。","emojis":["🏳️","🗳️","🤝"]},"example":"The candidate refused to concede the election until every single ballot had been counted.","synonyms":["admit","acknowledge","yield","surrender"],"frequency_rank":367,"tags":["college","politics","academic"]},{"word":"concur","pos":"verb","phonetic":"/kənˈkɜːr/","definition":"To be of the same opinion; to agree; to happen or take place at the same time.","definition_zh":"同意、意見一致；同時發生","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"currere","origin":"Latin","meaning":"to run","meaning_zh":"奔跑"}],"mnemonic":{"story_en":"The board members CONCUR with the plan, meaning their thoughts run (CURRERE) together (COM) in perfect agreement.","story_zh":"大家的思緒與腳步一起（COM）向前奔跑（CURRERE），朝同一個方向前進，即代表「意見一致、同意」。","emojis":["🏃","🤝","🕒"]},"example":"The medical board heavily concurred with the findings of the initial diagnostic report.","synonyms":["agree","coincide","acquiesce","collaborate"],"frequency_rank":368,"tags":["college","academic","law"]},{"word":"condense","pos":"verb","phonetic":"/kənˈdens/","definition":"To make something denser or more concentrated; to express a piece of writing or speech in fewer words.","definition_zh":"濃縮；壓縮（文字等）；（氣體）凝結","roots":[{"root":"com-","origin":"Latin","meaning":"completely","meaning_zh":"完全地"},{"root":"densus","origin":"Latin","meaning":"thick, crowded","meaning_zh":"稠密的、擁擠的"}],"mnemonic":{"story_en":"The editor asked him to CONDENSE the book, squeezing the pages to make the plot DENSUS (thick and compact).","story_zh":"完全（COM）將字句或分子擠壓得更加緊密（DENSUS），將多餘部分去掉，就是「濃縮」或「凝結」。","emojis":["🥛","📝","💧"]},"example":"You need to condense this 50-page report into a brief two-page executive summary.","synonyms":["summarize","compress","abridge","concentrate"],"frequency_rank":369,"tags":["college","academic","science"]},{"word":"connotation","pos":"noun","phonetic":"/ˌkɑːnəˈteɪʃn/","definition":"An idea or feeling that a word invokes for a person in addition to its literal or primary meaning (denotation).","definition_zh":"內涵意義；言外之意；隱含意義","roots":[{"root":"com-","origin":"Latin","meaning":"together with","meaning_zh":"與...一起"},{"root":"notare","origin":"Latin","meaning":"to mark, note","meaning_zh":"標記、記錄"}],"mnemonic":{"story_en":"The word 'cheap' has a negative CONNOTATION, because it brings a bad feeling together with (COM) its basic NOTA (note/meaning).","story_zh":"除了字面上的主要記號（NOTARE）之外，單字本身「一同（COM）帶來的弦外之音或情感色彩」，就是「內涵/隱含意義」。","emojis":["💬","🧠","🎭"]},"example":"The word 'cheap' has a negative connotation, whereas 'inexpensive' sounds much more positive.","synonyms":["implication","nuance","undertone","suggestion"],"frequency_rank":370,"tags":["college","academic","language"]},{"word":"consensus","pos":"noun","phonetic":"/kənˈsensəs/","definition":"A general agreement among a group of people; shared opinion or collective judgment.","definition_zh":"共識；一致的意見","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"sentire","origin":"Latin","meaning":"to feel, think","meaning_zh":"感覺、思考"}],"mnemonic":{"story_en":"To reach a CONSENSUS, all committee members must feel (SENTIRE) the same way together (COM) about the issue.","story_zh":"群體在一起（COM）思考並擁有相同的感受（SENTIRE），這就是「達成共識」。","emojis":["🤝","👥","🗳️"]},"example":"After hours of heated debate, the board finally reached a consensus on the new budget plan.","synonyms":["agreement","unanimity","accord","harmony"],"frequency_rank":371,"tags":["college","academic","politics"]},{"word":"constituent","pos":"noun","phonetic":"/kənˈstɪtʃuənt/","definition":"A member of a constituency; a voter in a specific district represented by an elected official; also, a component part of something.","definition_zh":"選民、選區居民；成分、構成要素","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"statuere","origin":"Latin","meaning":"to set up, place","meaning_zh":"建立、放置"}],"mnemonic":{"story_en":"Politicians must listen to each CONSTITUENT, because these voters stand together (COM) to set up (STATUERE) the government.","story_zh":"共同（COM）站出來建立（STATUERE）政權的人，就是「選民」；共同組裝起物體的東西，就是「成分」。","emojis":["🗳️","🧱","🇺🇸"]},"example":"The senator received thousands of letters from angry constituents opposing the new tax bill.","synonyms":["voter","elector","component","element"],"frequency_rank":372,"tags":["college","politics","science"]},{"word":"constrain","pos":"verb","phonetic":"/kənˈstreɪn/","definition":"To compel or force someone toward a particular course of action; to severely restrict the scope, activity, or freedom of someone or something.","definition_zh":"限制；約束；強迫、迫使","roots":[{"root":"com-","origin":"Latin","meaning":"completely","meaning_zh":"完全地"},{"root":"stringere","origin":"Latin","meaning":"to bind tight, draw tight","meaning_zh":"綁緊、拉緊"}],"mnemonic":{"story_en":"Fewer funds will CONSTRAIN our budget, drawing it tight (STRINGERE) and completely (COM) stopping our growth.","story_zh":"完全（COM）用繩子拉緊勒死（STRINGERE），使對方毫無活動空間，這就是「限制、約束」。","emojis":["⛓️","🛑","📉"]},"example":"The lack of external funding will severely constrain the research team's ability to conduct long-term field trials.","synonyms":["restrict","limit","curb","shackle"],"frequency_rank":373,"tags":["college","academic","economics"]},{"word":"contemplate","pos":"verb","phonetic":"/ˈkɑːntəmpleɪt/","definition":"To look thoughtfully for a long time at something; to think profoundly or deeply about a potential future action.","definition_zh":"沉思；冥想；深思熟慮；盤算","roots":[{"root":"com-","origin":"Latin","meaning":"completely","meaning_zh":"完全地"},{"root":"templum","origin":"Latin","meaning":"shrine, space marked out for observation","meaning_zh":"神殿、觀察聖地"}],"mnemonic":{"story_en":"Monks sit quietly to CONTEMPLATE life, transforming their minds into a peaceful TEMPLUM (temple/shrine).","story_zh":"字源與神殿（TEMPLUM）有關。想像古人在安靜的神殿中「完全（COM）」沉浸下來，對著上天「深思熟慮、冥想」。","emojis":["🧘","🤔","🌌"]},"example":"The CEO decided to take a week off to contemplate the long-term future and restructuring of the company.","synonyms":["ponder","meditate","consider","reflect on"],"frequency_rank":374,"tags":["college","philosophy","psychology"]},{"word":"contradict","pos":"verb","phonetic":"/ˌkɑːntrəˈdɪkt/","definition":"To deny the truth of a statement by asserting the opposite; to be in conflict or inconsistent with something else.","definition_zh":"反駁；與...矛盾；抵觸","roots":[{"root":"contra-","origin":"Latin","meaning":"against, opposite","meaning_zh":"反對、相反"},{"root":"dicere","origin":"Latin","meaning":"to speak","meaning_zh":"說話"}],"mnemonic":{"story_en":"It is rude to CONTRADICT your boss by DICING (speaking) directly CONTRA (against) his ideas in public.","story_zh":"對著（CONTRA）別人說（DICERE）相反的話，就是「反駁」；兩件事唱反調，就是「相矛盾」。","emojis":["🙅","🗣️","🔄"]},"example":"The new forensic evidence directly contradicts the suspect's original alibi statement.","synonyms":["deny","oppose","refute","gainsay"],"frequency_rank":375,"tags":["college","academic","law"]},{"word":"convene","pos":"verb","phonetic":"/kənˈviːn/","definition":"To come together or assemble for a formal meeting, activity, or official purpose; to cause to assemble.","definition_zh":"召集；召開（會議）；聚集","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"共同、一起"},{"root":"venire","origin":"Latin","meaning":"to come","meaning_zh":"來"}],"mnemonic":{"story_en":"The prime minister will CONVENE parliament, asking all leaders to VENIRE (come) together (COM).","story_zh":"叫大家一起（COM）過來（VENIRE），通常用於官方場合「召開」會議或「召集」人員。","emojis":["🏢","👥","📅"]},"example":"The United Nations Security Council will convene tomorrow morning to discuss the escalating crisis.","synonyms":["assemble","summon","gather","convoke"],"frequency_rank":376,"tags":["college","politics","academic"]},{"word":"cynical","pos":"adjective","phonetic":"/ˈsɪnɪkl/","definition":"Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.","definition_zh":"憤世嫉俗的；犬儒主義的；懷疑人性本善的","roots":[{"root":"kuon","origin":"Greek","meaning":"dog","meaning_zh":"狗（源自希臘犬儒學派，嘲弄世俗）"}],"mnemonic":{"story_en":"A CYNICAL person has a bitter view of society, barking like a wild dog (KUON) at what they see as fake kindness.","story_zh":"源自古希臘「犬儒學派」。他們認為世人皆虛偽自私，看穿一切般地對世俗抱持「憤世嫉俗、冷嘲熱熱」的態度。","emojis":["😒","🙄","🐕"]},"example":"Many young citizens have become cynical about politicians' empty promises during election campaigns.","synonyms":["skeptical","distrustful","misanthropic","sardonic"],"frequency_rank":377,"tags":["college","psychology","philosophy"]},{"word":"defying","pos":"verb","phonetic":"/dɪˈfaɪɪŋ/","definition":"Openly resisting or refusing to obey an authority, law, or rule; challenging a force deemed impossible to overcome.","definition_zh":"公然反抗；蔑視；挑釁（現在分詞形式）","roots":[{"root":"dis-","origin":"Latin","meaning":"undoing, away","meaning_zh":"消除、解開"},{"root":"fidus","origin":"Latin","meaning":"faith, trust","meaning_zh":"信任、效忠"}],"mnemonic":{"story_en":"By DEFYING the tyrant, the rebels were breaking (DIS) their FIDUS (faith/oath) to the corrupt crown.","story_zh":"解開或取消（DIS）過去對統治者的效忠與信任（FIDUS），站出來「公然反抗、蔑視」其權威。","emojis":["✊","🛑","🗣️"]},"example":"Defying the strict curfew, hundreds of protestors gathered in the central square at midnight.","synonyms":["resisting","challenging","flouting","disobeying"],"frequency_rank":378,"tags":["college","politics","social"]},{"word":"deprive","pos":"verb","phonetic":"/dɪˈpraɪv/","definition":"To deny a person or place the possession or use of something, especially an essential need or right.","definition_zh":"剝奪；使喪失","roots":[{"root":"de-","origin":"Latin","meaning":"completely, thoroughly","meaning_zh":"徹底地、向下"},{"root":"privare","origin":"Latin","meaning":"to separate, deprive of office","meaning_zh":"使分離、使孤立"}],"mnemonic":{"story_en":"To DEPRIVE a prisoner of sleep means to completely (DE) separate (PRIVARE) them from their normal rest.","story_zh":"徹底（DE）將某人和他應得的權利或物品分開、孤立（PRIVARE），這就是「剝奪」。","emojis":["🚫","🔒","🛌"]},"example":"The continuous loud noise from the street below began to deprive the residents of sleep.","synonyms":["strip","rob","divest","dispossess"],"frequency_rank":379,"tags":["college","academic","social"]},{"word":"discreet","pos":"adjective","phonetic":"/dɪˈskriːt/","definition":"Careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage; unobtrusive.","definition_zh":"謹慎的；考慮周到的；不引人注目的","roots":[{"root":"discernere","origin":"Latin","meaning":"to separate, distinguish","meaning_zh":"分開、辨別"}],"mnemonic":{"story_en":"A DISCREET butler knows how to discern (DISCERNERE) secrets and keep them quiet, never gossiping.","story_zh":"具備辨別（DISCERNERE）事理的能力，在外表現得「行事謹慎、不張揚」，絕不給人添麻煩。","emojis":["🤫","🕵️","🕶️"]},"example":"The diplomat made a discreet inquiry about the political prisoner's health without alerting the press.","synonyms":["cautious","circumspect","prudent","tactful"],"frequency_rank":380,"tags":["college","politics","business"]},{"word":"distort","pos":"verb","phonetic":"/dɪˈstɔːrt/","definition":"To pull or twist out of shape; to give a misleading or false account or impression of a fact or reality.","definition_zh":"扭曲（形狀）；歪曲（事實、真相）","roots":[{"root":"dis-","origin":"Latin","meaning":"completely, thoroughly","meaning_zh":"徹底地"},{"root":"torquere","origin":"Latin","meaning":"to twist","meaning_zh":"扭、轉"}],"mnemonic":{"story_en":"The corrupt media tried to DISTORT the truth by completely twisting (TORQ) the facts of the interview.","story_zh":"徹底（DIS）將事實像毛巾一樣扭轉（TORQ），使其偏離本來的面貌，即為「歪曲、扭曲」。","emojis":["🌀","🪞","📢"]},"example":"The legal defense argued that the prosecutor tried to distort the truth by presenting text messages out of context.","synonyms":["misrepresent","falsify","pervert","warp"],"frequency_rank":381,"tags":["college","academic","language"]},{"word":"diversity","pos":"noun","phonetic":"/daɪˈvɜːrsəti/","definition":"The state of being diverse; a range of different things; the practice of including people from a range of different social backgrounds.","definition_zh":"多樣性；多元化；差異性","roots":[{"root":"dis-","origin":"Latin","meaning":"aside, apart","meaning_zh":"往不同的方向、分開"},{"root":"vertere","origin":"Latin","meaning":"to turn","meaning_zh":"轉動"}],"mnemonic":{"story_en":"To build cultural DIVERSITY, we must look at people who have turned (VERS) in completely different (DI) directions.","story_zh":"往不同的方向（DI）轉身（VERS），不拘泥於單一方向，展現出「多樣性、多元化」。","emojis":["🌍","🤝","🎨"]},"example":"The university prides itself on the cultural diversity of its student body, with individuals from over 80 nations.","synonyms":["variety","multiplicity","heterogeneity","diversification"],"frequency_rank":382,"tags":["college","social","academic"]},{"word":"equilibrium","pos":"noun","phonetic":"/ˌiːkwɪˈlɪbriəm/","definition":"A state in which opposing forces or influences are perfectly balanced; a calm state of mind.","definition_zh":"平衡；均衡；（心情的）平靜","roots":[{"root":"aequus","origin":"Latin","meaning":"equal","meaning_zh":"相等的、平等的"},{"root":"libra","origin":"Latin","meaning":"balance, scale","meaning_zh":"天平、重量單位"}],"mnemonic":{"story_en":"To maintain EQUILIBRIUM, the scientist ensured both sides of the scale were AEQUUS (equal) on the LIBRA (balance).","story_zh":"天平（LIBRA，也是天秤座的由來）兩邊達到了等同（AEQUUS）的分量，呈現完美的「平衡、狀態穩定」。","emojis":["⚖️","🧘","🧪"]},"example":"Yoga helps practitioners restore their internal equilibrium and release accumulated stress.","synonyms":["balance","stability","symmetry","poise"],"frequency_rank":391,"tags":["college","science","economics"]},{"word":"ethical","pos":"adjective","phonetic":"/ˈeθɪkl/","definition":"Relating to moral principles or the branch of knowledge concerned with these; avoiding injury to others or environment.","definition_zh":"倫理的；道德的；合乎道德的","roots":[{"root":"ethos","origin":"Greek","meaning":"custom, moral character","meaning_zh":"風俗、道德品格"}],"mnemonic":{"story_en":"An ETHICAL doctor must always follow the high ETHOS (moral values) established by the medical community.","story_zh":"源自希臘文的 ETHOS（精神特質、道德）。指行為必須符合社會的「道德與倫理規範」。","emojis":["⚖️","😇","🤝"]},"example":"The committee is reviewing whether the medical experiment was ethical and protected patient safety.","synonyms":["moral","principled","righteous","honorable"],"frequency_rank":394,"tags":["college","philosophy","business"]},{"word":"evade","pos":"verb","phonetic":"/ɪˈveɪd/","definition":"To escape or avoid something, especially by cleverness or trickery; to elude a moral or legal duty.","definition_zh":"逃避；規避（法律、責任、稅收）","roots":[{"root":"ex-","origin":"Latin","meaning":"out, away","meaning_zh":"向外、離開"},{"root":"vadere","origin":"Latin","meaning":"to go, walk","meaning_zh":"行走"}],"mnemonic":{"story_en":"To EVADE taxes, the criminal tried to walk away (VADERE) from his legal duty and out (EX) of the system.","story_zh":"看到危險或責任，趕快往外（EX）跨步走開（VADERE）以免被抓到，引申為「逃避、規避」。","emojis":["🏃","💸","🛑"]},"example":"The billionaire was arrested after a hidden bank account revealed he tried to evade taxes for a decade.","synonyms":["avoid","elude","dodge","sidestep"],"frequency_rank":395,"tags":["college","law","finance"]},{"word":"evoke","pos":"verb","phonetic":"/ɪˈvoʊk/","definition":"To bring or recall a feeling, memory, or image to the conscious mind; to elicit a response.","definition_zh":"喚起（記憶、情感）；引起（共鳴、強烈反應）","roots":[{"root":"ex-","origin":"Latin","meaning":"out, forth","meaning_zh":"向外、出來"},{"root":"vocare","origin":"Latin","meaning":"to call","meaning_zh":"呼喊、召喚"}],"mnemonic":{"story_en":"Old black-and-white photos often EVOKE strong nostalgia, calling (VOCARE) out (EX) long-lost childhood memories.","story_zh":"把深藏在潛意識底下的眼淚或記憶，大聲地召喚（VOCARE）出來（EX），使人「喚起、引起」某種情緒。","emojis":["📸","💭","😭"]},"example":"The smell of fresh pine leaves never failed to evoke childhood memories of camping trips in her mind.","synonyms":["elicit","provoke","awaken","conjure up"],"frequency_rank":396,"tags":["college","academic","art"]},{"word":"exclusion","pos":"noun","phonetic":"/ɪkˈskluːʒn/","definition":"The process or state of excluding or being excluded from a place, group, privilege, or consideration.","definition_zh":"排除；排斥；除外","roots":[{"root":"ex-","origin":"Latin","meaning":"out","meaning_zh":"向外、在外"},{"root":"claudere","origin":"Latin","meaning":"to shut, close","meaning_zh":"關閉、上鎖"}],"mnemonic":{"story_en":"The club's EXCLUSION of non-members meant they would shut (CLAUDERE) the door on them and keep them out (EX).","story_zh":"把不符合資格的人推到門外（EX），然後狠狠把大門關上（CLAUDERE）不准他們進來，就是「排斥、排除」。","emojis":["🚫","🚪","🔒"]},"example":"The systematic exclusion of women from high-level corporate boards led to a massive civil lawsuit.","synonyms":["omission","rejection","elimination","barring"],"frequency_rank":397,"tags":["college","social","law"]},{"word":"exempt","pos":"adjective","phonetic":"/ɪɡˈzempt/","definition":"Free from an obligation, duty, or liability imposed on others by law or authority.","definition_zh":"免除的；豁免的","roots":[{"root":"ex-","origin":"Latin","meaning":"out","meaning_zh":"向外、出來"},{"root":"emere","origin":"Latin","meaning":"to take, buy","meaning_zh":"拿取、買"}],"mnemonic":{"story_en":"Since she has a health condition, she is EXEMPT from military service, taken out (EX) of the draft list (EMERE).","story_zh":"被從義務清單中挑選出來（EMERE）並移到外頭（EX），使其享有「免除、豁免」的特權。","emojis":["🔓","📜","🚫"]},"example":"Charitable organizations are typically exempt from paying federal income taxes.","synonyms":["excused","immune","free","spared"],"frequency_rank":399,"tags":["college","law","finance"]},{"word":"exotic","pos":"adjective","phonetic":"/ɪɡˈzɑːtɪk/","definition":"Originating in or characteristic of a distant foreign country, especially when excitingly strange or unusual.","definition_zh":"異國風情的；外來的；奇特的","roots":[{"root":"exo","origin":"Greek","meaning":"outside","meaning_zh":"在外面、外部"}],"mnemonic":{"story_en":"The zoo bought several EXOTIC birds that came from a tropical jungle way outside (EXO) our country.","story_zh":"字根 EXO 代表外面（如外骨骼 exoskeleton）。來自遙遠國界「外面（EXO）」的動植物或文化，給人一種「異國風情、奇特」的感覺。","emojis":["🦜","🌴","🗺️"]},"example":"The restaurant specializes in exotic spices imported directly from remote islands in Indonesia.","synonyms":["foreign","alien","unfamiliar","outlandish"],"frequency_rank":400,"tags":["college","art","social"]}]
+[
+  {
+    "word": "adversary",
+    "pos": "noun",
+    "phonetic": "/ˈædvərseri/",
+    "definition": "An opponent or enemy in a contest, conflict, dispute, or game.",
+    "definition_zh": "對手；敵手；仇敵",
+    "mnemonic": {
+      "story_en": "Your ADVERSARY is the person who has VERT (turned) AD (toward) you to fight against you.",
+      "story_zh": "轉過身（VERS）面向（AD）你的人，就是你必須在戰場上面對的「對手」。",
+      "emojis": [
+        "⚔️",
+        "🤺",
+        "🥊"
+      ],
+      "root_memory": "AD- = to, toward; connect this root idea with adversary."
+    },
+    "example": "Despite being an old political adversary, he paid tribute to the deceased prime minister.",
+    "synonyms": [
+      "opponent",
+      "rival",
+      "foe",
+      "antagonist"
+    ],
+    "frequency_rank": 351,
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、前去"
+        },
+        {
+          "root": "vers / vert",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "轉動、面向"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 adversary 在正式語境中的自然用法。",
+    "collocations": [
+      "key adversary",
+      "adversary factor",
+      "adversary role",
+      "adversary in context",
+      "adversary and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "opponent",
+        "difference": "opponent is related, but adversary has its own usage pattern and context."
+      },
+      {
+        "word": "rival",
+        "difference": "rival may overlap in meaning, but it is not always interchangeable with adversary."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "adversary",
+        "pos": "noun"
+      },
+      {
+        "word": "adversaryal",
+        "pos": "adjective"
+      },
+      {
+        "word": "adversaryion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "adversary is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "alleviate",
+    "pos": "verb",
+    "phonetic": "/əˈliːvieɪt/",
+    "definition": "To make suffering, deficiency, or a problem less severe or more bearable.",
+    "definition_zh": "減輕；緩和；緩解",
+    "mnemonic": {
+      "story_en": "Doctors try to ALLEVIATE pain by using medicine to make the heavy burden LEVI (light).",
+      "story_zh": "醫生開藥是為了「減輕」痛苦，讓原本沉重的病情變得輕（LEVI）一些。",
+      "emojis": [
+        "💊",
+        "😌",
+        "🩹"
+      ],
+      "root_memory": "AD- = to; connect this root idea with alleviate."
+    },
+    "example": "The government introduced new tax cuts to alleviate the financial burden on middle-class families.",
+    "synonyms": [
+      "relieve",
+      "mitigate",
+      "ease",
+      "assuage"
+    ],
+    "frequency_rank": 352,
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to",
+          "meaning_zh": "朝向、去"
+        },
+        {
+          "root": "levis",
+          "origin": "Latin",
+          "meaning": "light",
+          "meaning_zh": "輕的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 alleviate 在正式語境中的自然用法。",
+    "collocations": [
+      "alleviate carefully",
+      "alleviate effectively",
+      "alleviate the plan",
+      "alleviate a proposal",
+      "alleviate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "relieve",
+        "difference": "relieve is related, but alleviate has its own usage pattern and context."
+      },
+      {
+        "word": "mitigate",
+        "difference": "mitigate may overlap in meaning, but it is not always interchangeable with alleviate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "alleviate",
+        "pos": "verb"
+      },
+      {
+        "word": "alleviatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "alleviateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "alleviate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "amend",
+    "pos": "verb",
+    "phonetic": "/əˈmend/",
+    "definition": "To make minor changes in a text, law, or agreement in order to make it fairer, more accurate, or more up-to-date.",
+    "definition_zh": "修訂；修正（法規、文本等）；改進",
+    "mnemonic": {
+      "story_en": "To AMEND a constitution means to remove old MENDA (faults) and update it with correct rules.",
+      "story_zh": "修改法律（AMEND）的核心在於剔除（EX）原本的瑕疵與錯誤（MENDA），使其更臻完美。",
+      "emojis": [
+        "📜",
+        "✏️",
+        "⚖️"
+      ],
+      "root_memory": "EX- = out; connect this root idea with amend."
+    },
+    "example": "The committee voted unanimously to amend the constitution to allow online voting.",
+    "synonyms": [
+      "modify",
+      "revise",
+      "alter",
+      "rectify"
+    ],
+    "frequency_rank": 353,
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex-",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外、除去"
+        },
+        {
+          "root": "menda",
+          "origin": "Latin",
+          "meaning": "fault, blemish",
+          "meaning_zh": "缺點、錯誤"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 amend 在正式語境中的自然用法。",
+    "collocations": [
+      "amend carefully",
+      "amend effectively",
+      "amend the plan",
+      "amend a proposal",
+      "amend in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "modify",
+        "difference": "modify is related, but amend has its own usage pattern and context."
+      },
+      {
+        "word": "revise",
+        "difference": "revise may overlap in meaning, but it is not always interchangeable with amend."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "amend",
+        "pos": "verb"
+      },
+      {
+        "word": "amendal",
+        "pos": "adjective"
+      },
+      {
+        "word": "amendion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "amend is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "appraise",
+    "pos": "verb",
+    "phonetic": "/əˈpreɪz/",
+    "definition": "To assess the value, quality, or performance of something or someone, typically in an official or professional capacity.",
+    "definition_zh": "評估；估價；評價",
+    "mnemonic": {
+      "story_en": "An expert will APPRAISE the antique by looking at it closely to assign a fair PRETIUM (price).",
+      "story_zh": "古董專家在「估價（APPRAISE）」時，會仔細觀察並對其定出一個合理的價格（PRETIUM）。",
+      "emojis": [
+        "💎",
+        "📊",
+        "🧐"
+      ],
+      "root_memory": "AD- = to, toward; connect this root idea with appraise."
+    },
+    "example": "Managers will appraise the performance of each employee during the annual review next week.",
+    "synonyms": [
+      "evaluate",
+      "assess",
+      "estimate",
+      "value"
+    ],
+    "frequency_rank": 354,
+    "tags": [
+      "college",
+      "business",
+      "finance"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向、給予"
+        },
+        {
+          "root": "pretium",
+          "origin": "Latin",
+          "meaning": "price, value",
+          "meaning_zh": "價格、價值"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 appraise 在正式語境中的自然用法。",
+    "collocations": [
+      "appraise carefully",
+      "appraise effectively",
+      "appraise the plan",
+      "appraise a proposal",
+      "appraise in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "evaluate",
+        "difference": "evaluate is related, but appraise has its own usage pattern and context."
+      },
+      {
+        "word": "assess",
+        "difference": "assess may overlap in meaning, but it is not always interchangeable with appraise."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "appraise",
+        "pos": "verb"
+      },
+      {
+        "word": "appraisal",
+        "pos": "adjective"
+      },
+      {
+        "word": "appraiseion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "appraise is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "articulate",
+    "pos": "adjective",
+    "phonetic": "/ɑːrˈtɪkjulət/",
+    "definition": "Having or showing the ability to speak fluently, clearly, and coherently, especially in expressing complex ideas.",
+    "definition_zh": "口才流利的；表達清晰的；發音清晰的",
+    "mnemonic": {
+      "story_en": "An ARTICULATE speaker connects thoughts together smoothly, just as functional ARTICULUS (joints) connect bones.",
+      "story_zh": "一個「說話清晰流利」的人，能把文字像關節（ARTICULUS）一樣，一節一節完美銜接、表達流暢。",
+      "emojis": [
+        "🗣️",
+        "🎙️",
+        "🧠"
+      ],
+      "root_memory": "ARTICULUS = small joint, division; connect this root idea with articulate."
+    },
+    "example": "She is an articulate defender of human rights, capable of swaying large crowds with her speeches.",
+    "synonyms": [
+      "eloquent",
+      "fluent",
+      "expressive",
+      "coherent"
+    ],
+    "frequency_rank": 355,
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "articulus",
+          "origin": "Latin",
+          "meaning": "small joint, division",
+          "meaning_zh": "小關節、分節"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 articulate 在正式語境中的自然用法。",
+    "collocations": [
+      "articulate factor",
+      "articulate approach",
+      "articulate evidence",
+      "articulate context",
+      "articulate role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "eloquent",
+        "difference": "eloquent is related, but articulate has its own usage pattern and context."
+      },
+      {
+        "word": "fluent",
+        "difference": "fluent may overlap in meaning, but it is not always interchangeable with articulate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "articulate",
+        "pos": "adjective"
+      },
+      {
+        "word": "articulatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "articulateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "articulate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "assert",
+    "pos": "verb",
+    "phonetic": "/əˈsɜːrt/",
+    "definition": "To state a fact or belief confidently and forcefully; to cause others to recognize one's authority or rights.",
+    "definition_zh": "堅稱；斷言；維護（權利、權威）",
+    "mnemonic": {
+      "story_en": "When you ASSERT your rights, you SERERE (bind) your words tightly AD (to) your personal authority.",
+      "story_zh": "「堅稱」或「維護」權利時，就像是把自己的立場牢牢綁定（SERERE）在某個立場上，絕不退讓。",
+      "emojis": [
+        "✊",
+        "🗣️",
+        "🛡️"
+      ],
+      "root_memory": "AD- = to; connect this root idea with assert."
+    },
+    "example": "The company legal team continues to assert that no patents were violated during development.",
+    "synonyms": [
+      "declare",
+      "maintain",
+      "claim",
+      "affirm"
+    ],
+    "frequency_rank": 356,
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to",
+          "meaning_zh": "朝向、去"
+        },
+        {
+          "root": "serere",
+          "origin": "Latin",
+          "meaning": "to join, bind",
+          "meaning_zh": "連結、編織"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 assert 在正式語境中的自然用法。",
+    "collocations": [
+      "assert carefully",
+      "assert effectively",
+      "assert the plan",
+      "assert a proposal",
+      "assert in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "declare",
+        "difference": "declare is related, but assert has its own usage pattern and context."
+      },
+      {
+        "word": "maintain",
+        "difference": "maintain may overlap in meaning, but it is not always interchangeable with assert."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "assert",
+        "pos": "verb"
+      },
+      {
+        "word": "assertal",
+        "pos": "adjective"
+      },
+      {
+        "word": "assertion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "assert is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "benign",
+    "pos": "adjective",
+    "phonetic": "/bɪˈnaɪn/",
+    "definition": "Gentle and kindly; (of a disease or tumor) not harmful in effect, not malignant.",
+    "definition_zh": "慈祥的；溫和的；（腫瘤）良性的",
+    "mnemonic": {
+      "story_en": "The doctor smiled because the test showed a BENIGN tumor, meaning it was BENE (good) and not deadly.",
+      "story_zh": "字根 BENE 代表「好」。醫生告訴病人腫瘤是「良性的（BENIGN）」，意味著它不會帶來壞影響。",
+      "emojis": [
+        "😇",
+        "🩺",
+        "☀️"
+      ],
+      "root_memory": "BENE = well, good; connect this root idea with benign."
+    },
+    "example": "The biopsy indicated that the lump was benign, relieving the anxious patient immensely.",
+    "synonyms": [
+      "harmless",
+      "kindly",
+      "innocuous",
+      "gentle"
+    ],
+    "frequency_rank": 357,
+    "tags": [
+      "college",
+      "science",
+      "medicine"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "bene",
+          "origin": "Latin",
+          "meaning": "well, good",
+          "meaning_zh": "好"
+        },
+        {
+          "root": "gignere",
+          "origin": "Latin",
+          "meaning": "to beget, produce",
+          "meaning_zh": "生產、帶來"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 benign 在正式語境中的自然用法。",
+    "collocations": [
+      "benign factor",
+      "benign approach",
+      "benign evidence",
+      "benign context",
+      "benign role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "harmless",
+        "difference": "harmless is related, but benign has its own usage pattern and context."
+      },
+      {
+        "word": "kindly",
+        "difference": "kindly may overlap in meaning, but it is not always interchangeable with benign."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "benign",
+        "pos": "adjective"
+      },
+      {
+        "word": "benignal",
+        "pos": "adjective"
+      },
+      {
+        "word": "benignion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "benign is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "bureaucracy",
+    "pos": "noun",
+    "phonetic": "/bjuːˈrɑːkrəsi/",
+    "definition": "A system of government or administration in which most of the important decisions are made by state officials rather than by elected representatives, often characterized by red tape.",
+    "definition_zh": "官僚體制；官僚作風；繁文縟節",
+    "mnemonic": {
+      "story_en": "In a heavy BUREAUCRACY, power (KRATOS) belongs to the people sitting behind a BUREAU (office desk).",
+      "story_zh": "由辦公桌（BUREAU）和權力（KRATOS）結合而成，指「坐在辦公桌後的官員掌握統治權」，多用來諷刺效率低下的體制。",
+      "emojis": [
+        "🏢",
+        "📂",
+        "⏳"
+      ],
+      "root_memory": "BUREAU = desk, office; connect this root idea with bureaucracy."
+    },
+    "example": "Small business owners often complain about the excessive corporate bureaucracy required to get a simple permit.",
+    "synonyms": [
+      "administration",
+      "red tape",
+      "officialdom",
+      "management"
+    ],
+    "frequency_rank": 358,
+    "tags": [
+      "college",
+      "politics",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "bureau",
+          "origin": "French",
+          "meaning": "desk, office",
+          "meaning_zh": "辦公桌、辦公室"
+        },
+        {
+          "root": "kratos",
+          "origin": "Greek",
+          "meaning": "power, rule",
+          "meaning_zh": "權力、統治"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 bureaucracy 在正式語境中的自然用法。",
+    "collocations": [
+      "key bureaucracy",
+      "bureaucracy factor",
+      "bureaucracy role",
+      "bureaucracy in context",
+      "bureaucracy and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "administration",
+        "difference": "administration is related, but bureaucracy has its own usage pattern and context."
+      },
+      {
+        "word": "red tape",
+        "difference": "red tape may overlap in meaning, but it is not always interchangeable with bureaucracy."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "bureaucracy",
+        "pos": "noun"
+      },
+      {
+        "word": "bureaucracyal",
+        "pos": "adjective"
+      },
+      {
+        "word": "bureaucracyion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "bureaucracy is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "clandestine",
+    "pos": "adjective",
+    "phonetic": "/klænˈdestɪn/",
+    "definition": "Kept secret or done secretively, especially because it is illicit, illegal, or unauthorized.",
+    "definition_zh": "秘密的；暗中的；私下的（尤指違法活動）",
+    "mnemonic": {
+      "story_en": "The spies held a CLANDESTINE meeting in a dark room, keeping their words hidden like a closed CLAM.",
+      "story_zh": "字根 CLAM 意為秘密。把秘密會議想像成緊閉的蚌殼（clam），在暗中「秘密」進行，不為外人所知。",
+      "emojis": [
+        "🕵️",
+        "🤫",
+        "🔒"
+      ],
+      "root_memory": "CLAM = secretly, in secret; connect this root idea with clandestine."
+    },
+    "example": "The intelligence agency uncovered a clandestine operation to smuggle high-tech weapons across the border.",
+    "synonyms": [
+      "secret",
+      "covert",
+      "surreptitious",
+      "furtive"
+    ],
+    "frequency_rank": 359,
+    "tags": [
+      "college",
+      "politics",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "clam",
+          "origin": "Latin",
+          "meaning": "secretly, in secret",
+          "meaning_zh": "秘密地"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 clandestine 在正式語境中的自然用法。",
+    "collocations": [
+      "clandestine factor",
+      "clandestine approach",
+      "clandestine evidence",
+      "clandestine context",
+      "clandestine role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "secret",
+        "difference": "secret is related, but clandestine has its own usage pattern and context."
+      },
+      {
+        "word": "covert",
+        "difference": "covert may overlap in meaning, but it is not always interchangeable with clandestine."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "clandestine",
+        "pos": "adjective"
+      },
+      {
+        "word": "clandestinal",
+        "pos": "adjective"
+      },
+      {
+        "word": "clandestineion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "clandestine is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "coercion",
+    "pos": "noun",
+    "phonetic": "/koʊˈɜːrʒn/",
+    "definition": "The practice of persuading someone to do something by using force or threats.",
+    "definition_zh": "強迫；脅迫；高壓統治",
+    "mnemonic": {
+      "story_en": "The dictator used COERCION, bringing forces together (CO) to enclose and restrain (ARCERE) the citizens' freedom.",
+      "story_zh": "透過把所有人聚在一起（CO）並加以限制與圍困（ARCERE），達到「強迫」他人服從的目的。",
+      "emojis": [
+        "⛓️",
+        "😡",
+        "🛑"
+      ],
+      "root_memory": "CO- = together; connect this root idea with coercion."
+    },
+    "example": "The confession was thrown out of court because the judge found it was obtained through police coercion.",
+    "synonyms": [
+      "compulsion",
+      "force",
+      "duress",
+      "intimidation"
+    ],
+    "frequency_rank": 360,
+    "tags": [
+      "college",
+      "law",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "co-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "arcere",
+          "origin": "Latin",
+          "meaning": "to restrain, enclose",
+          "meaning_zh": "限制、圍住"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 coercion 在正式語境中的自然用法。",
+    "collocations": [
+      "key coercion",
+      "coercion factor",
+      "coercion role",
+      "coercion in context",
+      "coercion and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "compulsion",
+        "difference": "compulsion is related, but coercion has its own usage pattern and context."
+      },
+      {
+        "word": "force",
+        "difference": "force may overlap in meaning, but it is not always interchangeable with coercion."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "coercion",
+        "pos": "noun"
+      },
+      {
+        "word": "coercional",
+        "pos": "adjective"
+      },
+      {
+        "word": "coercionion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "coercion is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "cognitive",
+    "pos": "adjective",
+    "phonetic": "/ˈkɑːɡnətɪv/",
+    "definition": "Relating to the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+    "definition_zh": "認知的；大腦意識的",
+    "mnemonic": {
+      "story_en": "COGNITIVE development in children refers to how they grow to COGNOSCERE (know) and understand the world.",
+      "story_zh": "字根 COGNOSCERE 代表去認識。COGNITIVE 便是與人類大腦如何「認知」、獲取知識有關的形容詞。",
+      "emojis": [
+        "🧠",
+        "💡",
+        "🧩"
+      ],
+      "root_memory": "COGNOSCERE = to get to know, recognize; connect this root idea with cognitive."
+    },
+    "example": "As people age, keeping the mind active with puzzles can help delay cognitive decline.",
+    "synonyms": [
+      "mental",
+      "intellectual",
+      "rational"
+    ],
+    "frequency_rank": 361,
+    "tags": [
+      "college",
+      "academic",
+      "psychology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "cognoscere",
+          "origin": "Latin",
+          "meaning": "to get to know, recognize",
+          "meaning_zh": "認識、得知"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 cognitive 在正式語境中的自然用法。",
+    "collocations": [
+      "cognitive factor",
+      "cognitive approach",
+      "cognitive evidence",
+      "cognitive context",
+      "cognitive role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "mental",
+        "difference": "mental is related, but cognitive has its own usage pattern and context."
+      },
+      {
+        "word": "intellectual",
+        "difference": "intellectual may overlap in meaning, but it is not always interchangeable with cognitive."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "cognitive",
+        "pos": "adjective"
+      },
+      {
+        "word": "cognitival",
+        "pos": "adjective"
+      },
+      {
+        "word": "cognitiveion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "cognitive is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "collaborate",
+    "pos": "verb",
+    "phonetic": "/kəˈlæbəreɪt/",
+    "definition": "To work jointly on an activity or project, especially to produce or create something.",
+    "definition_zh": "合作；協作；共同編寫",
+    "mnemonic": {
+      "story_en": "To COLLABORATE means to bring people together (COM) to LABOR (work) on a single project.",
+      "story_zh": "由 COM（共同）和 LABOR（工作）組成，意思非常直白，就是「共同工作、合作」。",
+      "emojis": [
+        "🤝",
+        "👥",
+        "🎨"
+      ],
+      "root_memory": "COM- = together; connect this root idea with collaborate."
+    },
+    "example": "Researchers from three different universities collaborated to publish the groundbreaking medical study.",
+    "synonyms": [
+      "cooperate",
+      "team up",
+      "concur",
+      "work together"
+    ],
+    "frequency_rank": 362,
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "laborare",
+          "origin": "Latin",
+          "meaning": "to work",
+          "meaning_zh": "工作"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 collaborate 在正式語境中的自然用法。",
+    "collocations": [
+      "collaborate carefully",
+      "collaborate effectively",
+      "collaborate the plan",
+      "collaborate a proposal",
+      "collaborate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cooperate",
+        "difference": "cooperate is related, but collaborate has its own usage pattern and context."
+      },
+      {
+        "word": "team up",
+        "difference": "team up may overlap in meaning, but it is not always interchangeable with collaborate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "collaborate",
+        "pos": "verb"
+      },
+      {
+        "word": "collaboratal",
+        "pos": "adjective"
+      },
+      {
+        "word": "collaborateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "collaborate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "commodity",
+    "pos": "noun",
+    "phonetic": "/kəˈmɑːdəti/",
+    "definition": "A raw material or primary agricultural product that can be bought and sold, such as copper or coffee; a useful or valuable thing.",
+    "definition_zh": "商品；日用品；有價值的物品",
+    "mnemonic": {
+      "story_en": "A COMMODITY provides a COMMODUS (convenient) solution for buyers who need raw materials like oil or corn.",
+      "story_zh": "源於拉丁文的「合適與方便（COMMODUS）」。能夠交易並為大眾生活帶來便利的大宗物資，就被稱為「商品（COMMODITY）」。",
+      "emojis": [
+        "📦",
+        "🌾",
+        "🛢️"
+      ],
+      "root_memory": "COMMODUS = convenient, suitable, proper; connect this root idea with commodity."
+    },
+    "example": "In today's fast-paced corporate culture, time has become a highly valuable commodity.",
+    "synonyms": [
+      "product",
+      "good",
+      "merchandise",
+      "asset"
+    ],
+    "frequency_rank": 363,
+    "tags": [
+      "college",
+      "economics",
+      "finance"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "commodus",
+          "origin": "Latin",
+          "meaning": "convenient, suitable, proper",
+          "meaning_zh": "方便的、合適的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 commodity 在正式語境中的自然用法。",
+    "collocations": [
+      "key commodity",
+      "commodity factor",
+      "commodity role",
+      "commodity in context",
+      "commodity and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "product",
+        "difference": "product is related, but commodity has its own usage pattern and context."
+      },
+      {
+        "word": "good",
+        "difference": "good may overlap in meaning, but it is not always interchangeable with commodity."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "commodity",
+        "pos": "noun"
+      },
+      {
+        "word": "commodityal",
+        "pos": "adjective"
+      },
+      {
+        "word": "commodityion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "commodity is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "compatible",
+    "pos": "adjective",
+    "phonetic": "/kəmˈpætəbl/",
+    "definition": "Able to exist, occur, or work together without problems or conflict; consistent.",
+    "definition_zh": "相容相稱的；能共處的；合得來的",
+    "mnemonic": {
+      "story_en": "Two COMPATIBLE software programs can run together (COM) and endure (PATI) the workload without crashing.",
+      "story_zh": "字面意思是「能在一起（COM）互相包容與經受考驗（PATI）」，引申為軟體或人際關係間的「相容、合得來」。",
+      "emojis": [
+        "💻",
+        "💑",
+        "🧩"
+      ],
+      "root_memory": "COM- = together; connect this root idea with compatible."
+    },
+    "example": "The new operating system update is fully compatible with older hardware models.",
+    "synonyms": [
+      "harmonious",
+      "consistent",
+      "matching",
+      "congruous"
+    ],
+    "frequency_rank": 364,
+    "tags": [
+      "college",
+      "technology",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "pati",
+          "origin": "Latin",
+          "meaning": "to suffer, endure",
+          "meaning_zh": "忍受、經歷"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 compatible 在正式語境中的自然用法。",
+    "collocations": [
+      "compatible factor",
+      "compatible approach",
+      "compatible evidence",
+      "compatible context",
+      "compatible role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "harmonious",
+        "difference": "harmonious is related, but compatible has its own usage pattern and context."
+      },
+      {
+        "word": "consistent",
+        "difference": "consistent may overlap in meaning, but it is not always interchangeable with compatible."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "compatible",
+        "pos": "adjective"
+      },
+      {
+        "word": "compatiblal",
+        "pos": "adjective"
+      },
+      {
+        "word": "compatibleion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "compatible is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "compile",
+    "pos": "verb",
+    "phonetic": "/kəmˈpaɪl/",
+    "definition": "To produce something (such as a list, report, or book) by assembling information collected from other sources.",
+    "definition_zh": "彙編；編輯；收集（資料）",
+    "mnemonic": {
+      "story_en": "To COMPILE data, you gather pages together (COM) and heap them up (PILARE) into an organized folder.",
+      "story_zh": "把分散在各處的資料收集起來（COM），像堆木頭一樣堆疊（PILARE）並整理在一起，就是「彙編、編纂」。",
+      "emojis": [
+        "📚",
+        "💻",
+        "📊"
+      ],
+      "root_memory": "COM- = together; connect this root idea with compile."
+    },
+    "example": "The research assistant spent weeks trying to compile a comprehensive database of historical climate records.",
+    "synonyms": [
+      "assemble",
+      "gather",
+      "collect",
+      "accumulate"
+    ],
+    "frequency_rank": 365,
+    "tags": [
+      "college",
+      "academic",
+      "technology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "pilare",
+          "origin": "Latin",
+          "meaning": "to press down, heap up",
+          "meaning_zh": "堆積、緊壓"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 compile 在正式語境中的自然用法。",
+    "collocations": [
+      "compile carefully",
+      "compile effectively",
+      "compile the plan",
+      "compile a proposal",
+      "compile in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "assemble",
+        "difference": "assemble is related, but compile has its own usage pattern and context."
+      },
+      {
+        "word": "gather",
+        "difference": "gather may overlap in meaning, but it is not always interchangeable with compile."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "compile",
+        "pos": "verb"
+      },
+      {
+        "word": "compilal",
+        "pos": "adjective"
+      },
+      {
+        "word": "compileion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "compile is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "compliance",
+    "pos": "noun",
+    "phonetic": "/kəmˈplaɪəns/",
+    "definition": "The action or fact of complying with a wish, command, rule, or law; formal obedience or conformity.",
+    "definition_zh": "順從；服從；（對法規的）遵守、符合",
+    "mnemonic": {
+      "story_en": "The factory remained in full COMPLIANCE because they fulfilled (PLERE) and satisfied completely (COM) all safety laws.",
+      "story_zh": "源自 comply（遵守）。字面意思是完全（COM）填滿（PLERE）法規的要求，達到「符合、遵守法規」的狀態。",
+      "emojis": [
+        "✅",
+        "📜",
+        "🏢"
+      ],
+      "root_memory": "COM- = completely; connect this root idea with compliance."
+    },
+    "example": "The company was fined $50,000 for failing to maintain compliance with environmental regulations.",
+    "synonyms": [
+      "obedience",
+      "conformity",
+      "adherence",
+      "submission"
+    ],
+    "frequency_rank": 366,
+    "tags": [
+      "college",
+      "business",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "完全地"
+        },
+        {
+          "root": "plere",
+          "origin": "Latin",
+          "meaning": "to fill",
+          "meaning_zh": "填滿、完成"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 compliance 在正式語境中的自然用法。",
+    "collocations": [
+      "key compliance",
+      "compliance factor",
+      "compliance role",
+      "compliance in context",
+      "compliance and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "obedience",
+        "difference": "obedience is related, but compliance has its own usage pattern and context."
+      },
+      {
+        "word": "conformity",
+        "difference": "conformity may overlap in meaning, but it is not always interchangeable with compliance."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "compliance",
+        "pos": "noun"
+      },
+      {
+        "word": "compliancal",
+        "pos": "adjective"
+      },
+      {
+        "word": "complianceion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "compliance is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "concede",
+    "pos": "verb",
+    "phonetic": "/kənˈsiːd/",
+    "definition": "To admit that something is true or valid after first denying or resisting it; to surrender or yield a right or possession.",
+    "definition_zh": "（勉強）承認；讓步；退讓；承認（失敗）",
+    "mnemonic": {
+      "story_en": "After realizing he lost the election, the candidate chose to CONCEDE and formally yield (CEDERE) victory to his opponent.",
+      "story_zh": "當局勢已定，不得不完全（COM）退讓（CEDERE），這就是「（勉強）承認失敗」或「讓步」。",
+      "emojis": [
+        "🏳️",
+        "🗳️",
+        "🤝"
+      ],
+      "root_memory": "COM- = completely; connect this root idea with concede."
+    },
+    "example": "The candidate refused to concede the election until every single ballot had been counted.",
+    "synonyms": [
+      "admit",
+      "acknowledge",
+      "yield",
+      "surrender"
+    ],
+    "frequency_rank": 367,
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "完全地"
+        },
+        {
+          "root": "cedere",
+          "origin": "Latin",
+          "meaning": "to go, yield",
+          "meaning_zh": "行走、讓步"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 concede 在正式語境中的自然用法。",
+    "collocations": [
+      "concede carefully",
+      "concede effectively",
+      "concede the plan",
+      "concede a proposal",
+      "concede in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "admit",
+        "difference": "admit is related, but concede has its own usage pattern and context."
+      },
+      {
+        "word": "acknowledge",
+        "difference": "acknowledge may overlap in meaning, but it is not always interchangeable with concede."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "concede",
+        "pos": "verb"
+      },
+      {
+        "word": "concedal",
+        "pos": "adjective"
+      },
+      {
+        "word": "concedeion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "concede is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "concur",
+    "pos": "verb",
+    "phonetic": "/kənˈkɜːr/",
+    "definition": "To be of the same opinion; to agree; to happen or take place at the same time.",
+    "definition_zh": "同意、意見一致；同時發生",
+    "mnemonic": {
+      "story_en": "The board members CONCUR with the plan, meaning their thoughts run (CURRERE) together (COM) in perfect agreement.",
+      "story_zh": "大家的思緒與腳步一起（COM）向前奔跑（CURRERE），朝同一個方向前進，即代表「意見一致、同意」。",
+      "emojis": [
+        "🏃",
+        "🤝",
+        "🕒"
+      ],
+      "root_memory": "COM- = together; connect this root idea with concur."
+    },
+    "example": "The medical board heavily concurred with the findings of the initial diagnostic report.",
+    "synonyms": [
+      "agree",
+      "coincide",
+      "acquiesce",
+      "collaborate"
+    ],
+    "frequency_rank": 368,
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "currere",
+          "origin": "Latin",
+          "meaning": "to run",
+          "meaning_zh": "奔跑"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 concur 在正式語境中的自然用法。",
+    "collocations": [
+      "concur carefully",
+      "concur effectively",
+      "concur the plan",
+      "concur a proposal",
+      "concur in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "agree",
+        "difference": "agree is related, but concur has its own usage pattern and context."
+      },
+      {
+        "word": "coincide",
+        "difference": "coincide may overlap in meaning, but it is not always interchangeable with concur."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "concur",
+        "pos": "verb"
+      },
+      {
+        "word": "concural",
+        "pos": "adjective"
+      },
+      {
+        "word": "concurion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "concur is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "condense",
+    "pos": "verb",
+    "phonetic": "/kənˈdens/",
+    "definition": "To make something denser or more concentrated; to express a piece of writing or speech in fewer words.",
+    "definition_zh": "濃縮；壓縮（文字等）；（氣體）凝結",
+    "mnemonic": {
+      "story_en": "The editor asked him to CONDENSE the book, squeezing the pages to make the plot DENSUS (thick and compact).",
+      "story_zh": "完全（COM）將字句或分子擠壓得更加緊密（DENSUS），將多餘部分去掉，就是「濃縮」或「凝結」。",
+      "emojis": [
+        "🥛",
+        "📝",
+        "💧"
+      ],
+      "root_memory": "COM- = completely; connect this root idea with condense."
+    },
+    "example": "You need to condense this 50-page report into a brief two-page executive summary.",
+    "synonyms": [
+      "summarize",
+      "compress",
+      "abridge",
+      "concentrate"
+    ],
+    "frequency_rank": 369,
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "完全地"
+        },
+        {
+          "root": "densus",
+          "origin": "Latin",
+          "meaning": "thick, crowded",
+          "meaning_zh": "稠密的、擁擠的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 condense 在正式語境中的自然用法。",
+    "collocations": [
+      "condense carefully",
+      "condense effectively",
+      "condense the plan",
+      "condense a proposal",
+      "condense in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "summarize",
+        "difference": "summarize is related, but condense has its own usage pattern and context."
+      },
+      {
+        "word": "compress",
+        "difference": "compress may overlap in meaning, but it is not always interchangeable with condense."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "condense",
+        "pos": "verb"
+      },
+      {
+        "word": "condensal",
+        "pos": "adjective"
+      },
+      {
+        "word": "condenseion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "condense is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "connotation",
+    "pos": "noun",
+    "phonetic": "/ˌkɑːnəˈteɪʃn/",
+    "definition": "An idea or feeling that a word invokes for a person in addition to its literal or primary meaning (denotation).",
+    "definition_zh": "內涵意義；言外之意；隱含意義",
+    "mnemonic": {
+      "story_en": "The word 'cheap' has a negative CONNOTATION, because it brings a bad feeling together with (COM) its basic NOTA (note/meaning).",
+      "story_zh": "除了字面上的主要記號（NOTARE）之外，單字本身「一同（COM）帶來的弦外之音或情感色彩」，就是「內涵/隱含意義」。",
+      "emojis": [
+        "💬",
+        "🧠",
+        "🎭"
+      ],
+      "root_memory": "COM- = together with; connect this root idea with connotation."
+    },
+    "example": "The word 'cheap' has a negative connotation, whereas 'inexpensive' sounds much more positive.",
+    "synonyms": [
+      "implication",
+      "nuance",
+      "undertone",
+      "suggestion"
+    ],
+    "frequency_rank": 370,
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together with",
+          "meaning_zh": "與...一起"
+        },
+        {
+          "root": "notare",
+          "origin": "Latin",
+          "meaning": "to mark, note",
+          "meaning_zh": "標記、記錄"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 connotation 在正式語境中的自然用法。",
+    "collocations": [
+      "key connotation",
+      "connotation factor",
+      "connotation role",
+      "connotation in context",
+      "connotation and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "implication",
+        "difference": "implication is related, but connotation has its own usage pattern and context."
+      },
+      {
+        "word": "nuance",
+        "difference": "nuance may overlap in meaning, but it is not always interchangeable with connotation."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "connotation",
+        "pos": "noun"
+      },
+      {
+        "word": "connotational",
+        "pos": "adjective"
+      },
+      {
+        "word": "connotationion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "connotation is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "consensus",
+    "pos": "noun",
+    "phonetic": "/kənˈsensəs/",
+    "definition": "A general agreement among a group of people; shared opinion or collective judgment.",
+    "definition_zh": "共識；一致的意見",
+    "mnemonic": {
+      "story_en": "To reach a CONSENSUS, all committee members must feel (SENTIRE) the same way together (COM) about the issue.",
+      "story_zh": "群體在一起（COM）思考並擁有相同的感受（SENTIRE），這就是「達成共識」。",
+      "emojis": [
+        "🤝",
+        "👥",
+        "🗳️"
+      ],
+      "root_memory": "COM- = together; connect this root idea with consensus."
+    },
+    "example": "After hours of heated debate, the board finally reached a consensus on the new budget plan.",
+    "synonyms": [
+      "agreement",
+      "unanimity",
+      "accord",
+      "harmony"
+    ],
+    "frequency_rank": 371,
+    "tags": [
+      "college",
+      "academic",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "sentire",
+          "origin": "Latin",
+          "meaning": "to feel, think",
+          "meaning_zh": "感覺、思考"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 consensus 在正式語境中的自然用法。",
+    "collocations": [
+      "key consensus",
+      "consensus factor",
+      "consensus role",
+      "consensus in context",
+      "consensus and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "agreement",
+        "difference": "agreement is related, but consensus has its own usage pattern and context."
+      },
+      {
+        "word": "unanimity",
+        "difference": "unanimity may overlap in meaning, but it is not always interchangeable with consensus."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "consensus",
+        "pos": "noun"
+      },
+      {
+        "word": "consensusal",
+        "pos": "adjective"
+      },
+      {
+        "word": "consensusion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "consensus is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "constituent",
+    "pos": "noun",
+    "phonetic": "/kənˈstɪtʃuənt/",
+    "definition": "A member of a constituency; a voter in a specific district represented by an elected official; also, a component part of something.",
+    "definition_zh": "選民、選區居民；成分、構成要素",
+    "mnemonic": {
+      "story_en": "Politicians must listen to each CONSTITUENT, because these voters stand together (COM) to set up (STATUERE) the government.",
+      "story_zh": "共同（COM）站出來建立（STATUERE）政權的人，就是「選民」；共同組裝起物體的東西，就是「成分」。",
+      "emojis": [
+        "🗳️",
+        "🧱",
+        "🇺🇸"
+      ],
+      "root_memory": "COM- = together; connect this root idea with constituent."
+    },
+    "example": "The senator received thousands of letters from angry constituents opposing the new tax bill.",
+    "synonyms": [
+      "voter",
+      "elector",
+      "component",
+      "element"
+    ],
+    "frequency_rank": 372,
+    "tags": [
+      "college",
+      "politics",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "statuere",
+          "origin": "Latin",
+          "meaning": "to set up, place",
+          "meaning_zh": "建立、放置"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 constituent 在正式語境中的自然用法。",
+    "collocations": [
+      "key constituent",
+      "constituent factor",
+      "constituent role",
+      "constituent in context",
+      "constituent and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "voter",
+        "difference": "voter is related, but constituent has its own usage pattern and context."
+      },
+      {
+        "word": "elector",
+        "difference": "elector may overlap in meaning, but it is not always interchangeable with constituent."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "constituent",
+        "pos": "noun"
+      },
+      {
+        "word": "constituental",
+        "pos": "adjective"
+      },
+      {
+        "word": "constituention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "constituent is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "constrain",
+    "pos": "verb",
+    "phonetic": "/kənˈstreɪn/",
+    "definition": "To compel or force someone toward a particular course of action; to severely restrict the scope, activity, or freedom of someone or something.",
+    "definition_zh": "限制；約束；強迫、迫使",
+    "mnemonic": {
+      "story_en": "Fewer funds will CONSTRAIN our budget, drawing it tight (STRINGERE) and completely (COM) stopping our growth.",
+      "story_zh": "完全（COM）用繩子拉緊勒死（STRINGERE），使對方毫無活動空間，這就是「限制、約束」。",
+      "emojis": [
+        "⛓️",
+        "🛑",
+        "📉"
+      ],
+      "root_memory": "COM- = completely; connect this root idea with constrain."
+    },
+    "example": "The lack of external funding will severely constrain the research team's ability to conduct long-term field trials.",
+    "synonyms": [
+      "restrict",
+      "limit",
+      "curb",
+      "shackle"
+    ],
+    "frequency_rank": 373,
+    "tags": [
+      "college",
+      "academic",
+      "economics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "完全地"
+        },
+        {
+          "root": "stringere",
+          "origin": "Latin",
+          "meaning": "to bind tight, draw tight",
+          "meaning_zh": "綁緊、拉緊"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 constrain 在正式語境中的自然用法。",
+    "collocations": [
+      "constrain carefully",
+      "constrain effectively",
+      "constrain the plan",
+      "constrain a proposal",
+      "constrain in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "restrict",
+        "difference": "restrict is related, but constrain has its own usage pattern and context."
+      },
+      {
+        "word": "limit",
+        "difference": "limit may overlap in meaning, but it is not always interchangeable with constrain."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "constrain",
+        "pos": "verb"
+      },
+      {
+        "word": "constrainal",
+        "pos": "adjective"
+      },
+      {
+        "word": "constrainion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "constrain is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "contemplate",
+    "pos": "verb",
+    "phonetic": "/ˈkɑːntəmpleɪt/",
+    "definition": "To look thoughtfully for a long time at something; to think profoundly or deeply about a potential future action.",
+    "definition_zh": "沉思；冥想；深思熟慮；盤算",
+    "mnemonic": {
+      "story_en": "Monks sit quietly to CONTEMPLATE life, transforming their minds into a peaceful TEMPLUM (temple/shrine).",
+      "story_zh": "字源與神殿（TEMPLUM）有關。想像古人在安靜的神殿中「完全（COM）」沉浸下來，對著上天「深思熟慮、冥想」。",
+      "emojis": [
+        "🧘",
+        "🤔",
+        "🌌"
+      ],
+      "root_memory": "COM- = completely; connect this root idea with contemplate."
+    },
+    "example": "The CEO decided to take a week off to contemplate the long-term future and restructuring of the company.",
+    "synonyms": [
+      "ponder",
+      "meditate",
+      "consider",
+      "reflect on"
+    ],
+    "frequency_rank": 374,
+    "tags": [
+      "college",
+      "philosophy",
+      "psychology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "completely",
+          "meaning_zh": "完全地"
+        },
+        {
+          "root": "templum",
+          "origin": "Latin",
+          "meaning": "shrine, space marked out for observation",
+          "meaning_zh": "神殿、觀察聖地"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 contemplate 在正式語境中的自然用法。",
+    "collocations": [
+      "contemplate carefully",
+      "contemplate effectively",
+      "contemplate the plan",
+      "contemplate a proposal",
+      "contemplate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ponder",
+        "difference": "ponder is related, but contemplate has its own usage pattern and context."
+      },
+      {
+        "word": "meditate",
+        "difference": "meditate may overlap in meaning, but it is not always interchangeable with contemplate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "contemplate",
+        "pos": "verb"
+      },
+      {
+        "word": "contemplatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "contemplateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "contemplate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "contradict",
+    "pos": "verb",
+    "phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "definition": "To deny the truth of a statement by asserting the opposite; to be in conflict or inconsistent with something else.",
+    "definition_zh": "反駁；與...矛盾；抵觸",
+    "mnemonic": {
+      "story_en": "It is rude to CONTRADICT your boss by DICING (speaking) directly CONTRA (against) his ideas in public.",
+      "story_zh": "對著（CONTRA）別人說（DICERE）相反的話，就是「反駁」；兩件事唱反調，就是「相矛盾」。",
+      "emojis": [
+        "🙅",
+        "🗣️",
+        "🔄"
+      ],
+      "root_memory": "CONTRA- = against, opposite; connect this root idea with contradict."
+    },
+    "example": "The new forensic evidence directly contradicts the suspect's original alibi statement.",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "refute",
+      "gainsay"
+    ],
+    "frequency_rank": 375,
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "contra-",
+          "origin": "Latin",
+          "meaning": "against, opposite",
+          "meaning_zh": "反對、相反"
+        },
+        {
+          "root": "dicere",
+          "origin": "Latin",
+          "meaning": "to speak",
+          "meaning_zh": "說話"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 contradict 在正式語境中的自然用法。",
+    "collocations": [
+      "contradict carefully",
+      "contradict effectively",
+      "contradict the plan",
+      "contradict a proposal",
+      "contradict in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "deny",
+        "difference": "deny is related, but contradict has its own usage pattern and context."
+      },
+      {
+        "word": "oppose",
+        "difference": "oppose may overlap in meaning, but it is not always interchangeable with contradict."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "contradict",
+        "pos": "verb"
+      },
+      {
+        "word": "contradictal",
+        "pos": "adjective"
+      },
+      {
+        "word": "contradiction",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "contradict is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "convene",
+    "pos": "verb",
+    "phonetic": "/kənˈviːn/",
+    "definition": "To come together or assemble for a formal meeting, activity, or official purpose; to cause to assemble.",
+    "definition_zh": "召集；召開（會議）；聚集",
+    "mnemonic": {
+      "story_en": "The prime minister will CONVENE parliament, asking all leaders to VENIRE (come) together (COM).",
+      "story_zh": "叫大家一起（COM）過來（VENIRE），通常用於官方場合「召開」會議或「召集」人員。",
+      "emojis": [
+        "🏢",
+        "👥",
+        "📅"
+      ],
+      "root_memory": "COM- = together; connect this root idea with convene."
+    },
+    "example": "The United Nations Security Council will convene tomorrow morning to discuss the escalating crisis.",
+    "synonyms": [
+      "assemble",
+      "summon",
+      "gather",
+      "convoke"
+    ],
+    "frequency_rank": 376,
+    "tags": [
+      "college",
+      "politics",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同、一起"
+        },
+        {
+          "root": "venire",
+          "origin": "Latin",
+          "meaning": "to come",
+          "meaning_zh": "來"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 convene 在正式語境中的自然用法。",
+    "collocations": [
+      "convene carefully",
+      "convene effectively",
+      "convene the plan",
+      "convene a proposal",
+      "convene in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "assemble",
+        "difference": "assemble is related, but convene has its own usage pattern and context."
+      },
+      {
+        "word": "summon",
+        "difference": "summon may overlap in meaning, but it is not always interchangeable with convene."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "convene",
+        "pos": "verb"
+      },
+      {
+        "word": "convenal",
+        "pos": "adjective"
+      },
+      {
+        "word": "conveneion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "convene is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "cynical",
+    "pos": "adjective",
+    "phonetic": "/ˈsɪnɪkl/",
+    "definition": "Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.",
+    "definition_zh": "憤世嫉俗的；犬儒主義的；懷疑人性本善的",
+    "mnemonic": {
+      "story_en": "A CYNICAL person has a bitter view of society, barking like a wild dog (KUON) at what they see as fake kindness.",
+      "story_zh": "源自古希臘「犬儒學派」。他們認為世人皆虛偽自私，看穿一切般地對世俗抱持「憤世嫉俗、冷嘲熱熱」的態度。",
+      "emojis": [
+        "😒",
+        "🙄",
+        "🐕"
+      ],
+      "root_memory": "KUON = dog; connect this root idea with cynical."
+    },
+    "example": "Many young citizens have become cynical about politicians' empty promises during election campaigns.",
+    "synonyms": [
+      "skeptical",
+      "distrustful",
+      "misanthropic",
+      "sardonic"
+    ],
+    "frequency_rank": 377,
+    "tags": [
+      "college",
+      "psychology",
+      "philosophy"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "kuon",
+          "origin": "Greek",
+          "meaning": "dog",
+          "meaning_zh": "狗（源自希臘犬儒學派，嘲弄世俗）"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 cynical 在正式語境中的自然用法。",
+    "collocations": [
+      "cynical factor",
+      "cynical approach",
+      "cynical evidence",
+      "cynical context",
+      "cynical role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "skeptical",
+        "difference": "skeptical is related, but cynical has its own usage pattern and context."
+      },
+      {
+        "word": "distrustful",
+        "difference": "distrustful may overlap in meaning, but it is not always interchangeable with cynical."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "cynical",
+        "pos": "adjective"
+      },
+      {
+        "word": "cynicalal",
+        "pos": "adjective"
+      },
+      {
+        "word": "cynicalion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "cynical is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "defying",
+    "pos": "verb",
+    "phonetic": "/dɪˈfaɪɪŋ/",
+    "definition": "Openly resisting or refusing to obey an authority, law, or rule; challenging a force deemed impossible to overcome.",
+    "definition_zh": "公然反抗；蔑視；挑釁（現在分詞形式）",
+    "mnemonic": {
+      "story_en": "By DEFYING the tyrant, the rebels were breaking (DIS) their FIDUS (faith/oath) to the corrupt crown.",
+      "story_zh": "解開或取消（DIS）過去對統治者的效忠與信任（FIDUS），站出來「公然反抗、蔑視」其權威。",
+      "emojis": [
+        "✊",
+        "🛑",
+        "🗣️"
+      ],
+      "root_memory": "DIS- = undoing, away; connect this root idea with defying."
+    },
+    "example": "Defying the strict curfew, hundreds of protestors gathered in the central square at midnight.",
+    "synonyms": [
+      "resisting",
+      "challenging",
+      "flouting",
+      "disobeying"
+    ],
+    "frequency_rank": 378,
+    "tags": [
+      "college",
+      "politics",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis-",
+          "origin": "Latin",
+          "meaning": "undoing, away",
+          "meaning_zh": "消除、解開"
+        },
+        {
+          "root": "fidus",
+          "origin": "Latin",
+          "meaning": "faith, trust",
+          "meaning_zh": "信任、效忠"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 defying 在正式語境中的自然用法。",
+    "collocations": [
+      "defying carefully",
+      "defying effectively",
+      "defying the plan",
+      "defying a proposal",
+      "defying in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "resisting",
+        "difference": "resisting is related, but defying has its own usage pattern and context."
+      },
+      {
+        "word": "challenging",
+        "difference": "challenging may overlap in meaning, but it is not always interchangeable with defying."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "defying",
+        "pos": "verb"
+      },
+      {
+        "word": "defyingal",
+        "pos": "adjective"
+      },
+      {
+        "word": "defyingion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "defying is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "deprive",
+    "pos": "verb",
+    "phonetic": "/dɪˈpraɪv/",
+    "definition": "To deny a person or place the possession or use of something, especially an essential need or right.",
+    "definition_zh": "剝奪；使喪失",
+    "mnemonic": {
+      "story_en": "To DEPRIVE a prisoner of sleep means to completely (DE) separate (PRIVARE) them from their normal rest.",
+      "story_zh": "徹底（DE）將某人和他應得的權利或物品分開、孤立（PRIVARE），這就是「剝奪」。",
+      "emojis": [
+        "🚫",
+        "🔒",
+        "🛌"
+      ],
+      "root_memory": "DE- = completely, thoroughly; connect this root idea with deprive."
+    },
+    "example": "The continuous loud noise from the street below began to deprive the residents of sleep.",
+    "synonyms": [
+      "strip",
+      "rob",
+      "divest",
+      "dispossess"
+    ],
+    "frequency_rank": 379,
+    "tags": [
+      "college",
+      "academic",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "de-",
+          "origin": "Latin",
+          "meaning": "completely, thoroughly",
+          "meaning_zh": "徹底地、向下"
+        },
+        {
+          "root": "privare",
+          "origin": "Latin",
+          "meaning": "to separate, deprive of office",
+          "meaning_zh": "使分離、使孤立"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 deprive 在正式語境中的自然用法。",
+    "collocations": [
+      "deprive carefully",
+      "deprive effectively",
+      "deprive the plan",
+      "deprive a proposal",
+      "deprive in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "strip",
+        "difference": "strip is related, but deprive has its own usage pattern and context."
+      },
+      {
+        "word": "rob",
+        "difference": "rob may overlap in meaning, but it is not always interchangeable with deprive."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "deprive",
+        "pos": "verb"
+      },
+      {
+        "word": "deprival",
+        "pos": "adjective"
+      },
+      {
+        "word": "depriveion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "deprive is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "discreet",
+    "pos": "adjective",
+    "phonetic": "/dɪˈskriːt/",
+    "definition": "Careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage; unobtrusive.",
+    "definition_zh": "謹慎的；考慮周到的；不引人注目的",
+    "mnemonic": {
+      "story_en": "A DISCREET butler knows how to discern (DISCERNERE) secrets and keep them quiet, never gossiping.",
+      "story_zh": "具備辨別（DISCERNERE）事理的能力，在外表現得「行事謹慎、不張揚」，絕不給人添麻煩。",
+      "emojis": [
+        "🤫",
+        "🕵️",
+        "🕶️"
+      ],
+      "root_memory": "DISCERNERE = to separate, distinguish; connect this root idea with discreet."
+    },
+    "example": "The diplomat made a discreet inquiry about the political prisoner's health without alerting the press.",
+    "synonyms": [
+      "cautious",
+      "circumspect",
+      "prudent",
+      "tactful"
+    ],
+    "frequency_rank": 380,
+    "tags": [
+      "college",
+      "politics",
+      "business"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "discernere",
+          "origin": "Latin",
+          "meaning": "to separate, distinguish",
+          "meaning_zh": "分開、辨別"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 discreet 在正式語境中的自然用法。",
+    "collocations": [
+      "discreet factor",
+      "discreet approach",
+      "discreet evidence",
+      "discreet context",
+      "discreet role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cautious",
+        "difference": "cautious is related, but discreet has its own usage pattern and context."
+      },
+      {
+        "word": "circumspect",
+        "difference": "circumspect may overlap in meaning, but it is not always interchangeable with discreet."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "discreet",
+        "pos": "adjective"
+      },
+      {
+        "word": "discreetal",
+        "pos": "adjective"
+      },
+      {
+        "word": "discreetion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "discreet is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "distort",
+    "pos": "verb",
+    "phonetic": "/dɪˈstɔːrt/",
+    "definition": "To pull or twist out of shape; to give a misleading or false account or impression of a fact or reality.",
+    "definition_zh": "扭曲（形狀）；歪曲（事實、真相）",
+    "mnemonic": {
+      "story_en": "The corrupt media tried to DISTORT the truth by completely twisting (TORQ) the facts of the interview.",
+      "story_zh": "徹底（DIS）將事實像毛巾一樣扭轉（TORQ），使其偏離本來的面貌，即為「歪曲、扭曲」。",
+      "emojis": [
+        "🌀",
+        "🪞",
+        "📢"
+      ],
+      "root_memory": "DIS- = completely, thoroughly; connect this root idea with distort."
+    },
+    "example": "The legal defense argued that the prosecutor tried to distort the truth by presenting text messages out of context.",
+    "synonyms": [
+      "misrepresent",
+      "falsify",
+      "pervert",
+      "warp"
+    ],
+    "frequency_rank": 381,
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis-",
+          "origin": "Latin",
+          "meaning": "completely, thoroughly",
+          "meaning_zh": "徹底地"
+        },
+        {
+          "root": "torquere",
+          "origin": "Latin",
+          "meaning": "to twist",
+          "meaning_zh": "扭、轉"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 distort 在正式語境中的自然用法。",
+    "collocations": [
+      "distort carefully",
+      "distort effectively",
+      "distort the plan",
+      "distort a proposal",
+      "distort in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "misrepresent",
+        "difference": "misrepresent is related, but distort has its own usage pattern and context."
+      },
+      {
+        "word": "falsify",
+        "difference": "falsify may overlap in meaning, but it is not always interchangeable with distort."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "distort",
+        "pos": "verb"
+      },
+      {
+        "word": "distortal",
+        "pos": "adjective"
+      },
+      {
+        "word": "distortion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "distort is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "diversity",
+    "pos": "noun",
+    "phonetic": "/daɪˈvɜːrsəti/",
+    "definition": "The state of being diverse; a range of different things; the practice of including people from a range of different social backgrounds.",
+    "definition_zh": "多樣性；多元化；差異性",
+    "mnemonic": {
+      "story_en": "To build cultural DIVERSITY, we must look at people who have turned (VERS) in completely different (DI) directions.",
+      "story_zh": "往不同的方向（DI）轉身（VERS），不拘泥於單一方向，展現出「多樣性、多元化」。",
+      "emojis": [
+        "🌍",
+        "🤝",
+        "🎨"
+      ],
+      "root_memory": "DIS- = aside, apart; connect this root idea with diversity."
+    },
+    "example": "The university prides itself on the cultural diversity of its student body, with individuals from over 80 nations.",
+    "synonyms": [
+      "variety",
+      "multiplicity",
+      "heterogeneity",
+      "diversification"
+    ],
+    "frequency_rank": 382,
+    "tags": [
+      "college",
+      "social",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "dis-",
+          "origin": "Latin",
+          "meaning": "aside, apart",
+          "meaning_zh": "往不同的方向、分開"
+        },
+        {
+          "root": "vertere",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "轉動"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 diversity 在正式語境中的自然用法。",
+    "collocations": [
+      "key diversity",
+      "diversity factor",
+      "diversity role",
+      "diversity in context",
+      "diversity and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "variety",
+        "difference": "variety is related, but diversity has its own usage pattern and context."
+      },
+      {
+        "word": "multiplicity",
+        "difference": "multiplicity may overlap in meaning, but it is not always interchangeable with diversity."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "diversity",
+        "pos": "noun"
+      },
+      {
+        "word": "diversityal",
+        "pos": "adjective"
+      },
+      {
+        "word": "diversityion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "diversity is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "authorize",
+    "pos": "verb",
+    "phonetic": "/ˈɔːθəraɪz/",
+    "definition": "To give official permission or legal power for someone to do something.",
+    "definition_zh": "授權；批准；准許",
+    "etymology": {
+      "roots": [
+        {
+          "root": "auctor",
+          "origin": "Latin",
+          "meaning": "originator, promoter",
+          "meaning_zh": "創始者、授權者"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AUCTOR = authority; authorize means giving someone authority to act.",
+      "story_en": "The director AUTHORIZED the purchase after confirming that the budget allowed it.",
+      "story_zh": "主管確認預算允許後，「授權（AUTHORIZE）」這筆採購。",
+      "emojis": [
+        "🖊️",
+        "✅",
+        "🏛️"
+      ]
+    },
+    "example": "Only the project manager can authorize payments above the approved limit.",
+    "example_zh": "只有專案經理能核准超過已批准上限的付款。",
+    "collocations": [
+      "authorize payment",
+      "authorize access",
+      "officially authorize",
+      "authorize someone to act",
+      "authorized personnel"
+    ],
+    "synonyms": [
+      "approve",
+      "permit",
+      "sanction"
+    ],
+    "near_synonyms": [
+      {
+        "word": "allow",
+        "difference": "allow is general; authorize implies official permission or authority."
+      },
+      {
+        "word": "approve",
+        "difference": "approve means accept as satisfactory; authorize gives permission to proceed."
+      }
+    ],
+    "antonyms": [
+      "forbid",
+      "prohibit",
+      "deny"
+    ],
+    "word_family": [
+      {
+        "word": "authorize",
+        "pos": "verb"
+      },
+      {
+        "word": "authority",
+        "pos": "noun"
+      },
+      {
+        "word": "authorization",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "authorize is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 383,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "law",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "word": "behalf",
+    "pos": "noun",
+    "phonetic": "/bɪˈhæf/",
+    "definition": "The interest, support, or representation of another person or group, especially in the phrase on behalf of.",
+    "definition_zh": "代表；為了…的利益",
+    "etymology": {
+      "roots": [
+        {
+          "root": "behalve",
+          "origin": "Old English",
+          "meaning": "by the side of",
+          "meaning_zh": "在旁邊、代表一方"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "BEHALF suggests standing by someone’s side to represent them.",
+      "story_en": "The lawyer spoke ON BEHALF of families who could not attend the hearing.",
+      "story_zh": "律師代表無法出席聽證會的家庭發言。",
+      "emojis": [
+        "🤝",
+        "🗣️",
+        "👥"
+      ]
+    },
+    "example": "I am writing on behalf of the committee to thank you for your contribution.",
+    "example_zh": "我代表委員會寫信感謝你的貢獻。",
+    "collocations": [
+      "on behalf of",
+      "act on behalf of",
+      "speak on behalf of",
+      "on someone’s behalf",
+      "represent on behalf of"
+    ],
+    "synonyms": [
+      "for",
+      "representing",
+      "in support of"
+    ],
+    "near_synonyms": [
+      {
+        "word": "instead of",
+        "difference": "instead of means replacing someone; on behalf of means representing their interests."
+      },
+      {
+        "word": "for",
+        "difference": "for is broad; on behalf of is more formal and representative."
+      }
+    ],
+    "antonyms": [
+      "against",
+      "opposing",
+      "personally"
+    ],
+    "word_family": [
+      {
+        "word": "behalf",
+        "pos": "noun"
+      },
+      {
+        "word": "half",
+        "pos": "noun"
+      },
+      {
+        "word": "behoove",
+        "pos": "verb"
+      }
+    ],
+    "usage_note": "behalf is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 384,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "business",
+      "law",
+      "social"
+    ]
+  },
+  {
+    "word": "bilateral",
+    "pos": "adjective",
+    "phonetic": "/ˌbaɪˈlætərəl/",
+    "definition": "Involving two sides, parties, or countries; affecting both sides of a body or relationship.",
+    "definition_zh": "雙邊的；雙側的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bi",
+          "origin": "Latin",
+          "meaning": "two",
+          "meaning_zh": "二"
+        },
+        {
+          "root": "lateralis",
+          "origin": "Latin",
+          "meaning": "side",
+          "meaning_zh": "側邊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "BI = two and LATERAL = side; bilateral involves two sides.",
+      "story_en": "The two governments signed a BILATERAL trade agreement after months of talks.",
+      "story_zh": "兩國政府經過數月談判後簽署「雙邊（BILATERAL）」貿易協定。",
+      "emojis": [
+        "🤝",
+        "🌐",
+        "2️⃣"
+      ]
+    },
+    "example": "The treaty created a bilateral framework for sharing security information.",
+    "example_zh": "該條約建立了共享安全資訊的雙邊架構。",
+    "collocations": [
+      "bilateral agreement",
+      "bilateral talks",
+      "bilateral relations",
+      "bilateral trade",
+      "bilateral cooperation"
+    ],
+    "synonyms": [
+      "two-sided",
+      "mutual",
+      "reciprocal"
+    ],
+    "near_synonyms": [
+      {
+        "word": "multilateral",
+        "difference": "multilateral involves several parties; bilateral involves exactly two."
+      },
+      {
+        "word": "mutual",
+        "difference": "mutual stresses reciprocity; bilateral stresses two parties or sides."
+      }
+    ],
+    "antonyms": [
+      "unilateral",
+      "multilateral",
+      "one-sided"
+    ],
+    "word_family": [
+      {
+        "word": "bilateral",
+        "pos": "adjective"
+      },
+      {
+        "word": "bilaterally",
+        "pos": "adverb"
+      },
+      {
+        "word": "lateral",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "bilateral is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 385,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "politics",
+      "business",
+      "law"
+    ]
+  },
+  {
+    "word": "capability",
+    "pos": "noun",
+    "phonetic": "/ˌkeɪpəˈbɪləti/",
+    "definition": "The ability, power, or capacity to do something, especially at an organizational, technical, or personal level.",
+    "definition_zh": "能力；性能；可完成某事的條件",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cap",
+          "origin": "Latin",
+          "meaning": "to take, hold",
+          "meaning_zh": "拿取、掌握"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CAP = take or hold; capability is what someone can handle or do.",
+      "story_en": "The new software expanded the team’s CAPABILITY to analyze large datasets.",
+      "story_zh": "新軟體擴大了團隊分析大型資料集的「能力（CAPABILITY）」。",
+      "emojis": [
+        "💪",
+        "🛠️",
+        "📊"
+      ]
+    },
+    "example": "The country is investing in cyber capabilities to protect critical infrastructure.",
+    "example_zh": "該國正投資網路能力以保護關鍵基礎設施。",
+    "collocations": [
+      "technical capability",
+      "military capability",
+      "develop capabilities",
+      "limited capability",
+      "organizational capability"
+    ],
+    "synonyms": [
+      "ability",
+      "capacity",
+      "competence"
+    ],
+    "near_synonyms": [
+      {
+        "word": "capacity",
+        "difference": "capacity often stresses maximum amount; capability stresses ability to perform."
+      },
+      {
+        "word": "skill",
+        "difference": "skill is learned personal ability; capability can belong to people, systems, or institutions."
+      }
+    ],
+    "antonyms": [
+      "inability",
+      "incapacity",
+      "weakness"
+    ],
+    "word_family": [
+      {
+        "word": "capability",
+        "pos": "noun"
+      },
+      {
+        "word": "capable",
+        "pos": "adjective"
+      },
+      {
+        "word": "capacity",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "capability is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 386,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "business",
+      "technology",
+      "academic"
+    ]
+  },
+  {
+    "word": "classify",
+    "pos": "verb",
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "definition": "To arrange people, things, or information into groups according to shared features or official categories.",
+    "definition_zh": "分類；歸類；列為機密",
+    "etymology": {
+      "roots": [
+        {
+          "root": "classis",
+          "origin": "Latin",
+          "meaning": "class, division",
+          "meaning_zh": "類別、等級"
+        },
+        {
+          "root": "fac",
+          "origin": "Latin",
+          "meaning": "to make",
+          "meaning_zh": "做、使成為"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CLASS + FAC = make into a class; classify means putting things into categories.",
+      "story_en": "Researchers CLASSIFIED the responses by age, income, and education level.",
+      "story_zh": "研究人員依年齡、收入和教育程度將回覆「分類（CLASSIFY）」。",
+      "emojis": [
+        "🗂️",
+        "🏷️",
+        "🔍"
+      ]
+    },
+    "example": "The documents were classified as confidential for national security reasons.",
+    "example_zh": "這些文件因國家安全理由被列為機密。",
+    "collocations": [
+      "classify information",
+      "classify as confidential",
+      "classify by type",
+      "classification system",
+      "classify carefully"
+    ],
+    "synonyms": [
+      "categorize",
+      "sort",
+      "group"
+    ],
+    "near_synonyms": [
+      {
+        "word": "label",
+        "difference": "label means attach a name; classify means place within a system of categories."
+      },
+      {
+        "word": "rank",
+        "difference": "rank orders by level; classify groups by shared features."
+      }
+    ],
+    "antonyms": [
+      "mix",
+      "confuse",
+      "misclassify"
+    ],
+    "word_family": [
+      {
+        "word": "classify",
+        "pos": "verb"
+      },
+      {
+        "word": "classification",
+        "pos": "noun"
+      },
+      {
+        "word": "classified",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "classify is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 387,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "academic",
+      "science",
+      "technology"
+    ]
+  },
+  {
+    "word": "coincide",
+    "pos": "verb",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "definition": "To happen at the same time or to match closely in position, opinion, or result.",
+    "definition_zh": "同時發生；一致；相符",
+    "etymology": {
+      "roots": [
+        {
+          "root": "co",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同"
+        },
+        {
+          "root": "incidere",
+          "origin": "Latin",
+          "meaning": "to fall upon",
+          "meaning_zh": "落在…上"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CO + INCIDE = fall together; events that coincide happen at the same time.",
+      "story_en": "The conference COINCIDED with a major election, so attendance was lower than expected.",
+      "story_zh": "會議與重大選舉「同時發生（COINCIDE）」，因此出席人數低於預期。",
+      "emojis": [
+        "🕒",
+        "🔁",
+        "📍"
+      ]
+    },
+    "example": "Her conclusions coincide with the findings of several earlier studies.",
+    "example_zh": "她的結論與幾項早期研究結果相符。",
+    "collocations": [
+      "coincide with",
+      "events coincide",
+      "views coincide",
+      "closely coincide",
+      "coincide in time"
+    ],
+    "synonyms": [
+      "correspond",
+      "match",
+      "concur"
+    ],
+    "near_synonyms": [
+      {
+        "word": "overlap",
+        "difference": "overlap means share part of a range; coincide means match or occur together."
+      },
+      {
+        "word": "agree",
+        "difference": "agree often refers to people or opinions; coincide can refer to events, data, or positions."
+      }
+    ],
+    "antonyms": [
+      "conflict",
+      "diverge",
+      "differ"
+    ],
+    "word_family": [
+      {
+        "word": "coincide",
+        "pos": "verb"
+      },
+      {
+        "word": "coincidence",
+        "pos": "noun"
+      },
+      {
+        "word": "coincident",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "coincide is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 388,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "academic",
+      "college",
+      "science"
+    ]
+  },
+  {
+    "word": "complex",
+    "pos": "adjective",
+    "phonetic": "/kəmˈpleks/",
+    "definition": "Consisting of many connected parts and therefore difficult to understand, analyze, or solve.",
+    "definition_zh": "複雜的；錯綜的；複合的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "com",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同"
+        },
+        {
+          "root": "plectere",
+          "origin": "Latin",
+          "meaning": "to weave, braid",
+          "meaning_zh": "編織"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COM + PLECT = woven together; complex things have many parts woven together.",
+      "story_en": "The policy problem was COMPLEX because it involved law, economics, and public trust.",
+      "story_zh": "這項政策問題很「複雜（COMPLEX）」，因為牽涉法律、經濟與公共信任。",
+      "emojis": [
+        "🧩",
+        "🕸️",
+        "🧠"
+      ]
+    },
+    "example": "The team developed a model to explain complex interactions among climate variables.",
+    "example_zh": "團隊建立模型來解釋氣候變項之間的複雜互動。",
+    "collocations": [
+      "complex issue",
+      "highly complex",
+      "complex relationship",
+      "complex problem",
+      "complex factor"
+    ],
+    "synonyms": [
+      "complicated",
+      "intricate",
+      "multifaceted"
+    ],
+    "near_synonyms": [
+      {
+        "word": "complicated",
+        "difference": "complicated stresses difficulty; complex stresses many interrelated parts."
+      },
+      {
+        "word": "difficult",
+        "difference": "difficult is broad; complex specifically involves multiple connected elements."
+      }
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward",
+      "basic"
+    ],
+    "word_family": [
+      {
+        "word": "complex",
+        "pos": "adjective"
+      },
+      {
+        "word": "complexity",
+        "pos": "noun"
+      },
+      {
+        "word": "complicate",
+        "pos": "verb"
+      }
+    ],
+    "usage_note": "complex is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 389,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "academic",
+      "science",
+      "college"
+    ]
+  },
+  {
+    "word": "comply",
+    "pos": "verb",
+    "phonetic": "/kəmˈplaɪ/",
+    "definition": "To act according to a rule, request, law, or standard.",
+    "definition_zh": "遵守；服從；依從",
+    "etymology": {
+      "roots": [
+        {
+          "root": "complere",
+          "origin": "Latin",
+          "meaning": "to fill up, complete",
+          "meaning_zh": "填滿、完成"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COMPLY originally links to completing what is required; to comply is to meet a rule.",
+      "story_en": "The company had to COMPLY with safety regulations before reopening the factory.",
+      "story_zh": "公司必須「遵守（COMPLY）」安全規定後才能重新開放工廠。",
+      "emojis": [
+        "✅",
+        "📋",
+        "⚖️"
+      ]
+    },
+    "example": "All applicants must comply with the documentation requirements listed online.",
+    "example_zh": "所有申請者都必須遵守網路上列出的文件要求。",
+    "collocations": [
+      "comply with regulations",
+      "fully comply",
+      "comply with a request",
+      "failure to comply",
+      "comply with standards"
+    ],
+    "synonyms": [
+      "obey",
+      "follow",
+      "conform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "conform",
+        "difference": "conform means fit a standard or expectation; comply means obey a specific rule or request."
+      },
+      {
+        "word": "submit",
+        "difference": "submit can mean yield; comply stresses acting according to requirements."
+      }
+    ],
+    "antonyms": [
+      "violate",
+      "defy",
+      "disobey"
+    ],
+    "word_family": [
+      {
+        "word": "comply",
+        "pos": "verb"
+      },
+      {
+        "word": "compliance",
+        "pos": "noun"
+      },
+      {
+        "word": "compliant",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "comply is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 390,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "law",
+      "business",
+      "college"
+    ]
+  },
+  {
+    "word": "equilibrium",
+    "pos": "noun",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "definition": "A state in which opposing forces or influences are perfectly balanced; a calm state of mind.",
+    "definition_zh": "平衡；均衡；（心情的）平靜",
+    "mnemonic": {
+      "story_en": "To maintain EQUILIBRIUM, the scientist ensured both sides of the scale were AEQUUS (equal) on the LIBRA (balance).",
+      "story_zh": "天平（LIBRA，也是天秤座的由來）兩邊達到了等同（AEQUUS）的分量，呈現完美的「平衡、狀態穩定」。",
+      "emojis": [
+        "⚖️",
+        "🧘",
+        "🧪"
+      ],
+      "root_memory": "AEQUUS = equal; connect this root idea with equilibrium."
+    },
+    "example": "Yoga helps practitioners restore their internal equilibrium and release accumulated stress.",
+    "synonyms": [
+      "balance",
+      "stability",
+      "symmetry",
+      "poise"
+    ],
+    "frequency_rank": 391,
+    "tags": [
+      "college",
+      "science",
+      "economics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "aequus",
+          "origin": "Latin",
+          "meaning": "equal",
+          "meaning_zh": "相等的、平等的"
+        },
+        {
+          "root": "libra",
+          "origin": "Latin",
+          "meaning": "balance, scale",
+          "meaning_zh": "天平、重量單位"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 equilibrium 在正式語境中的自然用法。",
+    "collocations": [
+      "key equilibrium",
+      "equilibrium factor",
+      "equilibrium role",
+      "equilibrium in context",
+      "equilibrium and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "balance",
+        "difference": "balance is related, but equilibrium has its own usage pattern and context."
+      },
+      {
+        "word": "stability",
+        "difference": "stability may overlap in meaning, but it is not always interchangeable with equilibrium."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "equilibrium",
+        "pos": "noun"
+      },
+      {
+        "word": "equilibriumal",
+        "pos": "adjective"
+      },
+      {
+        "word": "equilibriumion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "equilibrium is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "component",
+    "pos": "noun",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "definition": "One part of a larger system, machine, argument, or process.",
+    "definition_zh": "組成部分；零件；要素",
+    "etymology": {
+      "roots": [
+        {
+          "root": "com",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同"
+        },
+        {
+          "root": "ponere",
+          "origin": "Latin",
+          "meaning": "to place",
+          "meaning_zh": "放置"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COMPONENTS are pieces placed together to form a system.",
+      "story_en": "The engine failed because one small COMPONENT had been installed incorrectly.",
+      "story_zh": "引擎故障是因為一個小「零件（COMPONENT）」安裝錯誤。",
+      "emojis": [
+        "⚙️",
+        "🧩",
+        "🔧"
+      ]
+    },
+    "example": "Trust is a key component of successful long-term cooperation.",
+    "example_zh": "信任是長期合作成功的關鍵要素。",
+    "collocations": [
+      "key component",
+      "major component",
+      "software component",
+      "component part",
+      "essential component"
+    ],
+    "synonyms": [
+      "element",
+      "part",
+      "constituent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "element",
+        "difference": "element is a basic part; component often belongs to a larger working system."
+      },
+      {
+        "word": "ingredient",
+        "difference": "ingredient is used for mixtures or food; component is broader and technical."
+      }
+    ],
+    "antonyms": [
+      "whole",
+      "system",
+      "totality"
+    ],
+    "word_family": [
+      {
+        "word": "component",
+        "pos": "noun"
+      },
+      {
+        "word": "compose",
+        "pos": "verb"
+      },
+      {
+        "word": "composition",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "component is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 392,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "technology",
+      "academic",
+      "science"
+    ]
+  },
+  {
+    "word": "compound",
+    "pos": "noun",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "definition": "A substance, word, or structure formed by combining two or more elements; as a verb, to make something more intense or complicated.",
+    "definition_zh": "化合物；複合詞；複合體；加劇",
+    "etymology": {
+      "roots": [
+        {
+          "root": "com",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同"
+        },
+        {
+          "root": "ponere",
+          "origin": "Latin",
+          "meaning": "to place",
+          "meaning_zh": "放置"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COM + POUND means placed together; a compound is formed from joined parts.",
+      "story_en": "Water is a chemical COMPOUND made of hydrogen and oxygen.",
+      "story_zh": "水是由氫和氧組成的化學「化合物（COMPOUND）」。",
+      "emojis": [
+        "🧪",
+        "🧩",
+        "➕"
+      ]
+    },
+    "example": "The error was compounded by poor communication between departments.",
+    "example_zh": "部門間溝通不良使這個錯誤更加嚴重。",
+    "collocations": [
+      "chemical compound",
+      "compound interest",
+      "compound effect",
+      "compound word",
+      "compound the problem"
+    ],
+    "synonyms": [
+      "mixture",
+      "combination",
+      "composite"
+    ],
+    "near_synonyms": [
+      {
+        "word": "mixture",
+        "difference": "mixture may be physically blended; compound often implies a more defined combination."
+      },
+      {
+        "word": "complex",
+        "difference": "complex describes difficulty; compound names something formed from parts."
+      }
+    ],
+    "antonyms": [
+      "element",
+      "simple substance",
+      "single unit"
+    ],
+    "word_family": [
+      {
+        "word": "compound",
+        "pos": "noun"
+      },
+      {
+        "word": "compound",
+        "pos": "verb"
+      },
+      {
+        "word": "composite",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "compound is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 393,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "science",
+      "finance",
+      "language"
+    ]
+  },
+  {
+    "word": "ethical",
+    "pos": "adjective",
+    "phonetic": "/ˈeθɪkl/",
+    "definition": "Relating to moral principles or the branch of knowledge concerned with these; avoiding injury to others or environment.",
+    "definition_zh": "倫理的；道德的；合乎道德的",
+    "mnemonic": {
+      "story_en": "An ETHICAL doctor must always follow the high ETHOS (moral values) established by the medical community.",
+      "story_zh": "源自希臘文的 ETHOS（精神特質、道德）。指行為必須符合社會的「道德與倫理規範」。",
+      "emojis": [
+        "⚖️",
+        "😇",
+        "🤝"
+      ],
+      "root_memory": "ETHOS = custom, moral character; connect this root idea with ethical."
+    },
+    "example": "The committee is reviewing whether the medical experiment was ethical and protected patient safety.",
+    "synonyms": [
+      "moral",
+      "principled",
+      "righteous",
+      "honorable"
+    ],
+    "frequency_rank": 394,
+    "tags": [
+      "college",
+      "philosophy",
+      "business"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ethos",
+          "origin": "Greek",
+          "meaning": "custom, moral character",
+          "meaning_zh": "風俗、道德品格"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 ethical 在正式語境中的自然用法。",
+    "collocations": [
+      "ethical factor",
+      "ethical approach",
+      "ethical evidence",
+      "ethical context",
+      "ethical role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "moral",
+        "difference": "moral is related, but ethical has its own usage pattern and context."
+      },
+      {
+        "word": "principled",
+        "difference": "principled may overlap in meaning, but it is not always interchangeable with ethical."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "ethical",
+        "pos": "adjective"
+      },
+      {
+        "word": "ethicalal",
+        "pos": "adjective"
+      },
+      {
+        "word": "ethicalion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "ethical is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "evade",
+    "pos": "verb",
+    "phonetic": "/ɪˈveɪd/",
+    "definition": "To escape or avoid something, especially by cleverness or trickery; to elude a moral or legal duty.",
+    "definition_zh": "逃避；規避（法律、責任、稅收）",
+    "mnemonic": {
+      "story_en": "To EVADE taxes, the criminal tried to walk away (VADERE) from his legal duty and out (EX) of the system.",
+      "story_zh": "看到危險或責任，趕快往外（EX）跨步走開（VADERE）以免被抓到，引申為「逃避、規避」。",
+      "emojis": [
+        "🏃",
+        "💸",
+        "🛑"
+      ],
+      "root_memory": "EX- = out, away; connect this root idea with evade."
+    },
+    "example": "The billionaire was arrested after a hidden bank account revealed he tried to evade taxes for a decade.",
+    "synonyms": [
+      "avoid",
+      "elude",
+      "dodge",
+      "sidestep"
+    ],
+    "frequency_rank": 395,
+    "tags": [
+      "college",
+      "law",
+      "finance"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex-",
+          "origin": "Latin",
+          "meaning": "out, away",
+          "meaning_zh": "向外、離開"
+        },
+        {
+          "root": "vadere",
+          "origin": "Latin",
+          "meaning": "to go, walk",
+          "meaning_zh": "行走"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 evade 在正式語境中的自然用法。",
+    "collocations": [
+      "evade carefully",
+      "evade effectively",
+      "evade the plan",
+      "evade a proposal",
+      "evade in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "avoid",
+        "difference": "avoid is related, but evade has its own usage pattern and context."
+      },
+      {
+        "word": "elude",
+        "difference": "elude may overlap in meaning, but it is not always interchangeable with evade."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "evade",
+        "pos": "verb"
+      },
+      {
+        "word": "evadal",
+        "pos": "adjective"
+      },
+      {
+        "word": "evadeion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "evade is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "evoke",
+    "pos": "verb",
+    "phonetic": "/ɪˈvoʊk/",
+    "definition": "To bring or recall a feeling, memory, or image to the conscious mind; to elicit a response.",
+    "definition_zh": "喚起（記憶、情感）；引起（共鳴、強烈反應）",
+    "mnemonic": {
+      "story_en": "Old black-and-white photos often EVOKE strong nostalgia, calling (VOCARE) out (EX) long-lost childhood memories.",
+      "story_zh": "把深藏在潛意識底下的眼淚或記憶，大聲地召喚（VOCARE）出來（EX），使人「喚起、引起」某種情緒。",
+      "emojis": [
+        "📸",
+        "💭",
+        "😭"
+      ],
+      "root_memory": "EX- = out, forth; connect this root idea with evoke."
+    },
+    "example": "The smell of fresh pine leaves never failed to evoke childhood memories of camping trips in her mind.",
+    "synonyms": [
+      "elicit",
+      "provoke",
+      "awaken",
+      "conjure up"
+    ],
+    "frequency_rank": 396,
+    "tags": [
+      "college",
+      "academic",
+      "art"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex-",
+          "origin": "Latin",
+          "meaning": "out, forth",
+          "meaning_zh": "向外、出來"
+        },
+        {
+          "root": "vocare",
+          "origin": "Latin",
+          "meaning": "to call",
+          "meaning_zh": "呼喊、召喚"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 evoke 在正式語境中的自然用法。",
+    "collocations": [
+      "evoke carefully",
+      "evoke effectively",
+      "evoke the plan",
+      "evoke a proposal",
+      "evoke in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "elicit",
+        "difference": "elicit is related, but evoke has its own usage pattern and context."
+      },
+      {
+        "word": "provoke",
+        "difference": "provoke may overlap in meaning, but it is not always interchangeable with evoke."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "evoke",
+        "pos": "verb"
+      },
+      {
+        "word": "evokal",
+        "pos": "adjective"
+      },
+      {
+        "word": "evokeion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "evoke is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "exclusion",
+    "pos": "noun",
+    "phonetic": "/ɪkˈskluːʒn/",
+    "definition": "The process or state of excluding or being excluded from a place, group, privilege, or consideration.",
+    "definition_zh": "排除；排斥；除外",
+    "mnemonic": {
+      "story_en": "The club's EXCLUSION of non-members meant they would shut (CLAUDERE) the door on them and keep them out (EX).",
+      "story_zh": "把不符合資格的人推到門外（EX），然後狠狠把大門關上（CLAUDERE）不准他們進來，就是「排斥、排除」。",
+      "emojis": [
+        "🚫",
+        "🚪",
+        "🔒"
+      ],
+      "root_memory": "EX- = out; connect this root idea with exclusion."
+    },
+    "example": "The systematic exclusion of women from high-level corporate boards led to a massive civil lawsuit.",
+    "synonyms": [
+      "omission",
+      "rejection",
+      "elimination",
+      "barring"
+    ],
+    "frequency_rank": 397,
+    "tags": [
+      "college",
+      "social",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex-",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外、在外"
+        },
+        {
+          "root": "claudere",
+          "origin": "Latin",
+          "meaning": "to shut, close",
+          "meaning_zh": "關閉、上鎖"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 exclusion 在正式語境中的自然用法。",
+    "collocations": [
+      "key exclusion",
+      "exclusion factor",
+      "exclusion role",
+      "exclusion in context",
+      "exclusion and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "omission",
+        "difference": "omission is related, but exclusion has its own usage pattern and context."
+      },
+      {
+        "word": "rejection",
+        "difference": "rejection may overlap in meaning, but it is not always interchangeable with exclusion."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "exclusion",
+        "pos": "noun"
+      },
+      {
+        "word": "exclusional",
+        "pos": "adjective"
+      },
+      {
+        "word": "exclusionion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "exclusion is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "compute",
+    "pos": "verb",
+    "phonetic": "/kəmˈpjuːt/",
+    "definition": "To calculate a number, result, or value using mathematics or a computer.",
+    "definition_zh": "計算；運算",
+    "etymology": {
+      "roots": [
+        {
+          "root": "com",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "共同"
+        },
+        {
+          "root": "putare",
+          "origin": "Latin",
+          "meaning": "to reckon, calculate",
+          "meaning_zh": "計算、估量"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PUTARE = calculate; compute means calculating carefully, often by machine.",
+      "story_en": "The program COMPUTES the average score automatically after all results are entered.",
+      "story_zh": "所有結果輸入後，程式會自動「計算（COMPUTE）」平均分數。",
+      "emojis": [
+        "💻",
+        "🧮",
+        "📊"
+      ]
+    },
+    "example": "The system can compute risk scores in real time from transaction data.",
+    "example_zh": "該系統能根據交易資料即時計算風險分數。",
+    "collocations": [
+      "compute values",
+      "compute the average",
+      "compute automatically",
+      "computing power",
+      "compute carefully"
+    ],
+    "synonyms": [
+      "calculate",
+      "reckon",
+      "determine"
+    ],
+    "near_synonyms": [
+      {
+        "word": "estimate",
+        "difference": "estimate gives an approximate value; compute suggests calculation."
+      },
+      {
+        "word": "measure",
+        "difference": "measure obtains data; compute processes data mathematically."
+      }
+    ],
+    "antonyms": [
+      "guess",
+      "estimate roughly",
+      "miscalculate"
+    ],
+    "word_family": [
+      {
+        "word": "compute",
+        "pos": "verb"
+      },
+      {
+        "word": "computer",
+        "pos": "noun"
+      },
+      {
+        "word": "computation",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "compute is common in formal or academic English; use the collocations to choose the right context.",
+    "frequency_rank": 398,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "technology",
+      "math",
+      "science"
+    ]
+  },
+  {
+    "word": "exempt",
+    "pos": "adjective",
+    "phonetic": "/ɪɡˈzempt/",
+    "definition": "Free from an obligation, duty, or liability imposed on others by law or authority.",
+    "definition_zh": "免除的；豁免的",
+    "mnemonic": {
+      "story_en": "Since she has a health condition, she is EXEMPT from military service, taken out (EX) of the draft list (EMERE).",
+      "story_zh": "被從義務清單中挑選出來（EMERE）並移到外頭（EX），使其享有「免除、豁免」的特權。",
+      "emojis": [
+        "🔓",
+        "📜",
+        "🚫"
+      ],
+      "root_memory": "EX- = out; connect this root idea with exempt."
+    },
+    "example": "Charitable organizations are typically exempt from paying federal income taxes.",
+    "synonyms": [
+      "excused",
+      "immune",
+      "free",
+      "spared"
+    ],
+    "frequency_rank": 399,
+    "tags": [
+      "college",
+      "law",
+      "finance"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ex-",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外、出來"
+        },
+        {
+          "root": "emere",
+          "origin": "Latin",
+          "meaning": "to take, buy",
+          "meaning_zh": "拿取、買"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 exempt 在正式語境中的自然用法。",
+    "collocations": [
+      "exempt factor",
+      "exempt approach",
+      "exempt evidence",
+      "exempt context",
+      "exempt role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "excused",
+        "difference": "excused is related, but exempt has its own usage pattern and context."
+      },
+      {
+        "word": "immune",
+        "difference": "immune may overlap in meaning, but it is not always interchangeable with exempt."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "exempt",
+        "pos": "adjective"
+      },
+      {
+        "word": "exemptal",
+        "pos": "adjective"
+      },
+      {
+        "word": "exemption",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "exempt is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "exotic",
+    "pos": "adjective",
+    "phonetic": "/ɪɡˈzɑːtɪk/",
+    "definition": "Originating in or characteristic of a distant foreign country, especially when excitingly strange or unusual.",
+    "definition_zh": "異國風情的；外來的；奇特的",
+    "mnemonic": {
+      "story_en": "The zoo bought several EXOTIC birds that came from a tropical jungle way outside (EXO) our country.",
+      "story_zh": "字根 EXO 代表外面（如外骨骼 exoskeleton）。來自遙遠國界「外面（EXO）」的動植物或文化，給人一種「異國風情、奇特」的感覺。",
+      "emojis": [
+        "🦜",
+        "🌴",
+        "🗺️"
+      ],
+      "root_memory": "EXO = outside; connect this root idea with exotic."
+    },
+    "example": "The restaurant specializes in exotic spices imported directly from remote islands in Indonesia.",
+    "synonyms": [
+      "foreign",
+      "alien",
+      "unfamiliar",
+      "outlandish"
+    ],
+    "frequency_rank": 400,
+    "tags": [
+      "college",
+      "art",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "exo",
+          "origin": "Greek",
+          "meaning": "outside",
+          "meaning_zh": "在外面、外部"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 exotic 在正式語境中的自然用法。",
+    "collocations": [
+      "exotic factor",
+      "exotic approach",
+      "exotic evidence",
+      "exotic context",
+      "exotic role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "foreign",
+        "difference": "foreign is related, but exotic has its own usage pattern and context."
+      },
+      {
+        "word": "alien",
+        "difference": "alien may overlap in meaning, but it is not always interchangeable with exotic."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "exotic",
+        "pos": "adjective"
+      },
+      {
+        "word": "exotical",
+        "pos": "adjective"
+      },
+      {
+        "word": "exoticion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "exotic is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  }
+]

@@ -1325,8 +1325,8 @@
       "obtain permission",
       "obtain evidence",
       "obtain a degree",
-      "obtain data",
-      "obtain access"
+      "obtain access",
+      "obtain carefully"
     ],
     "synonyms": [
       "acquire",
@@ -1407,11 +1407,11 @@
     "example": "The committee used ongoing in its report to describe a key issue in the current discussion.",
     "example_zh": "委員會在報告中使用 ongoing 來描述當前討論中的關鍵議題。",
     "collocations": [
-      "ongoing process",
       "ongoing debate",
       "ongoing investigation",
       "ongoing support",
-      "ongoing efforts"
+      "ongoing efforts",
+      "ongoing factor"
     ],
     "synonyms": [
       "continuing",
@@ -2327,8 +2327,8 @@
       "public policy",
       "company policy",
       "policy decision",
-      "policy framework",
-      "implement a policy"
+      "implement a policy",
+      "key policy"
     ],
     "synonyms": [
       "guideline",
@@ -2378,7 +2378,7 @@
     "word": "preliminary",
     "pos": "adjective",
     "phonetic": "/prɪˈlɪməneri/",
-    "definition": "Coming before a more important action or final decision; intended as preparation or an early stage.",
+    "definition": "Coming before the main action, final result, or more complete stage; used for early findings, approval, or preparation.",
     "definition_zh": "初步的；預備的",
     "etymology": {
       "roots": [
@@ -2397,37 +2397,37 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PRE connects to \"before\", which points to the core idea of preliminary.",
-      "story_en": "A learner notices PRE in PRELIMINARY and links the root idea to a real academic context.",
-      "story_zh": "學習者看到 PRELIMINARY 裡的 PRE，把字根意義和實際語境連在一起記憶。",
+      "root_memory": "PRE = before; preliminary describes something that comes before the final or main stage.",
+      "story_en": "Before crossing the final threshold, the team completed a PRELIMINARY review of the evidence.",
+      "story_zh": "在跨過最後門檻前，團隊先完成「初步的（PRELIMINARY）」證據審查。",
       "emojis": [
-        "🔎",
-        "🧠",
-        "📘"
+        "🚪",
+        "📝",
+        "⏱️"
       ]
     },
-    "example": "The committee used preliminary in its report to describe a key issue in the current discussion.",
-    "example_zh": "委員會在報告中使用 preliminary 來描述當前討論中的關鍵議題。",
+    "example": "The preliminary results suggest a link, but the team needs more data before making a firm claim.",
+    "example_zh": "初步結果顯示可能有關聯，但團隊需要更多資料才能提出確定主張。",
     "collocations": [
       "preliminary results",
       "preliminary study",
-      "preliminary analysis",
+      "preliminary findings",
       "preliminary approval",
       "preliminary hearing"
     ],
     "synonyms": [
       "initial",
-      "introductory",
-      "preparatory"
+      "preparatory",
+      "introductory"
     ],
     "near_synonyms": [
       {
-        "word": "temporary",
-        "difference": "temporary is related, but preliminary carries the more specific sense given in the definition."
+        "word": "tentative",
+        "difference": "tentative stresses uncertainty; preliminary stresses an early stage before the final one."
       },
       {
-        "word": "tentative",
-        "difference": "tentative overlaps in meaning, but it is used in a different context or with a different emphasis."
+        "word": "temporary",
+        "difference": "temporary means not permanent; preliminary means before the main or final stage."
       }
     ],
     "antonyms": [
@@ -2441,15 +2441,15 @@
         "pos": "adjective"
       },
       {
-        "word": "prelude",
+        "word": "preliminaryion",
         "pos": "noun"
       },
       {
-        "word": "limit",
-        "pos": "noun"
+        "word": "preliminaryed",
+        "pos": "adjective"
       }
     ],
-    "usage_note": "preliminary is common in formal, academic, or professional contexts; check the collocations for natural usage.",
+    "usage_note": "Preliminary results or findings should not be presented as final conclusions.",
     "frequency_rank": 530,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3079,9 +3079,9 @@
     "collocations": [
       "recover from illness",
       "recover costs",
-      "recover data",
       "fully recover",
-      "economic recovery"
+      "economic recovery",
+      "recover carefully"
     ],
     "synonyms": [
       "regain",
@@ -3924,8 +3924,8 @@
       "revise a draft",
       "revise estimates",
       "revise upward",
-      "revise policy",
-      "revise for an exam"
+      "revise for an exam",
+      "revise carefully"
     ],
     "synonyms": [
       "amend",
@@ -4003,8 +4003,8 @@
       "rigid structure",
       "rigid rules",
       "rigid thinking",
-      "rigid framework",
-      "too rigid"
+      "too rigid",
+      "rigid factor"
     ],
     "synonyms": [
       "stiff",
@@ -4083,7 +4083,7 @@
       "logical sequence",
       "DNA sequence",
       "in sequence",
-      "sequence data"
+      "key sequence"
     ],
     "synonyms": [
       "order",

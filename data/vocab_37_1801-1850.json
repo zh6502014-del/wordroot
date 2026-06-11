@@ -3,56 +3,56 @@
     "word": "excludable",
     "pos": "adjective",
     "phonetic": "/excludable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of excludable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCLUDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCLUDABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of excludable.",
+      "story_en": "A student remembers EXCLUDABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCLUDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excludable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excludable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a excludable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 excludable 因素。",
     "collocations": [
-      "excludable analysis",
-      "excludable process",
-      "excludable framework",
-      "address excludable",
-      "evaluate excludable"
+      "excludable approach",
+      "excludable factor",
+      "excludable issue",
+      "excludable evidence",
+      "excludable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excludable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excludable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excludable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excludable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "adjective"
       },
       {
-        "word": "excludable",
-        "pos": "verb"
-      },
-      {
         "word": "excludablal",
         "pos": "adjective"
+      },
+      {
+        "word": "excludableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excludable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excludable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1801,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,56 +82,56 @@
     "word": "excogitable",
     "pos": "adjective",
     "phonetic": "/excogitable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of excogitable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCOGITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCOGITABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of excogitable.",
+      "story_en": "A student remembers EXCOGITABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCOGITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excogitable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excogitable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a excogitable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 excogitable 因素。",
     "collocations": [
-      "excogitable analysis",
-      "excogitable process",
-      "excogitable framework",
-      "address excogitable",
-      "evaluate excogitable"
+      "excogitable approach",
+      "excogitable factor",
+      "excogitable issue",
+      "excogitable evidence",
+      "excogitable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excogitable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excogitable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excogitable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excogitable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "adjective"
       },
       {
-        "word": "excogitable",
-        "pos": "verb"
-      },
-      {
         "word": "excogitablal",
         "pos": "adjective"
+      },
+      {
+        "word": "excogitableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excogitable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excogitable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1802,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,56 +161,56 @@
     "word": "excoriable",
     "pos": "adjective",
     "phonetic": "/excoriable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of excoriable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCORIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCORIABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of excoriable.",
+      "story_en": "A student remembers EXCORIABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCORIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excoriable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excoriable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a excoriable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 excoriable 因素。",
     "collocations": [
-      "excoriable analysis",
-      "excoriable process",
-      "excoriable framework",
-      "address excoriable",
-      "evaluate excoriable"
+      "excoriable approach",
+      "excoriable factor",
+      "excoriable issue",
+      "excoriable evidence",
+      "excoriable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excoriable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excoriable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excoriable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excoriable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "adjective"
       },
       {
-        "word": "excoriable",
-        "pos": "verb"
-      },
-      {
         "word": "excoriablal",
         "pos": "adjective"
+      },
+      {
+        "word": "excoriableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excoriable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excoriable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1803,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -240,56 +240,56 @@
     "word": "excruciable",
     "pos": "adjective",
     "phonetic": "/excruciable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of excruciable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCRUCIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCRUCIABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of excruciable.",
+      "story_en": "A student remembers EXCRUCIABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCRUCIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excruciable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excruciable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a excruciable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 excruciable 因素。",
     "collocations": [
-      "excruciable analysis",
-      "excruciable process",
-      "excruciable framework",
-      "address excruciable",
-      "evaluate excruciable"
+      "excruciable approach",
+      "excruciable factor",
+      "excruciable issue",
+      "excruciable evidence",
+      "excruciable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excruciable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excruciable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excruciable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excruciable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -297,15 +297,15 @@
         "pos": "adjective"
       },
       {
-        "word": "excruciable",
-        "pos": "verb"
-      },
-      {
         "word": "excruciablal",
         "pos": "adjective"
+      },
+      {
+        "word": "excruciableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excruciable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excruciable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1804,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -319,56 +319,56 @@
     "word": "exculpable",
     "pos": "adjective",
     "phonetic": "/exculpable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exculpable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCULPABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCULPABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exculpable.",
+      "story_en": "A student remembers EXCULPABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCULPABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exculpable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exculpable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exculpable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exculpable 因素。",
     "collocations": [
-      "exculpable analysis",
-      "exculpable process",
-      "exculpable framework",
-      "address exculpable",
-      "evaluate exculpable"
+      "exculpable approach",
+      "exculpable factor",
+      "exculpable issue",
+      "exculpable evidence",
+      "exculpable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exculpable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exculpable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exculpable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exculpable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exculpable",
-        "pos": "verb"
-      },
-      {
         "word": "exculpablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exculpableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exculpable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exculpable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1805,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,56 +398,56 @@
     "word": "excurvation",
     "pos": "noun",
     "phonetic": "/excurvation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to run, flow, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of excurvation.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember EXCURVATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 EXCURVATION，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of excurvation.",
+      "story_en": "A student remembers EXCURVATION by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 EXCURVATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excurvation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excurvation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses excurvation as an important part of the issue.",
+    "example_zh": "報告將 excurvation 作為該議題的重要部分來討論。",
     "collocations": [
-      "excurvation analysis",
-      "excurvation process",
-      "excurvation framework",
-      "address excurvation",
-      "evaluate excurvation"
+      "key excurvation",
+      "excurvation factor",
+      "excurvation role",
+      "excurvation in context",
+      "excurvation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excurvation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excurvation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excurvation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excurvation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "noun"
       },
       {
-        "word": "excurv",
-        "pos": "verb"
-      },
-      {
         "word": "excurvational",
         "pos": "adjective"
+      },
+      {
+        "word": "excurvationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excurvation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excurvation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1806,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -477,56 +477,56 @@
     "word": "excusable",
     "pos": "adjective",
     "phonetic": "/excusable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of excusable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXCUSABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXCUSABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of excusable.",
+      "story_en": "A student remembers EXCUSABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXCUSABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excusable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excusable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a excusable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 excusable 因素。",
     "collocations": [
-      "excusable analysis",
-      "excusable process",
-      "excusable framework",
-      "address excusable",
-      "evaluate excusable"
+      "excusable approach",
+      "excusable factor",
+      "excusable issue",
+      "excusable evidence",
+      "excusable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excusable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excusable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excusable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excusable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "adjective"
       },
       {
-        "word": "excusable",
-        "pos": "verb"
-      },
-      {
         "word": "excusablal",
         "pos": "adjective"
+      },
+      {
+        "word": "excusableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excusable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excusable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1807,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -556,7 +556,7 @@
     "word": "excystation",
     "pos": "noun",
     "phonetic": "/excystation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to stand, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -569,43 +569,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of excystation.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember EXCYSTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 EXCYSTATION，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of excystation.",
+      "story_en": "A student remembers EXCYSTATION by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 EXCYSTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses excystation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 excystation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses excystation as an important part of the issue.",
+    "example_zh": "報告將 excystation 作為該議題的重要部分來討論。",
     "collocations": [
-      "excystation analysis",
-      "excystation process",
-      "excystation framework",
-      "address excystation",
-      "evaluate excystation"
+      "key excystation",
+      "excystation factor",
+      "excystation role",
+      "excystation in context",
+      "excystation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; excystation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; excystation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while excystation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; excystation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -613,15 +613,15 @@
         "pos": "noun"
       },
       {
-        "word": "excyst",
-        "pos": "verb"
-      },
-      {
         "word": "excystational",
         "pos": "adjective"
+      },
+      {
+        "word": "excystationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "excystation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "excystation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1808,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -635,56 +635,56 @@
     "word": "execrable",
     "pos": "adjective",
     "phonetic": "/execrable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of execrable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXECRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXECRABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of execrable.",
+      "story_en": "A student remembers EXECRABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXECRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses execrable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 execrable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a execrable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 execrable 因素。",
     "collocations": [
-      "execrable analysis",
-      "execrable process",
-      "execrable framework",
-      "address execrable",
-      "evaluate execrable"
+      "execrable approach",
+      "execrable factor",
+      "execrable issue",
+      "execrable evidence",
+      "execrable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; execrable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; execrable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while execrable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; execrable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "adjective"
       },
       {
-        "word": "execrable",
-        "pos": "verb"
-      },
-      {
         "word": "execrablal",
         "pos": "adjective"
+      },
+      {
+        "word": "execrableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "execrable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "execrable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1809,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,56 +714,56 @@
     "word": "executable",
     "pos": "adjective",
     "phonetic": "/executable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of executable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXECUTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXECUTABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of executable.",
+      "story_en": "A student remembers EXECUTABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXECUTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses executable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 executable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a executable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 executable 因素。",
     "collocations": [
-      "executable analysis",
-      "executable process",
-      "executable framework",
-      "address executable",
-      "evaluate executable"
+      "executable approach",
+      "executable factor",
+      "executable issue",
+      "executable evidence",
+      "executable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; executable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; executable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while executable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; executable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "adjective"
       },
       {
-        "word": "executable",
-        "pos": "verb"
-      },
-      {
         "word": "executablal",
         "pos": "adjective"
+      },
+      {
+        "word": "executableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "executable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "executable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1810,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -793,56 +793,56 @@
     "word": "exercisable",
     "pos": "adjective",
     "phonetic": "/exercisable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exercisable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXERCISABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXERCISABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exercisable.",
+      "story_en": "A student remembers EXERCISABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXERCISABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exercisable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exercisable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exercisable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exercisable 因素。",
     "collocations": [
-      "exercisable analysis",
-      "exercisable process",
-      "exercisable framework",
-      "address exercisable",
-      "evaluate exercisable"
+      "exercisable approach",
+      "exercisable factor",
+      "exercisable issue",
+      "exercisable evidence",
+      "exercisable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exercisable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exercisable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exercisable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exercisable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -850,15 +850,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exercisable",
-        "pos": "verb"
-      },
-      {
         "word": "exercisablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exercisableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exercisable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exercisable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1811,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -872,56 +872,56 @@
     "word": "exhalable",
     "pos": "adjective",
     "phonetic": "/exhalable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exhalable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXHALABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXHALABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exhalable.",
+      "story_en": "A student remembers EXHALABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXHALABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exhalable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exhalable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exhalable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exhalable 因素。",
     "collocations": [
-      "exhalable analysis",
-      "exhalable process",
-      "exhalable framework",
-      "address exhalable",
-      "evaluate exhalable"
+      "exhalable approach",
+      "exhalable factor",
+      "exhalable issue",
+      "exhalable evidence",
+      "exhalable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exhalable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exhalable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exhalable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exhalable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -929,15 +929,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exhalable",
-        "pos": "verb"
-      },
-      {
         "word": "exhalablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exhalableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exhalable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exhalable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1812,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -951,56 +951,56 @@
     "word": "exhalation",
     "pos": "noun",
     "phonetic": "/exhalation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of exhalation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember EXHALATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 EXHALATION，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exhalation.",
+      "story_en": "A student remembers EXHALATION by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXHALATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exhalation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exhalation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses exhalation as an important part of the issue.",
+    "example_zh": "報告將 exhalation 作為該議題的重要部分來討論。",
     "collocations": [
-      "exhalation analysis",
-      "exhalation process",
-      "exhalation framework",
-      "address exhalation",
-      "evaluate exhalation"
+      "key exhalation",
+      "exhalation factor",
+      "exhalation role",
+      "exhalation in context",
+      "exhalation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exhalation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exhalation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exhalation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exhalation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "noun"
       },
       {
-        "word": "exhal",
-        "pos": "verb"
-      },
-      {
         "word": "exhalational",
         "pos": "adjective"
+      },
+      {
+        "word": "exhalationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exhalation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exhalation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1813,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1030,56 +1030,56 @@
     "word": "exhalatory",
     "pos": "adjective",
     "phonetic": "/exhalatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of exhalatory.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember EXHALATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 EXHALATORY，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exhalatory.",
+      "story_en": "A student remembers EXHALATORY by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXHALATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exhalatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exhalatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exhalatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exhalatory 因素。",
     "collocations": [
-      "exhalatory analysis",
-      "exhalatory process",
-      "exhalatory framework",
-      "address exhalatory",
-      "evaluate exhalatory"
+      "exhalatory approach",
+      "exhalatory factor",
+      "exhalatory issue",
+      "exhalatory evidence",
+      "exhalatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exhalatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exhalatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exhalatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exhalatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1087,15 +1087,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exhalatory",
-        "pos": "verb"
-      },
-      {
         "word": "exhalatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "exhalatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exhalatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exhalatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1814,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1109,56 +1109,56 @@
     "word": "exhibitable",
     "pos": "adjective",
     "phonetic": "/exhibitable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exhibitable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXHIBITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXHIBITABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exhibitable.",
+      "story_en": "A student remembers EXHIBITABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXHIBITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exhibitable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exhibitable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exhibitable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exhibitable 因素。",
     "collocations": [
-      "exhibitable analysis",
-      "exhibitable process",
-      "exhibitable framework",
-      "address exhibitable",
-      "evaluate exhibitable"
+      "exhibitable approach",
+      "exhibitable factor",
+      "exhibitable issue",
+      "exhibitable evidence",
+      "exhibitable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exhibitable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exhibitable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exhibitable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exhibitable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exhibitable",
-        "pos": "verb"
-      },
-      {
         "word": "exhibitablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exhibitableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exhibitable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exhibitable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1815,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1188,56 +1188,56 @@
     "word": "exigence",
     "pos": "noun",
     "phonetic": "/exigence/",
-    "definition": "A formal English word used to describe a concept or condition connected with birth, origin; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to birth, origin, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "gen",
-          "origin": "Greek",
+          "origin": "Greek / Latin",
           "meaning": "birth, origin",
           "meaning_zh": "出生、起源"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "GEN = birth, origin; connect the root idea with the meaning of exigence.",
-      "story_en": "In a university report, the highlighted root GEN helps the student remember EXIGENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 GEN 聯想到 EXIGENCE，把它記成精準的學術單字。",
+      "root_memory": "GEN = birth, origin; connect this root idea with the meaning of exigence.",
+      "story_en": "A student remembers EXIGENCE by linking GEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 GEN 和 EXIGENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exigence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exigence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses exigence as an important part of the issue.",
+    "example_zh": "報告將 exigence 作為該議題的重要部分來討論。",
     "collocations": [
-      "exigence analysis",
-      "exigence process",
-      "exigence framework",
-      "address exigence",
-      "evaluate exigence"
+      "key exigence",
+      "exigence factor",
+      "exigence role",
+      "exigence in context",
+      "exigence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exigence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exigence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exigence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exigence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1245,15 +1245,15 @@
         "pos": "noun"
       },
       {
-        "word": "exig",
-        "pos": "verb"
-      },
-      {
         "word": "exigencal",
         "pos": "adjective"
+      },
+      {
+        "word": "exigenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exigence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exigence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1816,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1267,7 +1267,7 @@
     "word": "existence",
     "pos": "noun",
     "phonetic": "/existence/",
-    "definition": "A formal English word used to describe a concept or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -1280,43 +1280,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of existence.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember EXISTENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 EXISTENCE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of existence.",
+      "story_en": "A student remembers EXISTENCE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 EXISTENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses existence to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 existence 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses existence as an important part of the issue.",
+    "example_zh": "報告將 existence 作為該議題的重要部分來討論。",
     "collocations": [
-      "existence analysis",
-      "existence process",
-      "existence framework",
-      "address existence",
-      "evaluate existence"
+      "key existence",
+      "existence factor",
+      "existence role",
+      "existence in context",
+      "existence and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; existence is used as a more specific vocabulary item."
+        "difference": "aspect is broader; existence is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while existence follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; existence follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1324,15 +1324,15 @@
         "pos": "noun"
       },
       {
-        "word": "exist",
-        "pos": "verb"
-      },
-      {
         "word": "existencal",
         "pos": "adjective"
+      },
+      {
+        "word": "existenceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "existence is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "existence is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1817,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1346,56 +1346,56 @@
     "word": "exoculation",
     "pos": "noun",
     "phonetic": "/exoculation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of exoculation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember EXOCULATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 EXOCULATION，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exoculation.",
+      "story_en": "A student remembers EXOCULATION by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXOCULATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exoculation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exoculation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses exoculation as an important part of the issue.",
+    "example_zh": "報告將 exoculation 作為該議題的重要部分來討論。",
     "collocations": [
-      "exoculation analysis",
-      "exoculation process",
-      "exoculation framework",
-      "address exoculation",
-      "evaluate exoculation"
+      "key exoculation",
+      "exoculation factor",
+      "exoculation role",
+      "exoculation in context",
+      "exoculation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exoculation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exoculation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exoculation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exoculation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1403,15 +1403,15 @@
         "pos": "noun"
       },
       {
-        "word": "exocul",
-        "pos": "verb"
-      },
-      {
         "word": "exoculational",
         "pos": "adjective"
+      },
+      {
+        "word": "exoculationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exoculation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exoculation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1818,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "exorable",
     "pos": "adjective",
     "phonetic": "/exorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXORABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exorable.",
+      "story_en": "A student remembers EXORABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exorable 因素。",
     "collocations": [
-      "exorable analysis",
-      "exorable process",
-      "exorable framework",
-      "address exorable",
-      "evaluate exorable"
+      "exorable approach",
+      "exorable factor",
+      "exorable issue",
+      "exorable evidence",
+      "exorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exorable",
-        "pos": "verb"
-      },
-      {
         "word": "exorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1819,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1504,56 +1504,56 @@
     "word": "expectable",
     "pos": "adjective",
     "phonetic": "/expectable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expectable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPECTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPECTABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expectable.",
+      "story_en": "A student remembers EXPECTABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPECTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expectable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expectable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expectable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expectable 因素。",
     "collocations": [
-      "expectable analysis",
-      "expectable process",
-      "expectable framework",
-      "address expectable",
-      "evaluate expectable"
+      "expectable approach",
+      "expectable factor",
+      "expectable issue",
+      "expectable evidence",
+      "expectable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expectable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expectable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expectable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expectable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1561,15 +1561,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expectable",
-        "pos": "verb"
-      },
-      {
         "word": "expectablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expectableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expectable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expectable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1820,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1583,56 +1583,56 @@
     "word": "expedience",
     "pos": "noun",
     "phonetic": "/expedience/",
-    "definition": "A formal English word used to describe a concept or condition connected with foot; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ped",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "foot",
-          "meaning_zh": "腳"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PED = foot; connect the root idea with the meaning of expedience.",
-      "story_en": "In a university report, the highlighted root PED helps the student remember EXPEDIENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PED 聯想到 EXPEDIENCE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expedience.",
+      "story_en": "A student remembers EXPEDIENCE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPEDIENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expedience to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expedience 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses expedience as an important part of the issue.",
+    "example_zh": "報告將 expedience 作為該議題的重要部分來討論。",
     "collocations": [
-      "expedience analysis",
-      "expedience process",
-      "expedience framework",
-      "address expedience",
-      "evaluate expedience"
+      "key expedience",
+      "expedience factor",
+      "expedience role",
+      "expedience in context",
+      "expedience and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expedience is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expedience is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expedience follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expedience follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "expedi",
-        "pos": "verb"
-      },
-      {
         "word": "expediencal",
         "pos": "adjective"
+      },
+      {
+        "word": "expedienceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expedience is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expedience is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1821,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1662,56 +1662,56 @@
     "word": "expellable",
     "pos": "adjective",
     "phonetic": "/expellable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expellable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPELLABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPELLABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expellable.",
+      "story_en": "A student remembers EXPELLABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPELLABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expellable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expellable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expellable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expellable 因素。",
     "collocations": [
-      "expellable analysis",
-      "expellable process",
-      "expellable framework",
-      "address expellable",
-      "evaluate expellable"
+      "expellable approach",
+      "expellable factor",
+      "expellable issue",
+      "expellable evidence",
+      "expellable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expellable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expellable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expellable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expellable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expellable",
-        "pos": "verb"
-      },
-      {
         "word": "expellablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expellableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expellable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expellable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1822,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "expendable",
     "pos": "adjective",
     "phonetic": "/expendable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expendable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPENDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPENDABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expendable.",
+      "story_en": "A student remembers EXPENDABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPENDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expendable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expendable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expendable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expendable 因素。",
     "collocations": [
-      "expendable analysis",
-      "expendable process",
-      "expendable framework",
-      "address expendable",
-      "evaluate expendable"
+      "expendable approach",
+      "expendable factor",
+      "expendable issue",
+      "expendable evidence",
+      "expendable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expendable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expendable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expendable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expendable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1798,15 +1798,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expendable",
-        "pos": "verb"
-      },
-      {
         "word": "expendablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expendableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expendable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expendable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1823,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1820,56 +1820,56 @@
     "word": "experience",
     "pos": "noun",
     "phonetic": "/experience/",
-    "definition": "A formal English word used to describe a concept or condition connected with through; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "per",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "through",
-          "meaning_zh": "穿過"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PER = through; connect the root idea with the meaning of experience.",
-      "story_en": "In a university report, the highlighted root PER helps the student remember EXPERIENCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PER 聯想到 EXPERIENCE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of experience.",
+      "story_en": "A student remembers EXPERIENCE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPERIENCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses experience to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 experience 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses experience as an important part of the issue.",
+    "example_zh": "報告將 experience 作為該議題的重要部分來討論。",
     "collocations": [
-      "experience analysis",
-      "experience process",
-      "experience framework",
-      "address experience",
-      "evaluate experience"
+      "key experience",
+      "experience factor",
+      "experience role",
+      "experience in context",
+      "experience and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; experience is used as a more specific vocabulary item."
+        "difference": "aspect is broader; experience is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while experience follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; experience follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "noun"
       },
       {
-        "word": "experi",
-        "pos": "verb"
-      },
-      {
         "word": "experiencal",
         "pos": "adjective"
+      },
+      {
+        "word": "experienceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "experience is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "experience is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1824,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1899,56 +1899,56 @@
     "word": "expiable",
     "pos": "adjective",
     "phonetic": "/expiable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expiable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPIABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expiable.",
+      "story_en": "A student remembers EXPIABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expiable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expiable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expiable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expiable 因素。",
     "collocations": [
-      "expiable analysis",
-      "expiable process",
-      "expiable framework",
-      "address expiable",
-      "evaluate expiable"
+      "expiable approach",
+      "expiable factor",
+      "expiable issue",
+      "expiable evidence",
+      "expiable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expiable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expiable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expiable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expiable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -1956,15 +1956,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expiable",
-        "pos": "verb"
-      },
-      {
         "word": "expiablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expiableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expiable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expiable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1825,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1978,56 +1978,56 @@
     "word": "expilation",
     "pos": "noun",
     "phonetic": "/expilation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of expilation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember EXPILATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 EXPILATION，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expilation.",
+      "story_en": "A student remembers EXPILATION by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPILATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expilation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expilation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses expilation as an important part of the issue.",
+    "example_zh": "報告將 expilation 作為該議題的重要部分來討論。",
     "collocations": [
-      "expilation analysis",
-      "expilation process",
-      "expilation framework",
-      "address expilation",
-      "evaluate expilation"
+      "key expilation",
+      "expilation factor",
+      "expilation role",
+      "expilation in context",
+      "expilation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expilation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expilation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expilation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expilation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2035,15 +2035,15 @@
         "pos": "noun"
       },
       {
-        "word": "expil",
-        "pos": "verb"
-      },
-      {
         "word": "expilational",
         "pos": "adjective"
+      },
+      {
+        "word": "expilationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expilation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expilation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1826,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "expirable",
     "pos": "adjective",
     "phonetic": "/expirable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expirable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPIRABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPIRABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expirable.",
+      "story_en": "A student remembers EXPIRABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPIRABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expirable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expirable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expirable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expirable 因素。",
     "collocations": [
-      "expirable analysis",
-      "expirable process",
-      "expirable framework",
-      "address expirable",
-      "evaluate expirable"
+      "expirable approach",
+      "expirable factor",
+      "expirable issue",
+      "expirable evidence",
+      "expirable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expirable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expirable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expirable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expirable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expirable",
-        "pos": "verb"
-      },
-      {
         "word": "expirablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expirableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expirable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expirable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1827,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2136,56 +2136,56 @@
     "word": "explainable",
     "pos": "adjective",
     "phonetic": "/explainable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of explainable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPLAINABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPLAINABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explainable.",
+      "story_en": "A student remembers EXPLAINABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLAINABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explainable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explainable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explainable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explainable 因素。",
     "collocations": [
-      "explainable analysis",
-      "explainable process",
-      "explainable framework",
-      "address explainable",
-      "evaluate explainable"
+      "explainable approach",
+      "explainable factor",
+      "explainable issue",
+      "explainable evidence",
+      "explainable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explainable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explainable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explainable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explainable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explainable",
-        "pos": "verb"
-      },
-      {
         "word": "explainablal",
         "pos": "adjective"
+      },
+      {
+        "word": "explainableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explainable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explainable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1828,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2215,56 +2215,56 @@
     "word": "explanation",
     "pos": "noun",
     "phonetic": "/explanation/",
-    "definition": "A formal English word used to describe a concept or condition connected with up, back, throughout; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ana",
-          "origin": "Greek",
-          "meaning": "up, back, throughout",
-          "meaning_zh": "向上、回溯、貫穿"
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANA = up, back, throughout; connect the root idea with the meaning of explanation.",
-      "story_en": "In a university report, the highlighted root ANA helps the student remember EXPLANATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANA 聯想到 EXPLANATION，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explanation.",
+      "story_en": "A student remembers EXPLANATION by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLANATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explanation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explanation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses explanation as an important part of the issue.",
+    "example_zh": "報告將 explanation 作為該議題的重要部分來討論。",
     "collocations": [
-      "explanation analysis",
-      "explanation process",
-      "explanation framework",
-      "address explanation",
-      "evaluate explanation"
+      "key explanation",
+      "explanation factor",
+      "explanation role",
+      "explanation in context",
+      "explanation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explanation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explanation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explanation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explanation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "noun"
       },
       {
-        "word": "explan",
-        "pos": "verb"
-      },
-      {
         "word": "explanational",
         "pos": "adjective"
+      },
+      {
+        "word": "explanationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explanation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explanation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1829,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2294,56 +2294,56 @@
     "word": "explanative",
     "pos": "adjective",
     "phonetic": "/explanative/",
-    "definition": "A formal English word used to describe a quality or condition connected with up, back, throughout; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ana",
-          "origin": "Greek",
-          "meaning": "up, back, throughout",
-          "meaning_zh": "向上、回溯、貫穿"
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANA = up, back, throughout; connect the root idea with the meaning of explanative.",
-      "story_en": "In a university report, the highlighted root ANA helps the student remember EXPLANATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANA 聯想到 EXPLANATIVE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explanative.",
+      "story_en": "A student remembers EXPLANATIVE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLANATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explanative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explanative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explanative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explanative 因素。",
     "collocations": [
-      "explanative analysis",
-      "explanative process",
-      "explanative framework",
-      "address explanative",
-      "evaluate explanative"
+      "explanative approach",
+      "explanative factor",
+      "explanative issue",
+      "explanative evidence",
+      "explanative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explanative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explanative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explanative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explanative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2351,15 +2351,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explanative",
-        "pos": "verb"
-      },
-      {
         "word": "explanatival",
         "pos": "adjective"
+      },
+      {
+        "word": "explanativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explanative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explanative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1830,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2373,56 +2373,56 @@
     "word": "explanatory",
     "pos": "adjective",
     "phonetic": "/explanatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with up, back, throughout; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ana",
-          "origin": "Greek",
-          "meaning": "up, back, throughout",
-          "meaning_zh": "向上、回溯、貫穿"
+          "root": "ex",
+          "origin": "Latin",
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ANA = up, back, throughout; connect the root idea with the meaning of explanatory.",
-      "story_en": "In a university report, the highlighted root ANA helps the student remember EXPLANATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ANA 聯想到 EXPLANATORY，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explanatory.",
+      "story_en": "A student remembers EXPLANATORY by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLANATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explanatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explanatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explanatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explanatory 因素。",
     "collocations": [
-      "explanatory analysis",
-      "explanatory process",
-      "explanatory framework",
-      "address explanatory",
-      "evaluate explanatory"
+      "explanatory approach",
+      "explanatory factor",
+      "explanatory issue",
+      "explanatory evidence",
+      "explanatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explanatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explanatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explanatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explanatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explanatory",
-        "pos": "verb"
-      },
-      {
         "word": "explanatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "explanatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explanatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explanatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1831,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,56 +2452,56 @@
     "word": "explicable",
     "pos": "adjective",
     "phonetic": "/explicable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of explicable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPLICABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPLICABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explicable.",
+      "story_en": "A student remembers EXPLICABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLICABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explicable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explicable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explicable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explicable 因素。",
     "collocations": [
-      "explicable analysis",
-      "explicable process",
-      "explicable framework",
-      "address explicable",
-      "evaluate explicable"
+      "explicable approach",
+      "explicable factor",
+      "explicable issue",
+      "explicable evidence",
+      "explicable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explicable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explicable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explicable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explicable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explicable",
-        "pos": "verb"
-      },
-      {
         "word": "explicablal",
         "pos": "adjective"
+      },
+      {
+        "word": "explicableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explicable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explicable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1832,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,56 +2531,56 @@
     "word": "explodable",
     "pos": "adjective",
     "phonetic": "/explodable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of explodable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPLODABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPLODABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explodable.",
+      "story_en": "A student remembers EXPLODABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLODABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explodable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explodable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explodable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explodable 因素。",
     "collocations": [
-      "explodable analysis",
-      "explodable process",
-      "explodable framework",
-      "address explodable",
-      "evaluate explodable"
+      "explodable approach",
+      "explodable factor",
+      "explodable issue",
+      "explodable evidence",
+      "explodable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explodable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explodable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explodable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explodable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explodable",
-        "pos": "verb"
-      },
-      {
         "word": "explodablal",
         "pos": "adjective"
+      },
+      {
+        "word": "explodableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explodable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explodable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1833,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2610,56 +2610,56 @@
     "word": "exploitable",
     "pos": "adjective",
     "phonetic": "/exploitable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exploitable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPLOITABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPLOITABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exploitable.",
+      "story_en": "A student remembers EXPLOITABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLOITABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exploitable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exploitable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exploitable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exploitable 因素。",
     "collocations": [
-      "exploitable analysis",
-      "exploitable process",
-      "exploitable framework",
-      "address exploitable",
-      "evaluate exploitable"
+      "exploitable approach",
+      "exploitable factor",
+      "exploitable issue",
+      "exploitable evidence",
+      "exploitable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exploitable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exploitable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exploitable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exploitable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exploitable",
-        "pos": "verb"
-      },
-      {
         "word": "exploitablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exploitableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exploitable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exploitable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1834,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2689,56 +2689,56 @@
     "word": "explorable",
     "pos": "adjective",
     "phonetic": "/explorable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of explorable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPLORABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPLORABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of explorable.",
+      "story_en": "A student remembers EXPLORABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPLORABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses explorable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 explorable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a explorable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 explorable 因素。",
     "collocations": [
-      "explorable analysis",
-      "explorable process",
-      "explorable framework",
-      "address explorable",
-      "evaluate explorable"
+      "explorable approach",
+      "explorable factor",
+      "explorable issue",
+      "explorable evidence",
+      "explorable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; explorable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; explorable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while explorable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; explorable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "adjective"
       },
       {
-        "word": "explorable",
-        "pos": "verb"
-      },
-      {
         "word": "explorablal",
         "pos": "adjective"
+      },
+      {
+        "word": "explorableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "explorable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "explorable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1835,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2768,56 +2768,56 @@
     "word": "exportable",
     "pos": "adjective",
     "phonetic": "/exportable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to carry, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "port",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to carry",
+          "meaning_zh": "攜帶"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exportable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPORTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPORTABLE，把它記成精準的學術單字。",
+      "root_memory": "PORT = to carry; connect this root idea with the meaning of exportable.",
+      "story_en": "A student remembers EXPORTABLE by linking PORT to a real academic or professional situation.",
+      "story_zh": "學生把字根 PORT 和 EXPORTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exportable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exportable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exportable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exportable 因素。",
     "collocations": [
-      "exportable analysis",
-      "exportable process",
-      "exportable framework",
-      "address exportable",
-      "evaluate exportable"
+      "exportable approach",
+      "exportable factor",
+      "exportable issue",
+      "exportable evidence",
+      "exportable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exportable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exportable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exportable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exportable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2825,15 +2825,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exportable",
-        "pos": "verb"
-      },
-      {
         "word": "exportablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exportableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exportable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exportable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1836,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2847,7 +2847,7 @@
     "word": "exportation",
     "pos": "noun",
     "phonetic": "/exportation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to carry, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -2860,43 +2860,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PORT = to carry; connect the root idea with the meaning of exportation.",
-      "story_en": "In a university report, the highlighted root PORT helps the student remember EXPORTATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PORT 聯想到 EXPORTATION，把它記成精準的學術單字。",
+      "root_memory": "PORT = to carry; connect this root idea with the meaning of exportation.",
+      "story_en": "A student remembers EXPORTATION by linking PORT to a real academic or professional situation.",
+      "story_zh": "學生把字根 PORT 和 EXPORTATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exportation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exportation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses exportation as an important part of the issue.",
+    "example_zh": "報告將 exportation 作為該議題的重要部分來討論。",
     "collocations": [
-      "exportation analysis",
-      "exportation process",
-      "exportation framework",
-      "address exportation",
-      "evaluate exportation"
+      "key exportation",
+      "exportation factor",
+      "exportation role",
+      "exportation in context",
+      "exportation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exportation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exportation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exportation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exportation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2904,15 +2904,15 @@
         "pos": "noun"
       },
       {
-        "word": "export",
-        "pos": "verb"
-      },
-      {
         "word": "exportational",
         "pos": "adjective"
+      },
+      {
+        "word": "exportationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exportation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exportation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1837,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "expoundable",
     "pos": "adjective",
     "phonetic": "/expoundable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expoundable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPOUNDABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPOUNDABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expoundable.",
+      "story_en": "A student remembers EXPOUNDABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPOUNDABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expoundable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expoundable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expoundable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expoundable 因素。",
     "collocations": [
-      "expoundable analysis",
-      "expoundable process",
-      "expoundable framework",
-      "address expoundable",
-      "evaluate expoundable"
+      "expoundable approach",
+      "expoundable factor",
+      "expoundable issue",
+      "expoundable evidence",
+      "expoundable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expoundable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expoundable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expoundable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expoundable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expoundable",
-        "pos": "verb"
-      },
-      {
         "word": "expoundablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expoundableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expoundable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expoundable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1838,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3005,56 +3005,56 @@
     "word": "expressable",
     "pos": "adjective",
     "phonetic": "/expressable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to press, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "press",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to press",
+          "meaning_zh": "壓"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expressable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPRESSABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPRESSABLE，把它記成精準的學術單字。",
+      "root_memory": "PRESS = to press; connect this root idea with the meaning of expressable.",
+      "story_en": "A student remembers EXPRESSABLE by linking PRESS to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRESS 和 EXPRESSABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expressable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expressable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expressable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expressable 因素。",
     "collocations": [
-      "expressable analysis",
-      "expressable process",
-      "expressable framework",
-      "address expressable",
-      "evaluate expressable"
+      "expressable approach",
+      "expressable factor",
+      "expressable issue",
+      "expressable evidence",
+      "expressable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expressable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expressable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expressable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expressable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expressable",
-        "pos": "verb"
-      },
-      {
         "word": "expressablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expressableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expressable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expressable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1839,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "exprimable",
     "pos": "adjective",
     "phonetic": "/exprimable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exprimable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPRIMABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPRIMABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exprimable.",
+      "story_en": "A student remembers EXPRIMABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPRIMABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exprimable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exprimable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exprimable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exprimable 因素。",
     "collocations": [
-      "exprimable analysis",
-      "exprimable process",
-      "exprimable framework",
-      "address exprimable",
-      "evaluate exprimable"
+      "exprimable approach",
+      "exprimable factor",
+      "exprimable issue",
+      "exprimable evidence",
+      "exprimable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exprimable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exprimable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exprimable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exprimable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exprimable",
-        "pos": "verb"
-      },
-      {
         "word": "exprimablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exprimableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exprimable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exprimable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1840,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "expugnable",
     "pos": "adjective",
     "phonetic": "/expugnable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expugnable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPUGNABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPUGNABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expugnable.",
+      "story_en": "A student remembers EXPUGNABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPUGNABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expugnable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expugnable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expugnable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expugnable 因素。",
     "collocations": [
-      "expugnable analysis",
-      "expugnable process",
-      "expugnable framework",
-      "address expugnable",
-      "evaluate expugnable"
+      "expugnable approach",
+      "expugnable factor",
+      "expugnable issue",
+      "expugnable evidence",
+      "expugnable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expugnable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expugnable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expugnable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expugnable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expugnable",
-        "pos": "verb"
-      },
-      {
         "word": "expugnablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expugnableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expugnable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expugnable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1841,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3242,56 +3242,56 @@
     "word": "expungeable",
     "pos": "adjective",
     "phonetic": "/expungeable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of expungeable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXPUNGEABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXPUNGEABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of expungeable.",
+      "story_en": "A student remembers EXPUNGEABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXPUNGEABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses expungeable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 expungeable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a expungeable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 expungeable 因素。",
     "collocations": [
-      "expungeable analysis",
-      "expungeable process",
-      "expungeable framework",
-      "address expungeable",
-      "evaluate expungeable"
+      "expungeable approach",
+      "expungeable factor",
+      "expungeable issue",
+      "expungeable evidence",
+      "expungeable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; expungeable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; expungeable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while expungeable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; expungeable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "adjective"
       },
       {
-        "word": "expungeable",
-        "pos": "verb"
-      },
-      {
         "word": "expungeablal",
         "pos": "adjective"
+      },
+      {
+        "word": "expungeableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "expungeable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "expungeable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1842,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3321,7 +3321,7 @@
     "word": "extenuation",
     "pos": "noun",
     "phonetic": "/extenuation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to to hold, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
@@ -3334,43 +3334,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of extenuation.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember EXTENUATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 EXTENUATION，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of extenuation.",
+      "story_en": "A student remembers EXTENUATION by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 EXTENUATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extenuation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extenuation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses extenuation as an important part of the issue.",
+    "example_zh": "報告將 extenuation 作為該議題的重要部分來討論。",
     "collocations": [
-      "extenuation analysis",
-      "extenuation process",
-      "extenuation framework",
-      "address extenuation",
-      "evaluate extenuation"
+      "key extenuation",
+      "extenuation factor",
+      "extenuation role",
+      "extenuation in context",
+      "extenuation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extenuation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extenuation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extenuation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extenuation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "noun"
       },
       {
-        "word": "extenu",
-        "pos": "verb"
-      },
-      {
         "word": "extenuational",
         "pos": "adjective"
+      },
+      {
+        "word": "extenuationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extenuation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extenuation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1843,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,7 +3400,7 @@
     "word": "extenuative",
     "pos": "adjective",
     "phonetic": "/extenuative/",
-    "definition": "A formal English word used to describe a quality or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to hold, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3413,43 +3413,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of extenuative.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember EXTENUATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 EXTENUATIVE，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of extenuative.",
+      "story_en": "A student remembers EXTENUATIVE by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 EXTENUATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extenuative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extenuative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a extenuative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 extenuative 因素。",
     "collocations": [
-      "extenuative analysis",
-      "extenuative process",
-      "extenuative framework",
-      "address extenuative",
-      "evaluate extenuative"
+      "extenuative approach",
+      "extenuative factor",
+      "extenuative issue",
+      "extenuative evidence",
+      "extenuative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extenuative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extenuative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extenuative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extenuative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "extenuative",
-        "pos": "verb"
-      },
-      {
         "word": "extenuatival",
         "pos": "adjective"
+      },
+      {
+        "word": "extenuativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extenuative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extenuative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1844,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,7 +3479,7 @@
     "word": "extenuatory",
     "pos": "adjective",
     "phonetic": "/extenuatory/",
-    "definition": "A formal English word used to describe a quality or condition connected with to hold; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to hold, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -3492,43 +3492,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of extenuatory.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember EXTENUATORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 EXTENUATORY，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of extenuatory.",
+      "story_en": "A student remembers EXTENUATORY by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 EXTENUATORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extenuatory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extenuatory 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a extenuatory factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 extenuatory 因素。",
     "collocations": [
-      "extenuatory analysis",
-      "extenuatory process",
-      "extenuatory framework",
-      "address extenuatory",
-      "evaluate extenuatory"
+      "extenuatory approach",
+      "extenuatory factor",
+      "extenuatory issue",
+      "extenuatory evidence",
+      "extenuatory context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extenuatory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extenuatory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extenuatory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extenuatory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "adjective"
       },
       {
-        "word": "extenuatory",
-        "pos": "verb"
-      },
-      {
         "word": "extenuatoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "extenuatoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extenuatory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extenuatory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1845,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "extollation",
     "pos": "noun",
     "phonetic": "/extollation/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry, bring; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to out, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "lat",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "to carry, bring",
-          "meaning_zh": "攜帶、帶來"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LAT = to carry, bring; connect the root idea with the meaning of extollation.",
-      "story_en": "In a university report, the highlighted root LAT helps the student remember EXTOLLATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LAT 聯想到 EXTOLLATION，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of extollation.",
+      "story_en": "A student remembers EXTOLLATION by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXTOLLATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extollation to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extollation 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses extollation as an important part of the issue.",
+    "example_zh": "報告將 extollation 作為該議題的重要部分來討論。",
     "collocations": [
-      "extollation analysis",
-      "extollation process",
-      "extollation framework",
-      "address extollation",
-      "evaluate extollation"
+      "key extollation",
+      "extollation factor",
+      "extollation role",
+      "extollation in context",
+      "extollation and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extollation is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extollation is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extollation follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extollation follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "noun"
       },
       {
-        "word": "extoll",
-        "pos": "verb"
-      },
-      {
         "word": "extollational",
         "pos": "adjective"
+      },
+      {
+        "word": "extollationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extollation is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extollation is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1846,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "extractable",
     "pos": "adjective",
     "phonetic": "/extractable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to pull, draw, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "tract",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "to pull, draw",
+          "meaning_zh": "拉、牽引"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of extractable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXTRACTABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXTRACTABLE，把它記成精準的學術單字。",
+      "root_memory": "TRACT = to pull, draw; connect this root idea with the meaning of extractable.",
+      "story_en": "A student remembers EXTRACTABLE by linking TRACT to a real academic or professional situation.",
+      "story_zh": "學生把字根 TRACT 和 EXTRACTABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extractable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extractable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a extractable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 extractable 因素。",
     "collocations": [
-      "extractable analysis",
-      "extractable process",
-      "extractable framework",
-      "address extractable",
-      "evaluate extractable"
+      "extractable approach",
+      "extractable factor",
+      "extractable issue",
+      "extractable evidence",
+      "extractable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extractable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extractable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extractable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extractable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "extractable",
-        "pos": "verb"
-      },
-      {
         "word": "extractablal",
         "pos": "adjective"
+      },
+      {
+        "word": "extractableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extractable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extractable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1847,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "extricable",
     "pos": "adjective",
     "phonetic": "/extricable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of extricable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXTRICABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXTRICABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of extricable.",
+      "story_en": "A student remembers EXTRICABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXTRICABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses extricable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 extricable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a extricable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 extricable 因素。",
     "collocations": [
-      "extricable analysis",
-      "extricable process",
-      "extricable framework",
-      "address extricable",
-      "evaluate extricable"
+      "extricable approach",
+      "extricable factor",
+      "extricable issue",
+      "extricable evidence",
+      "extricable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; extricable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; extricable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while extricable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; extricable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "adjective"
       },
       {
-        "word": "extricable",
-        "pos": "verb"
-      },
-      {
         "word": "extricablal",
         "pos": "adjective"
+      },
+      {
+        "word": "extricableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "extricable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "extricable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1848,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3795,56 +3795,56 @@
     "word": "exuviable",
     "pos": "adjective",
     "phonetic": "/exuviable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to out, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "ex",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "out",
+          "meaning_zh": "向外"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of exuviable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember EXUVIABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 EXUVIABLE，把它記成精準的學術單字。",
+      "root_memory": "EX = out; connect this root idea with the meaning of exuviable.",
+      "story_en": "A student remembers EXUVIABLE by linking EX to a real academic or professional situation.",
+      "story_zh": "學生把字根 EX 和 EXUVIABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses exuviable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 exuviable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a exuviable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 exuviable 因素。",
     "collocations": [
-      "exuviable analysis",
-      "exuviable process",
-      "exuviable framework",
-      "address exuviable",
-      "evaluate exuviable"
+      "exuviable approach",
+      "exuviable factor",
+      "exuviable issue",
+      "exuviable evidence",
+      "exuviable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; exuviable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; exuviable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while exuviable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; exuviable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "adjective"
       },
       {
-        "word": "exuviable",
-        "pos": "verb"
-      },
-      {
         "word": "exuviablal",
         "pos": "adjective"
+      },
+      {
+        "word": "exuviableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "exuviable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "exuviable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1849,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3874,56 +3874,56 @@
     "word": "fableist",
     "pos": "noun",
     "phonetic": "/fableist/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "fable",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of fableist.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember FABLEIST as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 FABLEIST，把它記成精準的學術單字。",
+      "root_memory": "FABLE = base form or inherited word element; connect this root idea with the meaning of fableist.",
+      "story_en": "A student remembers FABLEIST by linking FABLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 FABLE 和 FABLEIST 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses fableist to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 fableist 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses fableist as an important part of the issue.",
+    "example_zh": "報告將 fableist 作為該議題的重要部分來討論。",
     "collocations": [
-      "fableist analysis",
-      "fableist process",
-      "fableist framework",
-      "address fableist",
-      "evaluate fableist"
+      "key fableist",
+      "fableist factor",
+      "fableist role",
+      "fableist in context",
+      "fableist and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; fableist is used as a more specific vocabulary item."
+        "difference": "aspect is broader; fableist is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while fableist follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; fableist follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "noun"
       },
       {
-        "word": "fableist",
-        "pos": "verb"
-      },
-      {
         "word": "fableistal",
         "pos": "adjective"
+      },
+      {
+        "word": "fableistion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "fableist is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "fableist is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 1850,
     "frequency_source": "custom",
     "difficulty": "B2",

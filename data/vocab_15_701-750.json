@@ -3,56 +3,56 @@
     "word": "phase",
     "pos": "noun",
     "phonetic": "/phase/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a distinct stage in a process, project, development, or cycle",
+    "definition_zh": "階段；時期",
     "etymology": {
       "roots": [
         {
           "root": "phase",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PHASE = base form or inherited word element; connect the root idea with the meaning of phase.",
-      "story_en": "In a university report, the highlighted root PHASE helps the student remember PHASE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PHASE 聯想到 PHASE，把它記成精準的學術單字。",
+      "root_memory": "PHASE = base form or inherited word element; connect this root idea with the meaning of phase.",
+      "story_en": "A student remembers PHASE by linking PHASE to a real academic or professional situation.",
+      "story_zh": "學生把字根 PHASE 和 PHASE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses phase to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 phase 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses phase as an important part of the issue.",
+    "example_zh": "報告將 phase 作為該議題的重要部分來討論。",
     "collocations": [
-      "phase analysis",
-      "phase process",
-      "phase framework",
-      "address phase",
-      "evaluate phase"
+      "key phase",
+      "phase factor",
+      "phase role",
+      "phase in context",
+      "phase and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; phase is used as a more specific vocabulary item."
+        "difference": "aspect is broader; phase is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while phase follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; phase follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -60,15 +60,15 @@
         "pos": "noun"
       },
       {
-        "word": "phase",
-        "pos": "verb"
-      },
-      {
         "word": "phasal",
         "pos": "adjective"
+      },
+      {
+        "word": "phaseion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "phase is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "phase is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 701,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -82,8 +82,8 @@
     "word": "portion",
     "pos": "noun",
     "phonetic": "/portion/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a part or share of a larger amount, group, object, or whole",
+    "definition_zh": "部分；一份",
     "etymology": {
       "roots": [
         {
@@ -95,43 +95,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PORT = to carry; connect the root idea with the meaning of portion.",
-      "story_en": "In a university report, the highlighted root PORT helps the student remember PORTION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PORT 聯想到 PORTION，把它記成精準的學術單字。",
+      "root_memory": "PORT = to carry; connect this root idea with the meaning of portion.",
+      "story_en": "A student remembers PORTION by linking PORT to a real academic or professional situation.",
+      "story_zh": "學生把字根 PORT 和 PORTION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses portion to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 portion 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses portion as an important part of the issue.",
+    "example_zh": "報告將 portion 作為該議題的重要部分來討論。",
     "collocations": [
-      "portion analysis",
-      "portion process",
-      "portion framework",
-      "address portion",
-      "evaluate portion"
+      "key portion",
+      "portion factor",
+      "portion role",
+      "portion in context",
+      "portion and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; portion is used as a more specific vocabulary item."
+        "difference": "aspect is broader; portion is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while portion follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; portion follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -139,15 +139,15 @@
         "pos": "noun"
       },
       {
-        "word": "portion",
-        "pos": "verb"
-      },
-      {
         "word": "portional",
         "pos": "adjective"
+      },
+      {
+        "word": "portionion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "portion is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "portion is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 702,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -161,56 +161,56 @@
     "word": "positive",
     "pos": "adjective",
     "phonetic": "/positive/",
-    "definition": "A formal English word used to describe a quality or condition connected with to place; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "showing approval, confidence, usefulness, or a value above zero",
+    "definition_zh": "正面的；積極的；陽性的",
     "etymology": {
       "roots": [
         {
-          "root": "pos",
-          "origin": "Latin",
-          "meaning": "to place",
-          "meaning_zh": "放置"
+          "root": "posit",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "POS = to place; connect the root idea with the meaning of positive.",
-      "story_en": "In a university report, the highlighted root POS helps the student remember POSITIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 POS 聯想到 POSITIVE，把它記成精準的學術單字。",
+      "root_memory": "POSIT = base form or inherited word element; connect this root idea with the meaning of positive.",
+      "story_en": "A student remembers POSITIVE by linking POSIT to a real academic or professional situation.",
+      "story_zh": "學生把字根 POSIT 和 POSITIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses positive to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 positive 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a positive factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 positive 因素。",
     "collocations": [
-      "positive analysis",
-      "positive process",
-      "positive framework",
-      "address positive",
-      "evaluate positive"
+      "positive factor",
+      "positive approach",
+      "positive evidence",
+      "positive context",
+      "positive role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; positive is used as a more specific vocabulary item."
+        "difference": "aspect is broader; positive is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while positive follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; positive follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -218,15 +218,15 @@
         "pos": "adjective"
       },
       {
-        "word": "positive",
-        "pos": "verb"
-      },
-      {
         "word": "positival",
         "pos": "adjective"
+      },
+      {
+        "word": "positiveion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "positive is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "positive is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 703,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -238,10 +238,10 @@
   },
   {
     "word": "potential",
-    "pos": "adjective",
+    "pos": "noun",
     "phonetic": "/potential/",
-    "definition": "A formal English word used to describe a quality or condition connected with to hold; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "the possibility or ability to develop, succeed, or become real in the future",
+    "definition_zh": "潛力；可能性",
     "etymology": {
       "roots": [
         {
@@ -253,74 +253,74 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "TEN = to hold; connect the root idea with the meaning of potential.",
-      "story_en": "In a university report, the highlighted root TEN helps the student remember POTENTIAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TEN 聯想到 POTENTIAL，把它記成精準的學術單字。",
+      "root_memory": "TEN = to hold; connect this root idea with the meaning of potential.",
+      "story_en": "A student remembers POTENTIAL by linking TEN to a real academic or professional situation.",
+      "story_zh": "學生把字根 TEN 和 POTENTIAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses potential to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 potential 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses potential as an important part of the issue.",
+    "example_zh": "報告將 potential 作為該議題的重要部分來討論。",
     "collocations": [
-      "potential analysis",
-      "potential process",
-      "potential framework",
-      "address potential",
-      "evaluate potential"
+      "key potential",
+      "potential factor",
+      "potential role",
+      "potential in context",
+      "potential and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; potential is used as a more specific vocabulary item."
+        "difference": "aspect is broader; potential is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while potential follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; potential follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
         "word": "potential",
-        "pos": "adjective"
-      },
-      {
-        "word": "potential",
-        "pos": "verb"
+        "pos": "noun"
       },
       {
         "word": "potentialal",
         "pos": "adjective"
+      },
+      {
+        "word": "potentialion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "potential is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "potential is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 704,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
       "college",
       "academic",
-      "IELTS"
+      "TOEFL"
     ]
   },
   {
     "word": "previous",
     "pos": "adjective",
     "phonetic": "/previous/",
-    "definition": "A formal English word used to describe a quality or condition connected with before; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "existing or happening before the present time or before another event",
+    "definition_zh": "先前的；以前的",
     "etymology": {
       "roots": [
         {
@@ -332,43 +332,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PRE = before; connect the root idea with the meaning of previous.",
-      "story_en": "In a university report, the highlighted root PRE helps the student remember PREVIOUS as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRE 聯想到 PREVIOUS，把它記成精準的學術單字。",
+      "root_memory": "PRE = before; connect this root idea with the meaning of previous.",
+      "story_en": "A student remembers PREVIOUS by linking PRE to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRE 和 PREVIOUS 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses previous to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 previous 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a previous factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 previous 因素。",
     "collocations": [
-      "previous analysis",
-      "previous process",
-      "previous framework",
-      "address previous",
-      "evaluate previous"
+      "previous factor",
+      "previous approach",
+      "previous evidence",
+      "previous context",
+      "previous role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; previous is used as a more specific vocabulary item."
+        "difference": "aspect is broader; previous is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while previous follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; previous follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -376,15 +376,15 @@
         "pos": "adjective"
       },
       {
-        "word": "previous",
-        "pos": "verb"
-      },
-      {
         "word": "previousal",
         "pos": "adjective"
+      },
+      {
+        "word": "previousion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "previous is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "previous is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 705,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -398,56 +398,56 @@
     "word": "primary",
     "pos": "adjective",
     "phonetic": "/primary/",
-    "definition": "A formal English word used to describe a quality or condition connected with first; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "most important, basic, or happening first in order or development",
+    "definition_zh": "主要的；初級的；最初的",
     "etymology": {
       "roots": [
         {
-          "root": "prim",
-          "origin": "Latin",
-          "meaning": "first",
-          "meaning_zh": "第一"
+          "root": "primary",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PRIM = first; connect the root idea with the meaning of primary.",
-      "story_en": "In a university report, the highlighted root PRIM helps the student remember PRIMARY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRIM 聯想到 PRIMARY，把它記成精準的學術單字。",
+      "root_memory": "PRIMARY = base form or inherited word element; connect this root idea with the meaning of primary.",
+      "story_en": "A student remembers PRIMARY by linking PRIMARY to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRIMARY 和 PRIMARY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses primary to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 primary 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a primary factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 primary 因素。",
     "collocations": [
-      "primary analysis",
-      "primary process",
-      "primary framework",
-      "address primary",
-      "evaluate primary"
+      "primary factor",
+      "primary approach",
+      "primary evidence",
+      "primary context",
+      "primary role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; primary is used as a more specific vocabulary item."
+        "difference": "aspect is broader; primary is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while primary follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; primary follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -455,15 +455,15 @@
         "pos": "adjective"
       },
       {
-        "word": "primary",
-        "pos": "verb"
-      },
-      {
         "word": "primaryal",
         "pos": "adjective"
+      },
+      {
+        "word": "primaryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "primary is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "primary is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 706,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -477,56 +477,56 @@
     "word": "principle",
     "pos": "noun",
     "phonetic": "/principle/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a basic rule, belief, or standard that guides thought, behavior, or judgment",
+    "definition_zh": "原則；準則",
     "etymology": {
       "roots": [
         {
-          "root": "princi",
-          "origin": "Old French / Latin",
-          "meaning": "base form or inherited word element",
-          "meaning_zh": "基礎詞形或承襲詞素"
+          "root": "in",
+          "origin": "Latin",
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PRINCI = base form or inherited word element; connect the root idea with the meaning of principle.",
-      "story_en": "In a university report, the highlighted root PRINCI helps the student remember PRINCIPLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRINCI 聯想到 PRINCIPLE，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of principle.",
+      "story_en": "A student remembers PRINCIPLE by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 PRINCIPLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses principle to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 principle 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses principle as an important part of the issue.",
+    "example_zh": "報告將 principle 作為該議題的重要部分來討論。",
     "collocations": [
-      "principle analysis",
-      "principle process",
-      "principle framework",
-      "address principle",
-      "evaluate principle"
+      "key principle",
+      "principle factor",
+      "principle role",
+      "principle in context",
+      "principle and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; principle is used as a more specific vocabulary item."
+        "difference": "aspect is broader; principle is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while principle follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; principle follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -534,15 +534,15 @@
         "pos": "noun"
       },
       {
-        "word": "principle",
-        "pos": "verb"
-      },
-      {
         "word": "principlal",
         "pos": "adjective"
+      },
+      {
+        "word": "principleion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "principle is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "principle is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 707,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -554,89 +554,89 @@
   },
   {
     "word": "prior",
-    "pos": "noun",
+    "pos": "adjective",
     "phonetic": "/prior/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "existing, arranged, or happening before something else",
+    "definition_zh": "先前的；優先的",
     "etymology": {
       "roots": [
         {
           "root": "pri",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PRI = base form or inherited word element; connect the root idea with the meaning of prior.",
-      "story_en": "In a university report, the highlighted root PRI helps the student remember PRIOR as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRI 聯想到 PRIOR，把它記成精準的學術單字。",
+      "root_memory": "PRI = base form or inherited word element; connect this root idea with the meaning of prior.",
+      "story_en": "A student remembers PRIOR by linking PRI to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRI 和 PRIOR 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses prior to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 prior 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a prior factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 prior 因素。",
     "collocations": [
-      "prior analysis",
-      "prior process",
-      "prior framework",
-      "address prior",
-      "evaluate prior"
+      "prior factor",
+      "prior approach",
+      "prior evidence",
+      "prior context",
+      "prior role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; prior is used as a more specific vocabulary item."
+        "difference": "aspect is broader; prior is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while prior follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; prior follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
         "word": "prior",
-        "pos": "noun"
-      },
-      {
-        "word": "prior",
-        "pos": "verb"
+        "pos": "adjective"
       },
       {
         "word": "prioral",
         "pos": "adjective"
+      },
+      {
+        "word": "priorion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "prior is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "prior is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 708,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
       "college",
       "academic",
-      "TOEFL"
+      "IELTS"
     ]
   },
   {
     "word": "process",
     "pos": "noun",
     "phonetic": "/process/",
-    "definition": "A formal English word used to describe a concept or condition connected with forward, for; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a series of actions, stages, or changes that lead to a result",
+    "definition_zh": "過程；程序",
     "etymology": {
       "roots": [
         {
@@ -648,43 +648,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "PRO = forward, for; connect the root idea with the meaning of process.",
-      "story_en": "In a university report, the highlighted root PRO helps the student remember PROCESS as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRO 聯想到 PROCESS，把它記成精準的學術單字。",
+      "root_memory": "PRO = forward, for; connect this root idea with the meaning of process.",
+      "story_en": "A student remembers PROCESS by linking PRO to a real academic or professional situation.",
+      "story_zh": "學生把字根 PRO 和 PROCESS 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses process to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 process 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses process as an important part of the issue.",
+    "example_zh": "報告將 process 作為該議題的重要部分來討論。",
     "collocations": [
-      "process analysis",
-      "process process",
-      "process framework",
-      "address process",
-      "evaluate process"
+      "key process",
+      "process factor",
+      "process role",
+      "process in context",
+      "process and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; process is used as a more specific vocabulary item."
+        "difference": "aspect is broader; process is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while process follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; process follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -692,15 +692,15 @@
         "pos": "noun"
       },
       {
-        "word": "process",
-        "pos": "verb"
-      },
-      {
         "word": "processal",
         "pos": "adjective"
+      },
+      {
+        "word": "procession",
+        "pos": "noun"
       }
     ],
-    "usage_note": "process is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "process is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 709,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -714,56 +714,56 @@
     "word": "prospect",
     "pos": "noun",
     "phonetic": "/prospect/",
-    "definition": "A formal English word used to describe a concept or condition connected with forward, for; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "the possibility that something will happen, especially something hoped for",
+    "definition_zh": "前景；可能性",
     "etymology": {
       "roots": [
         {
-          "root": "pro",
+          "root": "spec",
           "origin": "Latin",
-          "meaning": "forward, for",
-          "meaning_zh": "向前、支持"
+          "meaning": "to look",
+          "meaning_zh": "看"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PRO = forward, for; connect the root idea with the meaning of prospect.",
-      "story_en": "In a university report, the highlighted root PRO helps the student remember PROSPECT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PRO 聯想到 PROSPECT，把它記成精準的學術單字。",
+      "root_memory": "SPEC = to look; connect this root idea with the meaning of prospect.",
+      "story_en": "A student remembers PROSPECT by linking SPEC to a real academic or professional situation.",
+      "story_zh": "學生把字根 SPEC 和 PROSPECT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses prospect to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 prospect 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses prospect as an important part of the issue.",
+    "example_zh": "報告將 prospect 作為該議題的重要部分來討論。",
     "collocations": [
-      "prospect analysis",
-      "prospect process",
-      "prospect framework",
-      "address prospect",
-      "evaluate prospect"
+      "key prospect",
+      "prospect factor",
+      "prospect role",
+      "prospect in context",
+      "prospect and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; prospect is used as a more specific vocabulary item."
+        "difference": "aspect is broader; prospect is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while prospect follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; prospect follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -771,15 +771,15 @@
         "pos": "noun"
       },
       {
-        "word": "prospect",
-        "pos": "verb"
-      },
-      {
         "word": "prospectal",
         "pos": "adjective"
+      },
+      {
+        "word": "prospection",
+        "pos": "noun"
       }
     ],
-    "usage_note": "prospect is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "prospect is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 710,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -791,64 +791,60 @@
   },
   {
     "word": "purchase",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/purchase/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to buy something, especially formally or for business purposes",
+    "definition_zh": "購買；採購",
     "etymology": {
       "roots": [
         {
-          "root": "purcha",
-          "origin": "Old French / Latin",
+          "root": "purchas",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PURCHA = base form or inherited word element; connect the root idea with the meaning of purchase.",
-      "story_en": "In a university report, the highlighted root PURCHA helps the student remember PURCHASE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PURCHA 聯想到 PURCHASE，把它記成精準的學術單字。",
+      "root_memory": "PURCHAS = base form or inherited word element; connect this root idea with the meaning of purchase.",
+      "story_en": "A student remembers PURCHASE by linking PURCHAS to a real academic or professional situation.",
+      "story_zh": "學生把字根 PURCHAS 和 PURCHASE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses purchase to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 purchase 來說明正式語境中該議題的重要部分。",
+    "example": "The team must purchase the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 purchase 該計畫，然後再呈現結果。",
     "collocations": [
-      "purchase analysis",
-      "purchase process",
-      "purchase framework",
-      "address purchase",
-      "evaluate purchase"
+      "purchase carefully",
+      "purchase effectively",
+      "purchase the plan",
+      "purchase a proposal",
+      "purchase in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; purchase is used as a more specific vocabulary item."
+        "difference": "aspect is broader; purchase is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while purchase follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; purchase follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "purchase",
-        "pos": "noun"
-      },
       {
         "word": "purchase",
         "pos": "verb"
@@ -856,78 +852,78 @@
       {
         "word": "purchasal",
         "pos": "adjective"
+      },
+      {
+        "word": "purchaseion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "purchase is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "purchase is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 711,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "business",
+      "finance",
+      "economics"
     ]
   },
   {
     "word": "pursue",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/pursue/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to try to achieve, follow, or continue something over time",
+    "definition_zh": "追求；從事；追趕",
     "etymology": {
       "roots": [
         {
           "root": "pursue",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "PURSUE = base form or inherited word element; connect the root idea with the meaning of pursue.",
-      "story_en": "In a university report, the highlighted root PURSUE helps the student remember PURSUE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 PURSUE 聯想到 PURSUE，把它記成精準的學術單字。",
+      "root_memory": "PURSUE = base form or inherited word element; connect this root idea with the meaning of pursue.",
+      "story_en": "A student remembers PURSUE by linking PURSUE to a real academic or professional situation.",
+      "story_zh": "學生把字根 PURSUE 和 PURSUE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses pursue to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 pursue 來說明正式語境中該議題的重要部分。",
+    "example": "The team must pursue the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 pursue 該計畫，然後再呈現結果。",
     "collocations": [
-      "pursue analysis",
-      "pursue process",
-      "pursue framework",
-      "address pursue",
-      "evaluate pursue"
+      "pursue carefully",
+      "pursue effectively",
+      "pursue the plan",
+      "pursue a proposal",
+      "pursue in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; pursue is used as a more specific vocabulary item."
+        "difference": "aspect is broader; pursue is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while pursue follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; pursue follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "pursue",
-        "pos": "noun"
-      },
       {
         "word": "pursue",
         "pos": "verb"
@@ -935,9 +931,13 @@
       {
         "word": "pursual",
         "pos": "adjective"
+      },
+      {
+        "word": "pursueion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "pursue is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "pursue is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 712,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -951,56 +951,56 @@
     "word": "range",
     "pos": "noun",
     "phonetic": "/range/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "the area, amount, distance, or variety between limits",
+    "definition_zh": "範圍；幅度",
     "etymology": {
       "roots": [
         {
           "root": "range",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "RANGE = base form or inherited word element; connect the root idea with the meaning of range.",
-      "story_en": "In a university report, the highlighted root RANGE helps the student remember RANGE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 RANGE 聯想到 RANGE，把它記成精準的學術單字。",
+      "root_memory": "RANGE = base form or inherited word element; connect this root idea with the meaning of range.",
+      "story_en": "A student remembers RANGE by linking RANGE to a real academic or professional situation.",
+      "story_zh": "學生把字根 RANGE 和 RANGE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses range to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 range 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses range as an important part of the issue.",
+    "example_zh": "報告將 range 作為該議題的重要部分來討論。",
     "collocations": [
-      "range analysis",
-      "range process",
-      "range framework",
-      "address range",
-      "evaluate range"
+      "key range",
+      "range factor",
+      "range role",
+      "range in context",
+      "range and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; range is used as a more specific vocabulary item."
+        "difference": "aspect is broader; range is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while range follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; range follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1008,15 +1008,15 @@
         "pos": "noun"
       },
       {
-        "word": "range",
-        "pos": "verb"
-      },
-      {
         "word": "rangal",
         "pos": "adjective"
+      },
+      {
+        "word": "rangeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "range is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "range is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 713,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1030,56 +1030,56 @@
     "word": "ratio",
     "pos": "noun",
     "phonetic": "/ratio/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a relationship between two amounts shown by how many times one contains the other",
+    "definition_zh": "比例；比率",
     "etymology": {
       "roots": [
         {
           "root": "ratio",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "RATIO = base form or inherited word element; connect the root idea with the meaning of ratio.",
-      "story_en": "In a university report, the highlighted root RATIO helps the student remember RATIO as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 RATIO 聯想到 RATIO，把它記成精準的學術單字。",
+      "root_memory": "RATIO = base form or inherited word element; connect this root idea with the meaning of ratio.",
+      "story_en": "A student remembers RATIO by linking RATIO to a real academic or professional situation.",
+      "story_zh": "學生把字根 RATIO 和 RATIO 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses ratio to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 ratio 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses ratio as an important part of the issue.",
+    "example_zh": "報告將 ratio 作為該議題的重要部分來討論。",
     "collocations": [
-      "ratio analysis",
-      "ratio process",
-      "ratio framework",
-      "address ratio",
-      "evaluate ratio"
+      "key ratio",
+      "ratio factor",
+      "ratio role",
+      "ratio in context",
+      "ratio and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; ratio is used as a more specific vocabulary item."
+        "difference": "aspect is broader; ratio is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while ratio follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; ratio follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1087,30 +1087,30 @@
         "pos": "noun"
       },
       {
-        "word": "ratio",
-        "pos": "verb"
-      },
-      {
         "word": "ratioal",
         "pos": "adjective"
+      },
+      {
+        "word": "ratioion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "ratio is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "ratio is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 714,
     "frequency_source": "custom",
     "difficulty": "C1",
     "tags": [
-      "college",
-      "academic",
-      "TOEFL"
+      "technology",
+      "science",
+      "academic"
     ]
   },
   {
     "word": "region",
     "pos": "noun",
     "phonetic": "/region/",
-    "definition": "A formal English word used to describe a concept or condition connected with rule, guide; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "an area of land, body, activity, or study with particular features",
+    "definition_zh": "地區；區域",
     "etymology": {
       "roots": [
         {
@@ -1122,43 +1122,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "REG = rule, guide; connect the root idea with the meaning of region.",
-      "story_en": "In a university report, the highlighted root REG helps the student remember REGION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 REG 聯想到 REGION，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of region.",
+      "story_en": "A student remembers REGION by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 REGION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses region to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 region 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses region as an important part of the issue.",
+    "example_zh": "報告將 region 作為該議題的重要部分來討論。",
     "collocations": [
-      "region analysis",
-      "region process",
-      "region framework",
-      "address region",
-      "evaluate region"
+      "key region",
+      "region factor",
+      "region role",
+      "region in context",
+      "region and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; region is used as a more specific vocabulary item."
+        "difference": "aspect is broader; region is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while region follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; region follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1166,15 +1166,15 @@
         "pos": "noun"
       },
       {
-        "word": "region",
-        "pos": "verb"
-      },
-      {
         "word": "regional",
         "pos": "adjective"
+      },
+      {
+        "word": "regionion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "region is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "region is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 715,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1186,10 +1186,10 @@
   },
   {
     "word": "register",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/register/",
-    "definition": "A formal English word used to describe a concept or condition connected with rule, guide; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to record information officially or show a reading, feeling, or reaction",
+    "definition_zh": "登記；註冊；顯示",
     "etymology": {
       "roots": [
         {
@@ -1201,49 +1201,45 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "REG = rule, guide; connect the root idea with the meaning of register.",
-      "story_en": "In a university report, the highlighted root REG helps the student remember REGISTER as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 REG 聯想到 REGISTER，把它記成精準的學術單字。",
+      "root_memory": "REG = rule, guide; connect this root idea with the meaning of register.",
+      "story_en": "A student remembers REGISTER by linking REG to a real academic or professional situation.",
+      "story_zh": "學生把字根 REG 和 REGISTER 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses register to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 register 來說明正式語境中該議題的重要部分。",
+    "example": "The team must register the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 register 該計畫，然後再呈現結果。",
     "collocations": [
-      "register analysis",
-      "register process",
-      "register framework",
-      "address register",
-      "evaluate register"
+      "register carefully",
+      "register effectively",
+      "register the plan",
+      "register a proposal",
+      "register in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; register is used as a more specific vocabulary item."
+        "difference": "aspect is broader; register is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while register follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; register follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "register",
-        "pos": "noun"
-      },
       {
         "word": "register",
         "pos": "verb"
@@ -1251,9 +1247,13 @@
       {
         "word": "registeral",
         "pos": "adjective"
+      },
+      {
+        "word": "registerion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "register is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "register is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 716,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1265,64 +1265,60 @@
   },
   {
     "word": "reject",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/reject/",
-    "definition": "A formal English word used to describe a concept or condition connected with to throw; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to refuse to accept, approve, believe, or use something",
+    "definition_zh": "拒絕；否決",
     "etymology": {
       "roots": [
         {
           "root": "ject",
           "origin": "Latin",
           "meaning": "to throw",
-          "meaning_zh": "丟、投射"
+          "meaning_zh": "投射、丟出"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "JECT = to throw; connect the root idea with the meaning of reject.",
-      "story_en": "In a university report, the highlighted root JECT helps the student remember REJECT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 JECT 聯想到 REJECT，把它記成精準的學術單字。",
+      "root_memory": "JECT = to throw; connect this root idea with the meaning of reject.",
+      "story_en": "A student remembers REJECT by linking JECT to a real academic or professional situation.",
+      "story_zh": "學生把字根 JECT 和 REJECT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses reject to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 reject 來說明正式語境中該議題的重要部分。",
+    "example": "The team must reject the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 reject 該計畫，然後再呈現結果。",
     "collocations": [
-      "reject analysis",
-      "reject process",
-      "reject framework",
-      "address reject",
-      "evaluate reject"
+      "reject carefully",
+      "reject effectively",
+      "reject the plan",
+      "reject a proposal",
+      "reject in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; reject is used as a more specific vocabulary item."
+        "difference": "aspect is broader; reject is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while reject follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; reject follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "reject",
-        "pos": "noun"
-      },
       {
         "word": "reject",
         "pos": "verb"
@@ -1330,9 +1326,13 @@
       {
         "word": "rejectal",
         "pos": "adjective"
+      },
+      {
+        "word": "rejection",
+        "pos": "noun"
       }
     ],
-    "usage_note": "reject is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "reject is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 717,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1344,64 +1344,60 @@
   },
   {
     "word": "release",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/release/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to let someone or something go, make information public, or make a product available",
+    "definition_zh": "釋放；發布；發行",
     "etymology": {
       "roots": [
         {
-          "root": "releas",
-          "origin": "Old French / Latin",
+          "root": "release",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "RELEAS = base form or inherited word element; connect the root idea with the meaning of release.",
-      "story_en": "In a university report, the highlighted root RELEAS helps the student remember RELEASE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 RELEAS 聯想到 RELEASE，把它記成精準的學術單字。",
+      "root_memory": "RELEASE = base form or inherited word element; connect this root idea with the meaning of release.",
+      "story_en": "A student remembers RELEASE by linking RELEASE to a real academic or professional situation.",
+      "story_zh": "學生把字根 RELEASE 和 RELEASE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses release to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 release 來說明正式語境中該議題的重要部分。",
+    "example": "The team must release the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 release 該計畫，然後再呈現結果。",
     "collocations": [
-      "release analysis",
-      "release process",
-      "release framework",
-      "address release",
-      "evaluate release"
+      "release carefully",
+      "release effectively",
+      "release the plan",
+      "release a proposal",
+      "release in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; release is used as a more specific vocabulary item."
+        "difference": "aspect is broader; release is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while release follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; release follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "release",
-        "pos": "noun"
-      },
       {
         "word": "release",
         "pos": "verb"
@@ -1409,9 +1405,13 @@
       {
         "word": "releasal",
         "pos": "adjective"
+      },
+      {
+        "word": "releaseion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "release is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "release is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 718,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1425,56 +1425,56 @@
     "word": "resource",
     "pos": "noun",
     "phonetic": "/resource/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a useful supply, asset, skill, or source of support that can be used when needed",
+    "definition_zh": "資源；財力；資料來源",
     "etymology": {
       "roots": [
         {
-          "root": "resour",
-          "origin": "Old French / Latin",
+          "root": "resourc",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "RESOUR = base form or inherited word element; connect the root idea with the meaning of resource.",
-      "story_en": "In a university report, the highlighted root RESOUR helps the student remember RESOURCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 RESOUR 聯想到 RESOURCE，把它記成精準的學術單字。",
+      "root_memory": "RESOURC = base form or inherited word element; connect this root idea with the meaning of resource.",
+      "story_en": "A student remembers RESOURCE by linking RESOURC to a real academic or professional situation.",
+      "story_zh": "學生把字根 RESOURC 和 RESOURCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses resource to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 resource 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses resource as an important part of the issue.",
+    "example_zh": "報告將 resource 作為該議題的重要部分來討論。",
     "collocations": [
-      "resource analysis",
-      "resource process",
-      "resource framework",
-      "address resource",
-      "evaluate resource"
+      "key resource",
+      "resource factor",
+      "resource role",
+      "resource in context",
+      "resource and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; resource is used as a more specific vocabulary item."
+        "difference": "aspect is broader; resource is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while resource follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; resource follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1482,15 +1482,15 @@
         "pos": "noun"
       },
       {
-        "word": "resource",
-        "pos": "verb"
-      },
-      {
         "word": "resourcal",
         "pos": "adjective"
+      },
+      {
+        "word": "resourceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "resource is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "resource is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 719,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1502,64 +1502,60 @@
   },
   {
     "word": "respond",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/respond/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to answer, react, or take action after something happens",
+    "definition_zh": "回應；回答；反應",
     "etymology": {
       "roots": [
         {
-          "root": "respon",
-          "origin": "Old French / Latin",
+          "root": "respond",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "RESPON = base form or inherited word element; connect the root idea with the meaning of respond.",
-      "story_en": "In a university report, the highlighted root RESPON helps the student remember RESPOND as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 RESPON 聯想到 RESPOND，把它記成精準的學術單字。",
+      "root_memory": "RESPOND = base form or inherited word element; connect this root idea with the meaning of respond.",
+      "story_en": "A student remembers RESPOND by linking RESPOND to a real academic or professional situation.",
+      "story_zh": "學生把字根 RESPOND 和 RESPOND 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses respond to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 respond 來說明正式語境中該議題的重要部分。",
+    "example": "The team must respond the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 respond 該計畫，然後再呈現結果。",
     "collocations": [
-      "respond analysis",
-      "respond process",
-      "respond framework",
-      "address respond",
-      "evaluate respond"
+      "respond carefully",
+      "respond effectively",
+      "respond the plan",
+      "respond a proposal",
+      "respond in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; respond is used as a more specific vocabulary item."
+        "difference": "aspect is broader; respond is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while respond follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; respond follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "respond",
-        "pos": "noun"
-      },
       {
         "word": "respond",
         "pos": "verb"
@@ -1567,9 +1563,13 @@
       {
         "word": "respondal",
         "pos": "adjective"
+      },
+      {
+        "word": "respondion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "respond is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "respond is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 720,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1583,56 +1583,56 @@
     "word": "route",
     "pos": "noun",
     "phonetic": "/route/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a way, path, or course taken to get from one place or stage to another",
+    "definition_zh": "路線；途徑",
     "etymology": {
       "roots": [
         {
           "root": "route",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "ROUTE = base form or inherited word element; connect the root idea with the meaning of route.",
-      "story_en": "In a university report, the highlighted root ROUTE helps the student remember ROUTE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 ROUTE 聯想到 ROUTE，把它記成精準的學術單字。",
+      "root_memory": "ROUTE = base form or inherited word element; connect this root idea with the meaning of route.",
+      "story_en": "A student remembers ROUTE by linking ROUTE to a real academic or professional situation.",
+      "story_zh": "學生把字根 ROUTE 和 ROUTE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses route to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 route 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses route as an important part of the issue.",
+    "example_zh": "報告將 route 作為該議題的重要部分來討論。",
     "collocations": [
-      "route analysis",
-      "route process",
-      "route framework",
-      "address route",
-      "evaluate route"
+      "key route",
+      "route factor",
+      "route role",
+      "route in context",
+      "route and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; route is used as a more specific vocabulary item."
+        "difference": "aspect is broader; route is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while route follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; route follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1640,15 +1640,15 @@
         "pos": "noun"
       },
       {
-        "word": "route",
-        "pos": "verb"
-      },
-      {
         "word": "routal",
         "pos": "adjective"
+      },
+      {
+        "word": "routeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "route is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "route is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 721,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -1662,56 +1662,56 @@
     "word": "schedule",
     "pos": "noun",
     "phonetic": "/schedule/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a planned list of times, tasks, or events",
+    "definition_zh": "時程表；排程",
     "etymology": {
       "roots": [
         {
-          "root": "schedu",
-          "origin": "Old French / Latin",
+          "root": "schedul",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SCHEDU = base form or inherited word element; connect the root idea with the meaning of schedule.",
-      "story_en": "In a university report, the highlighted root SCHEDU helps the student remember SCHEDULE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SCHEDU 聯想到 SCHEDULE，把它記成精準的學術單字。",
+      "root_memory": "SCHEDUL = base form or inherited word element; connect this root idea with the meaning of schedule.",
+      "story_en": "A student remembers SCHEDULE by linking SCHEDUL to a real academic or professional situation.",
+      "story_zh": "學生把字根 SCHEDUL 和 SCHEDULE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses schedule to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 schedule 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses schedule as an important part of the issue.",
+    "example_zh": "報告將 schedule 作為該議題的重要部分來討論。",
     "collocations": [
-      "schedule analysis",
-      "schedule process",
-      "schedule framework",
-      "address schedule",
-      "evaluate schedule"
+      "key schedule",
+      "schedule factor",
+      "schedule role",
+      "schedule in context",
+      "schedule and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; schedule is used as a more specific vocabulary item."
+        "difference": "aspect is broader; schedule is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while schedule follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; schedule follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1719,15 +1719,15 @@
         "pos": "noun"
       },
       {
-        "word": "schedule",
-        "pos": "verb"
-      },
-      {
         "word": "schedulal",
         "pos": "adjective"
+      },
+      {
+        "word": "scheduleion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "schedule is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "schedule is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 722,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1741,56 +1741,56 @@
     "word": "scheme",
     "pos": "noun",
     "phonetic": "/scheme/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "scheme",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SCHEME = base form or inherited word element; connect the root idea with the meaning of scheme.",
-      "story_en": "In a university report, the highlighted root SCHEME helps the student remember SCHEME as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SCHEME 聯想到 SCHEME，把它記成精準的學術單字。",
+      "root_memory": "SCHEME = base form or inherited word element; connect this root idea with the meaning of scheme.",
+      "story_en": "A student remembers SCHEME by linking SCHEME to a real academic or professional situation.",
+      "story_zh": "學生把字根 SCHEME 和 SCHEME 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses scheme to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 scheme 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses scheme as an important part of the issue.",
+    "example_zh": "報告將 scheme 作為該議題的重要部分來討論。",
     "collocations": [
-      "scheme analysis",
-      "scheme process",
-      "scheme framework",
-      "address scheme",
-      "evaluate scheme"
+      "key scheme",
+      "scheme factor",
+      "scheme role",
+      "scheme in context",
+      "scheme and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; scheme is used as a more specific vocabulary item."
+        "difference": "aspect is broader; scheme is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while scheme follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; scheme follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1798,78 +1798,78 @@
         "pos": "noun"
       },
       {
-        "word": "scheme",
-        "pos": "verb"
-      },
-      {
         "word": "schemal",
         "pos": "adjective"
+      },
+      {
+        "word": "schemeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "scheme is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "scheme is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 723,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
-      "science",
-      "technology",
-      "academic"
+      "college",
+      "academic",
+      "TOEFL"
     ]
   },
   {
     "word": "scope",
     "pos": "noun",
     "phonetic": "/scope/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "scope",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SCOPE = base form or inherited word element; connect the root idea with the meaning of scope.",
-      "story_en": "In a university report, the highlighted root SCOPE helps the student remember SCOPE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SCOPE 聯想到 SCOPE，把它記成精準的學術單字。",
+      "root_memory": "SCOPE = base form or inherited word element; connect this root idea with the meaning of scope.",
+      "story_en": "A student remembers SCOPE by linking SCOPE to a real academic or professional situation.",
+      "story_zh": "學生把字根 SCOPE 和 SCOPE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses scope to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 scope 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses scope as an important part of the issue.",
+    "example_zh": "報告將 scope 作為該議題的重要部分來討論。",
     "collocations": [
-      "scope analysis",
-      "scope process",
-      "scope framework",
-      "address scope",
-      "evaluate scope"
+      "key scope",
+      "scope factor",
+      "scope role",
+      "scope in context",
+      "scope and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; scope is used as a more specific vocabulary item."
+        "difference": "aspect is broader; scope is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while scope follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; scope follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -1877,15 +1877,15 @@
         "pos": "noun"
       },
       {
-        "word": "scope",
-        "pos": "verb"
-      },
-      {
         "word": "scopal",
         "pos": "adjective"
+      },
+      {
+        "word": "scopeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "scope is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "scope is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 724,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1897,64 +1897,60 @@
   },
   {
     "word": "secure",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/secure/",
-    "definition": "A formal English word used to describe a concept or condition connected with to run; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to obtain, protect, or make something safe and certain",
+    "definition_zh": "取得；保護；確保",
     "etymology": {
       "roots": [
         {
           "root": "cur",
           "origin": "Latin",
-          "meaning": "to run",
+          "meaning": "to run, flow",
           "meaning_zh": "跑、流動"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "CUR = to run; connect the root idea with the meaning of secure.",
-      "story_en": "In a university report, the highlighted root CUR helps the student remember SECURE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 CUR 聯想到 SECURE，把它記成精準的學術單字。",
+      "root_memory": "CUR = to run, flow; connect this root idea with the meaning of secure.",
+      "story_en": "A student remembers SECURE by linking CUR to a real academic or professional situation.",
+      "story_zh": "學生把字根 CUR 和 SECURE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses secure to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 secure 來說明正式語境中該議題的重要部分。",
+    "example": "The team must secure the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 secure 該計畫，然後再呈現結果。",
     "collocations": [
-      "secure analysis",
-      "secure process",
-      "secure framework",
-      "address secure",
-      "evaluate secure"
+      "secure carefully",
+      "secure effectively",
+      "secure the plan",
+      "secure a proposal",
+      "secure in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; secure is used as a more specific vocabulary item."
+        "difference": "aspect is broader; secure is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while secure follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; secure follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "secure",
-        "pos": "noun"
-      },
       {
         "word": "secure",
         "pos": "verb"
@@ -1962,9 +1958,13 @@
       {
         "word": "secural",
         "pos": "adjective"
+      },
+      {
+        "word": "secureion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "secure is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "secure is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 725,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -1976,64 +1976,60 @@
   },
   {
     "word": "select",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/select/",
-    "definition": "A formal English word used to describe a concept or condition connected with to choose, read; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to choose someone or something carefully from a group",
+    "definition_zh": "選擇；挑選",
     "etymology": {
       "roots": [
         {
-          "root": "lect",
-          "origin": "Latin",
-          "meaning": "to choose, read",
-          "meaning_zh": "選擇、閱讀"
+          "root": "select",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "LECT = to choose, read; connect the root idea with the meaning of select.",
-      "story_en": "In a university report, the highlighted root LECT helps the student remember SELECT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 LECT 聯想到 SELECT，把它記成精準的學術單字。",
+      "root_memory": "SELECT = base form or inherited word element; connect this root idea with the meaning of select.",
+      "story_en": "A student remembers SELECT by linking SELECT to a real academic or professional situation.",
+      "story_zh": "學生把字根 SELECT 和 SELECT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses select to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 select 來說明正式語境中該議題的重要部分。",
+    "example": "The team must select the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 select 該計畫，然後再呈現結果。",
     "collocations": [
-      "select analysis",
-      "select process",
-      "select framework",
-      "address select",
-      "evaluate select"
+      "select carefully",
+      "select effectively",
+      "select the plan",
+      "select a proposal",
+      "select in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; select is used as a more specific vocabulary item."
+        "difference": "aspect is broader; select is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while select follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; select follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "select",
-        "pos": "noun"
-      },
       {
         "word": "select",
         "pos": "verb"
@@ -2041,9 +2037,13 @@
       {
         "word": "selectal",
         "pos": "adjective"
+      },
+      {
+        "word": "selection",
+        "pos": "noun"
       }
     ],
-    "usage_note": "select is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "select is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 726,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2057,56 +2057,56 @@
     "word": "series",
     "pos": "noun",
     "phonetic": "/series/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a number of related things, events, or items arranged or happening one after another",
+    "definition_zh": "系列；一連串",
     "etymology": {
       "roots": [
         {
           "root": "series",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SERIES = base form or inherited word element; connect the root idea with the meaning of series.",
-      "story_en": "In a university report, the highlighted root SERIES helps the student remember SERIES as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SERIES 聯想到 SERIES，把它記成精準的學術單字。",
+      "root_memory": "SERIES = base form or inherited word element; connect this root idea with the meaning of series.",
+      "story_en": "A student remembers SERIES by linking SERIES to a real academic or professional situation.",
+      "story_zh": "學生把字根 SERIES 和 SERIES 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses series to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 series 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses series as an important part of the issue.",
+    "example_zh": "報告將 series 作為該議題的重要部分來討論。",
     "collocations": [
-      "series analysis",
-      "series process",
-      "series framework",
-      "address series",
-      "evaluate series"
+      "key series",
+      "series factor",
+      "series role",
+      "series in context",
+      "series and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; series is used as a more specific vocabulary item."
+        "difference": "aspect is broader; series is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while series follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; series follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2114,15 +2114,15 @@
         "pos": "noun"
       },
       {
-        "word": "series",
-        "pos": "verb"
-      },
-      {
         "word": "seriesal",
         "pos": "adjective"
+      },
+      {
+        "word": "seriesion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "series is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "series is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 727,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2136,56 +2136,56 @@
     "word": "shift",
     "pos": "noun",
     "phonetic": "/shift/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
           "root": "shift",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SHIFT = base form or inherited word element; connect the root idea with the meaning of shift.",
-      "story_en": "In a university report, the highlighted root SHIFT helps the student remember SHIFT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SHIFT 聯想到 SHIFT，把它記成精準的學術單字。",
+      "root_memory": "SHIFT = base form or inherited word element; connect this root idea with the meaning of shift.",
+      "story_en": "A student remembers SHIFT by linking SHIFT to a real academic or professional situation.",
+      "story_zh": "學生把字根 SHIFT 和 SHIFT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses shift to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 shift 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses shift as an important part of the issue.",
+    "example_zh": "報告將 shift 作為該議題的重要部分來討論。",
     "collocations": [
-      "shift analysis",
-      "shift process",
-      "shift framework",
-      "address shift",
-      "evaluate shift"
+      "key shift",
+      "shift factor",
+      "shift role",
+      "shift in context",
+      "shift and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; shift is used as a more specific vocabulary item."
+        "difference": "aspect is broader; shift is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while shift follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; shift follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2193,15 +2193,15 @@
         "pos": "noun"
       },
       {
-        "word": "shift",
-        "pos": "verb"
-      },
-      {
         "word": "shiftal",
         "pos": "adjective"
+      },
+      {
+        "word": "shiftion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "shift is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "shift is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 728,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2215,56 +2215,56 @@
     "word": "significant",
     "pos": "adjective",
     "phonetic": "/significant/",
-    "definition": "A formal English word used to describe a quality or condition connected with mark, sign; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "important, meaningful, or large enough to be noticed or have an effect",
+    "definition_zh": "重要的；顯著的",
     "etymology": {
       "roots": [
         {
-          "root": "sign",
-          "origin": "Latin",
-          "meaning": "mark, sign",
-          "meaning_zh": "標記、符號"
+          "root": "signifi",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SIGN = mark, sign; connect the root idea with the meaning of significant.",
-      "story_en": "In a university report, the highlighted root SIGN helps the student remember SIGNIFICANT as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SIGN 聯想到 SIGNIFICANT，把它記成精準的學術單字。",
+      "root_memory": "SIGNIFI = base form or inherited word element; connect this root idea with the meaning of significant.",
+      "story_en": "A student remembers SIGNIFICANT by linking SIGNIFI to a real academic or professional situation.",
+      "story_zh": "學生把字根 SIGNIFI 和 SIGNIFICANT 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses significant to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 significant 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a significant factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 significant 因素。",
     "collocations": [
-      "significant analysis",
-      "significant process",
-      "significant framework",
-      "address significant",
-      "evaluate significant"
+      "significant factor",
+      "significant approach",
+      "significant evidence",
+      "significant context",
+      "significant role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; significant is used as a more specific vocabulary item."
+        "difference": "aspect is broader; significant is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while significant follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; significant follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2272,15 +2272,15 @@
         "pos": "adjective"
       },
       {
-        "word": "significant",
-        "pos": "verb"
-      },
-      {
         "word": "significantal",
         "pos": "adjective"
+      },
+      {
+        "word": "significantion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "significant is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "significant is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 729,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2292,137 +2292,137 @@
   },
   {
     "word": "similar",
-    "pos": "noun",
+    "pos": "adjective",
     "phonetic": "/similar/",
-    "definition": "A formal English word used to describe a concept or condition connected with like, similar; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "having qualities, features, or appearance that are almost the same",
+    "definition_zh": "相似的；類似的",
     "etymology": {
       "roots": [
         {
-          "root": "simil",
-          "origin": "Latin",
-          "meaning": "like, similar",
-          "meaning_zh": "相似"
-        }
-      ]
-    },
-    "mnemonic": {
-      "root_memory": "SIMIL = like, similar; connect the root idea with the meaning of similar.",
-      "story_en": "In a university report, the highlighted root SIMIL helps the student remember SIMILAR as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SIMIL 聯想到 SIMILAR，把它記成精準的學術單字。",
-      "emojis": [
-        "🔎",
-        "🧠",
-        "📘"
-      ]
-    },
-    "example": "The report uses similar to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 similar 來說明正式語境中該議題的重要部分。",
-    "collocations": [
-      "similar analysis",
-      "similar process",
-      "similar framework",
-      "address similar",
-      "evaluate similar"
-    ],
-    "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
-    ],
-    "near_synonyms": [
-      {
-        "word": "aspect",
-        "difference": "aspect is broader and more general; similar is used as a more specific vocabulary item."
-      },
-      {
-        "word": "factor",
-        "difference": "factor emphasizes influence in a system, while similar follows its own lexical meaning and usage pattern."
-      }
-    ],
-    "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
-    ],
-    "word_family": [
-      {
-        "word": "similar",
-        "pos": "noun"
-      },
-      {
-        "word": "similar",
-        "pos": "verb"
-      },
-      {
-        "word": "similaral",
-        "pos": "adjective"
-      }
-    ],
-    "usage_note": "similar is intended for college-level vocabulary study; review the collocations before using it in writing.",
-    "frequency_rank": 730,
-    "frequency_source": "custom",
-    "difficulty": "B2",
-    "tags": [
-      "college",
-      "academic",
-      "TOEFL"
-    ]
-  },
-  {
-    "word": "source",
-    "pos": "noun",
-    "phonetic": "/source/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
-    "etymology": {
-      "roots": [
-        {
-          "root": "source",
-          "origin": "Old French / Latin",
+          "root": "similar",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "SOURCE = base form or inherited word element; connect the root idea with the meaning of source.",
-      "story_en": "In a university report, the highlighted root SOURCE helps the student remember SOURCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SOURCE 聯想到 SOURCE，把它記成精準的學術單字。",
+      "root_memory": "SIMILAR = base form or inherited word element; connect this root idea with the meaning of similar.",
+      "story_en": "A student remembers SIMILAR by linking SIMILAR to a real academic or professional situation.",
+      "story_zh": "學生把字根 SIMILAR 和 SIMILAR 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses source to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 source 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a similar factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 similar 因素。",
     "collocations": [
-      "source analysis",
-      "source process",
-      "source framework",
-      "address source",
-      "evaluate source"
+      "similar factor",
+      "similar approach",
+      "similar evidence",
+      "similar context",
+      "similar role"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; source is used as a more specific vocabulary item."
+        "difference": "aspect is broader; similar is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while source follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; similar follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
+    ],
+    "word_family": [
+      {
+        "word": "similar",
+        "pos": "adjective"
+      },
+      {
+        "word": "similaral",
+        "pos": "adjective"
+      },
+      {
+        "word": "similarion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "similar is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
+    "frequency_rank": 730,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "source",
+    "pos": "noun",
+    "phonetic": "/source/",
+    "definition": "the origin, cause, provider, or reference from which something comes",
+    "definition_zh": "來源；出處；源頭",
+    "etymology": {
+      "roots": [
+        {
+          "root": "source",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "SOURCE = base form or inherited word element; connect this root idea with the meaning of source.",
+      "story_en": "A student remembers SOURCE by linking SOURCE to a real academic or professional situation.",
+      "story_zh": "學生把字根 SOURCE 和 SOURCE 的意思連在一起，放進學術或職場情境中記憶。",
+      "emojis": [
+        "🔎",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "The report discusses source as an important part of the issue.",
+    "example_zh": "報告將 source 作為該議題的重要部分來討論。",
+    "collocations": [
+      "key source",
+      "source factor",
+      "source role",
+      "source in context",
+      "source and policy"
+    ],
+    "synonyms": [
+      "concept",
+      "element",
+      "factor"
+    ],
+    "near_synonyms": [
+      {
+        "word": "aspect",
+        "difference": "aspect is broader; source is used for a more specific meaning or role in context."
+      },
+      {
+        "word": "factor",
+        "difference": "factor emphasizes influence on an outcome; source follows its own lexical meaning and usage pattern."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2430,15 +2430,15 @@
         "pos": "noun"
       },
       {
-        "word": "source",
-        "pos": "verb"
-      },
-      {
         "word": "sourcal",
         "pos": "adjective"
+      },
+      {
+        "word": "sourceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "source is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "source is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 731,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2452,7 +2452,7 @@
     "word": "specific",
     "pos": "adjective",
     "phonetic": "/specific/",
-    "definition": "A formal English word used to describe a quality or condition connected with to look; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to look, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2465,43 +2465,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "SPEC = to look; connect the root idea with the meaning of specific.",
-      "story_en": "In a university report, the highlighted root SPEC helps the student remember SPECIFIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 SPEC 聯想到 SPECIFIC，把它記成精準的學術單字。",
+      "root_memory": "SPEC = to look; connect this root idea with the meaning of specific.",
+      "story_en": "A student remembers SPECIFIC by linking SPEC to a real academic or professional situation.",
+      "story_zh": "學生把字根 SPEC 和 SPECIFIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses specific to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 specific 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a specific factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 specific 因素。",
     "collocations": [
-      "specific analysis",
-      "specific process",
-      "specific framework",
-      "address specific",
-      "evaluate specific"
+      "specific approach",
+      "specific factor",
+      "specific issue",
+      "specific evidence",
+      "specific context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; specific is used as a more specific vocabulary item."
+        "difference": "aspect is broader; specific is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while specific follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; specific follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2509,15 +2509,15 @@
         "pos": "adjective"
       },
       {
-        "word": "specific",
-        "pos": "verb"
-      },
-      {
         "word": "specifical",
         "pos": "adjective"
+      },
+      {
+        "word": "specificion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "specific is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "specific is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 732,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2531,7 +2531,7 @@
     "word": "statistic",
     "pos": "adjective",
     "phonetic": "/statistic/",
-    "definition": "A formal English word used to describe a quality or condition connected with to stand; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to to stand, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
@@ -2544,43 +2544,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STAT = to stand; connect the root idea with the meaning of statistic.",
-      "story_en": "In a university report, the highlighted root STAT helps the student remember STATISTIC as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STAT 聯想到 STATISTIC，把它記成精準的學術單字。",
+      "root_memory": "STAT = to stand; connect this root idea with the meaning of statistic.",
+      "story_en": "A student remembers STATISTIC by linking STAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STAT 和 STATISTIC 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses statistic to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 statistic 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a statistic factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 statistic 因素。",
     "collocations": [
-      "statistic analysis",
-      "statistic process",
-      "statistic framework",
-      "address statistic",
-      "evaluate statistic"
+      "statistic approach",
+      "statistic factor",
+      "statistic issue",
+      "statistic evidence",
+      "statistic context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; statistic is used as a more specific vocabulary item."
+        "difference": "aspect is broader; statistic is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while statistic follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; statistic follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -2588,15 +2588,15 @@
         "pos": "adjective"
       },
       {
-        "word": "statistic",
-        "pos": "verb"
-      },
-      {
         "word": "statistical",
         "pos": "adjective"
+      },
+      {
+        "word": "statisticion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "statistic is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "statistic is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 733,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2610,8 +2610,8 @@
     "word": "structure",
     "pos": "noun",
     "phonetic": "/structure/",
-    "definition": "A formal English word used to describe a concept or condition connected with to build; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "the way parts are arranged to form a whole; also a built object",
+    "definition_zh": "結構；建築物",
     "etymology": {
       "roots": [
         {
@@ -2623,43 +2623,43 @@
       ]
     },
     "mnemonic": {
-      "root_memory": "STRUCT = to build; connect the root idea with the meaning of structure.",
-      "story_en": "In a university report, the highlighted root STRUCT helps the student remember STRUCTURE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 STRUCT 聯想到 STRUCTURE，把它記成精準的學術單字。",
+      "root_memory": "STRUCT = to build; connect this root idea with the meaning of structure.",
+      "story_en": "A student remembers STRUCTURE by linking STRUCT to a real academic or professional situation.",
+      "story_zh": "學生把字根 STRUCT 和 STRUCTURE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses structure to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 structure 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses structure as an important part of the issue.",
+    "example_zh": "報告將 structure 作為該議題的重要部分來討論。",
     "collocations": [
-      "structure analysis",
-      "structure process",
-      "structure framework",
-      "address structure",
-      "evaluate structure"
+      "key structure",
+      "structure factor",
+      "structure role",
+      "structure in context",
+      "structure and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; structure is used as a more specific vocabulary item."
+        "difference": "aspect is broader; structure is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while structure follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; structure follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2667,15 +2667,15 @@
         "pos": "noun"
       },
       {
-        "word": "structure",
-        "pos": "verb"
-      },
-      {
         "word": "structural",
         "pos": "adjective"
+      },
+      {
+        "word": "structureion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "structure is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "structure is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 734,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2689,56 +2689,56 @@
     "word": "target",
     "pos": "noun",
     "phonetic": "/target/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a goal, object, person, or level that someone aims at",
+    "definition_zh": "目標；標的",
     "etymology": {
       "roots": [
         {
           "root": "target",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "TARGET = base form or inherited word element; connect the root idea with the meaning of target.",
-      "story_en": "In a university report, the highlighted root TARGET helps the student remember TARGET as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 TARGET 聯想到 TARGET，把它記成精準的學術單字。",
+      "root_memory": "TARGET = base form or inherited word element; connect this root idea with the meaning of target.",
+      "story_en": "A student remembers TARGET by linking TARGET to a real academic or professional situation.",
+      "story_zh": "學生把字根 TARGET 和 TARGET 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses target to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 target 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses target as an important part of the issue.",
+    "example_zh": "報告將 target 作為該議題的重要部分來討論。",
     "collocations": [
-      "target analysis",
-      "target process",
-      "target framework",
-      "address target",
-      "evaluate target"
+      "key target",
+      "target factor",
+      "target role",
+      "target in context",
+      "target and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; target is used as a more specific vocabulary item."
+        "difference": "aspect is broader; target is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while target follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; target follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2746,15 +2746,15 @@
         "pos": "noun"
       },
       {
-        "word": "target",
-        "pos": "verb"
-      },
-      {
         "word": "targetal",
         "pos": "adjective"
+      },
+      {
+        "word": "targetion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "target is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "target is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 735,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -2766,143 +2766,139 @@
   },
   {
     "word": "theory",
-    "pos": "adjective",
+    "pos": "noun",
     "phonetic": "/theory/",
-    "definition": "A formal English word used to describe a quality or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "相關的；具有該特質的；適用於正式語境的",
+    "definition": "an organized explanation of facts, principles, or ideas, especially in a field of study",
+    "definition_zh": "理論；學說",
     "etymology": {
       "roots": [
         {
           "root": "theory",
-          "origin": "Old French / Latin",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "THEORY = base form or inherited word element; connect the root idea with the meaning of theory.",
-      "story_en": "In a university report, the highlighted root THEORY helps the student remember THEORY as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 THEORY 聯想到 THEORY，把它記成精準的學術單字。",
+      "root_memory": "THEORY = base form or inherited word element; connect this root idea with the meaning of theory.",
+      "story_en": "A student remembers THEORY by linking THEORY to a real academic or professional situation.",
+      "story_zh": "學生把字根 THEORY 和 THEORY 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses theory to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 theory 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses theory as an important part of the issue.",
+    "example_zh": "報告將 theory 作為該議題的重要部分來討論。",
     "collocations": [
-      "theory analysis",
-      "theory process",
-      "theory framework",
-      "address theory",
-      "evaluate theory"
+      "key theory",
+      "theory factor",
+      "theory role",
+      "theory in context",
+      "theory and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; theory is used as a more specific vocabulary item."
+        "difference": "aspect is broader; theory is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while theory follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; theory follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
         "word": "theory",
-        "pos": "adjective"
-      },
-      {
-        "word": "theory",
-        "pos": "verb"
+        "pos": "noun"
       },
       {
         "word": "theoryal",
         "pos": "adjective"
+      },
+      {
+        "word": "theoryion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "theory is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "theory is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 736,
     "frequency_source": "custom",
     "difficulty": "B2",
     "tags": [
       "college",
       "academic",
-      "IELTS"
+      "TOEFL"
     ]
   },
   {
     "word": "transfer",
-    "pos": "noun",
+    "pos": "verb",
     "phonetic": "/transfer/",
-    "definition": "A formal English word used to describe a concept or condition connected with to carry; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "to move someone or something from one place, system, owner, or situation to another",
+    "definition_zh": "轉移；調動；轉讓",
     "etymology": {
       "roots": [
         {
-          "root": "fer",
+          "root": "trans",
           "origin": "Latin",
-          "meaning": "to carry",
-          "meaning_zh": "攜帶"
+          "meaning": "across, beyond",
+          "meaning_zh": "跨越、超越"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "FER = to carry; connect the root idea with the meaning of transfer.",
-      "story_en": "In a university report, the highlighted root FER helps the student remember TRANSFER as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 FER 聯想到 TRANSFER，把它記成精準的學術單字。",
+      "root_memory": "TRANS = across, beyond; connect this root idea with the meaning of transfer.",
+      "story_en": "A student remembers TRANSFER by linking TRANS to a real academic or professional situation.",
+      "story_zh": "學生把字根 TRANS 和 TRANSFER 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses transfer to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 transfer 來說明正式語境中該議題的重要部分。",
+    "example": "The team must transfer the plan carefully before presenting the results.",
+    "example_zh": "團隊必須謹慎地 transfer 該計畫，然後再呈現結果。",
     "collocations": [
-      "transfer analysis",
-      "transfer process",
-      "transfer framework",
-      "address transfer",
-      "evaluate transfer"
+      "transfer carefully",
+      "transfer effectively",
+      "transfer the plan",
+      "transfer a proposal",
+      "transfer in practice"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "perform",
+      "carry out",
+      "manage"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; transfer is used as a more specific vocabulary item."
+        "difference": "aspect is broader; transfer is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while transfer follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; transfer follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "neglect",
+      "avoid",
+      "prevent"
     ],
     "word_family": [
-      {
-        "word": "transfer",
-        "pos": "noun"
-      },
       {
         "word": "transfer",
         "pos": "verb"
@@ -2910,9 +2906,13 @@
       {
         "word": "transferal",
         "pos": "adjective"
+      },
+      {
+        "word": "transferion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "transfer is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "transfer is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 737,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -2926,56 +2926,56 @@
     "word": "vehicle",
     "pos": "noun",
     "phonetic": "/vehicle/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
-    "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
+    "definition": "a machine used for transport; also a means for expressing or achieving something",
+    "definition_zh": "交通工具；媒介",
     "etymology": {
       "roots": [
         {
-          "root": "vehicl",
-          "origin": "Old French / Latin",
+          "root": "vehicle",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "VEHICL = base form or inherited word element; connect the root idea with the meaning of vehicle.",
-      "story_en": "In a university report, the highlighted root VEHICL helps the student remember VEHICLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VEHICL 聯想到 VEHICLE，把它記成精準的學術單字。",
+      "root_memory": "VEHICLE = base form or inherited word element; connect this root idea with the meaning of vehicle.",
+      "story_en": "A student remembers VEHICLE by linking VEHICLE to a real academic or professional situation.",
+      "story_zh": "學生把字根 VEHICLE 和 VEHICLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses vehicle to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 vehicle 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses vehicle as an important part of the issue.",
+    "example_zh": "報告將 vehicle 作為該議題的重要部分來討論。",
     "collocations": [
-      "vehicle analysis",
-      "vehicle process",
-      "vehicle framework",
-      "address vehicle",
-      "evaluate vehicle"
+      "key vehicle",
+      "vehicle factor",
+      "vehicle role",
+      "vehicle in context",
+      "vehicle and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; vehicle is used as a more specific vocabulary item."
+        "difference": "aspect is broader; vehicle is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while vehicle follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; vehicle follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -2983,15 +2983,15 @@
         "pos": "noun"
       },
       {
-        "word": "vehicle",
-        "pos": "verb"
-      },
-      {
         "word": "vehiclal",
         "pos": "adjective"
+      },
+      {
+        "word": "vehicleion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "vehicle is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "vehicle is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 738,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3005,56 +3005,56 @@
     "word": "version",
     "pos": "noun",
     "phonetic": "/version/",
-    "definition": "A formal English word used to describe a concept or condition connected with base form or inherited word element; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "versio",
-          "origin": "Old French / Latin",
+          "root": "version",
+          "origin": "Old English / Latin / Old French",
           "meaning": "base form or inherited word element",
           "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "VERSIO = base form or inherited word element; connect the root idea with the meaning of version.",
-      "story_en": "In a university report, the highlighted root VERSIO helps the student remember VERSION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 VERSIO 聯想到 VERSION，把它記成精準的學術單字。",
+      "root_memory": "VERSION = base form or inherited word element; connect this root idea with the meaning of version.",
+      "story_en": "A student remembers VERSION by linking VERSION to a real academic or professional situation.",
+      "story_zh": "學生把字根 VERSION 和 VERSION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses version to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 version 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses version as an important part of the issue.",
+    "example_zh": "報告將 version 作為該議題的重要部分來討論。",
     "collocations": [
-      "version analysis",
-      "version process",
-      "version framework",
-      "address version",
-      "evaluate version"
+      "key version",
+      "version factor",
+      "version role",
+      "version in context",
+      "version and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; version is used as a more specific vocabulary item."
+        "difference": "aspect is broader; version is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while version follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; version follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3062,15 +3062,15 @@
         "pos": "noun"
       },
       {
-        "word": "version",
-        "pos": "verb"
-      },
-      {
         "word": "versional",
         "pos": "adjective"
+      },
+      {
+        "word": "versionion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "version is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "version is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 739,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3084,56 +3084,56 @@
     "word": "abacination",
     "pos": "noun",
     "phonetic": "/abacination/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to in, into, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
+          "root": "in",
           "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "meaning": "in, into",
+          "meaning_zh": "進入"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abacination.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABACINATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABACINATION，把它記成精準的學術單字。",
+      "root_memory": "IN = in, into; connect this root idea with the meaning of abacination.",
+      "story_en": "A student remembers ABACINATION by linking IN to a real academic or professional situation.",
+      "story_zh": "學生把字根 IN 和 ABACINATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abacination to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abacination 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses abacination as an important part of the issue.",
+    "example_zh": "報告將 abacination 作為該議題的重要部分來討論。",
     "collocations": [
-      "abacination analysis",
-      "abacination process",
-      "abacination framework",
-      "address abacination",
-      "evaluate abacination"
+      "key abacination",
+      "abacination factor",
+      "abacination role",
+      "abacination in context",
+      "abacination and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abacination is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abacination is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abacination follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abacination follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3141,15 +3141,15 @@
         "pos": "noun"
       },
       {
-        "word": "abacin",
-        "pos": "verb"
-      },
-      {
         "word": "abacinational",
         "pos": "adjective"
+      },
+      {
+        "word": "abacinationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abacination is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abacination is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 740,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3163,56 +3163,56 @@
     "word": "abaisance",
     "pos": "noun",
     "phonetic": "/abaisance/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abais",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abaisance.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABAISANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABAISANCE，把它記成精準的學術單字。",
+      "root_memory": "ABAIS = base form or inherited word element; connect this root idea with the meaning of abaisance.",
+      "story_en": "A student remembers ABAISANCE by linking ABAIS to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABAIS 和 ABAISANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abaisance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abaisance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses abaisance as an important part of the issue.",
+    "example_zh": "報告將 abaisance 作為該議題的重要部分來討論。",
     "collocations": [
-      "abaisance analysis",
-      "abaisance process",
-      "abaisance framework",
-      "address abaisance",
-      "evaluate abaisance"
+      "key abaisance",
+      "abaisance factor",
+      "abaisance role",
+      "abaisance in context",
+      "abaisance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abaisance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abaisance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abaisance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abaisance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3220,15 +3220,15 @@
         "pos": "noun"
       },
       {
-        "word": "abais",
-        "pos": "verb"
-      },
-      {
         "word": "abaisancal",
         "pos": "adjective"
+      },
+      {
+        "word": "abaisanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abaisance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abaisance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 741,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3242,56 +3242,56 @@
     "word": "abandonable",
     "pos": "adjective",
     "phonetic": "/abandonable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abandon",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abandonable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABANDONABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABANDONABLE，把它記成精準的學術單字。",
+      "root_memory": "ABANDON = base form or inherited word element; connect this root idea with the meaning of abandonable.",
+      "story_en": "A student remembers ABANDONABLE by linking ABANDON to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABANDON 和 ABANDONABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abandonable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abandonable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a abandonable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 abandonable 因素。",
     "collocations": [
-      "abandonable analysis",
-      "abandonable process",
-      "abandonable framework",
-      "address abandonable",
-      "evaluate abandonable"
+      "abandonable approach",
+      "abandonable factor",
+      "abandonable issue",
+      "abandonable evidence",
+      "abandonable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abandonable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abandonable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abandonable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abandonable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3299,15 +3299,15 @@
         "pos": "adjective"
       },
       {
-        "word": "abandonable",
-        "pos": "verb"
-      },
-      {
         "word": "abandonablal",
         "pos": "adjective"
+      },
+      {
+        "word": "abandonableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abandonable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abandonable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 742,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3321,56 +3321,56 @@
     "word": "abatable",
     "pos": "adjective",
     "phonetic": "/abatable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abatabl",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abatable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABATABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABATABLE，把它記成精準的學術單字。",
+      "root_memory": "ABATABL = base form or inherited word element; connect this root idea with the meaning of abatable.",
+      "story_en": "A student remembers ABATABLE by linking ABATABL to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABATABL 和 ABATABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abatable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abatable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a abatable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 abatable 因素。",
     "collocations": [
-      "abatable analysis",
-      "abatable process",
-      "abatable framework",
-      "address abatable",
-      "evaluate abatable"
+      "abatable approach",
+      "abatable factor",
+      "abatable issue",
+      "abatable evidence",
+      "abatable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abatable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abatable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abatable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abatable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3378,15 +3378,15 @@
         "pos": "adjective"
       },
       {
-        "word": "abatable",
-        "pos": "verb"
-      },
-      {
         "word": "abatablal",
         "pos": "adjective"
+      },
+      {
+        "word": "abatableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abatable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abatable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 743,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3400,56 +3400,56 @@
     "word": "abbatical",
     "pos": "adjective",
     "phonetic": "/abbatical/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abbatic",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abbatical.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABBATICAL as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABBATICAL，把它記成精準的學術單字。",
+      "root_memory": "ABBATIC = base form or inherited word element; connect this root idea with the meaning of abbatical.",
+      "story_en": "A student remembers ABBATICAL by linking ABBATIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABBATIC 和 ABBATICAL 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abbatical to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abbatical 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a abbatical factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 abbatical 因素。",
     "collocations": [
-      "abbatical analysis",
-      "abbatical process",
-      "abbatical framework",
-      "address abbatical",
-      "evaluate abbatical"
+      "abbatical approach",
+      "abbatical factor",
+      "abbatical issue",
+      "abbatical evidence",
+      "abbatical context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abbatical is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abbatical is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abbatical follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abbatical follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3457,15 +3457,15 @@
         "pos": "adjective"
       },
       {
-        "word": "abbatical",
-        "pos": "verb"
-      },
-      {
         "word": "abbaticalal",
         "pos": "adjective"
+      },
+      {
+        "word": "abbaticalion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abbatical is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abbatical is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 744,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3479,56 +3479,56 @@
     "word": "abdicable",
     "pos": "adjective",
     "phonetic": "/abdicable/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abdicab",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abdicable.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABDICABLE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABDICABLE，把它記成精準的學術單字。",
+      "root_memory": "ABDICAB = base form or inherited word element; connect this root idea with the meaning of abdicable.",
+      "story_en": "A student remembers ABDICABLE by linking ABDICAB to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABDICAB 和 ABDICABLE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abdicable to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abdicable 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a abdicable factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 abdicable 因素。",
     "collocations": [
-      "abdicable analysis",
-      "abdicable process",
-      "abdicable framework",
-      "address abdicable",
-      "evaluate abdicable"
+      "abdicable approach",
+      "abdicable factor",
+      "abdicable issue",
+      "abdicable evidence",
+      "abdicable context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abdicable is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abdicable is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abdicable follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abdicable follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3536,15 +3536,15 @@
         "pos": "adjective"
       },
       {
-        "word": "abdicable",
-        "pos": "verb"
-      },
-      {
         "word": "abdicablal",
         "pos": "adjective"
+      },
+      {
+        "word": "abdicableion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abdicable is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abdicable is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 745,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3558,56 +3558,56 @@
     "word": "abdication",
     "pos": "noun",
     "phonetic": "/abdication/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abdic",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abdication.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABDICATION as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABDICATION，把它記成精準的學術單字。",
+      "root_memory": "ABDIC = base form or inherited word element; connect this root idea with the meaning of abdication.",
+      "story_en": "A student remembers ABDICATION by linking ABDIC to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABDIC 和 ABDICATION 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abdication to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abdication 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses abdication as an important part of the issue.",
+    "example_zh": "報告將 abdication 作為該議題的重要部分來討論。",
     "collocations": [
-      "abdication analysis",
-      "abdication process",
-      "abdication framework",
-      "address abdication",
-      "evaluate abdication"
+      "key abdication",
+      "abdication factor",
+      "abdication role",
+      "abdication in context",
+      "abdication and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abdication is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abdication is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abdication follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abdication follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3615,15 +3615,15 @@
         "pos": "noun"
       },
       {
-        "word": "abdic",
-        "pos": "verb"
-      },
-      {
         "word": "abdicational",
         "pos": "adjective"
+      },
+      {
+        "word": "abdicationion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abdication is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abdication is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 746,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3637,56 +3637,56 @@
     "word": "abdicative",
     "pos": "adjective",
     "phonetic": "/abdicative/",
-    "definition": "A formal English word used to describe a quality or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "Describing something that has a quality or condition related to base form or inherited word element, often in formal or analytical use.",
     "definition_zh": "相關的；具有該特質的；適用於正式語境的",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abdicat",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abdicative.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABDICATIVE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABDICATIVE，把它記成精準的學術單字。",
+      "root_memory": "ABDICAT = base form or inherited word element; connect this root idea with the meaning of abdicative.",
+      "story_en": "A student remembers ABDICATIVE by linking ABDICAT to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABDICAT 和 ABDICATIVE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abdicative to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abdicative 來說明正式語境中該議題的重要部分。",
+    "example": "The report highlights a abdicative factor in the success of the program.",
+    "example_zh": "報告強調該計畫成功中的一個 abdicative 因素。",
     "collocations": [
-      "abdicative analysis",
-      "abdicative process",
-      "abdicative framework",
-      "address abdicative",
-      "evaluate abdicative"
+      "abdicative approach",
+      "abdicative factor",
+      "abdicative issue",
+      "abdicative evidence",
+      "abdicative context"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "relevant",
+      "appropriate",
+      "characteristic"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abdicative is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abdicative is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abdicative follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abdicative follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "opposite",
+      "irrelevant",
+      "unsuitable"
     ],
     "word_family": [
       {
@@ -3694,15 +3694,15 @@
         "pos": "adjective"
       },
       {
-        "word": "abdicative",
-        "pos": "verb"
-      },
-      {
         "word": "abdicatival",
         "pos": "adjective"
+      },
+      {
+        "word": "abdicativeion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abdicative is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abdicative is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 747,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3716,56 +3716,56 @@
     "word": "abearance",
     "pos": "noun",
     "phonetic": "/abearance/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abear",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abearance.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABEARANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABEARANCE，把它記成精準的學術單字。",
+      "root_memory": "ABEAR = base form or inherited word element; connect this root idea with the meaning of abearance.",
+      "story_en": "A student remembers ABEARANCE by linking ABEAR to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABEAR 和 ABEARANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abearance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abearance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses abearance as an important part of the issue.",
+    "example_zh": "報告將 abearance 作為該議題的重要部分來討論。",
     "collocations": [
-      "abearance analysis",
-      "abearance process",
-      "abearance framework",
-      "address abearance",
-      "evaluate abearance"
+      "key abearance",
+      "abearance factor",
+      "abearance role",
+      "abearance in context",
+      "abearance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abearance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abearance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abearance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abearance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3773,15 +3773,15 @@
         "pos": "noun"
       },
       {
-        "word": "abear",
-        "pos": "verb"
-      },
-      {
         "word": "abearancal",
         "pos": "adjective"
+      },
+      {
+        "word": "abearanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abearance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abearance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 748,
     "frequency_source": "custom",
     "difficulty": "B2",
@@ -3795,56 +3795,56 @@
     "word": "aberrance",
     "pos": "noun",
     "phonetic": "/aberrance/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "aberr",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of aberrance.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABERRANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABERRANCE，把它記成精準的學術單字。",
+      "root_memory": "ABERR = base form or inherited word element; connect this root idea with the meaning of aberrance.",
+      "story_en": "A student remembers ABERRANCE by linking ABERR to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABERR 和 ABERRANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses aberrance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 aberrance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses aberrance as an important part of the issue.",
+    "example_zh": "報告將 aberrance 作為該議題的重要部分來討論。",
     "collocations": [
-      "aberrance analysis",
-      "aberrance process",
-      "aberrance framework",
-      "address aberrance",
-      "evaluate aberrance"
+      "key aberrance",
+      "aberrance factor",
+      "aberrance role",
+      "aberrance in context",
+      "aberrance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; aberrance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; aberrance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while aberrance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; aberrance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3852,15 +3852,15 @@
         "pos": "noun"
       },
       {
-        "word": "aberr",
-        "pos": "verb"
-      },
-      {
         "word": "aberrancal",
         "pos": "adjective"
+      },
+      {
+        "word": "aberranceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "aberrance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "aberrance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 749,
     "frequency_source": "custom",
     "difficulty": "C1",
@@ -3874,56 +3874,56 @@
     "word": "abeyance",
     "pos": "noun",
     "phonetic": "/abeyance/",
-    "definition": "A formal English word used to describe a concept or condition connected with away from; it is common in academic, professional, or analytical writing.",
+    "definition": "A concept, condition, thing, or category related to base form or inherited word element, used in academic or professional contexts.",
     "definition_zh": "概念；狀態；正式或學術語境中的重要名詞",
     "etymology": {
       "roots": [
         {
-          "root": "ab",
-          "origin": "Latin",
-          "meaning": "away from",
-          "meaning_zh": "離開、遠離"
+          "root": "abey",
+          "origin": "Old English / Latin / Old French",
+          "meaning": "base form or inherited word element",
+          "meaning_zh": "基礎詞形或承襲詞素"
         }
       ]
     },
     "mnemonic": {
-      "root_memory": "AB = away from; connect the root idea with the meaning of abeyance.",
-      "story_en": "In a university report, the highlighted root AB helps the student remember ABEYANCE as a precise academic word.",
-      "story_zh": "在大學報告中，學生用字根 AB 聯想到 ABEYANCE，把它記成精準的學術單字。",
+      "root_memory": "ABEY = base form or inherited word element; connect this root idea with the meaning of abeyance.",
+      "story_en": "A student remembers ABEYANCE by linking ABEY to a real academic or professional situation.",
+      "story_zh": "學生把字根 ABEY 和 ABEYANCE 的意思連在一起，放進學術或職場情境中記憶。",
       "emojis": [
         "🔎",
         "🧠",
         "📘"
       ]
     },
-    "example": "The report uses abeyance to explain an important part of the issue in a formal context.",
-    "example_zh": "這份報告用 abeyance 來說明正式語境中該議題的重要部分。",
+    "example": "The report discusses abeyance as an important part of the issue.",
+    "example_zh": "報告將 abeyance 作為該議題的重要部分來討論。",
     "collocations": [
-      "abeyance analysis",
-      "abeyance process",
-      "abeyance framework",
-      "address abeyance",
-      "evaluate abeyance"
+      "key abeyance",
+      "abeyance factor",
+      "abeyance role",
+      "abeyance in context",
+      "abeyance and policy"
     ],
     "synonyms": [
-      "related concept",
-      "formal equivalent",
-      "academic term"
+      "concept",
+      "element",
+      "factor"
     ],
     "near_synonyms": [
       {
         "word": "aspect",
-        "difference": "aspect is broader and more general; abeyance is used as a more specific vocabulary item."
+        "difference": "aspect is broader; abeyance is used for a more specific meaning or role in context."
       },
       {
         "word": "factor",
-        "difference": "factor emphasizes influence in a system, while abeyance follows its own lexical meaning and usage pattern."
+        "difference": "factor emphasizes influence on an outcome; abeyance follows its own lexical meaning and usage pattern."
       }
     ],
     "antonyms": [
-      "opposite concept",
-      "irrelevance",
-      "absence"
+      "absence",
+      "opposite",
+      "irrelevance"
     ],
     "word_family": [
       {
@@ -3931,15 +3931,15 @@
         "pos": "noun"
       },
       {
-        "word": "abey",
-        "pos": "verb"
-      },
-      {
         "word": "abeyancal",
         "pos": "adjective"
+      },
+      {
+        "word": "abeyanceion",
+        "pos": "noun"
       }
     ],
-    "usage_note": "abeyance is intended for college-level vocabulary study; review the collocations before using it in writing.",
+    "usage_note": "abeyance is common in college-level academic or professional English; revise the collocations if a more specialized field-specific use is needed.",
     "frequency_rank": 750,
     "frequency_source": "custom",
     "difficulty": "B2",

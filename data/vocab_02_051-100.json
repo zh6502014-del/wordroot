@@ -1,1 +1,4217 @@
-[{"word":"subsequent","pos":"adjective","phonetic":"/ˈsʌbsɪkwənt/","definition":"Coming after something else in time; following or succeeding in a chronological order.","definition_zh":"隨後的；後來的；接續的","roots":[{"root":"sub","origin":"Latin","meaning":"under, close after","meaning_zh":"在...下面、緊隨其後"},{"root":"sequi","origin":"Latin","meaning":"to follow","meaning_zh":"跟隨"}],"mnemonic":{"story_en":"In a SUB (close after) sequence, the SEQUI (following) events will show the SUBSEQUENT impact of the decision.","story_zh":"在緊接而來的序列中，跟隨（SEQUI）在後（SUB）的事件將揭示該決定的「隨後（SUBSEQUENT）」影響。","emojis":["⏳","⏭️","📉"]},"example":"The initial study was flawed, but subsequent research confirmed the medication's effectiveness.","synonyms":["following","succeeding","consequent","ensuing"],"frequency_rank":51,"tags":["college","academic","IELTS"]},{"word":"substantiate","pos":"verb","phonetic":"/səbˈstænʃieɪt/","definition":"To provide evidence to support or prove the truth of a claim, theory, or allegation.","definition_zh":"證實；證明...有根據","roots":[{"root":"sub","origin":"Latin","meaning":"under","meaning_zh":"在...之下"},{"root":"stare","origin":"Latin","meaning":"to stand","meaning_zh":"站立"}],"mnemonic":{"story_en":"You must find solid substance under the claim so that it can STAnd firmly and SUBSTANTIATE your argument in court.","story_zh":"你必須在指控下方找到實質證據，使其能夠穩固站（STAre）立，進而「證實（SUBSTANTIATE）」你在法庭上的論點。","emojis":["📜","🔍","⚖️"]},"example":"The prosecutor failed to provide sufficient evidence to substantiate the charges against the suspect.","synonyms":["corroborate","verify","validate","authenticate"],"frequency_rank":52,"tags":["college","GRE","law"]},{"word":"superficial","pos":"adjective","phonetic":"/ˌsuːpərˈfɪʃl/","definition":"Existing or occurring at or on the surface; lacking depth, substance, or thoroughness.","definition_zh":"表面的；膚淺的；草率的","roots":[{"root":"super","origin":"Latin","meaning":"above, over","meaning_zh":"在...之上、超過"},{"root":"facies","origin":"Latin","meaning":"face, appearance","meaning_zh":"臉、外表"}],"mnemonic":{"story_en":"He only looked at the SUPER (above) FACIES (face) of the problem, making a very SUPERFICIAL analysis.","story_zh":"他只看問題之（SUPER）上的表面（FACIES），做出了非常「膚淺的（SUPERFICIAL）」分析。","emojis":["🌊","🎭","📄"]},"example":"The committee made a superficial review of the proposal without analyzing its long-term financial risks.","synonyms":["shallow","surface-level","cursory","frivolous"],"frequency_rank":53,"tags":["college","academic","TOEFL"]},{"word":"supersede","pos":"verb","phonetic":"/ˌsuːpərˈsiːd/","definition":"To take the place of a person or thing previously in authority or use; to replace or supplant.","definition_zh":"取代；替代；廢棄（因新事物出現）","roots":[{"root":"super","origin":"Latin","meaning":"above, over","meaning_zh":"在...之上"},{"root":"sedere","origin":"Latin","meaning":"to sit","meaning_zh":"坐"}],"mnemonic":{"story_en":"The new digital technology will SUPER (above) SEDE (sit) the old analog systems completely.","story_zh":"新數位技術將坐（SEDE）在舊類比系統之（SUPER）上，完全「取代（SUPERSEDE）」它。","emojis":["📱","🔄","👑"]},"example":"Most of these old regulations have been superseded by the new environmental protection law.","synonyms":["replace","supplant","override","displace"],"frequency_rank":54,"tags":["college","GRE","technology"]},{"word":"tangible","pos":"adjective","phonetic":"/ˈtændʒəbl/","definition":"Perceptible by touch; clear and definite; real rather than imaginary.","definition_zh":"有形的；實質的；可觸摸到的；明確的","roots":[{"root":"tang / tangere","origin":"Latin","meaning":"to touch","meaning_zh":"觸摸"}],"mnemonic":{"story_en":"Without TANGible assets that you can TANG (touch), the bank will not approve your business loan.","story_zh":"如果沒有可以用手觸（TANG）摸到的「有形（TANGIBLE）」資產，銀行不會批准你的商業貸款。","emojis":["🖐️","🧱","📈"]},"example":"The police are looking for tangible evidence, such as fingerprints or DNA, rather than mere speculation.","synonyms":["concrete","palpable","substantial","physical"],"frequency_rank":55,"tags":["college","business","TOEFL"]},{"word":"tentative","pos":"adjective","phonetic":"/ˈtentətɪv/","definition":"Not certain or fixed; done without confidence; hesitant or provisional.","definition_zh":"暫定的；嘗試性的；猶豫不決的","roots":[{"root":"tent / temptare","origin":"Latin","meaning":"to feel, try, test","meaning_zh":"觸摸、嘗試、測試"}],"mnemonic":{"story_en":"They made a TENTative schedule to TENT (try) out the new system before making it permanent.","story_zh":"他們制定了一個「暫定的（TENTATIVE）」時程表來嘗（TENT）試新系統，之後才會定案。","emojis":["🗓️","❓","🧪"]},"example":"We have reached a tentative agreement, but it still needs to be ratified by the board of directors.","synonyms":["provisional","conditional","speculative","hesitant"],"frequency_rank":56,"tags":["college","business","IELTS"]},{"word":"transient","pos":"adjective","phonetic":"/ˈtrænʒnt/","definition":"Lasting only for a short time; impermanent or fleeting.","definition_zh":"短暫的；轉瞬即逝的；過客的","roots":[{"root":"trans","origin":"Latin","meaning":"across, through","meaning_zh":"穿過、跨越"},{"root":"ire","origin":"Latin","meaning":"to go","meaning_zh":"走"}],"mnemonic":{"story_en":"The storm was TRANsient, quickly TRANS (crossing) over the city and leaving as fast as it arrived.","story_zh":"這場暴風雨是「短暫的（TRANSIENT）」，迅速穿（TRANS）過城市，來得快去得也快。","emojis":["⚡","🍃","⏰"]},"example":"The economic boom turned out to be transient, followed quickly by a severe recession.","synonyms":["fleeting","ephemeral","temporary","evanescent"],"frequency_rank":57,"tags":["college","academic","TOEFL"]},{"word":"unprecedented","pos":"adjective","phonetic":"/ʌnˈpresɪdentɪd/","definition":"Never done or known before; without any previous example or parallel case.","definition_zh":"史無前例的；空前的","roots":[{"root":"un-","origin":"Old English","meaning":"not","meaning_zh":"不、非"},{"root":"pre","origin":"Latin","meaning":"before","meaning_zh":"在...之前"},{"root":"cedere","origin":"Latin","meaning":"to go","meaning_zh":"走"}],"mnemonic":{"story_en":"The country experienced UNprecedented growth, which had never PRE-CEDEd (gone before) it in history.","story_zh":"該國經歷了「史無前例的（UNPRECEDENTED）」增長，這在歷史上從未有走在前面（PRE-CEDE）的先例。","emojis":["📈","🚀","💥"]},"example":"The government took the unprecedented step of closing all national borders to contain the virus.","synonyms":["unparalleled","exceptional","groundbreaking","novel"],"frequency_rank":58,"tags":["college","politics","IELTS"]},{"word":"vehement","pos":"adjective","phonetic":"/ˈviːəmənt/","definition":"Showing strong feeling; forceful, passionate, or intense in expression or emotion.","definition_zh":"強烈的；猛烈的；熱情的；（常指激動地）強烈反對的","roots":[{"root":"vehere","origin":"Latin","meaning":"to carry, convey","meaning_zh":"攜帶、運送"},{"root":"mens","origin":"Latin","meaning":"mind","meaning_zh":"心智、精神"}],"mnemonic":{"story_en":"Driven by a powerful VEHEment impulse, his MENS (mind) exploded into a VEHEMENT denial of the charges.","story_zh":"在強烈情緒的載（VEHE）運下，他的心智（MENS）爆發出對指控的「強烈（VEHEMENT）」否認。","emojis":["😡","🗣️","🔥"]},"example":"Despite vehement opposition from local residents, the city council approved the construction of the landfill.","synonyms":["passionate","forceful","fervent","ardent"],"frequency_rank":59,"tags":["college","GRE","social"]},{"word":"vulnerable","pos":"adjective","phonetic":"/ˈvʌlnərəbl/","definition":"Susceptible to physical or emotional attack or harm; unprotected and easily damaged.","definition_zh":"易受傷的；脆弱的；易受攻擊的","roots":[{"root":"vulnerare / vulnus","origin":"Latin","meaning":"to wound, injury","meaning_zh":"受傷、傷口"}],"mnemonic":{"story_en":"Without a shield, the soldier's chest was left VULNERable to a fatal VULNER (wound).","story_zh":"沒有盾牌保護，士兵的胸膛很容易受傷（VULNER），處於「易受攻擊的（VULNERABLE）」狀態。","emojis":["🛡️","💔","🥀"]},"example":"Older people and young children are particularly vulnerable to influenza during the winter months.","synonyms":["susceptible","exposed","defenseless","fragile"],"frequency_rank":60,"tags":["college","psychology","IELTS"]},{"word":"wary","pos":"adjective","phonetic":"/ˈweri/","definition":"Feeling or showing caution about possible dangers or problems; alert and watchful.","definition_zh":"謹慎的；警惕的；唯恐的","roots":[{"root":"war / waer","origin":"Old English","meaning":"watchful, guarded","meaning_zh":"注意的、守衛的"}],"mnemonic":{"story_en":"Be aWARE and stay WARY of strangers who offer you investments that sound too good to be true.","story_zh":"隨時保持意識（aWARE），對那些聽起來好得令人難以置信的投資項目保持「警惕（WARY）」。","emojis":["🦊","👀","⚠️"]},"example":"Investors are increasingly wary of putting money into high-risk startups during an economic downturn.","synonyms":["cautious","circumspect vigilant","suspicious","guarded"],"frequency_rank":61,"tags":["college","business","TOEFL"]},{"word":"aberration","pos":"noun","phonetic":"/ˌæbəˈreɪʃn/","definition":"A departure from what is normal, usual, or expected, typically one that is unwelcome.","definition_zh":"異常；偏差；偏離常軌（通常指不良的）","roots":[{"root":"ab-","origin":"Latin","meaning":"away from","meaning_zh":"離開、遠離"},{"root":"errare","origin":"Latin","meaning":"to stray, wander","meaning_zh":"迷路、遊蕩、犯錯"}],"mnemonic":{"story_en":"The player's violent outburst was a temporary ABERRATION from his AB- (away) normal calm behavior, caused by ERRARE (straying) from his training.","story_zh":"該球員的暴力爆發只是暫時遠離（AB）冷靜軌道、走入迷途（ERRARE）的「異常（ABERRATION）」行為。","emojis":["📉","🌀","❓"]},"example":"The sudden drop in sales was a temporary aberration caused by a computer glitch rather than a market trend.","synonyms":["anomaly","deviation","eccentricity","irregularity"],"frequency_rank":62,"tags":["college","GRE","science"]},{"word":"acquiesce","pos":"verb","phonetic":"/ˌækwiˈes/","definition":"To accept something reluctantly but without protest; to comply silently.","definition_zh":"默許；勉強同意；默從","roots":[{"root":"ad-","origin":"Latin","meaning":"to, toward","meaning_zh":"向、往"},{"root":"quiescere","origin":"Latin","meaning":"to rest, be quiet","meaning_zh":"休息、安靜"}],"mnemonic":{"story_en":"The manager decided to ACQUIESCE to the demands, remaining QUIET (quiescere) instead of arguing.","story_zh":"經理決定「默許（ACQUIESCE）」這些要求，保持安靜（QUIESCERE）而不再爭辯。","emojis":["🤐","🤝","😔"]},"example":"The director chose to acquiesce to the board's decision rather than risking his position by protesting.","synonyms":["comply","concede","assent","succumb"],"frequency_rank":63,"tags":["college","GRE","politics"]},{"word":"acute","pos":"adjective","phonetic":"/əˈkjuːt/","definition":"Experienced to a severe or intense degree; having or showing a perceptive understanding or insight; (of an angle) less than 90°.","definition_zh":"嚴重的；敏銳的；急性的（疾病）；銳角的","roots":[{"root":"acus / acuere","origin":"Latin","meaning":"needle, to sharpen","meaning_zh":"針、使尖銳"}],"mnemonic":{"story_en":"The patient felt an ACUTE pain that was as sharp as an ACUs (needle) piercing the skin.","story_zh":"病患感受到「劇烈的（ACUTE）」疼痛，就像針（ACUs）尖刺入皮膚一樣銳利。","emojis":["🎯","🧠","🏥"]},"example":"The company is facing an acute shortage of skilled software engineers, threatening its project deadlines.","synonyms":["severe","intense","sharp","astute","discerning"],"frequency_rank":64,"tags":["college","academic","science"]},{"word":"adhere","pos":"verb","phonetic":"/ədˈhɪr/","definition":"To stick fast to a surface or substance; to believe in and follow the practices or rules of something.","definition_zh":"黏附；堅持；遵守（規則或信念）","roots":[{"root":"ad-","origin":"Latin","meaning":"to, toward","meaning_zh":"向、往"},{"root":"haere/haerere","origin":"Latin","meaning":"to stick","meaning_zh":"黏貼"}],"mnemonic":{"story_en":"Glue makes the poster ADHERE to the wall, just as professional athletes must ADHERE to strict rules.","story_zh":"膠水讓海報黏（HAERE）在牆壁上，就像職業運動員必須「遵守（ADHERE）」嚴格的規章一樣。","emojis":["🔗","📋","🧱"]},"example":"All laboratory personnel must strictly adhere to safety protocols to prevent chemical contamination.","synonyms":["stick","cling","comply","observe","abide by"],"frequency_rank":65,"tags":["college","academic","law"]},{"word":"adverse","pos":"adjective","phonetic":"/ədˈvɜːrs/","definition":"Preventing success or development; harmful, unfavorable, or hostile.","definition_zh":"不利的；有害的；反向的","roots":[{"root":"ad-","origin":"Latin","meaning":"toward","meaning_zh":"向"},{"root":"vertere","origin":"Latin","meaning":"to turn","meaning_zh":"旋轉、轉向"}],"mnemonic":{"story_en":"When the wind shifts and turns ADVERSEly against your ship, you face ADVERSE weather conditions.","story_zh":"當風向改變、轉（VERTERE）向與你的船作對時，你就面臨了「不利的（ADVERSE）」天氣條件。","emojis":["🌪️","⚠️","💊"]},"example":"The pharmaceutical company reported that the new drug has no adverse side effects on patients.","synonyms":["unfavorable","disadvantageous","harmful","detrimental"],"frequency_rank":66,"tags":["college","business","science"]},{"word":"aesthetic","pos":"adjective","phonetic":"/esˈθetɪk/","definition":"Concerning or characterized by an appreciation of beauty or good taste, especially in art.","definition_zh":"美學的；審美的；具有美感的","roots":[{"root":"aisthetikos","origin":"Greek","meaning":"perceptive, of sense perception","meaning_zh":"有感知的、感官感覺的"}],"mnemonic":{"story_en":"The modern building was designed with great AESTHETIC appeal, pleasing the visual senses of everyone.","story_zh":"這棟現代建築的設計具有極高的「美感（AESTHETIC）」，取悅了每個人的視覺感官。","emojis":["🎨","🏛️","📸"]},"example":"The product's minimalist design emphasizes both functional utility and aesthetic appeal.","synonyms":["artistic","beautiful","tasteful","elegant"],"frequency_rank":68,"tags":["college","art","philosophy"]},{"word":"alienate","pos":"verb","phonetic":"/ˈeɪliəneɪt/","definition":"To cause someone to feel isolated, estranged, or excluded from a group or society.","definition_zh":"疏遠；使孤立；轉讓（財產）","roots":[{"root":"alius / alienus","origin":"Latin","meaning":"other, another, foreign","meaning_zh":"其他的、外國的、異己的"}],"mnemonic":{"story_en":"The politician's extreme comments managed to ALIENATE moderate voters, making them feel like ALIENs in the party.","story_zh":"這位政治人物的極端言論成功「疏遠了（ALIENATE）」溫和派選民，讓他們在黨內感覺像外星人（ALIEN）一樣格格不入。","emojis":["🙅","🧍","💔"]},"example":"His arrogant behavior tended to alienate his colleagues, leaving him isolated in the office.","synonyms":["estrange","isolate","distance","exclude"],"frequency_rank":69,"tags":["college","psychology","social"]},{"word":"altruism","pos":"noun","phonetic":"/ˈæltruɪzəm/","definition":"The belief in or practice of disinterested and selfless concern for the well-being of others.","definition_zh":"利他主義；無私","roots":[{"root":"alter","origin":"Latin","meaning":"other","meaning_zh":"其他的人"}],"mnemonic":{"story_en":"Act with ALTRUISM by putting the needs of ALTER (others) before your own selfish desires.","story_zh":"展現「利他主義（ALTRUISM）」，就要把其他（ALTER）人的需求放在自己的自私欲望之前。","emojis":["❤️","🤝","🤲"]},"example":"Many charities rely on the pure altruism of volunteers who dedicate their time without pay.","synonyms":["unselfishness","philanthropy","benevolence","selflessness"],"frequency_rank":70,"tags":["college","philosophy","psychology"]},{"word":"analogy","pos":"noun","phonetic":"/əˈnælədʒi/","definition":"A comparison between two things, typically for the purpose of explanation or clarification.","definition_zh":"類比；比喻；相似物","roots":[{"root":"ana-","origin":"Greek","meaning":"upon, according to","meaning_zh":"根據、沿著"},{"root":"logos","origin":"Greek","meaning":"ratio, word, reason","meaning_zh":"比例、言語、道理"}],"mnemonic":{"story_en":"The teacher drew an ANALOGY, comparing the human brain to a computer based on LOGOS (reason).","story_zh":"老師做了一個「類比（ANALOGY）」，根（ANA）據邏輯（LOGOS）將人類大腦比作電腦。","emojis":["🧠","💻","⚖️"]},"example":"To explain how electricity flows in a wire, the professor used the analogy of water flowing through a pipe.","synonyms":["comparison","metaphor","parallel","similitude"],"frequency_rank":72,"tags":["college","academic","language"]},{"word":"annihilate","pos":"verb","phonetic":"/əˈnaɪəleɪt/","definition":"To destroy utterly; to wipe out of existence; to defeat completely.","definition_zh":"殲滅；消滅；徹底擊敗","roots":[{"root":"ad-","origin":"Latin","meaning":"to, toward","meaning_zh":"向、變成"},{"root":"nihil","origin":"Latin","meaning":"nothing","meaning_zh":"虛無、沒有東西"}],"mnemonic":{"story_en":"The atomic bomb can ANNIHILATE an entire city, turning all buildings into NIHIL (nothing).","story_zh":"原子彈能「徹底消滅（ANNIHILATE）」整座城市，將所有建築物化為虛無（NIHIL）。","emojis":["💥","💀","🌪️"]},"example":"The heavy artillery fire managed to annihilate the enemy's defensive fortifications within hours.","synonyms":["destroy","obliterate","exterminate","eradicate"],"frequency_rank":73,"tags":["college","GRE","history"]},{"word":"anomaly","pos":"noun","phonetic":"/əˈnɑːməli/","definition":"Something that deviates from what is standard, normal, or expected.","definition_zh":"異常事物；反常現象；畸變","roots":[{"root":"an-","origin":"Greek","meaning":"not, without","meaning_zh":"不、無"},{"root":"homalos","origin":"Greek","meaning":"even, regular, same","meaning_zh":"平的、規律的、相同的"}],"mnemonic":{"story_en":"A snowfall in the desert is a weather ANOMALY, because it is AN (not) HOMALOS (regular) for that climate.","story_zh":"沙漠降雪是一種氣候「反常現象（ANOMALY）」，因為這對當地的氣候來說是不（AN）常規（HOMALOS）的。","emojis":["❄️","🌵","📊"]},"example":"Scientists discovered a genetic anomaly in the blood sample that could explain the patient's rare condition.","synonyms":["abnormality","irregularity","deviation","pecularity"],"frequency_rank":74,"tags":["college","science","academic"]},{"word":"apathetic","pos":"adjective","phonetic":"/ˌæpəˈθetɪk/","definition":"Showing or feeling no interest, enthusiasm, or concern; listless or indifferent.","definition_zh":"冷漠的；無動於衷的；缺乏興趣的","roots":[{"root":"a-","origin":"Greek","meaning":"without","meaning_zh":"無、沒有"},{"root":"pathos","origin":"Greek","meaning":"feeling, emotion","meaning_zh":"感情、痛苦"}],"mnemonic":{"story_en":"Many APATHETIC citizens remain APATHETIC about elections, staying A- (without) PATHOS (feeling) for politics.","story_zh":"許多「冷漠的（APATHETIC）」公民對選舉無動於衷，對政治抱持著沒（A）有感情（PATHOS）的態度。","emojis":["😐","🤷‍♂️","💤"]},"example":"The youth are often accused of being apathetic toward local politics, resulting in low voter turnout.","synonyms":["indifferent","unconcerned","uninterested","lethargic"],"frequency_rank":75,"tags":["college","psychology","politics"]},{"word":"arbitrary","pos":"adjective","phonetic":"/ˈɑːrbɪtreri/","definition":"Based on random choice or personal whim, rather than any reason, system, or law; (of power) autocratic or tyrannical.","definition_zh":"任意的；隨機的；武斷的；專制的","roots":[{"root":"arbiter","origin":"Latin","meaning":"judge, witness","meaning_zh":"仲裁者、法官"}],"mnemonic":{"story_en":"The dictator made an ARBITRARY decision, acting like a tyrannical ARBITER who ignores the written law.","story_zh":"獨裁者做了一個「武斷的（ARBITRARY）」決定，表現得像一個無視成文法律的專制仲裁者（ARBITER）。","emojis":["🎲","👑","⚖️"]},"example":"The selection of the winners seemed completely arbitrary, with no clear criteria provided by the judges.","synonyms":["random","capricious","whimsical","discretionary"],"frequency_rank":76,"tags":["college","academic","law"]},{"word":"assiduous","pos":"adjective","phonetic":"/əˈsɪdʒuəs/","definition":"Showing great care, attention, and persistent effort; diligent and hard-working.","definition_zh":"專心致志的；勤勉的；鍥而不捨的","roots":[{"root":"ad-","origin":"Latin","meaning":"to, near","meaning_zh":"向、靠近"},{"root":"sedere","origin":"Latin","meaning":"to sit","meaning_zh":"坐"}],"mnemonic":{"story_en":"The ASSIDUOUS student would SEDE (sit) at her desk for hours, working diligently on her research paper.","story_zh":"這位「勤勉的（ASSIDUOUS）」學生會連續幾個小時坐（SEDE）在書桌前，專心致志地寫著她的研究論文。","emojis":["✍️","📚","⏳"]},"example":"Through assiduous research and hours of interviews, the journalist finally uncovered the corporate scandal.","synonyms":["diligent","industrious","painstaking","sedulous"],"frequency_rank":77,"tags":["college","GRE","academic"]},{"word":"augment","pos":"verb","phonetic":"/ɔːɡˈment/","definition":"To make something greater, larger, or more intense by adding to it; to increase.","definition_zh":"增加；擴大；擴充；提高","roots":[{"root":"augere","origin":"Latin","meaning":"to increase, make grow","meaning_zh":"增加、使成長"}],"mnemonic":{"story_en":"He had to AUGMENT his income by taking a second job, AUG- (increasing) his total savings.","story_zh":"他不得不兼差第二份工作來「增加（AUGMENT）」收入，以擴大（AUGERE）他的總存款。","emojis":["➕","📈","💰"]},"example":"The military decided to augment its forces in the region due to rising political tensions.","synonyms":["increase","enhance","expand","amplify","supplement"],"frequency_rank":78,"tags":["college","business","technology"]},{"word":"austere","pos":"adjective","phonetic":"/ɔːˈstɪr/","definition":"Severe or strict in manner, attitude, or appearance; having no comforts or luxuries; plain and unadorned.","definition_zh":"嚴厲的；簡樸的；苦行的；毫無裝飾的","roots":[{"root":"austeros","origin":"Greek","meaning":"bitter, harsh, dry","meaning_zh":"苦的、嚴厲的、乾燥的"}],"mnemonic":{"story_en":"The monk lived a very AUSTERE life in an AUSTERE room with nothing but a wooden bed.","story_zh":"僧侶在一間除了木床外別無他物的「簡樸（AUSTERE）」房間裡，過著非常苦（AUSTEROS）行簡樸的生活。","emojis":["🧘","🛏️","🧱"]},"example":"During the economic crisis, the government introduced austere measures to reduce the national debt.","synonyms":["ascetic","stark","frugal","severe","unadorned"],"frequency_rank":79,"tags":["college","economics","philosophy"]},{"word":"benevolent","pos":"adjective","phonetic":"/bəˈnevələnt/","definition":"Well-meaning and kindly; serving a charitable rather than a profit-making purpose.","definition_zh":"仁慈的；慈善的；善意的","roots":[{"root":"bene","origin":"Latin","meaning":"well, good","meaning_zh":"好"},{"root":"velle","origin":"Latin","meaning":"to wish","meaning_zh":"想要、祝願"}],"mnemonic":{"story_en":"The BENEVOLENT king always wished BENE (well) for his people, showing great kindness.","story_zh":"這位「仁慈的（BENEVOLENT）」國王總是祝願（VELLE）他的子民過得好（BENE），展現了極大的善良。","emojis":["😇","🤝","🎁"]},"example":"The local orphanage was entirely funded by a benevolent billionaire who wished to remain anonymous.","synonyms":["kindly","charitable","philanthropic","altruistic"],"frequency_rank":81,"tags":["college","social","TOEFL"]},{"word":"capricious","pos":"adjective","phonetic":"/kəˈprɪʃəs/","definition":"Given to sudden and unaccountable changes of mood or behavior; fickle and unpredictable.","definition_zh":"變化無常的；任性的；善變的","roots":[{"root":"capra","origin":"Latin","meaning":"goat","meaning_zh":"山羊"}],"mnemonic":{"story_en":"The dictator's CAPRICIOUS moods changed as fast as a CAPRA (goat) leaping randomly in the mountains.","story_zh":"獨裁者「變化無常的（CAPRICIOUS）」情緒，就像在山中胡亂跳躍的山羊（CAPRA）一樣快。","emojis":["🐐","🌀","🌦️"]},"example":"The administration's capricious policy changes left local business owners confused and unable to plan ahead.","synonyms":["fickle","unpredictable","whimsical","mercurial","arbitrary"],"frequency_rank":82,"tags":["college","GRE","business"]},{"word":"catalyst","pos":"noun","phonetic":"/ˈkætəlɪst/","definition":"A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change; a person or thing that precipitates an event or change.","definition_zh":"催化劑；促成者；引發改變的人或事物","roots":[{"root":"kata-","origin":"Greek","meaning":"down, thoroughly","meaning_zh":"向下、徹底"},{"root":"lyein","origin":"Greek","meaning":"to loosen, untie","meaning_zh":"鬆開、解開"}],"mnemonic":{"story_en":"The assassination of the archduke acted as a CATALYST, thoroughly LYEIN (loosening) the fragile peace and starting World War I.","story_zh":"大公被刺殺事件充當了「催化劑（CATALYST）」，徹底解開（LYEIN）了脆弱的和平，引發了第一次世界大戰。","emojis":["🧪","⚡","💥"]},"example":"The publication of the book served as a catalyst for the nationwide civil rights movement.","synonyms":["stimulus","spark","incentive","impetus","promoter"],"frequency_rank":83,"tags":["college","science","history"]},{"word":"chronic","pos":"adjective","phonetic":"/ˈkrɑːnɪk/","definition":"(of an illness or problem) persisting for a long time or constantly recurring.","definition_zh":"慢性的（疾病）；長期的；根深蒂固的","roots":[{"root":"chronos","origin":"Greek","meaning":"time","meaning_zh":"時間"}],"mnemonic":{"story_en":"He suffered from CHRONIC back pain, which haunted him for a long CHRONOS (time).","story_zh":"他患有「慢性的（CHRONIC）」背痛，這困擾了他很長的時間（CHRONOS）。","emojis":["⏳","🏥","🧓"]},"example":"The country is suffering from chronic unemployment, which the government has failed to fix for a decade.","synonyms":["persistent","long-standing","inveterate","perennial"],"frequency_rank":84,"tags":["college","academic","science"]},{"word":"circumspect","pos":"adjective","phonetic":"/ˈsɜːrkəmspekt/","definition":"Wary and unwilling to take risks; cautious and prudent before acting.","definition_zh":"謹慎的；考慮周密的；慎重的","roots":[{"root":"circum","origin":"Latin","meaning":"around","meaning_zh":"周圍、環繞"},{"root":"specere","origin":"Latin","meaning":"to look","meaning_zh":"看"}],"mnemonic":{"story_en":"A CIRCUMSPECT general will always CIRCUM (around) SPEC (look) at the terrain before ordering an attack.","story_zh":"一位「謹慎的（CIRCUMSPECT）」將軍在下令進攻前，總會向四周（CIRCUM）環顧觀察（SPECERE）地形。","emojis":["👀","🛡️","🕵️"]},"example":"Officials were circumspect in their statements to the press, avoiding any mention of the ongoing investigation.","synonyms":["cautious","prudent","wary","guarded","vigilant"],"frequency_rank":85,"tags":["college","GRE","politics"]},{"word":"complacent","pos":"adjective","phonetic":"/kəmˈpleɪsnt/","definition":"Showing smug or uncritical satisfaction with oneself or one's achievements, often while remaining unaware of upcoming dangers.","definition_zh":"自滿的；沾沾自喜的；盲目樂觀的","roots":[{"root":"com-","origin":"Latin","meaning":"intensive prefix","meaning_zh":"加強語氣"},{"root":"placere","origin":"Latin","meaning":"to please","meaning_zh":"使高興、取悅"}],"mnemonic":{"story_en":"The champion became COMPLACENT, so thoroughly PLEASed (placere) with his past wins that he stopped training hard.","story_zh":"這位冠軍變得「自滿（COMPLACENT）」，對自己過去的勝利感到太過高興（PLACERE），以至於停止了刻苦訓練。","emojis":["😏","🏆","⚠️"]},"example":"We cannot afford to become complacent about market competition, as rival startups are launching new products every month.","synonyms":["smug","self-satisfied","conceited","unconcerned"],"frequency_rank":88,"tags":["college","business","GRE"]},{"word":"condone","pos":"verb","phonetic":"/kənˈdoʊn/","definition":"To accept and allow (behavior that is considered morally wrong or offensive) to continue; to overlook or forgive.","definition_zh":"縱容；寬恕；默許（壞事）","roots":[{"root":"com-","origin":"Latin","meaning":"intensive prefix","meaning_zh":"加強語氣"},{"root":"donare","origin":"Latin","meaning":"to give, grant","meaning_zh":"給予、贈送"}],"mnemonic":{"story_en":"By remaining silent, the principal seemed to CONDONE bullying, GRANTing (donare) complete freedom to the bullies.","story_zh":"校長透過保持沉默，似乎「縱容（CONDONE）」了校園霸凌，完全給予（DONARE）了惡霸們為所欲為的自由。","emojis":["🙈","🚫","⚖️"]},"example":"The school board made it clear that they do not condone cheating under any circumstances.","synonyms":["overlook","pardon","excuse","tolerate","wink at"],"frequency_rank":91,"tags":["college","GRE","law"]},{"word":"conjecture","pos":"noun","phonetic":"/kənˈdʒektʃər/","definition":"An opinion or conclusion formed on the basis of incomplete information; a guess or speculation.","definition_zh":"推測；猜測；臆測","roots":[{"root":"com-","origin":"Latin","meaning":"together","meaning_zh":"一起"},{"root":"jacere","origin":"Latin","meaning":"to throw","meaning_zh":"丟、拋"}],"mnemonic":{"story_en":"Without clear data, the scientists could only THROW (jacere) random theories COM- (together) as mere CONJECTURE.","story_zh":"在沒有明確數據的情況下，科學家們只能把隨機的理論丟（JACERE）在一起（COM），作為一種純粹的「推測（CONJECTURE）」。","emojis":["❓","🎲","🧩"]},"example":"The media's reporting on the celebrity's disappearance was based entirely on conjecture rather than hard facts.","synonyms":["speculation","guesswork","surmise","hypothesis"],"frequency_rank":93,"tags":["college","GRE","academic"]},{"word":"conspicuous","pos":"adjective","phonetic":"/kənˈspɪkjuəs/","definition":"Standing out so as to be clearly visible; attracting notice or attention.","definition_zh":"顯眼的；引人注目的；明顯的","roots":[{"root":"com-","origin":"Latin","meaning":"intensive prefix","meaning_zh":"加強語氣"},{"root":"specere","origin":"Latin","meaning":"to look","meaning_zh":"看"}],"mnemonic":{"story_en":"Her bright neon jacket made her highly CONSPICUOUS, forcing everyone to LOOK (specere) straight at her.","story_zh":"她那件明亮的霓虹夾克讓她顯得非常「引人注目（CONSPICUOUS）」，迫使每個人都盯著她看（SPECERE）。","emojis":["🦺","🦚","👁️"]},"example":"The red warning sign was placed in a conspicuous position near the high-voltage entrance.","synonyms":["noticeable","prominent","obvious","salient","striking"],"frequency_rank":94,"tags":["college","social","TOEFL"]},{"word":"corroborate","pos":"verb","phonetic":"/kəˈrɑːbəreɪt/","definition":"To confirm or give support to a statement, theory, or finding with evidence or authority.","definition_zh":"證實；確證；提供證據支持","roots":[{"root":"com-","origin":"Latin","meaning":"intensive prefix","meaning_zh":"加強語氣"},{"root":"robur / robustus","origin":"Latin","meaning":"oak, strong","meaning_zh":"橡樹、強壯、堅固"}],"mnemonic":{"story_en":"The witness was called to CORROBORATE the alibi, making the suspect's story look as ROBUST (strong) as an oak tree.","story_zh":"證人被傳喚來「證實（CORROBORATE）」不在場證明，使嫌疑人的說法看起來像橡樹一樣堅固（ROBUR）強壯。","emojis":["📜","🤝","⚖️"]},"example":"A second independent laboratory was hired to corroborate the results of the initial chemical experiment.","synonyms":["confirm","substantiate","verify","validate","authenticate"],"frequency_rank":97,"tags":["college","GRE","law"]},{"word":"defer","pos":"verb","phonetic":"/dɪˈfɜːr/","definition":"To postpone or delay an action or event until a later time; to submit humbly to another's wish or authority.","definition_zh":"推遲；延期；聽從；順從","roots":[{"root":"de-","origin":"Latin","meaning":"away, down","meaning_zh":"離開、向下"},{"root":"ferre","origin":"Latin","meaning":"to carry, bring","meaning_zh":"攜帶、運送"}],"mnemonic":{"story_en":"They decided to DEFER the game, CARRYing (ferre) the schedule DE- (away) to next weekend due to rain.","story_zh":"由於下雨，他們決定將比賽「延期（DEFER）」，將時程表從本週末帶走（FERRE/DE）。","emojis":["⏳","🗓️","🙇‍♂️"]},"example":"The student requested to defer her university admission for a year to work and gain practical experience.","synonyms":["postpone","delay","adjourn","yield","submit"],"frequency_rank":98,"tags":["college","business","academic"]}]
+[
+  {
+    "word": "subsequent",
+    "pos": "adjective",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "definition": "Coming after something else in time; following or succeeding in a chronological order.",
+    "definition_zh": "隨後的；後來的；接續的",
+    "mnemonic": {
+      "story_en": "In a SUB (close after) sequence, the SEQUI (following) events will show the SUBSEQUENT impact of the decision.",
+      "story_zh": "在緊接而來的序列中，跟隨（SEQUI）在後（SUB）的事件將揭示該決定的「隨後（SUBSEQUENT）」影響。",
+      "emojis": [
+        "⏳",
+        "⏭️",
+        "📉"
+      ],
+      "root_memory": "SUB = under, close after; connect this root idea with subsequent."
+    },
+    "example": "The initial study was flawed, but subsequent research confirmed the medication's effectiveness.",
+    "synonyms": [
+      "following",
+      "succeeding",
+      "consequent",
+      "ensuing"
+    ],
+    "frequency_rank": 51,
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "sub",
+          "origin": "Latin",
+          "meaning": "under, close after",
+          "meaning_zh": "在...下面、緊隨其後"
+        },
+        {
+          "root": "sequi",
+          "origin": "Latin",
+          "meaning": "to follow",
+          "meaning_zh": "跟隨"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 subsequent 在正式語境中的自然用法。",
+    "collocations": [
+      "subsequent factor",
+      "subsequent approach",
+      "subsequent evidence",
+      "subsequent context",
+      "subsequent role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "following",
+        "difference": "following is related, but subsequent has its own usage pattern and context."
+      },
+      {
+        "word": "succeeding",
+        "difference": "succeeding may overlap in meaning, but it is not always interchangeable with subsequent."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "subsequent",
+        "pos": "adjective"
+      },
+      {
+        "word": "subsequental",
+        "pos": "adjective"
+      },
+      {
+        "word": "subsequention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "subsequent is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "substantiate",
+    "pos": "verb",
+    "phonetic": "/səbˈstænʃieɪt/",
+    "definition": "To provide evidence to support or prove the truth of a claim, theory, or allegation.",
+    "definition_zh": "證實；證明...有根據",
+    "mnemonic": {
+      "story_en": "You must find solid substance under the claim so that it can STAnd firmly and SUBSTANTIATE your argument in court.",
+      "story_zh": "你必須在指控下方找到實質證據，使其能夠穩固站（STAre）立，進而「證實（SUBSTANTIATE）」你在法庭上的論點。",
+      "emojis": [
+        "📜",
+        "🔍",
+        "⚖️"
+      ],
+      "root_memory": "SUB = under; connect this root idea with substantiate."
+    },
+    "example": "The prosecutor failed to provide sufficient evidence to substantiate the charges against the suspect.",
+    "synonyms": [
+      "corroborate",
+      "verify",
+      "validate",
+      "authenticate"
+    ],
+    "frequency_rank": 52,
+    "tags": [
+      "college",
+      "GRE",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "sub",
+          "origin": "Latin",
+          "meaning": "under",
+          "meaning_zh": "在...之下"
+        },
+        {
+          "root": "stare",
+          "origin": "Latin",
+          "meaning": "to stand",
+          "meaning_zh": "站立"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 substantiate 在正式語境中的自然用法。",
+    "collocations": [
+      "substantiate carefully",
+      "substantiate effectively",
+      "substantiate the plan",
+      "substantiate a proposal",
+      "substantiate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "corroborate",
+        "difference": "corroborate is related, but substantiate has its own usage pattern and context."
+      },
+      {
+        "word": "verify",
+        "difference": "verify may overlap in meaning, but it is not always interchangeable with substantiate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "substantiate",
+        "pos": "verb"
+      },
+      {
+        "word": "substantiatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "substantiateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "substantiate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "superficial",
+    "pos": "adjective",
+    "phonetic": "/ˌsuːpərˈfɪʃl/",
+    "definition": "Existing or occurring at or on the surface; lacking depth, substance, or thoroughness.",
+    "definition_zh": "表面的；膚淺的；草率的",
+    "mnemonic": {
+      "story_en": "He only looked at the SUPER (above) FACIES (face) of the problem, making a very SUPERFICIAL analysis.",
+      "story_zh": "他只看問題之（SUPER）上的表面（FACIES），做出了非常「膚淺的（SUPERFICIAL）」分析。",
+      "emojis": [
+        "🌊",
+        "🎭",
+        "📄"
+      ],
+      "root_memory": "SUPER = above, over; connect this root idea with superficial."
+    },
+    "example": "The committee made a superficial review of the proposal without analyzing its long-term financial risks.",
+    "synonyms": [
+      "shallow",
+      "surface-level",
+      "cursory",
+      "frivolous"
+    ],
+    "frequency_rank": 53,
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "super",
+          "origin": "Latin",
+          "meaning": "above, over",
+          "meaning_zh": "在...之上、超過"
+        },
+        {
+          "root": "facies",
+          "origin": "Latin",
+          "meaning": "face, appearance",
+          "meaning_zh": "臉、外表"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 superficial 在正式語境中的自然用法。",
+    "collocations": [
+      "superficial factor",
+      "superficial approach",
+      "superficial evidence",
+      "superficial context",
+      "superficial role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "shallow",
+        "difference": "shallow is related, but superficial has its own usage pattern and context."
+      },
+      {
+        "word": "surface-level",
+        "difference": "surface-level may overlap in meaning, but it is not always interchangeable with superficial."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "superficial",
+        "pos": "adjective"
+      },
+      {
+        "word": "superficialal",
+        "pos": "adjective"
+      },
+      {
+        "word": "superficialion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "superficial is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "supersede",
+    "pos": "verb",
+    "phonetic": "/ˌsuːpərˈsiːd/",
+    "definition": "To take the place of a person or thing previously in authority or use; to replace or supplant.",
+    "definition_zh": "取代；替代；廢棄（因新事物出現）",
+    "mnemonic": {
+      "story_en": "The new digital technology will SUPER (above) SEDE (sit) the old analog systems completely.",
+      "story_zh": "新數位技術將坐（SEDE）在舊類比系統之（SUPER）上，完全「取代（SUPERSEDE）」它。",
+      "emojis": [
+        "📱",
+        "🔄",
+        "👑"
+      ],
+      "root_memory": "SUPER = above, over; connect this root idea with supersede."
+    },
+    "example": "Most of these old regulations have been superseded by the new environmental protection law.",
+    "synonyms": [
+      "replace",
+      "supplant",
+      "override",
+      "displace"
+    ],
+    "frequency_rank": 54,
+    "tags": [
+      "college",
+      "GRE",
+      "technology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "super",
+          "origin": "Latin",
+          "meaning": "above, over",
+          "meaning_zh": "在...之上"
+        },
+        {
+          "root": "sedere",
+          "origin": "Latin",
+          "meaning": "to sit",
+          "meaning_zh": "坐"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 supersede 在正式語境中的自然用法。",
+    "collocations": [
+      "supersede carefully",
+      "supersede effectively",
+      "supersede the plan",
+      "supersede a proposal",
+      "supersede in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "replace",
+        "difference": "replace is related, but supersede has its own usage pattern and context."
+      },
+      {
+        "word": "supplant",
+        "difference": "supplant may overlap in meaning, but it is not always interchangeable with supersede."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "supersede",
+        "pos": "verb"
+      },
+      {
+        "word": "supersedal",
+        "pos": "adjective"
+      },
+      {
+        "word": "supersedeion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "supersede is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "tangible",
+    "pos": "adjective",
+    "phonetic": "/ˈtændʒəbl/",
+    "definition": "Perceptible by touch; clear and definite; real rather than imaginary.",
+    "definition_zh": "有形的；實質的；可觸摸到的；明確的",
+    "mnemonic": {
+      "story_en": "Without TANGible assets that you can TANG (touch), the bank will not approve your business loan.",
+      "story_zh": "如果沒有可以用手觸（TANG）摸到的「有形（TANGIBLE）」資產，銀行不會批准你的商業貸款。",
+      "emojis": [
+        "🖐️",
+        "🧱",
+        "📈"
+      ],
+      "root_memory": "TANG / TANGERE = to touch; connect this root idea with tangible."
+    },
+    "example": "The police are looking for tangible evidence, such as fingerprints or DNA, rather than mere speculation.",
+    "synonyms": [
+      "concrete",
+      "palpable",
+      "substantial",
+      "physical"
+    ],
+    "frequency_rank": 55,
+    "tags": [
+      "college",
+      "business",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "tang / tangere",
+          "origin": "Latin",
+          "meaning": "to touch",
+          "meaning_zh": "觸摸"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 tangible 在正式語境中的自然用法。",
+    "collocations": [
+      "tangible factor",
+      "tangible approach",
+      "tangible evidence",
+      "tangible context",
+      "tangible role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "concrete",
+        "difference": "concrete is related, but tangible has its own usage pattern and context."
+      },
+      {
+        "word": "palpable",
+        "difference": "palpable may overlap in meaning, but it is not always interchangeable with tangible."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "tangible",
+        "pos": "adjective"
+      },
+      {
+        "word": "tangiblal",
+        "pos": "adjective"
+      },
+      {
+        "word": "tangibleion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "tangible is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "tentative",
+    "pos": "adjective",
+    "phonetic": "/ˈtentətɪv/",
+    "definition": "Not certain or fixed; done without confidence; hesitant or provisional.",
+    "definition_zh": "暫定的；嘗試性的；猶豫不決的",
+    "mnemonic": {
+      "story_en": "They made a TENTative schedule to TENT (try) out the new system before making it permanent.",
+      "story_zh": "他們制定了一個「暫定的（TENTATIVE）」時程表來嘗（TENT）試新系統，之後才會定案。",
+      "emojis": [
+        "🗓️",
+        "❓",
+        "🧪"
+      ],
+      "root_memory": "TENT / TEMPTARE = to feel, try, test; connect this root idea with tentative."
+    },
+    "example": "We have reached a tentative agreement, but it still needs to be ratified by the board of directors.",
+    "synonyms": [
+      "provisional",
+      "conditional",
+      "speculative",
+      "hesitant"
+    ],
+    "frequency_rank": 56,
+    "tags": [
+      "college",
+      "business",
+      "IELTS"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "tent / temptare",
+          "origin": "Latin",
+          "meaning": "to feel, try, test",
+          "meaning_zh": "觸摸、嘗試、測試"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 tentative 在正式語境中的自然用法。",
+    "collocations": [
+      "tentative factor",
+      "tentative approach",
+      "tentative evidence",
+      "tentative context",
+      "tentative role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "provisional",
+        "difference": "provisional is related, but tentative has its own usage pattern and context."
+      },
+      {
+        "word": "conditional",
+        "difference": "conditional may overlap in meaning, but it is not always interchangeable with tentative."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "tentative",
+        "pos": "adjective"
+      },
+      {
+        "word": "tentatival",
+        "pos": "adjective"
+      },
+      {
+        "word": "tentativeion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "tentative is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "transient",
+    "pos": "adjective",
+    "phonetic": "/ˈtrænʒnt/",
+    "definition": "Lasting only for a short time; impermanent or fleeting.",
+    "definition_zh": "短暫的；轉瞬即逝的；過客的",
+    "mnemonic": {
+      "story_en": "The storm was TRANsient, quickly TRANS (crossing) over the city and leaving as fast as it arrived.",
+      "story_zh": "這場暴風雨是「短暫的（TRANSIENT）」，迅速穿（TRANS）過城市，來得快去得也快。",
+      "emojis": [
+        "⚡",
+        "🍃",
+        "⏰"
+      ],
+      "root_memory": "TRANS = across, through; connect this root idea with transient."
+    },
+    "example": "The economic boom turned out to be transient, followed quickly by a severe recession.",
+    "synonyms": [
+      "fleeting",
+      "ephemeral",
+      "temporary",
+      "evanescent"
+    ],
+    "frequency_rank": 57,
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "trans",
+          "origin": "Latin",
+          "meaning": "across, through",
+          "meaning_zh": "穿過、跨越"
+        },
+        {
+          "root": "ire",
+          "origin": "Latin",
+          "meaning": "to go",
+          "meaning_zh": "走"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 transient 在正式語境中的自然用法。",
+    "collocations": [
+      "transient factor",
+      "transient approach",
+      "transient evidence",
+      "transient context",
+      "transient role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "fleeting",
+        "difference": "fleeting is related, but transient has its own usage pattern and context."
+      },
+      {
+        "word": "ephemeral",
+        "difference": "ephemeral may overlap in meaning, but it is not always interchangeable with transient."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "transient",
+        "pos": "adjective"
+      },
+      {
+        "word": "transiental",
+        "pos": "adjective"
+      },
+      {
+        "word": "transiention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "transient is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "unprecedented",
+    "pos": "adjective",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "definition": "Never done or known before; without any previous example or parallel case.",
+    "definition_zh": "史無前例的；空前的",
+    "mnemonic": {
+      "story_en": "The country experienced UNprecedented growth, which had never PRE-CEDEd (gone before) it in history.",
+      "story_zh": "該國經歷了「史無前例的（UNPRECEDENTED）」增長，這在歷史上從未有走在前面（PRE-CEDE）的先例。",
+      "emojis": [
+        "📈",
+        "🚀",
+        "💥"
+      ],
+      "root_memory": "UN- = not; connect this root idea with unprecedented."
+    },
+    "example": "The government took the unprecedented step of closing all national borders to contain the virus.",
+    "synonyms": [
+      "unparalleled",
+      "exceptional",
+      "groundbreaking",
+      "novel"
+    ],
+    "frequency_rank": 58,
+    "tags": [
+      "college",
+      "politics",
+      "IELTS"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "un-",
+          "origin": "Old English",
+          "meaning": "not",
+          "meaning_zh": "不、非"
+        },
+        {
+          "root": "pre",
+          "origin": "Latin",
+          "meaning": "before",
+          "meaning_zh": "在...之前"
+        },
+        {
+          "root": "cedere",
+          "origin": "Latin",
+          "meaning": "to go",
+          "meaning_zh": "走"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 unprecedented 在正式語境中的自然用法。",
+    "collocations": [
+      "unprecedented factor",
+      "unprecedented approach",
+      "unprecedented evidence",
+      "unprecedented context",
+      "unprecedented role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unparalleled",
+        "difference": "unparalleled is related, but unprecedented has its own usage pattern and context."
+      },
+      {
+        "word": "exceptional",
+        "difference": "exceptional may overlap in meaning, but it is not always interchangeable with unprecedented."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "unprecedented",
+        "pos": "adjective"
+      },
+      {
+        "word": "unprecedentedal",
+        "pos": "adjective"
+      },
+      {
+        "word": "unprecedentedion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "unprecedented is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "vehement",
+    "pos": "adjective",
+    "phonetic": "/ˈviːəmənt/",
+    "definition": "Showing strong feeling; forceful, passionate, or intense in expression or emotion.",
+    "definition_zh": "強烈的；猛烈的；熱情的；（常指激動地）強烈反對的",
+    "mnemonic": {
+      "story_en": "Driven by a powerful VEHEment impulse, his MENS (mind) exploded into a VEHEMENT denial of the charges.",
+      "story_zh": "在強烈情緒的載（VEHE）運下，他的心智（MENS）爆發出對指控的「強烈（VEHEMENT）」否認。",
+      "emojis": [
+        "😡",
+        "🗣️",
+        "🔥"
+      ],
+      "root_memory": "VEHERE = to carry, convey; connect this root idea with vehement."
+    },
+    "example": "Despite vehement opposition from local residents, the city council approved the construction of the landfill.",
+    "synonyms": [
+      "passionate",
+      "forceful",
+      "fervent",
+      "ardent"
+    ],
+    "frequency_rank": 59,
+    "tags": [
+      "college",
+      "GRE",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "vehere",
+          "origin": "Latin",
+          "meaning": "to carry, convey",
+          "meaning_zh": "攜帶、運送"
+        },
+        {
+          "root": "mens",
+          "origin": "Latin",
+          "meaning": "mind",
+          "meaning_zh": "心智、精神"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 vehement 在正式語境中的自然用法。",
+    "collocations": [
+      "vehement factor",
+      "vehement approach",
+      "vehement evidence",
+      "vehement context",
+      "vehement role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "passionate",
+        "difference": "passionate is related, but vehement has its own usage pattern and context."
+      },
+      {
+        "word": "forceful",
+        "difference": "forceful may overlap in meaning, but it is not always interchangeable with vehement."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "vehement",
+        "pos": "adjective"
+      },
+      {
+        "word": "vehemental",
+        "pos": "adjective"
+      },
+      {
+        "word": "vehemention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "vehement is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "vulnerable",
+    "pos": "adjective",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "definition": "Susceptible to physical or emotional attack or harm; unprotected and easily damaged.",
+    "definition_zh": "易受傷的；脆弱的；易受攻擊的",
+    "mnemonic": {
+      "story_en": "Without a shield, the soldier's chest was left VULNERable to a fatal VULNER (wound).",
+      "story_zh": "沒有盾牌保護，士兵的胸膛很容易受傷（VULNER），處於「易受攻擊的（VULNERABLE）」狀態。",
+      "emojis": [
+        "🛡️",
+        "💔",
+        "🥀"
+      ],
+      "root_memory": "VULNERARE / VULNUS = to wound, injury; connect this root idea with vulnerable."
+    },
+    "example": "Older people and young children are particularly vulnerable to influenza during the winter months.",
+    "synonyms": [
+      "susceptible",
+      "exposed",
+      "defenseless",
+      "fragile"
+    ],
+    "frequency_rank": 60,
+    "tags": [
+      "college",
+      "psychology",
+      "IELTS"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "vulnerare / vulnus",
+          "origin": "Latin",
+          "meaning": "to wound, injury",
+          "meaning_zh": "受傷、傷口"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 vulnerable 在正式語境中的自然用法。",
+    "collocations": [
+      "vulnerable factor",
+      "vulnerable approach",
+      "vulnerable evidence",
+      "vulnerable context",
+      "vulnerable role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "susceptible",
+        "difference": "susceptible is related, but vulnerable has its own usage pattern and context."
+      },
+      {
+        "word": "exposed",
+        "difference": "exposed may overlap in meaning, but it is not always interchangeable with vulnerable."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "vulnerable",
+        "pos": "adjective"
+      },
+      {
+        "word": "vulnerablal",
+        "pos": "adjective"
+      },
+      {
+        "word": "vulnerableion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "vulnerable is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "wary",
+    "pos": "adjective",
+    "phonetic": "/ˈweri/",
+    "definition": "Feeling or showing caution about possible dangers or problems; alert and watchful.",
+    "definition_zh": "謹慎的；警惕的；唯恐的",
+    "mnemonic": {
+      "story_en": "Be aWARE and stay WARY of strangers who offer you investments that sound too good to be true.",
+      "story_zh": "隨時保持意識（aWARE），對那些聽起來好得令人難以置信的投資項目保持「警惕（WARY）」。",
+      "emojis": [
+        "🦊",
+        "👀",
+        "⚠️"
+      ],
+      "root_memory": "WAR / WAER = watchful, guarded; connect this root idea with wary."
+    },
+    "example": "Investors are increasingly wary of putting money into high-risk startups during an economic downturn.",
+    "synonyms": [
+      "cautious",
+      "circumspect vigilant",
+      "suspicious",
+      "guarded"
+    ],
+    "frequency_rank": 61,
+    "tags": [
+      "college",
+      "business",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "war / waer",
+          "origin": "Old English",
+          "meaning": "watchful, guarded",
+          "meaning_zh": "注意的、守衛的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 wary 在正式語境中的自然用法。",
+    "collocations": [
+      "wary factor",
+      "wary approach",
+      "wary evidence",
+      "wary context",
+      "wary role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cautious",
+        "difference": "cautious is related, but wary has its own usage pattern and context."
+      },
+      {
+        "word": "circumspect vigilant",
+        "difference": "circumspect vigilant may overlap in meaning, but it is not always interchangeable with wary."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "wary",
+        "pos": "adjective"
+      },
+      {
+        "word": "waryal",
+        "pos": "adjective"
+      },
+      {
+        "word": "waryion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "wary is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "aberration",
+    "pos": "noun",
+    "phonetic": "/ˌæbəˈreɪʃn/",
+    "definition": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
+    "definition_zh": "異常；偏差；偏離常軌（通常指不良的）",
+    "mnemonic": {
+      "story_en": "The player's violent outburst was a temporary ABERRATION from his AB- (away) normal calm behavior, caused by ERRARE (straying) from his training.",
+      "story_zh": "該球員的暴力爆發只是暫時遠離（AB）冷靜軌道、走入迷途（ERRARE）的「異常（ABERRATION）」行為。",
+      "emojis": [
+        "📉",
+        "🌀",
+        "❓"
+      ],
+      "root_memory": "AB- = away from; connect this root idea with aberration."
+    },
+    "example": "The sudden drop in sales was a temporary aberration caused by a computer glitch rather than a market trend.",
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "eccentricity",
+      "irregularity"
+    ],
+    "frequency_rank": 62,
+    "tags": [
+      "college",
+      "GRE",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab-",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開、遠離"
+        },
+        {
+          "root": "errare",
+          "origin": "Latin",
+          "meaning": "to stray, wander",
+          "meaning_zh": "迷路、遊蕩、犯錯"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 aberration 在正式語境中的自然用法。",
+    "collocations": [
+      "key aberration",
+      "aberration factor",
+      "aberration role",
+      "aberration in context",
+      "aberration and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "anomaly",
+        "difference": "anomaly is related, but aberration has its own usage pattern and context."
+      },
+      {
+        "word": "deviation",
+        "difference": "deviation may overlap in meaning, but it is not always interchangeable with aberration."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "aberration",
+        "pos": "noun"
+      },
+      {
+        "word": "aberrational",
+        "pos": "adjective"
+      },
+      {
+        "word": "aberrationion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "aberration is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "acquiesce",
+    "pos": "verb",
+    "phonetic": "/ˌækwiˈes/",
+    "definition": "To accept something reluctantly but without protest; to comply silently.",
+    "definition_zh": "默許；勉強同意；默從",
+    "mnemonic": {
+      "story_en": "The manager decided to ACQUIESCE to the demands, remaining QUIET (quiescere) instead of arguing.",
+      "story_zh": "經理決定「默許（ACQUIESCE）」這些要求，保持安靜（QUIESCERE）而不再爭辯。",
+      "emojis": [
+        "🤐",
+        "🤝",
+        "😔"
+      ],
+      "root_memory": "AD- = to, toward; connect this root idea with acquiesce."
+    },
+    "example": "The director chose to acquiesce to the board's decision rather than risking his position by protesting.",
+    "synonyms": [
+      "comply",
+      "concede",
+      "assent",
+      "succumb"
+    ],
+    "frequency_rank": 63,
+    "tags": [
+      "college",
+      "GRE",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "向、往"
+        },
+        {
+          "root": "quiescere",
+          "origin": "Latin",
+          "meaning": "to rest, be quiet",
+          "meaning_zh": "休息、安靜"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 acquiesce 在正式語境中的自然用法。",
+    "collocations": [
+      "acquiesce carefully",
+      "acquiesce effectively",
+      "acquiesce the plan",
+      "acquiesce a proposal",
+      "acquiesce in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "comply",
+        "difference": "comply is related, but acquiesce has its own usage pattern and context."
+      },
+      {
+        "word": "concede",
+        "difference": "concede may overlap in meaning, but it is not always interchangeable with acquiesce."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "acquiesce",
+        "pos": "verb"
+      },
+      {
+        "word": "acquiescal",
+        "pos": "adjective"
+      },
+      {
+        "word": "acquiesceion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "acquiesce is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "acute",
+    "pos": "adjective",
+    "phonetic": "/əˈkjuːt/",
+    "definition": "Experienced to a severe or intense degree; having or showing a perceptive understanding or insight; (of an angle) less than 90°.",
+    "definition_zh": "嚴重的；敏銳的；急性的（疾病）；銳角的",
+    "mnemonic": {
+      "story_en": "The patient felt an ACUTE pain that was as sharp as an ACUs (needle) piercing the skin.",
+      "story_zh": "病患感受到「劇烈的（ACUTE）」疼痛，就像針（ACUs）尖刺入皮膚一樣銳利。",
+      "emojis": [
+        "🎯",
+        "🧠",
+        "🏥"
+      ],
+      "root_memory": "ACUS / ACUERE = needle, to sharpen; connect this root idea with acute."
+    },
+    "example": "The company is facing an acute shortage of skilled software engineers, threatening its project deadlines.",
+    "synonyms": [
+      "severe",
+      "intense",
+      "sharp",
+      "astute",
+      "discerning"
+    ],
+    "frequency_rank": 64,
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "acus / acuere",
+          "origin": "Latin",
+          "meaning": "needle, to sharpen",
+          "meaning_zh": "針、使尖銳"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 acute 在正式語境中的自然用法。",
+    "collocations": [
+      "acute factor",
+      "acute approach",
+      "acute evidence",
+      "acute context",
+      "acute role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "severe",
+        "difference": "severe is related, but acute has its own usage pattern and context."
+      },
+      {
+        "word": "intense",
+        "difference": "intense may overlap in meaning, but it is not always interchangeable with acute."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "acute",
+        "pos": "adjective"
+      },
+      {
+        "word": "acutal",
+        "pos": "adjective"
+      },
+      {
+        "word": "acuteion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "acute is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "adhere",
+    "pos": "verb",
+    "phonetic": "/ədˈhɪr/",
+    "definition": "To stick fast to a surface or substance; to believe in and follow the practices or rules of something.",
+    "definition_zh": "黏附；堅持；遵守（規則或信念）",
+    "mnemonic": {
+      "story_en": "Glue makes the poster ADHERE to the wall, just as professional athletes must ADHERE to strict rules.",
+      "story_zh": "膠水讓海報黏（HAERE）在牆壁上，就像職業運動員必須「遵守（ADHERE）」嚴格的規章一樣。",
+      "emojis": [
+        "🔗",
+        "📋",
+        "🧱"
+      ],
+      "root_memory": "AD- = to, toward; connect this root idea with adhere."
+    },
+    "example": "All laboratory personnel must strictly adhere to safety protocols to prevent chemical contamination.",
+    "synonyms": [
+      "stick",
+      "cling",
+      "comply",
+      "observe",
+      "abide by"
+    ],
+    "frequency_rank": 65,
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "向、往"
+        },
+        {
+          "root": "haere/haerere",
+          "origin": "Latin",
+          "meaning": "to stick",
+          "meaning_zh": "黏貼"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 adhere 在正式語境中的自然用法。",
+    "collocations": [
+      "adhere carefully",
+      "adhere effectively",
+      "adhere the plan",
+      "adhere a proposal",
+      "adhere in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "stick",
+        "difference": "stick is related, but adhere has its own usage pattern and context."
+      },
+      {
+        "word": "cling",
+        "difference": "cling may overlap in meaning, but it is not always interchangeable with adhere."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "adhere",
+        "pos": "verb"
+      },
+      {
+        "word": "adheral",
+        "pos": "adjective"
+      },
+      {
+        "word": "adhereion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "adhere is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "adverse",
+    "pos": "adjective",
+    "phonetic": "/ədˈvɜːrs/",
+    "definition": "Preventing success or development; harmful, unfavorable, or hostile.",
+    "definition_zh": "不利的；有害的；反向的",
+    "mnemonic": {
+      "story_en": "When the wind shifts and turns ADVERSEly against your ship, you face ADVERSE weather conditions.",
+      "story_zh": "當風向改變、轉（VERTERE）向與你的船作對時，你就面臨了「不利的（ADVERSE）」天氣條件。",
+      "emojis": [
+        "🌪️",
+        "⚠️",
+        "💊"
+      ],
+      "root_memory": "AD- = toward; connect this root idea with adverse."
+    },
+    "example": "The pharmaceutical company reported that the new drug has no adverse side effects on patients.",
+    "synonyms": [
+      "unfavorable",
+      "disadvantageous",
+      "harmful",
+      "detrimental"
+    ],
+    "frequency_rank": 66,
+    "tags": [
+      "college",
+      "business",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "toward",
+          "meaning_zh": "向"
+        },
+        {
+          "root": "vertere",
+          "origin": "Latin",
+          "meaning": "to turn",
+          "meaning_zh": "旋轉、轉向"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 adverse 在正式語境中的自然用法。",
+    "collocations": [
+      "adverse factor",
+      "adverse approach",
+      "adverse evidence",
+      "adverse context",
+      "adverse role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unfavorable",
+        "difference": "unfavorable is related, but adverse has its own usage pattern and context."
+      },
+      {
+        "word": "disadvantageous",
+        "difference": "disadvantageous may overlap in meaning, but it is not always interchangeable with adverse."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "adverse",
+        "pos": "adjective"
+      },
+      {
+        "word": "adversal",
+        "pos": "adjective"
+      },
+      {
+        "word": "adverseion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "adverse is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "abolish",
+    "pos": "verb",
+    "phonetic": "/əˈbɑːlɪʃ/",
+    "definition": "To officially end a law, system, institution, or practice, especially because it is considered unfair or unnecessary.",
+    "definition_zh": "廢除；取消；終止",
+    "etymology": {
+      "roots": [
+        {
+          "root": "abolere",
+          "origin": "Latin",
+          "meaning": "to destroy, cause to die out",
+          "meaning_zh": "摧毀、使消失"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABOLERE = cause to die out; abolish means making an old rule disappear.",
+      "story_en": "Reformers ABOLISHED the unfair law so it would finally die out of public life.",
+      "story_zh": "改革者「廢除（ABOLISH）」不公平的法律，讓它從公共生活中消失。",
+      "emojis": [
+        "📜",
+        "🛑",
+        "⚖️"
+      ]
+    },
+    "example": "The government voted to abolish the outdated tax after years of public criticism.",
+    "example_zh": "多年公眾批評後，政府投票廢除這項過時稅制。",
+    "collocations": [
+      "abolish a law",
+      "abolish slavery",
+      "abolish a system",
+      "formally abolish",
+      "abolish restrictions"
+    ],
+    "synonyms": [
+      "eliminate",
+      "repeal",
+      "eradicate"
+    ],
+    "near_synonyms": [
+      {
+        "word": "repeal",
+        "difference": "repeal is specifically to cancel a law; abolish can apply to laws, systems, or practices."
+      },
+      {
+        "word": "eliminate",
+        "difference": "eliminate means remove; abolish stresses official or institutional ending."
+      }
+    ],
+    "antonyms": [
+      "establish",
+      "introduce",
+      "maintain"
+    ],
+    "word_family": [
+      {
+        "word": "abolish",
+        "pos": "verb"
+      },
+      {
+        "word": "abolition",
+        "pos": "noun"
+      },
+      {
+        "word": "abolitionist",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "abolish is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 67,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adjective",
+    "phonetic": "/esˈθetɪk/",
+    "definition": "Concerning or characterized by an appreciation of beauty or good taste, especially in art.",
+    "definition_zh": "美學的；審美的；具有美感的",
+    "mnemonic": {
+      "story_en": "The modern building was designed with great AESTHETIC appeal, pleasing the visual senses of everyone.",
+      "story_zh": "這棟現代建築的設計具有極高的「美感（AESTHETIC）」，取悅了每個人的視覺感官。",
+      "emojis": [
+        "🎨",
+        "🏛️",
+        "📸"
+      ],
+      "root_memory": "AISTHETIKOS = perceptive, of sense perception; connect this root idea with aesthetic."
+    },
+    "example": "The product's minimalist design emphasizes both functional utility and aesthetic appeal.",
+    "synonyms": [
+      "artistic",
+      "beautiful",
+      "tasteful",
+      "elegant"
+    ],
+    "frequency_rank": 68,
+    "tags": [
+      "college",
+      "art",
+      "philosophy"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "aisthetikos",
+          "origin": "Greek",
+          "meaning": "perceptive, of sense perception",
+          "meaning_zh": "有感知的、感官感覺的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 aesthetic 在正式語境中的自然用法。",
+    "collocations": [
+      "aesthetic factor",
+      "aesthetic approach",
+      "aesthetic evidence",
+      "aesthetic context",
+      "aesthetic role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "artistic",
+        "difference": "artistic is related, but aesthetic has its own usage pattern and context."
+      },
+      {
+        "word": "beautiful",
+        "difference": "beautiful may overlap in meaning, but it is not always interchangeable with aesthetic."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "aesthetic",
+        "pos": "adjective"
+      },
+      {
+        "word": "aesthetical",
+        "pos": "adjective"
+      },
+      {
+        "word": "aestheticion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "aesthetic is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "alienate",
+    "pos": "verb",
+    "phonetic": "/ˈeɪliəneɪt/",
+    "definition": "To cause someone to feel isolated, estranged, or excluded from a group or society.",
+    "definition_zh": "疏遠；使孤立；轉讓（財產）",
+    "mnemonic": {
+      "story_en": "The politician's extreme comments managed to ALIENATE moderate voters, making them feel like ALIENs in the party.",
+      "story_zh": "這位政治人物的極端言論成功「疏遠了（ALIENATE）」溫和派選民，讓他們在黨內感覺像外星人（ALIEN）一樣格格不入。",
+      "emojis": [
+        "🙅",
+        "🧍",
+        "💔"
+      ],
+      "root_memory": "ALIUS / ALIENUS = other, another, foreign; connect this root idea with alienate."
+    },
+    "example": "His arrogant behavior tended to alienate his colleagues, leaving him isolated in the office.",
+    "synonyms": [
+      "estrange",
+      "isolate",
+      "distance",
+      "exclude"
+    ],
+    "frequency_rank": 69,
+    "tags": [
+      "college",
+      "psychology",
+      "social"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "alius / alienus",
+          "origin": "Latin",
+          "meaning": "other, another, foreign",
+          "meaning_zh": "其他的、外國的、異己的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 alienate 在正式語境中的自然用法。",
+    "collocations": [
+      "alienate carefully",
+      "alienate effectively",
+      "alienate the plan",
+      "alienate a proposal",
+      "alienate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "estrange",
+        "difference": "estrange is related, but alienate has its own usage pattern and context."
+      },
+      {
+        "word": "isolate",
+        "difference": "isolate may overlap in meaning, but it is not always interchangeable with alienate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "alienate",
+        "pos": "verb"
+      },
+      {
+        "word": "alienatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "alienateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "alienate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "altruism",
+    "pos": "noun",
+    "phonetic": "/ˈæltruɪzəm/",
+    "definition": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+    "definition_zh": "利他主義；無私",
+    "mnemonic": {
+      "story_en": "Act with ALTRUISM by putting the needs of ALTER (others) before your own selfish desires.",
+      "story_zh": "展現「利他主義（ALTRUISM）」，就要把其他（ALTER）人的需求放在自己的自私欲望之前。",
+      "emojis": [
+        "❤️",
+        "🤝",
+        "🤲"
+      ],
+      "root_memory": "ALTER = other; connect this root idea with altruism."
+    },
+    "example": "Many charities rely on the pure altruism of volunteers who dedicate their time without pay.",
+    "synonyms": [
+      "unselfishness",
+      "philanthropy",
+      "benevolence",
+      "selflessness"
+    ],
+    "frequency_rank": 70,
+    "tags": [
+      "college",
+      "philosophy",
+      "psychology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "alter",
+          "origin": "Latin",
+          "meaning": "other",
+          "meaning_zh": "其他的人"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 altruism 在正式語境中的自然用法。",
+    "collocations": [
+      "key altruism",
+      "altruism factor",
+      "altruism role",
+      "altruism in context",
+      "altruism and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "unselfishness",
+        "difference": "unselfishness is related, but altruism has its own usage pattern and context."
+      },
+      {
+        "word": "philanthropy",
+        "difference": "philanthropy may overlap in meaning, but it is not always interchangeable with altruism."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "altruism",
+        "pos": "noun"
+      },
+      {
+        "word": "altruismal",
+        "pos": "adjective"
+      },
+      {
+        "word": "altruismion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "altruism is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "absolve",
+    "pos": "verb",
+    "phonetic": "/əbˈzɑːlv/",
+    "definition": "To formally free someone from blame, guilt, or responsibility for something.",
+    "definition_zh": "免除責任；宣告無罪；赦免",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ab",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開"
+        },
+        {
+          "root": "solv",
+          "origin": "Latin",
+          "meaning": "to loosen, release",
+          "meaning_zh": "鬆開、釋放"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "AB + SOLV = loosen away; absolve releases someone from guilt.",
+      "story_en": "The inquiry ABSOLVED the manager by loosening the blame attached to her name.",
+      "story_zh": "調查把責任從經理身上鬆開（SOLV），因此「免除（ABSOLVE）」她的責任。",
+      "emojis": [
+        "🔓",
+        "⚖️",
+        "🕊️"
+      ]
+    },
+    "example": "The report did not absolve senior officials of responsibility for the failed project.",
+    "example_zh": "該報告並未免除高階官員對失敗專案的責任。",
+    "collocations": [
+      "absolve someone of blame",
+      "absolve responsibility",
+      "absolve guilt",
+      "be absolved of wrongdoing",
+      "absolve from obligation"
+    ],
+    "synonyms": [
+      "exonerate",
+      "clear",
+      "acquit"
+    ],
+    "near_synonyms": [
+      {
+        "word": "forgive",
+        "difference": "forgive is personal or moral; absolve is formal and often concerns responsibility."
+      },
+      {
+        "word": "excuse",
+        "difference": "excuse may overlook a fault; absolve declares someone free from blame."
+      }
+    ],
+    "antonyms": [
+      "blame",
+      "accuse",
+      "convict"
+    ],
+    "word_family": [
+      {
+        "word": "absolve",
+        "pos": "verb"
+      },
+      {
+        "word": "absolution",
+        "pos": "noun"
+      },
+      {
+        "word": "absolute",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "absolve is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 71,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "analogy",
+    "pos": "noun",
+    "phonetic": "/əˈnælədʒi/",
+    "definition": "A comparison between two things, typically for the purpose of explanation or clarification.",
+    "definition_zh": "類比；比喻；相似物",
+    "mnemonic": {
+      "story_en": "The teacher drew an ANALOGY, comparing the human brain to a computer based on LOGOS (reason).",
+      "story_zh": "老師做了一個「類比（ANALOGY）」，根（ANA）據邏輯（LOGOS）將人類大腦比作電腦。",
+      "emojis": [
+        "🧠",
+        "💻",
+        "⚖️"
+      ],
+      "root_memory": "ANA- = upon, according to; connect this root idea with analogy."
+    },
+    "example": "To explain how electricity flows in a wire, the professor used the analogy of water flowing through a pipe.",
+    "synonyms": [
+      "comparison",
+      "metaphor",
+      "parallel",
+      "similitude"
+    ],
+    "frequency_rank": 72,
+    "tags": [
+      "college",
+      "academic",
+      "language"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ana-",
+          "origin": "Greek",
+          "meaning": "upon, according to",
+          "meaning_zh": "根據、沿著"
+        },
+        {
+          "root": "logos",
+          "origin": "Greek",
+          "meaning": "ratio, word, reason",
+          "meaning_zh": "比例、言語、道理"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 analogy 在正式語境中的自然用法。",
+    "collocations": [
+      "key analogy",
+      "analogy factor",
+      "analogy role",
+      "analogy in context",
+      "analogy and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "comparison",
+        "difference": "comparison is related, but analogy has its own usage pattern and context."
+      },
+      {
+        "word": "metaphor",
+        "difference": "metaphor may overlap in meaning, but it is not always interchangeable with analogy."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "analogy",
+        "pos": "noun"
+      },
+      {
+        "word": "analogyal",
+        "pos": "adjective"
+      },
+      {
+        "word": "analogyion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "analogy is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "annihilate",
+    "pos": "verb",
+    "phonetic": "/əˈnaɪəleɪt/",
+    "definition": "To destroy utterly; to wipe out of existence; to defeat completely.",
+    "definition_zh": "殲滅；消滅；徹底擊敗",
+    "mnemonic": {
+      "story_en": "The atomic bomb can ANNIHILATE an entire city, turning all buildings into NIHIL (nothing).",
+      "story_zh": "原子彈能「徹底消滅（ANNIHILATE）」整座城市，將所有建築物化為虛無（NIHIL）。",
+      "emojis": [
+        "💥",
+        "💀",
+        "🌪️"
+      ],
+      "root_memory": "AD- = to, toward; connect this root idea with annihilate."
+    },
+    "example": "The heavy artillery fire managed to annihilate the enemy's defensive fortifications within hours.",
+    "synonyms": [
+      "destroy",
+      "obliterate",
+      "exterminate",
+      "eradicate"
+    ],
+    "frequency_rank": 73,
+    "tags": [
+      "college",
+      "GRE",
+      "history"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "向、變成"
+        },
+        {
+          "root": "nihil",
+          "origin": "Latin",
+          "meaning": "nothing",
+          "meaning_zh": "虛無、沒有東西"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 annihilate 在正式語境中的自然用法。",
+    "collocations": [
+      "annihilate carefully",
+      "annihilate effectively",
+      "annihilate the plan",
+      "annihilate a proposal",
+      "annihilate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "destroy",
+        "difference": "destroy is related, but annihilate has its own usage pattern and context."
+      },
+      {
+        "word": "obliterate",
+        "difference": "obliterate may overlap in meaning, but it is not always interchangeable with annihilate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "annihilate",
+        "pos": "verb"
+      },
+      {
+        "word": "annihilatal",
+        "pos": "adjective"
+      },
+      {
+        "word": "annihilateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "annihilate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "anomaly",
+    "pos": "noun",
+    "phonetic": "/əˈnɑːməli/",
+    "definition": "Something that deviates from what is standard, normal, or expected.",
+    "definition_zh": "異常事物；反常現象；畸變",
+    "mnemonic": {
+      "story_en": "A snowfall in the desert is a weather ANOMALY, because it is AN (not) HOMALOS (regular) for that climate.",
+      "story_zh": "沙漠降雪是一種氣候「反常現象（ANOMALY）」，因為這對當地的氣候來說是不（AN）常規（HOMALOS）的。",
+      "emojis": [
+        "❄️",
+        "🌵",
+        "📊"
+      ],
+      "root_memory": "AN- = not, without; connect this root idea with anomaly."
+    },
+    "example": "Scientists discovered a genetic anomaly in the blood sample that could explain the patient's rare condition.",
+    "synonyms": [
+      "abnormality",
+      "irregularity",
+      "deviation",
+      "pecularity"
+    ],
+    "frequency_rank": 74,
+    "tags": [
+      "college",
+      "science",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "an-",
+          "origin": "Greek",
+          "meaning": "not, without",
+          "meaning_zh": "不、無"
+        },
+        {
+          "root": "homalos",
+          "origin": "Greek",
+          "meaning": "even, regular, same",
+          "meaning_zh": "平的、規律的、相同的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 anomaly 在正式語境中的自然用法。",
+    "collocations": [
+      "key anomaly",
+      "anomaly factor",
+      "anomaly role",
+      "anomaly in context",
+      "anomaly and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "abnormality",
+        "difference": "abnormality is related, but anomaly has its own usage pattern and context."
+      },
+      {
+        "word": "irregularity",
+        "difference": "irregularity may overlap in meaning, but it is not always interchangeable with anomaly."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "anomaly",
+        "pos": "noun"
+      },
+      {
+        "word": "anomalyal",
+        "pos": "adjective"
+      },
+      {
+        "word": "anomalyion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "anomaly is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "apathetic",
+    "pos": "adjective",
+    "phonetic": "/ˌæpəˈθetɪk/",
+    "definition": "Showing or feeling no interest, enthusiasm, or concern; listless or indifferent.",
+    "definition_zh": "冷漠的；無動於衷的；缺乏興趣的",
+    "mnemonic": {
+      "story_en": "Many APATHETIC citizens remain APATHETIC about elections, staying A- (without) PATHOS (feeling) for politics.",
+      "story_zh": "許多「冷漠的（APATHETIC）」公民對選舉無動於衷，對政治抱持著沒（A）有感情（PATHOS）的態度。",
+      "emojis": [
+        "😐",
+        "🤷‍♂️",
+        "💤"
+      ],
+      "root_memory": "A- = without; connect this root idea with apathetic."
+    },
+    "example": "The youth are often accused of being apathetic toward local politics, resulting in low voter turnout.",
+    "synonyms": [
+      "indifferent",
+      "unconcerned",
+      "uninterested",
+      "lethargic"
+    ],
+    "frequency_rank": 75,
+    "tags": [
+      "college",
+      "psychology",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "a-",
+          "origin": "Greek",
+          "meaning": "without",
+          "meaning_zh": "無、沒有"
+        },
+        {
+          "root": "pathos",
+          "origin": "Greek",
+          "meaning": "feeling, emotion",
+          "meaning_zh": "感情、痛苦"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 apathetic 在正式語境中的自然用法。",
+    "collocations": [
+      "apathetic factor",
+      "apathetic approach",
+      "apathetic evidence",
+      "apathetic context",
+      "apathetic role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "indifferent",
+        "difference": "indifferent is related, but apathetic has its own usage pattern and context."
+      },
+      {
+        "word": "unconcerned",
+        "difference": "unconcerned may overlap in meaning, but it is not always interchangeable with apathetic."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "apathetic",
+        "pos": "adjective"
+      },
+      {
+        "word": "apathetical",
+        "pos": "adjective"
+      },
+      {
+        "word": "apatheticion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "apathetic is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "arbitrary",
+    "pos": "adjective",
+    "phonetic": "/ˈɑːrbɪtreri/",
+    "definition": "Based on random choice or personal whim, rather than any reason, system, or law; (of power) autocratic or tyrannical.",
+    "definition_zh": "任意的；隨機的；武斷的；專制的",
+    "mnemonic": {
+      "story_en": "The dictator made an ARBITRARY decision, acting like a tyrannical ARBITER who ignores the written law.",
+      "story_zh": "獨裁者做了一個「武斷的（ARBITRARY）」決定，表現得像一個無視成文法律的專制仲裁者（ARBITER）。",
+      "emojis": [
+        "🎲",
+        "👑",
+        "⚖️"
+      ],
+      "root_memory": "ARBITER = judge, witness; connect this root idea with arbitrary."
+    },
+    "example": "The selection of the winners seemed completely arbitrary, with no clear criteria provided by the judges.",
+    "synonyms": [
+      "random",
+      "capricious",
+      "whimsical",
+      "discretionary"
+    ],
+    "frequency_rank": 76,
+    "tags": [
+      "college",
+      "academic",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "arbiter",
+          "origin": "Latin",
+          "meaning": "judge, witness",
+          "meaning_zh": "仲裁者、法官"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 arbitrary 在正式語境中的自然用法。",
+    "collocations": [
+      "arbitrary factor",
+      "arbitrary approach",
+      "arbitrary evidence",
+      "arbitrary context",
+      "arbitrary role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "random",
+        "difference": "random is related, but arbitrary has its own usage pattern and context."
+      },
+      {
+        "word": "capricious",
+        "difference": "capricious may overlap in meaning, but it is not always interchangeable with arbitrary."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "arbitrary",
+        "pos": "adjective"
+      },
+      {
+        "word": "arbitraryal",
+        "pos": "adjective"
+      },
+      {
+        "word": "arbitraryion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "arbitrary is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "assiduous",
+    "pos": "adjective",
+    "phonetic": "/əˈsɪdʒuəs/",
+    "definition": "Showing great care, attention, and persistent effort; diligent and hard-working.",
+    "definition_zh": "專心致志的；勤勉的；鍥而不捨的",
+    "mnemonic": {
+      "story_en": "The ASSIDUOUS student would SEDE (sit) at her desk for hours, working diligently on her research paper.",
+      "story_zh": "這位「勤勉的（ASSIDUOUS）」學生會連續幾個小時坐（SEDE）在書桌前，專心致志地寫著她的研究論文。",
+      "emojis": [
+        "✍️",
+        "📚",
+        "⏳"
+      ],
+      "root_memory": "AD- = to, near; connect this root idea with assiduous."
+    },
+    "example": "Through assiduous research and hours of interviews, the journalist finally uncovered the corporate scandal.",
+    "synonyms": [
+      "diligent",
+      "industrious",
+      "painstaking",
+      "sedulous"
+    ],
+    "frequency_rank": 77,
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad-",
+          "origin": "Latin",
+          "meaning": "to, near",
+          "meaning_zh": "向、靠近"
+        },
+        {
+          "root": "sedere",
+          "origin": "Latin",
+          "meaning": "to sit",
+          "meaning_zh": "坐"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 assiduous 在正式語境中的自然用法。",
+    "collocations": [
+      "assiduous factor",
+      "assiduous approach",
+      "assiduous evidence",
+      "assiduous context",
+      "assiduous role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "diligent",
+        "difference": "diligent is related, but assiduous has its own usage pattern and context."
+      },
+      {
+        "word": "industrious",
+        "difference": "industrious may overlap in meaning, but it is not always interchangeable with assiduous."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "assiduous",
+        "pos": "adjective"
+      },
+      {
+        "word": "assiduousal",
+        "pos": "adjective"
+      },
+      {
+        "word": "assiduousion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "assiduous is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "augment",
+    "pos": "verb",
+    "phonetic": "/ɔːɡˈment/",
+    "definition": "To make something greater, larger, or more intense by adding to it; to increase.",
+    "definition_zh": "增加；擴大；擴充；提高",
+    "mnemonic": {
+      "story_en": "He had to AUGMENT his income by taking a second job, AUG- (increasing) his total savings.",
+      "story_zh": "他不得不兼差第二份工作來「增加（AUGMENT）」收入，以擴大（AUGERE）他的總存款。",
+      "emojis": [
+        "➕",
+        "📈",
+        "💰"
+      ],
+      "root_memory": "AUGERE = to increase, make grow; connect this root idea with augment."
+    },
+    "example": "The military decided to augment its forces in the region due to rising political tensions.",
+    "synonyms": [
+      "increase",
+      "enhance",
+      "expand",
+      "amplify",
+      "supplement"
+    ],
+    "frequency_rank": 78,
+    "tags": [
+      "college",
+      "business",
+      "technology"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "augere",
+          "origin": "Latin",
+          "meaning": "to increase, make grow",
+          "meaning_zh": "增加、使成長"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 augment 在正式語境中的自然用法。",
+    "collocations": [
+      "augment carefully",
+      "augment effectively",
+      "augment the plan",
+      "augment a proposal",
+      "augment in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "increase",
+        "difference": "increase is related, but augment has its own usage pattern and context."
+      },
+      {
+        "word": "enhance",
+        "difference": "enhance may overlap in meaning, but it is not always interchangeable with augment."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "augment",
+        "pos": "verb"
+      },
+      {
+        "word": "augmental",
+        "pos": "adjective"
+      },
+      {
+        "word": "augmention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "augment is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "austere",
+    "pos": "adjective",
+    "phonetic": "/ɔːˈstɪr/",
+    "definition": "Severe or strict in manner, attitude, or appearance; having no comforts or luxuries; plain and unadorned.",
+    "definition_zh": "嚴厲的；簡樸的；苦行的；毫無裝飾的",
+    "mnemonic": {
+      "story_en": "The monk lived a very AUSTERE life in an AUSTERE room with nothing but a wooden bed.",
+      "story_zh": "僧侶在一間除了木床外別無他物的「簡樸（AUSTERE）」房間裡，過著非常苦（AUSTEROS）行簡樸的生活。",
+      "emojis": [
+        "🧘",
+        "🛏️",
+        "🧱"
+      ],
+      "root_memory": "AUSTEROS = bitter, harsh, dry; connect this root idea with austere."
+    },
+    "example": "During the economic crisis, the government introduced austere measures to reduce the national debt.",
+    "synonyms": [
+      "ascetic",
+      "stark",
+      "frugal",
+      "severe",
+      "unadorned"
+    ],
+    "frequency_rank": 79,
+    "tags": [
+      "college",
+      "economics",
+      "philosophy"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "austeros",
+          "origin": "Greek",
+          "meaning": "bitter, harsh, dry",
+          "meaning_zh": "苦的、嚴厲的、乾燥的"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 austere 在正式語境中的自然用法。",
+    "collocations": [
+      "austere factor",
+      "austere approach",
+      "austere evidence",
+      "austere context",
+      "austere role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ascetic",
+        "difference": "ascetic is related, but austere has its own usage pattern and context."
+      },
+      {
+        "word": "stark",
+        "difference": "stark may overlap in meaning, but it is not always interchangeable with austere."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "austere",
+        "pos": "adjective"
+      },
+      {
+        "word": "austeral",
+        "pos": "adjective"
+      },
+      {
+        "word": "austereion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "austere is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "abstain",
+    "pos": "verb",
+    "phonetic": "/əbˈsteɪn/",
+    "definition": "To deliberately avoid doing or consuming something; also to choose not to vote.",
+    "definition_zh": "戒絕；避免；投棄權票",
+    "etymology": {
+      "roots": [
+        {
+          "root": "abs",
+          "origin": "Latin",
+          "meaning": "away from",
+          "meaning_zh": "離開"
+        },
+        {
+          "root": "ten / tain",
+          "origin": "Latin",
+          "meaning": "to hold",
+          "meaning_zh": "握住、持有"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ABS + TAIN = hold away from; abstain means keeping yourself away from an action.",
+      "story_en": "The senator ABSTAINED from the vote, holding herself away from both sides.",
+      "story_zh": "參議員讓自己遠離（ABS）表決雙方，因此「棄權（ABSTAIN）」。",
+      "emojis": [
+        "🚫",
+        "🗳️",
+        "🤐"
+      ]
+    },
+    "example": "Several board members abstained because they had financial ties to the applicant.",
+    "example_zh": "幾位董事因與申請者有財務關係而投棄權票。",
+    "collocations": [
+      "abstain from alcohol",
+      "abstain from voting",
+      "choose to abstain",
+      "abstain on ethical grounds",
+      "abstain from comment"
+    ],
+    "synonyms": [
+      "refrain",
+      "forgo",
+      "avoid"
+    ],
+    "near_synonyms": [
+      {
+        "word": "refuse",
+        "difference": "refuse is active rejection; abstain is deliberate non-participation."
+      },
+      {
+        "word": "avoid",
+        "difference": "avoid is general; abstain often suggests discipline or formal voting."
+      }
+    ],
+    "antonyms": [
+      "participate",
+      "indulge",
+      "consume"
+    ],
+    "word_family": [
+      {
+        "word": "abstain",
+        "pos": "verb"
+      },
+      {
+        "word": "abstention",
+        "pos": "noun"
+      },
+      {
+        "word": "abstemious",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "abstain is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 80,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "benevolent",
+    "pos": "adjective",
+    "phonetic": "/bəˈnevələnt/",
+    "definition": "Well-meaning and kindly; serving a charitable rather than a profit-making purpose.",
+    "definition_zh": "仁慈的；慈善的；善意的",
+    "mnemonic": {
+      "story_en": "The BENEVOLENT king always wished BENE (well) for his people, showing great kindness.",
+      "story_zh": "這位「仁慈的（BENEVOLENT）」國王總是祝願（VELLE）他的子民過得好（BENE），展現了極大的善良。",
+      "emojis": [
+        "😇",
+        "🤝",
+        "🎁"
+      ],
+      "root_memory": "BENE = well, good; connect this root idea with benevolent."
+    },
+    "example": "The local orphanage was entirely funded by a benevolent billionaire who wished to remain anonymous.",
+    "synonyms": [
+      "kindly",
+      "charitable",
+      "philanthropic",
+      "altruistic"
+    ],
+    "frequency_rank": 81,
+    "tags": [
+      "college",
+      "social",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "bene",
+          "origin": "Latin",
+          "meaning": "well, good",
+          "meaning_zh": "好"
+        },
+        {
+          "root": "velle",
+          "origin": "Latin",
+          "meaning": "to wish",
+          "meaning_zh": "想要、祝願"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 benevolent 在正式語境中的自然用法。",
+    "collocations": [
+      "benevolent factor",
+      "benevolent approach",
+      "benevolent evidence",
+      "benevolent context",
+      "benevolent role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "kindly",
+        "difference": "kindly is related, but benevolent has its own usage pattern and context."
+      },
+      {
+        "word": "charitable",
+        "difference": "charitable may overlap in meaning, but it is not always interchangeable with benevolent."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "benevolent",
+        "pos": "adjective"
+      },
+      {
+        "word": "benevolental",
+        "pos": "adjective"
+      },
+      {
+        "word": "benevolention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "benevolent is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "capricious",
+    "pos": "adjective",
+    "phonetic": "/kəˈprɪʃəs/",
+    "definition": "Given to sudden and unaccountable changes of mood or behavior; fickle and unpredictable.",
+    "definition_zh": "變化無常的；任性的；善變的",
+    "mnemonic": {
+      "story_en": "The dictator's CAPRICIOUS moods changed as fast as a CAPRA (goat) leaping randomly in the mountains.",
+      "story_zh": "獨裁者「變化無常的（CAPRICIOUS）」情緒，就像在山中胡亂跳躍的山羊（CAPRA）一樣快。",
+      "emojis": [
+        "🐐",
+        "🌀",
+        "🌦️"
+      ],
+      "root_memory": "CAPRA = goat; connect this root idea with capricious."
+    },
+    "example": "The administration's capricious policy changes left local business owners confused and unable to plan ahead.",
+    "synonyms": [
+      "fickle",
+      "unpredictable",
+      "whimsical",
+      "mercurial",
+      "arbitrary"
+    ],
+    "frequency_rank": 82,
+    "tags": [
+      "college",
+      "GRE",
+      "business"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "capra",
+          "origin": "Latin",
+          "meaning": "goat",
+          "meaning_zh": "山羊"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 capricious 在正式語境中的自然用法。",
+    "collocations": [
+      "capricious factor",
+      "capricious approach",
+      "capricious evidence",
+      "capricious context",
+      "capricious role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "fickle",
+        "difference": "fickle is related, but capricious has its own usage pattern and context."
+      },
+      {
+        "word": "unpredictable",
+        "difference": "unpredictable may overlap in meaning, but it is not always interchangeable with capricious."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "capricious",
+        "pos": "adjective"
+      },
+      {
+        "word": "capriciousal",
+        "pos": "adjective"
+      },
+      {
+        "word": "capriciousion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "capricious is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "catalyst",
+    "pos": "noun",
+    "phonetic": "/ˈkætəlɪst/",
+    "definition": "A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change; a person or thing that precipitates an event or change.",
+    "definition_zh": "催化劑；促成者；引發改變的人或事物",
+    "mnemonic": {
+      "story_en": "The assassination of the archduke acted as a CATALYST, thoroughly LYEIN (loosening) the fragile peace and starting World War I.",
+      "story_zh": "大公被刺殺事件充當了「催化劑（CATALYST）」，徹底解開（LYEIN）了脆弱的和平，引發了第一次世界大戰。",
+      "emojis": [
+        "🧪",
+        "⚡",
+        "💥"
+      ],
+      "root_memory": "KATA- = down, thoroughly; connect this root idea with catalyst."
+    },
+    "example": "The publication of the book served as a catalyst for the nationwide civil rights movement.",
+    "synonyms": [
+      "stimulus",
+      "spark",
+      "incentive",
+      "impetus",
+      "promoter"
+    ],
+    "frequency_rank": 83,
+    "tags": [
+      "college",
+      "science",
+      "history"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "kata-",
+          "origin": "Greek",
+          "meaning": "down, thoroughly",
+          "meaning_zh": "向下、徹底"
+        },
+        {
+          "root": "lyein",
+          "origin": "Greek",
+          "meaning": "to loosen, untie",
+          "meaning_zh": "鬆開、解開"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 catalyst 在正式語境中的自然用法。",
+    "collocations": [
+      "key catalyst",
+      "catalyst factor",
+      "catalyst role",
+      "catalyst in context",
+      "catalyst and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "stimulus",
+        "difference": "stimulus is related, but catalyst has its own usage pattern and context."
+      },
+      {
+        "word": "spark",
+        "difference": "spark may overlap in meaning, but it is not always interchangeable with catalyst."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "catalyst",
+        "pos": "noun"
+      },
+      {
+        "word": "catalystal",
+        "pos": "adjective"
+      },
+      {
+        "word": "catalystion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "catalyst is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "chronic",
+    "pos": "adjective",
+    "phonetic": "/ˈkrɑːnɪk/",
+    "definition": "(of an illness or problem) persisting for a long time or constantly recurring.",
+    "definition_zh": "慢性的（疾病）；長期的；根深蒂固的",
+    "mnemonic": {
+      "story_en": "He suffered from CHRONIC back pain, which haunted him for a long CHRONOS (time).",
+      "story_zh": "他患有「慢性的（CHRONIC）」背痛，這困擾了他很長的時間（CHRONOS）。",
+      "emojis": [
+        "⏳",
+        "🏥",
+        "🧓"
+      ],
+      "root_memory": "CHRONOS = time; connect this root idea with chronic."
+    },
+    "example": "The country is suffering from chronic unemployment, which the government has failed to fix for a decade.",
+    "synonyms": [
+      "persistent",
+      "long-standing",
+      "inveterate",
+      "perennial"
+    ],
+    "frequency_rank": 84,
+    "tags": [
+      "college",
+      "academic",
+      "science"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "chronos",
+          "origin": "Greek",
+          "meaning": "time",
+          "meaning_zh": "時間"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 chronic 在正式語境中的自然用法。",
+    "collocations": [
+      "chronic factor",
+      "chronic approach",
+      "chronic evidence",
+      "chronic context",
+      "chronic role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "persistent",
+        "difference": "persistent is related, but chronic has its own usage pattern and context."
+      },
+      {
+        "word": "long-standing",
+        "difference": "long-standing may overlap in meaning, but it is not always interchangeable with chronic."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "chronic",
+        "pos": "adjective"
+      },
+      {
+        "word": "chronical",
+        "pos": "adjective"
+      },
+      {
+        "word": "chronicion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "chronic is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "circumspect",
+    "pos": "adjective",
+    "phonetic": "/ˈsɜːrkəmspekt/",
+    "definition": "Wary and unwilling to take risks; cautious and prudent before acting.",
+    "definition_zh": "謹慎的；考慮周密的；慎重的",
+    "mnemonic": {
+      "story_en": "A CIRCUMSPECT general will always CIRCUM (around) SPEC (look) at the terrain before ordering an attack.",
+      "story_zh": "一位「謹慎的（CIRCUMSPECT）」將軍在下令進攻前，總會向四周（CIRCUM）環顧觀察（SPECERE）地形。",
+      "emojis": [
+        "👀",
+        "🛡️",
+        "🕵️"
+      ],
+      "root_memory": "CIRCUM = around; connect this root idea with circumspect."
+    },
+    "example": "Officials were circumspect in their statements to the press, avoiding any mention of the ongoing investigation.",
+    "synonyms": [
+      "cautious",
+      "prudent",
+      "wary",
+      "guarded",
+      "vigilant"
+    ],
+    "frequency_rank": 85,
+    "tags": [
+      "college",
+      "GRE",
+      "politics"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "circum",
+          "origin": "Latin",
+          "meaning": "around",
+          "meaning_zh": "周圍、環繞"
+        },
+        {
+          "root": "specere",
+          "origin": "Latin",
+          "meaning": "to look",
+          "meaning_zh": "看"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 circumspect 在正式語境中的自然用法。",
+    "collocations": [
+      "circumspect factor",
+      "circumspect approach",
+      "circumspect evidence",
+      "circumspect context",
+      "circumspect role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "cautious",
+        "difference": "cautious is related, but circumspect has its own usage pattern and context."
+      },
+      {
+        "word": "prudent",
+        "difference": "prudent may overlap in meaning, but it is not always interchangeable with circumspect."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "circumspect",
+        "pos": "adjective"
+      },
+      {
+        "word": "circumspectal",
+        "pos": "adjective"
+      },
+      {
+        "word": "circumspection",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "circumspect is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "accelerate",
+    "pos": "verb",
+    "phonetic": "/əkˈseləreɪt/",
+    "definition": "To make something happen faster or to increase in speed, rate, or progress.",
+    "definition_zh": "加速；促進；加快",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "celer",
+          "origin": "Latin",
+          "meaning": "swift, fast",
+          "meaning_zh": "快速"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CELER = fast; accelerate means making movement or change faster.",
+      "story_en": "New funding ACCELERATED the research, making progress move at a faster pace.",
+      "story_zh": "新資金讓研究變快（CELER），因此「加速（ACCELERATE）」進展。",
+      "emojis": [
+        "⚡",
+        "🚀",
+        "⏩"
+      ]
+    },
+    "example": "Digital tools can accelerate data collection, but they do not guarantee better analysis.",
+    "example_zh": "數位工具可以加速資料蒐集，但不保證分析更好。",
+    "collocations": [
+      "accelerate growth",
+      "accelerate change",
+      "accelerate development",
+      "rapidly accelerate",
+      "accelerate the process"
+    ],
+    "synonyms": [
+      "speed up",
+      "hasten",
+      "expedite"
+    ],
+    "near_synonyms": [
+      {
+        "word": "increase",
+        "difference": "increase means become larger; accelerate specifically means become faster."
+      },
+      {
+        "word": "facilitate",
+        "difference": "facilitate makes easier; accelerate makes faster."
+      }
+    ],
+    "antonyms": [
+      "slow",
+      "delay",
+      "decelerate"
+    ],
+    "word_family": [
+      {
+        "word": "accelerate",
+        "pos": "verb"
+      },
+      {
+        "word": "acceleration",
+        "pos": "noun"
+      },
+      {
+        "word": "accelerator",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "accelerate is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 86,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "accessible",
+    "pos": "adjective",
+    "phonetic": "/əkˈsesəbəl/",
+    "definition": "Easy to reach, enter, use, understand, or obtain, especially for a wide range of people.",
+    "definition_zh": "可接近的；可使用的；容易理解的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ac / ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "ced / cess",
+          "origin": "Latin",
+          "meaning": "to go",
+          "meaning_zh": "走、前往"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CESS = go; accessible means people can go toward or use something.",
+      "story_en": "The city made the website ACCESSIBLE so every resident could reach public services online.",
+      "story_zh": "城市讓網站「可使用（ACCESSIBLE）」，使每位居民都能接近（CESS）公共服務。",
+      "emojis": [
+        "♿",
+        "🔓",
+        "🌐"
+      ]
+    },
+    "example": "The museum redesigned its entrance to make the building accessible to wheelchair users.",
+    "example_zh": "博物館重新設計入口，讓輪椅使用者也能進入。",
+    "collocations": [
+      "easily accessible",
+      "accessible to users",
+      "accessible language",
+      "accessible design",
+      "make information accessible"
+    ],
+    "synonyms": [
+      "available",
+      "reachable",
+      "usable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "convenient",
+        "difference": "convenient means easy to use; accessible also stresses reach, inclusion, or understandability."
+      },
+      {
+        "word": "understandable",
+        "difference": "understandable concerns meaning; accessible can concern physical or digital access."
+      }
+    ],
+    "antonyms": [
+      "inaccessible",
+      "unavailable",
+      "obscure"
+    ],
+    "word_family": [
+      {
+        "word": "accessible",
+        "pos": "adjective"
+      },
+      {
+        "word": "access",
+        "pos": "noun"
+      },
+      {
+        "word": "accessibility",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "accessible is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 87,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "complacent",
+    "pos": "adjective",
+    "phonetic": "/kəmˈpleɪsnt/",
+    "definition": "Showing smug or uncritical satisfaction with oneself or one's achievements, often while remaining unaware of upcoming dangers.",
+    "definition_zh": "自滿的；沾沾自喜的；盲目樂觀的",
+    "mnemonic": {
+      "story_en": "The champion became COMPLACENT, so thoroughly PLEASed (placere) with his past wins that he stopped training hard.",
+      "story_zh": "這位冠軍變得「自滿（COMPLACENT）」，對自己過去的勝利感到太過高興（PLACERE），以至於停止了刻苦訓練。",
+      "emojis": [
+        "😏",
+        "🏆",
+        "⚠️"
+      ],
+      "root_memory": "COM- = intensive prefix; connect this root idea with complacent."
+    },
+    "example": "We cannot afford to become complacent about market competition, as rival startups are launching new products every month.",
+    "synonyms": [
+      "smug",
+      "self-satisfied",
+      "conceited",
+      "unconcerned"
+    ],
+    "frequency_rank": 88,
+    "tags": [
+      "college",
+      "business",
+      "GRE"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "intensive prefix",
+          "meaning_zh": "加強語氣"
+        },
+        {
+          "root": "placere",
+          "origin": "Latin",
+          "meaning": "to please",
+          "meaning_zh": "使高興、取悅"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 complacent 在正式語境中的自然用法。",
+    "collocations": [
+      "complacent factor",
+      "complacent approach",
+      "complacent evidence",
+      "complacent context",
+      "complacent role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "smug",
+        "difference": "smug is related, but complacent has its own usage pattern and context."
+      },
+      {
+        "word": "self-satisfied",
+        "difference": "self-satisfied may overlap in meaning, but it is not always interchangeable with complacent."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "complacent",
+        "pos": "adjective"
+      },
+      {
+        "word": "complacental",
+        "pos": "adjective"
+      },
+      {
+        "word": "complacention",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "complacent is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "accommodate",
+    "pos": "verb",
+    "phonetic": "/əˈkɑːmədeɪt/",
+    "definition": "To provide space, support, or adjustment for someone or something; also to adapt to a need or condition.",
+    "definition_zh": "容納；提供住宿；配合；調整以適應",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "commodus",
+          "origin": "Latin",
+          "meaning": "fit, suitable",
+          "meaning_zh": "合適、方便"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "COMMODUS = suitable; accommodate means making conditions suitable for someone.",
+      "story_en": "The school ACCOMMODATED students by adjusting the schedule to fit their needs.",
+      "story_zh": "學校調整課表使其合適（COMMODUS），以「配合（ACCOMMODATE）」學生需求。",
+      "emojis": [
+        "🏨",
+        "🤝",
+        "🧩"
+      ]
+    },
+    "example": "The software can accommodate different screen sizes without losing key functions.",
+    "example_zh": "這套軟體可以適應不同螢幕尺寸而不失去主要功能。",
+    "collocations": [
+      "accommodate needs",
+      "accommodate guests",
+      "accommodate changes",
+      "reasonably accommodate",
+      "accommodate demand"
+    ],
+    "synonyms": [
+      "adapt to",
+      "house",
+      "adjust for"
+    ],
+    "near_synonyms": [
+      {
+        "word": "include",
+        "difference": "include means contain as part; accommodate means make room or adjustment."
+      },
+      {
+        "word": "tolerate",
+        "difference": "tolerate means allow despite dislike; accommodate is more supportive."
+      }
+    ],
+    "antonyms": [
+      "exclude",
+      "reject",
+      "displace"
+    ],
+    "word_family": [
+      {
+        "word": "accommodate",
+        "pos": "verb"
+      },
+      {
+        "word": "accommodation",
+        "pos": "noun"
+      },
+      {
+        "word": "accommodating",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "accommodate is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 89,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "accuracy",
+    "pos": "noun",
+    "phonetic": "/ˈækjərəsi/",
+    "definition": "The quality of being correct, exact, and free from error, especially in measurement, reporting, or judgment.",
+    "definition_zh": "準確性；精確度；正確性",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "cura",
+          "origin": "Latin",
+          "meaning": "care",
+          "meaning_zh": "照料、仔細"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "CURA = care; accuracy comes from careful attention to correctness.",
+      "story_en": "The scientist checked every number with care to protect the ACCURACY of the results.",
+      "story_zh": "科學家仔細（CURA）檢查每個數字，以確保結果的「準確性（ACCURACY）」。",
+      "emojis": [
+        "🎯",
+        "📏",
+        "✅"
+      ]
+    },
+    "example": "The accuracy of the survey depends on both sample size and question design.",
+    "example_zh": "調查的準確性取決於樣本數與問題設計。",
+    "collocations": [
+      "high accuracy",
+      "improve accuracy",
+      "accuracy rate",
+      "data accuracy",
+      "measure accuracy"
+    ],
+    "synonyms": [
+      "precision",
+      "correctness",
+      "exactness"
+    ],
+    "near_synonyms": [
+      {
+        "word": "precision",
+        "difference": "precision stresses fine detail; accuracy stresses closeness to the truth or correct value."
+      },
+      {
+        "word": "reliability",
+        "difference": "reliability means consistency; accuracy means correctness."
+      }
+    ],
+    "antonyms": [
+      "inaccuracy",
+      "error",
+      "imprecision"
+    ],
+    "word_family": [
+      {
+        "word": "accuracy",
+        "pos": "noun"
+      },
+      {
+        "word": "accurate",
+        "pos": "adjective"
+      },
+      {
+        "word": "accurately",
+        "pos": "adverb"
+      }
+    ],
+    "usage_note": "accuracy is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 90,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "condone",
+    "pos": "verb",
+    "phonetic": "/kənˈdoʊn/",
+    "definition": "To accept and allow (behavior that is considered morally wrong or offensive) to continue; to overlook or forgive.",
+    "definition_zh": "縱容；寬恕；默許（壞事）",
+    "mnemonic": {
+      "story_en": "By remaining silent, the principal seemed to CONDONE bullying, GRANTing (donare) complete freedom to the bullies.",
+      "story_zh": "校長透過保持沉默，似乎「縱容（CONDONE）」了校園霸凌，完全給予（DONARE）了惡霸們為所欲為的自由。",
+      "emojis": [
+        "🙈",
+        "🚫",
+        "⚖️"
+      ],
+      "root_memory": "COM- = intensive prefix; connect this root idea with condone."
+    },
+    "example": "The school board made it clear that they do not condone cheating under any circumstances.",
+    "synonyms": [
+      "overlook",
+      "pardon",
+      "excuse",
+      "tolerate",
+      "wink at"
+    ],
+    "frequency_rank": 91,
+    "tags": [
+      "college",
+      "GRE",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "intensive prefix",
+          "meaning_zh": "加強語氣"
+        },
+        {
+          "root": "donare",
+          "origin": "Latin",
+          "meaning": "to give, grant",
+          "meaning_zh": "給予、贈送"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 condone 在正式語境中的自然用法。",
+    "collocations": [
+      "condone carefully",
+      "condone effectively",
+      "condone the plan",
+      "condone a proposal",
+      "condone in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "overlook",
+        "difference": "overlook is related, but condone has its own usage pattern and context."
+      },
+      {
+        "word": "pardon",
+        "difference": "pardon may overlap in meaning, but it is not always interchangeable with condone."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "condone",
+        "pos": "verb"
+      },
+      {
+        "word": "condonal",
+        "pos": "adjective"
+      },
+      {
+        "word": "condoneion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "condone is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "adaptation",
+    "pos": "noun",
+    "phonetic": "/ˌædæpˈteɪʃən/",
+    "definition": "A change made so that someone or something can function better in a new environment, situation, or medium.",
+    "definition_zh": "適應；改編；調整",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "apt",
+          "origin": "Latin",
+          "meaning": "fit, suitable",
+          "meaning_zh": "合適"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "APT = fit; adaptation is a change that makes something fit new conditions.",
+      "story_en": "The novel became a film ADAPTATION after writers reshaped it to fit the screen.",
+      "story_zh": "作家把小說調整得適合（APT）螢幕，因此成為電影「改編（ADAPTATION）」。",
+      "emojis": [
+        "🧬",
+        "🎬",
+        "🔄"
+      ]
+    },
+    "example": "Successful adaptation to climate change requires both new infrastructure and public planning.",
+    "example_zh": "成功適應氣候變遷需要新基礎建設與公共規劃。",
+    "collocations": [
+      "climate adaptation",
+      "film adaptation",
+      "cultural adaptation",
+      "successful adaptation",
+      "key adaptation"
+    ],
+    "synonyms": [
+      "adjustment",
+      "modification",
+      "conversion"
+    ],
+    "near_synonyms": [
+      {
+        "word": "adaptability",
+        "difference": "adaptability is the ability to adapt; adaptation is the change or result."
+      },
+      {
+        "word": "evolution",
+        "difference": "evolution is long-term biological or social change; adaptation can be immediate or planned."
+      }
+    ],
+    "antonyms": [
+      "maladaptation",
+      "rigidity",
+      "resistance"
+    ],
+    "word_family": [
+      {
+        "word": "adaptation",
+        "pos": "noun"
+      },
+      {
+        "word": "adapt",
+        "pos": "verb"
+      },
+      {
+        "word": "adaptive",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "adaptation is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 92,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "conjecture",
+    "pos": "noun",
+    "phonetic": "/kənˈdʒektʃər/",
+    "definition": "An opinion or conclusion formed on the basis of incomplete information; a guess or speculation.",
+    "definition_zh": "推測；猜測；臆測",
+    "mnemonic": {
+      "story_en": "Without clear data, the scientists could only THROW (jacere) random theories COM- (together) as mere CONJECTURE.",
+      "story_zh": "在沒有明確數據的情況下，科學家們只能把隨機的理論丟（JACERE）在一起（COM），作為一種純粹的「推測（CONJECTURE）」。",
+      "emojis": [
+        "❓",
+        "🎲",
+        "🧩"
+      ],
+      "root_memory": "COM- = together; connect this root idea with conjecture."
+    },
+    "example": "The media's reporting on the celebrity's disappearance was based entirely on conjecture rather than hard facts.",
+    "synonyms": [
+      "speculation",
+      "guesswork",
+      "surmise",
+      "hypothesis"
+    ],
+    "frequency_rank": 93,
+    "tags": [
+      "college",
+      "GRE",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "together",
+          "meaning_zh": "一起"
+        },
+        {
+          "root": "jacere",
+          "origin": "Latin",
+          "meaning": "to throw",
+          "meaning_zh": "丟、拋"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 conjecture 在正式語境中的自然用法。",
+    "collocations": [
+      "key conjecture",
+      "conjecture factor",
+      "conjecture role",
+      "conjecture in context",
+      "conjecture and policy"
+    ],
+    "antonyms": [
+      "absence",
+      "opposite",
+      "irrelevance"
+    ],
+    "near_synonyms": [
+      {
+        "word": "speculation",
+        "difference": "speculation is related, but conjecture has its own usage pattern and context."
+      },
+      {
+        "word": "guesswork",
+        "difference": "guesswork may overlap in meaning, but it is not always interchangeable with conjecture."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "conjecture",
+        "pos": "noun"
+      },
+      {
+        "word": "conjectural",
+        "pos": "adjective"
+      },
+      {
+        "word": "conjectureion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "conjecture is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "conspicuous",
+    "pos": "adjective",
+    "phonetic": "/kənˈspɪkjuəs/",
+    "definition": "Standing out so as to be clearly visible; attracting notice or attention.",
+    "definition_zh": "顯眼的；引人注目的；明顯的",
+    "mnemonic": {
+      "story_en": "Her bright neon jacket made her highly CONSPICUOUS, forcing everyone to LOOK (specere) straight at her.",
+      "story_zh": "她那件明亮的霓虹夾克讓她顯得非常「引人注目（CONSPICUOUS）」，迫使每個人都盯著她看（SPECERE）。",
+      "emojis": [
+        "🦺",
+        "🦚",
+        "👁️"
+      ],
+      "root_memory": "COM- = intensive prefix; connect this root idea with conspicuous."
+    },
+    "example": "The red warning sign was placed in a conspicuous position near the high-voltage entrance.",
+    "synonyms": [
+      "noticeable",
+      "prominent",
+      "obvious",
+      "salient",
+      "striking"
+    ],
+    "frequency_rank": 94,
+    "tags": [
+      "college",
+      "social",
+      "TOEFL"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "intensive prefix",
+          "meaning_zh": "加強語氣"
+        },
+        {
+          "root": "specere",
+          "origin": "Latin",
+          "meaning": "to look",
+          "meaning_zh": "看"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 conspicuous 在正式語境中的自然用法。",
+    "collocations": [
+      "conspicuous factor",
+      "conspicuous approach",
+      "conspicuous evidence",
+      "conspicuous context",
+      "conspicuous role"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "opposite",
+      "unsuitable"
+    ],
+    "near_synonyms": [
+      {
+        "word": "noticeable",
+        "difference": "noticeable is related, but conspicuous has its own usage pattern and context."
+      },
+      {
+        "word": "prominent",
+        "difference": "prominent may overlap in meaning, but it is not always interchangeable with conspicuous."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "conspicuous",
+        "pos": "adjective"
+      },
+      {
+        "word": "conspicuousal",
+        "pos": "adjective"
+      },
+      {
+        "word": "conspicuousion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "conspicuous is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "adolescent",
+    "pos": "noun",
+    "phonetic": "/ˌædəˈlesnt/",
+    "definition": "A young person in the stage of development between childhood and adulthood.",
+    "definition_zh": "青少年；青春期的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "adolescere",
+          "origin": "Latin",
+          "meaning": "to grow up",
+          "meaning_zh": "成長、長大"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "ADOLESCERE = grow up; an adolescent is someone growing toward adulthood.",
+      "story_en": "An ADOLESCENT is still growing up, learning adult responsibilities step by step.",
+      "story_zh": "「青少年（ADOLESCENT）」正在長大（ADOLESCERE），一步步學習成人責任。",
+      "emojis": [
+        "🧑",
+        "🌱",
+        "🎒"
+      ]
+    },
+    "example": "Adolescent mental health has become a major concern for schools and public health agencies.",
+    "example_zh": "青少年心理健康已成為學校與公共衛生機構的重要關切。",
+    "collocations": [
+      "adolescent development",
+      "adolescent behavior",
+      "adolescent health",
+      "adolescent identity",
+      "adolescent students"
+    ],
+    "synonyms": [
+      "teenager",
+      "youth",
+      "minor"
+    ],
+    "near_synonyms": [
+      {
+        "word": "child",
+        "difference": "child is younger and prepubescent; adolescent refers to the teenage developmental stage."
+      },
+      {
+        "word": "young adult",
+        "difference": "young adult is usually older and more independent than an adolescent."
+      }
+    ],
+    "antonyms": [
+      "adult",
+      "elder",
+      "infant"
+    ],
+    "word_family": [
+      {
+        "word": "adolescent",
+        "pos": "noun"
+      },
+      {
+        "word": "adolescence",
+        "pos": "noun"
+      },
+      {
+        "word": "adolescent",
+        "pos": "adjective"
+      }
+    ],
+    "usage_note": "adolescent is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 95,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  },
+  {
+    "word": "apparatus",
+    "pos": "noun",
+    "phonetic": "/ˌæpəˈrætəs/",
+    "definition": "A set of equipment, tools, or organizational structures used for a particular purpose.",
+    "definition_zh": "設備；器材；機構；組織系統",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to, toward",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "parare",
+          "origin": "Latin",
+          "meaning": "to prepare",
+          "meaning_zh": "準備"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PARARE = prepare; an apparatus is prepared equipment for a task.",
+      "story_en": "The laboratory APPARATUS was prepared before the experiment began.",
+      "story_zh": "實驗開始前，實驗「設備（APPARATUS）」已準備（PARARE）完成。",
+      "emojis": [
+        "🔬",
+        "⚙️",
+        "🧰"
+      ]
+    },
+    "example": "The researchers sterilized the apparatus before measuring the chemical reaction.",
+    "example_zh": "研究人員在測量化學反應前先將設備消毒。",
+    "collocations": [
+      "laboratory apparatus",
+      "scientific apparatus",
+      "state apparatus",
+      "breathing apparatus",
+      "complex apparatus"
+    ],
+    "synonyms": [
+      "equipment",
+      "machinery",
+      "instrumentation"
+    ],
+    "near_synonyms": [
+      {
+        "word": "device",
+        "difference": "a device is one tool; apparatus often refers to a set of tools or a system."
+      },
+      {
+        "word": "system",
+        "difference": "system is broader; apparatus often emphasizes equipment or institutional machinery."
+      }
+    ],
+    "antonyms": [
+      "disorganization",
+      "improvisation",
+      "bare hands"
+    ],
+    "word_family": [
+      {
+        "word": "apparatus",
+        "pos": "noun"
+      },
+      {
+        "word": "apparat",
+        "pos": "noun"
+      },
+      {
+        "word": "prepare",
+        "pos": "verb"
+      }
+    ],
+    "usage_note": "apparatus is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 96,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "corroborate",
+    "pos": "verb",
+    "phonetic": "/kəˈrɑːbəreɪt/",
+    "definition": "To confirm or give support to a statement, theory, or finding with evidence or authority.",
+    "definition_zh": "證實；確證；提供證據支持",
+    "mnemonic": {
+      "story_en": "The witness was called to CORROBORATE the alibi, making the suspect's story look as ROBUST (strong) as an oak tree.",
+      "story_zh": "證人被傳喚來「證實（CORROBORATE）」不在場證明，使嫌疑人的說法看起來像橡樹一樣堅固（ROBUR）強壯。",
+      "emojis": [
+        "📜",
+        "🤝",
+        "⚖️"
+      ],
+      "root_memory": "COM- = intensive prefix; connect this root idea with corroborate."
+    },
+    "example": "A second independent laboratory was hired to corroborate the results of the initial chemical experiment.",
+    "synonyms": [
+      "confirm",
+      "substantiate",
+      "verify",
+      "validate",
+      "authenticate"
+    ],
+    "frequency_rank": 97,
+    "tags": [
+      "college",
+      "GRE",
+      "law"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "com-",
+          "origin": "Latin",
+          "meaning": "intensive prefix",
+          "meaning_zh": "加強語氣"
+        },
+        {
+          "root": "robur / robustus",
+          "origin": "Latin",
+          "meaning": "oak, strong",
+          "meaning_zh": "橡樹、強壯、堅固"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 corroborate 在正式語境中的自然用法。",
+    "collocations": [
+      "corroborate carefully",
+      "corroborate effectively",
+      "corroborate the plan",
+      "corroborate a proposal",
+      "corroborate in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "confirm",
+        "difference": "confirm is related, but corroborate has its own usage pattern and context."
+      },
+      {
+        "word": "substantiate",
+        "difference": "substantiate may overlap in meaning, but it is not always interchangeable with corroborate."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "corroborate",
+        "pos": "verb"
+      },
+      {
+        "word": "corroboratal",
+        "pos": "adjective"
+      },
+      {
+        "word": "corroborateion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "corroborate is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "defer",
+    "pos": "verb",
+    "phonetic": "/dɪˈfɜːr/",
+    "definition": "To postpone or delay an action or event until a later time; to submit humbly to another's wish or authority.",
+    "definition_zh": "推遲；延期；聽從；順從",
+    "mnemonic": {
+      "story_en": "They decided to DEFER the game, CARRYing (ferre) the schedule DE- (away) to next weekend due to rain.",
+      "story_zh": "由於下雨，他們決定將比賽「延期（DEFER）」，將時程表從本週末帶走（FERRE/DE）。",
+      "emojis": [
+        "⏳",
+        "🗓️",
+        "🙇‍♂️"
+      ],
+      "root_memory": "DE- = away, down; connect this root idea with defer."
+    },
+    "example": "The student requested to defer her university admission for a year to work and gain practical experience.",
+    "synonyms": [
+      "postpone",
+      "delay",
+      "adjourn",
+      "yield",
+      "submit"
+    ],
+    "frequency_rank": 98,
+    "tags": [
+      "college",
+      "business",
+      "academic"
+    ],
+    "etymology": {
+      "roots": [
+        {
+          "root": "de-",
+          "origin": "Latin",
+          "meaning": "away, down",
+          "meaning_zh": "離開、向下"
+        },
+        {
+          "root": "ferre",
+          "origin": "Latin",
+          "meaning": "to carry, bring",
+          "meaning_zh": "攜帶、運送"
+        }
+      ]
+    },
+    "example_zh": "這個例句展示 defer 在正式語境中的自然用法。",
+    "collocations": [
+      "defer carefully",
+      "defer effectively",
+      "defer the plan",
+      "defer a proposal",
+      "defer in practice"
+    ],
+    "antonyms": [
+      "neglect",
+      "avoid",
+      "prevent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "postpone",
+        "difference": "postpone is related, but defer has its own usage pattern and context."
+      },
+      {
+        "word": "delay",
+        "difference": "delay may overlap in meaning, but it is not always interchangeable with defer."
+      }
+    ],
+    "word_family": [
+      {
+        "word": "defer",
+        "pos": "verb"
+      },
+      {
+        "word": "deferal",
+        "pos": "adjective"
+      },
+      {
+        "word": "deferion",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "defer is common in college-level academic or professional English; check collocations for natural use.",
+    "frequency_source": "custom",
+    "difficulty": "B2"
+  },
+  {
+    "word": "append",
+    "pos": "verb",
+    "phonetic": "/əˈpend/",
+    "definition": "To add something to the end of a document, message, list, or file.",
+    "definition_zh": "附加；增補；加在末尾",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "pend",
+          "origin": "Latin",
+          "meaning": "to hang",
+          "meaning_zh": "懸掛"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PEND = hang; append means hanging extra material onto the end.",
+      "story_en": "The lawyer APPENDED a chart to the contract, hanging it at the end as supporting evidence.",
+      "story_zh": "律師把圖表掛在（PEND）合約末尾作為補充，這就是「附加（APPEND）」。",
+      "emojis": [
+        "📎",
+        "📄",
+        "➕"
+      ]
+    },
+    "example": "Please append the raw survey data to the final report for transparency.",
+    "example_zh": "請將原始調查資料附加到最終報告中以提高透明度。",
+    "collocations": [
+      "append a file",
+      "append to a document",
+      "append a note",
+      "append an appendix",
+      "append carefully"
+    ],
+    "synonyms": [
+      "attach",
+      "add",
+      "affix"
+    ],
+    "near_synonyms": [
+      {
+        "word": "insert",
+        "difference": "insert means place inside; append means add at the end."
+      },
+      {
+        "word": "include",
+        "difference": "include means contain; append specifically means attach as an addition."
+      }
+    ],
+    "antonyms": [
+      "remove",
+      "delete",
+      "detach"
+    ],
+    "word_family": [
+      {
+        "word": "append",
+        "pos": "verb"
+      },
+      {
+        "word": "appendix",
+        "pos": "noun"
+      },
+      {
+        "word": "appendage",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "append is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 99,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "TOEFL"
+    ]
+  },
+  {
+    "word": "applicable",
+    "pos": "adjective",
+    "phonetic": "/əˈplɪkəbəl/",
+    "definition": "Relevant and suitable for use in a particular situation, rule, or case.",
+    "definition_zh": "適用的；可應用的；相關的",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ad",
+          "origin": "Latin",
+          "meaning": "to",
+          "meaning_zh": "朝向"
+        },
+        {
+          "root": "plic",
+          "origin": "Latin",
+          "meaning": "to fold",
+          "meaning_zh": "摺疊"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "PLIC = fold; applicable means a rule can be folded onto a case.",
+      "story_en": "The policy was APPLICABLE because it fit the case like a folded map over the right area.",
+      "story_zh": "該政策能摺合（PLIC）到這個案例上，因此是「適用的（APPLICABLE）」。",
+      "emojis": [
+        "✅",
+        "📋",
+        "🧩"
+      ]
+    },
+    "example": "The discount is only applicable to students who register before the deadline.",
+    "example_zh": "此折扣只適用於截止日前註冊的學生。",
+    "collocations": [
+      "applicable law",
+      "applicable rules",
+      "where applicable",
+      "not applicable",
+      "applicable to all cases"
+    ],
+    "synonyms": [
+      "relevant",
+      "suitable",
+      "pertinent"
+    ],
+    "near_synonyms": [
+      {
+        "word": "appropriate",
+        "difference": "appropriate means proper; applicable means able to be applied to a case."
+      },
+      {
+        "word": "valid",
+        "difference": "valid means legally or logically sound; applicable means relevant for use."
+      }
+    ],
+    "antonyms": [
+      "irrelevant",
+      "inapplicable",
+      "unsuitable"
+    ],
+    "word_family": [
+      {
+        "word": "applicable",
+        "pos": "adjective"
+      },
+      {
+        "word": "apply",
+        "pos": "verb"
+      },
+      {
+        "word": "application",
+        "pos": "noun"
+      }
+    ],
+    "usage_note": "applicable is most natural in formal academic, legal, scientific, or professional writing when used with its common collocations.",
+    "frequency_rank": 100,
+    "frequency_source": "custom",
+    "difficulty": "B2",
+    "tags": [
+      "college",
+      "academic",
+      "IELTS"
+    ]
+  }
+]
