@@ -775,9 +775,15 @@ function BookScreen({vocab}){
   const[initialVal,setInitialVal]=useState("all");
   const[rootVal,setRootVal]=useState("all");
   const[modalIdx,setModalIdx]=useState(null);
+  const[page,setPage]=useState(1);
+  const[perPage,setPerPage]=useState(50);
 
   const allInitials=[...new Set(vocab.map(w=>w.word?.[0]?.toUpperCase()).filter(Boolean))].sort();
-  const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root).filter(Boolean)))].sort();
+  // Fix: support both roots[] and etymology.roots[]
+  const allRoots=[...new Set(vocab.flatMap(w=>{
+    const r=w.roots||(w.etymology&&w.etymology.roots)||[];
+    return r.map(r=>r.root).filter(Boolean);
+  }))].sort();
 
   const fsrsAll=FSRS.all();
   let words=vocab;
@@ -785,7 +791,17 @@ function BookScreen({vocab}){
   else if(filter==="mastered")words=words.filter(w=>FSRS.get(w.word).interval>=7);
   else if(filter==="new")words=words.filter(w=>!fsrsAll[w.word]);
   if(initialVal!=="all")words=words.filter(w=>w.word?.[0]?.toUpperCase()===initialVal);
-  if(rootVal!=="all")words=words.filter(w=>(w.roots||[]).some(r=>r.root===rootVal));
+  if(rootVal!=="all")words=words.filter(w=>{
+    const r=w.roots||(w.etymology&&w.etymology.roots)||[];
+    return r.some(r=>r.root===rootVal);
+  });
+
+  const totalPages=Math.max(1,Math.ceil(words.length/perPage));
+  const safePage=Math.min(page,totalPages);
+  const pageWords=words.slice((safePage-1)*perPage,safePage*perPage);
+
+  // Reset to page 1 when filter/perPage changes
+  useEffect(()=>setPage(1),[filter,initialVal,rootVal,perPage]);
 
   const modal=modalIdx!==null?words[modalIdx]:null;
   const closeModal=()=>setModalIdx(null);
@@ -810,7 +826,7 @@ function BookScreen({vocab}){
     color:active?"var(--accent2)":"var(--muted)",
     cursor:"pointer",whiteSpace:"nowrap",flexShrink:0,transition:"all .15s",
   });
-  const selectStyle={
+  const selStyle={
     fontFamily:"var(--mono)",fontSize:14,padding:"6px 10px",
     borderRadius:8,border:"1px solid var(--border)",
     background:"var(--surface2)",color:"var(--muted)",
@@ -820,6 +836,27 @@ function BookScreen({vocab}){
     backgroundImage:"url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%236b7080'/%3E%3C/svg%3E\")",
     backgroundRepeat:"no-repeat",backgroundPosition:"right 8px center",
   };
+  const navBtnStyle=(disabled)=>({
+    fontFamily:"var(--mono)",fontSize:14,padding:"6px 12px",
+    borderRadius:8,border:"1px solid var(--border)",
+    background:"transparent",color:disabled?"var(--dim)":"var(--muted)",
+    cursor:disabled?"not-allowed":"pointer",transition:"all .15s",flexShrink:0,
+  });
+
+  const Paginator=()=>(
+    <div style={{display:"flex",alignItems:"center",gap:8,width:"100%",padding:"8px 20px"}}>
+      <button style={navBtnStyle(safePage<=1)} disabled={safePage<=1}
+        onClick={()=>setPage(p=>Math.max(1,p-1))}>← 上一頁</button>
+      <select value={safePage} onChange={e=>setPage(Number(e.target.value))}
+        style={{...selStyle,flex:1,paddingLeft:10,textAlign:"center"}}>
+        {Array.from({length:totalPages},(_,i)=>(
+          <option key={i+1} value={i+1}>第 {i+1} / {totalPages} 頁</option>
+        ))}
+      </select>
+      <button style={navBtnStyle(safePage>=totalPages)} disabled={safePage>=totalPages}
+        onClick={()=>setPage(p=>Math.min(totalPages,p+1))}>下一頁 →</button>
+    </div>
+  );
 
   return(
     <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:0,padding:"16px 0 48px",width:"100%",maxWidth:700,margin:"0 auto"}}>
@@ -830,7 +867,7 @@ function BookScreen({vocab}){
         <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{words.length} 筆</span>
       </div>
 
-      {/* 主篩選 — 水平捲動 */}
+      {/* 主篩選 */}
       <div style={{width:"100%",overflowX:"auto",scrollbarWidth:"none",msOverflowStyle:"none",paddingBottom:2}}>
         <div style={{display:"flex",gap:6,padding:"0 20px",minWidth:"max-content"}}>
           {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"]].map(([f,l])=>(
@@ -842,12 +879,12 @@ function BookScreen({vocab}){
         </div>
       </div>
 
-      {/* 次篩選 — 下拉選單 */}
-      <div style={{width:"100%",display:"flex",gap:10,padding:"10px 20px 12px",borderBottom:"1px solid var(--border)",marginBottom:4}}>
+      {/* 次篩選 + 每頁筆數 */}
+      <div style={{width:"100%",display:"flex",gap:8,padding:"10px 20px 10px",marginBottom:4}}>
         <div style={{position:"relative",flex:1}}>
           <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字首</span>
           <select value={initialVal} onChange={e=>{setInitialVal(e.target.value);setModalIdx(null)}}
-            style={{...selectStyle,width:"100%",paddingLeft:36}}>
+            style={{...selStyle,width:"100%",paddingLeft:36}}>
             <option value="all">全部</option>
             {allInitials.map(c=><option key={c} value={c}>{c}</option>)}
           </select>
@@ -855,12 +892,23 @@ function BookScreen({vocab}){
         <div style={{position:"relative",flex:1}}>
           <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字根</span>
           <select value={rootVal} onChange={e=>{setRootVal(e.target.value);setModalIdx(null)}}
-            style={{...selectStyle,width:"100%",paddingLeft:36}}>
+            style={{...selStyle,width:"100%",paddingLeft:36}}>
             <option value="all">全部</option>
             {allRoots.map(r=><option key={r} value={r}>{r}</option>)}
           </select>
         </div>
+        <div style={{position:"relative",flexShrink:0}}>
+          <select value={perPage} onChange={e=>setPerPage(Number(e.target.value))}
+            style={{...selStyle,paddingLeft:10}}>
+            <option value={20}>20 筆</option>
+            <option value={50}>50 筆</option>
+            <option value={100}>100 筆</option>
+          </select>
+        </div>
       </div>
+
+      {/* 分頁器（上） */}
+      {words.length>0&&<Paginator/>}
 
       {/* 單字列表 */}
       <div style={{width:"100%",padding:"0 20px"}}>
@@ -869,10 +917,11 @@ function BookScreen({vocab}){
             此篩選條件下沒有單字<br/>
             <span style={{fontSize:13,opacity:.6}}>試試其他篩選條件</span>
           </div>
-        :words.map((w,i)=>{
+        :pageWords.map((w,i)=>{
           const p=FSRS.get(w.word);
+          const globalIdx=words.indexOf(w);
           return(
-            <div key={w.word} className="book-item" onClick={()=>setModalIdx(i)}>
+            <div key={w.word} className="book-item" onClick={()=>setModalIdx(globalIdx)}>
               <span style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--text)",minWidth:120}}>{w.word}</span>
               <SynonymTooltip synonyms={w.synonyms||[]}/>
               <span onClick={e=>{e.stopPropagation();Audio_.speak(w.word,null,null)}}
@@ -884,6 +933,9 @@ function BookScreen({vocab}){
         })
       }
       </div>
+
+      {/* 分頁器（下） */}
+      {words.length>0&&<Paginator/>}
 
       {/* Modal */}
       {modal&&(
