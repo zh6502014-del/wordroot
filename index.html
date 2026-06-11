@@ -283,12 +283,36 @@ const MISTAKES={
 
 const shuffle=arr=>{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 
-const buildDeck=vocab=>{
-  const due=vocab.filter(w=>FSRS.isDue(w.word));
-  if(due.length>=5)return shuffle(due);
-  const seen=new Set(Object.keys(FSRS.all()));
-  const unseen=vocab.filter(w=>!seen.has(w.word));
-  return shuffle([...due,...unseen.slice(0,Math.max(10,15-due.length))]);
+const SLOT_SIZE=20;
+const MAX_SLOTS=100;
+
+// Get current active slot index (0-based)
+const getActiveSlot=(vocab)=>{
+  const progress=FSRS.all();
+  const sorted=vocab.slice().sort((a,b)=>(a.frequency_rank||0)-(b.frequency_rank||0));
+  // Find first slot where not all words are mastered
+  for(let s=0;s<Math.min(MAX_SLOTS,Math.ceil(sorted.length/SLOT_SIZE));s++){
+    const slotWords=sorted.slice(s*SLOT_SIZE,(s+1)*SLOT_SIZE);
+    const allMastered=slotWords.every(w=>FSRS.get(w.word).interval>=7);
+    if(!allMastered)return s;
+  }
+  return Math.ceil(sorted.length/SLOT_SIZE)-1;
+};
+
+// Build deck for a specific slot (20 words, due first)
+const buildDeck=(vocab,slotIdx)=>{
+  const sorted=vocab.slice().sort((a,b)=>(a.frequency_rank||0)-(b.frequency_rank||0));
+  const s=slotIdx!==undefined?slotIdx:getActiveSlot(vocab);
+  // Edge: clamp to valid range
+  const clamped=Math.max(0,Math.min(s,Math.ceil(sorted.length/SLOT_SIZE)-1));
+  const slotWords=sorted.slice(clamped*SLOT_SIZE,(clamped+1)*SLOT_SIZE);
+  if(!slotWords.length)return [];
+  // Due words first, then unseen, shuffle within each group
+  const due=slotWords.filter(w=>FSRS.isDue(w.word));
+  const unseen=slotWords.filter(w=>!FSRS.all()[w.word]);
+  const seen=slotWords.filter(w=>FSRS.all()[w.word]&&!FSRS.isDue(w.word));
+  const shuffleArr=arr=>{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+  return [...shuffleArr(due),...shuffleArr(unseen),...shuffleArr(seen)];
 };
 
 const getStatus=word=>{
@@ -357,6 +381,7 @@ function SpeakBtn({word}){
 }
 
 function RootChips({roots}){
+  if(!roots||!roots.length) return null;
   return(
     <div style={{display:"flex",flexWrap:"wrap",gap:5}}>
       {roots.map((r,i)=>(
@@ -373,7 +398,10 @@ function RootChips({roots}){
 
 // ── LEARN ──
 function LearnScreen({vocab,resumeData,onDone}){
-  const deckData=resumeData?resumeData.deck:buildDeck(vocab);
+  const totalSlots=Math.min(MAX_SLOTS,Math.ceil(vocab.length/SLOT_SIZE));
+  const defaultSlot=getActiveSlot(vocab);
+  const[selectedSlot,setSelectedSlot]=useState(defaultSlot);
+  const deckData=resumeData?resumeData.deck:buildDeck(vocab,selectedSlot);
   const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[flipped,setFlipped]=useState(false);
@@ -425,11 +453,20 @@ function LearnScreen({vocab,resumeData,onDone}){
 
   if(!deck.length){
     return(
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"40px 20px",textAlign:"center"}}>
         <div style={{fontSize:44}}>🎉</div>
-        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有待學的單字</div>
-        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>所有單字都已複習過，明天再來！</div>
-        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>第 {selectedSlot+1} 組全部掌握！</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)",marginBottom:8}}>選擇其他組繼續學習</div>
+        <div style={{display:"flex",flexWrap:"wrap",gap:6,justifyContent:"center",maxWidth:360}}>
+          {Array.from({length:totalSlots},(_,i)=>{
+            const slotW=vocab.slice().sort((a,b)=>(a.frequency_rank||0)-(b.frequency_rank||0)).slice(i*SLOT_SIZE,(i+1)*SLOT_SIZE);
+            const done=slotW.every(w=>FSRS.get(w.word).interval>=7);
+            return(<button key={i} onClick={()=>setSelectedSlot(i)} style={{padding:"5px 12px",borderRadius:8,border:`1px solid ${done?"rgba(200,240,96,.4)":"var(--border)"}`,background:done?"rgba(200,240,96,.06)":"var(--surface2)",color:done?"var(--accent)":"var(--muted)",fontFamily:"var(--mono)",fontSize:13,cursor:"pointer"}}>
+              {done?"✓ ":""}#{i+1}
+            </button>);
+          })}
+        </div>
+        <button onClick={onDone} style={{marginTop:8,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(200,240,96,.3)",background:"rgba(200,240,96,.06)",color:"var(--accent)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
       </div>
     );
   }
@@ -488,7 +525,7 @@ function LearnScreen({vocab,resumeData,onDone}){
                 <div style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--accent)",whiteSpace:"nowrap",flexShrink:0}}>{w.word}</div>
               </div>
               <div style={{padding:"12px 20px",display:"flex",flexDirection:"column",gap:10}}>
-                <RootChips roots={w.roots}/>
+                <RootChips roots={w.roots||[]}/>
                 <div style={{background:"linear-gradient(135deg,rgba(200,240,96,.05),rgba(200,240,96,.02))",border:"1px solid rgba(200,240,96,.15)",borderRadius:10,padding:"10px 12px",display:"flex",flexDirection:"column",gap:5}}>
                   <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--accent)",textTransform:"uppercase",letterSpacing:".08em",opacity:.7}}>🧠 記憶聯想</div>
                   <div style={{fontSize:17,letterSpacing:5}}>{(w.mnemonic?.emojis||[]).join("  ")}</div>
@@ -558,7 +595,10 @@ function LearnScreen({vocab,resumeData,onDone}){
 
 // ── QUIZ ──
 function QuizScreen({vocab,resumeData,onDone}){
-  const deckData=resumeData?resumeData.deck:buildDeck(vocab);
+  const totalSlots=Math.min(MAX_SLOTS,Math.ceil(vocab.length/SLOT_SIZE));
+  const defaultSlot=getActiveSlot(vocab);
+  const[selectedSlot,setSelectedSlot]=useState(defaultSlot);
+  const deckData=resumeData?resumeData.deck:buildDeck(vocab,selectedSlot);
   const[deck]=useState(()=>deckData);
   const[idx,setIdx]=useState(()=>resumeData?resumeData.idx:0);
   const[opts,setOpts]=useState([]);
@@ -614,11 +654,20 @@ function QuizScreen({vocab,resumeData,onDone}){
 
   if(!deck.length){
     return(
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"60px 20px",textAlign:"center"}}>
-        <div style={{fontSize:44}}>🎉</div>
-        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>沒有可測驗的單字</div>
-        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)"}}>先去學習模式學幾個單字吧！</div>
-        <button onClick={onDone} style={{marginTop:4,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(96,200,240,.3)",background:"rgba(96,200,240,.06)",color:"var(--accent2)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:16,padding:"40px 20px",textAlign:"center"}}>
+        <div style={{fontSize:44}}>🎯</div>
+        <div style={{fontFamily:"var(--serif)",fontSize:22,color:"var(--text)"}}>第 {selectedSlot+1} 組尚未學習</div>
+        <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--muted)",marginBottom:8}}>先去學習模式，或選擇其他組</div>
+        <div style={{display:"flex",flexWrap:"wrap",gap:6,justifyContent:"center",maxWidth:360}}>
+          {Array.from({length:totalSlots},(_,i)=>{
+            const slotW=vocab.slice().sort((a,b)=>(a.frequency_rank||0)-(b.frequency_rank||0)).slice(i*SLOT_SIZE,(i+1)*SLOT_SIZE);
+            const hasProgress=slotW.some(w=>FSRS.all()[w.word]);
+            return(<button key={i} onClick={()=>setSelectedSlot(i)} style={{padding:"5px 12px",borderRadius:8,border:`1px solid ${hasProgress?"rgba(96,200,240,.4)":"var(--border)"}`,background:hasProgress?"rgba(96,200,240,.06)":"var(--surface2)",color:hasProgress?"var(--accent2)":"var(--muted)",fontFamily:"var(--mono)",fontSize:13,cursor:"pointer"}}>
+              {hasProgress?"▶ ":""}#{i+1}
+            </button>);
+          })}
+        </div>
+        <button onClick={onDone} style={{marginTop:8,padding:"10px 24px",borderRadius:10,border:"1px solid rgba(96,200,240,.3)",background:"rgba(96,200,240,.06)",color:"var(--accent2)",fontFamily:"var(--sans)",fontSize:14,cursor:"pointer"}}>回首頁</button>
       </div>
     );
   }
@@ -1098,8 +1147,8 @@ function BrutalScreen({vocab,onDone}){
 function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,quizSession,refreshSessions,onBrutal}){
   const s=FSRS.stats(),due=vocab.filter(w=>FSRS.isDue(w.word));
   const modes=[
-    {id:"learn",icon:"🃏",title:"學習模式",desc:"翻卡片看聯想故事，適合第一次學新單字",count:`待學 ${due.length} 張`,bc:"rgba(200,240,96,.25)",bg:"rgba(200,240,96,.04)",ac:"var(--accent)"},
-    {id:"quiz",icon:"🎯",title:"測驗模式",desc:"四選一選擇題，主動回憶記憶更牢",count:`可測 ${Math.min(due.length+5,vocab.length)} 題`,bc:"rgba(96,200,240,.2)",bg:"rgba(96,200,240,.04)",ac:"var(--accent2)"},
+    {id:"learn",icon:"🃏",title:"學習模式",desc:`翻卡片看聯想故事，20個一組共 ${Math.min(MAX_SLOTS,Math.ceil(vocab.length/SLOT_SIZE))} 組`,count:`待學 ${Math.min(20,vocab.length)} 張（第 ${Math.ceil((Object.keys(FSRS.all()).length||0)/20)+1} 組）`,bc:"rgba(200,240,96,.25)",bg:"rgba(200,240,96,.04)",ac:"var(--accent)"},
+    {id:"quiz",icon:"🎯",title:"測驗模式",desc:`四選一選擇題，20個一組主動回憶`,count:`可測 20 題（第 ${Math.ceil((Object.keys(FSRS.all()).length||0)/20)+1} 組）`,bc:"rgba(96,200,240,.2)",bg:"rgba(96,200,240,.04)",ac:"var(--accent2)"},
   ];
   const sessions=[learnSession,quizSession];
   const resumes=[onResumeLearn,onResumeQuiz];
@@ -1220,14 +1269,22 @@ function App(){
       "./data/vocab_28_1351-1400.json",
       "./data/vocab_29_1401-1450.json",
       "./data/vocab_30_1451-1500.json",
-      
     ];
-    Promise.all(urls.map(u=>fetch(u).then(r=>{
-      if(!r.ok)throw new Error(u);
-      return r.json();
-    })))
-    .then(results=>{setVocab(results.flat());setLoading(false);})
-    .catch(err=>{console.error("Vocab load error:",err);setLoading(false);setVocab(null);});
+    const fetchOne=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json();}).catch(()=>[]);
+    // Phase 1: load first 2 batches immediately to show UI fast
+    Promise.all(urls.slice(0,2).map(fetchOne))
+      .then(first=>{
+        const initial=first.flat().filter(Boolean);
+        setVocab(initial);
+        setLoading(false);
+        // Phase 2: load remaining batches in background
+        Promise.all(urls.slice(2).map(fetchOne))
+          .then(rest=>{
+            const all=[...initial,...rest.flat().filter(Boolean)];
+            setVocab(all.sort((a,b)=>(a.frequency_rank||0)-(b.frequency_rank||0)));
+          });
+      })
+      .catch(err=>{console.error("Vocab load error:",err);setLoading(false);setVocab(null);});
   },[]);
 
   const refreshSessions=()=>{

@@ -62,6 +62,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--s
   max-width:75%;padding:11px 14px;border-radius:16px;
   font-size:14px;line-height:1.65;position:relative;
 }
+.bubble .msg-content{white-space:pre-line}
 .bubble.bot{
   background:var(--bot-bg);border:1px solid var(--border);
   border-bottom-left-radius:4px;color:var(--text);
@@ -359,10 +360,140 @@ function pickRelatedVocab(topic=null,userText=''){
   return pickRandom(candidates)||pickRandom(VOCAB);
 }
 
+const PHRASE_SCENARIOS={
+  daily:{
+    zh:'日常用語',
+    topic:'daily',
+    tags:['common','psychology','college'],
+    nouns:['plan','routine','choice','habit','idea','problem'],
+    places:['at home','after work','this morning','during the day'],
+  },
+  work:{
+    zh:'職場用語',
+    topic:'work',
+    tags:['business','economics','finance','academic'],
+    nouns:['project','proposal','meeting','deadline','strategy','report'],
+    places:['in the meeting','with the team','at work','before the deadline'],
+  },
+  travel:{
+    zh:'旅行用語',
+    topic:'travel',
+    tags:['history','geography','culture','common'],
+    nouns:['trip','route','reservation','destination','schedule','hotel'],
+    places:['at the airport','during the trip','in a new city','before departure'],
+  },
+  social:{
+    zh:'社交用語',
+    topic:'social',
+    tags:['psychology','social','common','language'],
+    nouns:['conversation','invitation','friendship','message','event','relationship'],
+    places:['at dinner','with friends','after the event','in the group chat'],
+  },
+};
+
+function detectPhraseScenario(text){
+  const lower=text.toLowerCase();
+  if(/職場|工作|商務|會議|work|business|office|meeting/.test(lower))return 'work';
+  if(/旅行|旅遊|機場|飯店|travel|trip|airport|hotel/.test(lower))return 'travel';
+  if(/社交|朋友|聊天|邀請|social|friend|invitation|conversation/.test(lower))return 'social';
+  if(/日常|生活|daily|everyday|casual/.test(lower))return 'daily';
+  return null;
+}
+
+function detectPhraseTense(text){
+  const lower=text.toLowerCase();
+  if(/過去|昨天|上次|以前|past|yesterday|last/.test(lower))return 'past';
+  if(/未來|明天|下次|將來|future|tomorrow|next/.test(lower))return 'future';
+  if(/現在|平常|目前|present|now|usually/.test(lower))return 'present';
+  return 'mixed';
+}
+
+function isPhraseIntent(text){
+  const lower=text.toLowerCase();
+  return /用語|句子|造句|口說|會話|情境|組合|日常|職場|旅行|旅遊|社交/.test(lower)||
+    /(?:daily|everyday|work|business|travel|social).*(?:phrase|sentence|expression|conversation)/.test(lower)||
+    /(?:phrase|sentence|expression).*(?:daily|everyday|work|business|travel|social)/.test(lower);
+}
+
+function pickScenarioWord(scenarioKey,userText){
+  const mentioned=findMentionedVocab(userText);
+  if(mentioned)return mentioned;
+  const scenario=PHRASE_SCENARIOS[scenarioKey]||PHRASE_SCENARIOS.daily;
+  const candidates=[];
+  scenario.tags.forEach(tag=>candidates.push(...(VOCAB_BY_TAG.get(tag)||[])));
+  const filtered=candidates.filter(w=>
+    ['verb','noun','adjective'].includes(String(w.pos||'').toLowerCase())&&
+    Number(w.frequency_rank||9999)<=800&&
+    /^[a-z-]{3,14}$/.test(w.word)
+  );
+  return pickRandom(filtered)||pickRandom(candidates)||pickRandom(VOCAB);
+}
+
+function articleFor(word){
+  return /^[aeiou]/i.test(word)?'an':'a';
+}
+
+function simplePastVerb(word){
+  if(/e$/.test(word))return word+'d';
+  if(/[^aeiou]y$/.test(word))return word.slice(0,-1)+'ied';
+  return word+'ed';
+}
+
+function phraseSentence(w,scenarioKey,tense,kind){
+  const scenario=PHRASE_SCENARIOS[scenarioKey]||PHRASE_SCENARIOS.daily;
+  const noun=pickRandom(scenario.nouns);
+  const place=pickRandom(scenario.places);
+  const word=w.word;
+  const pos=String(w.pos||'').toLowerCase();
+  const isVerb=pos.includes('verb');
+  const isAdj=pos.includes('adjective');
+  const isNoun=pos.includes('noun');
+  const nounUse=isNoun?word:noun;
+  const adjUse=isAdj?word:'important';
+  const verbUse=isVerb?word:'consider';
+  const pastVerb=isVerb?simplePastVerb(word):'considered';
+
+  let templates;
+  if(isVerb){
+    templates={
+      present:[`I usually ${verbUse} the ${noun} carefully ${place}.`,`We need to ${verbUse} this ${noun} before we decide.`],
+      past:[`I ${pastVerb} the ${noun} carefully ${place}.`,`We tried to ${verbUse} the ${noun}, but it took more time than expected.`],
+      future:[`I will ${verbUse} the ${noun} carefully ${place}.`,`I hope we can ${verbUse} the ${noun} before the next step.`],
+      question:[`Could you help me ${verbUse} this ${noun}?`,`What is the best way to ${verbUse} the ${noun} ${place}?`],
+    };
+  }else if(isAdj){
+    templates={
+      present:[`This ${noun} is ${adjUse}, so I want to handle it carefully.`,`A ${adjUse} ${noun} needs clear communication.`],
+      past:[`The ${noun} was ${adjUse}, so we discussed it again.`,`I thought the ${noun} was ${adjUse} ${place}.`],
+      future:[`We are going to review this ${adjUse} ${noun} tomorrow.`,`This ${noun} will be ${adjUse} for the next step.`],
+      question:[`Do you think this ${noun} is ${adjUse}?`,`Would a ${adjUse} ${noun} help in this situation?`],
+    };
+  }else{
+    templates={
+      present:[`I usually review the ${nounUse} carefully ${place}.`,`The ${nounUse} matters, so I pay attention to the details.`],
+      past:[`I reviewed the ${nounUse} carefully ${place}.`,`The ${nounUse} affected our decision yesterday.`],
+      future:[`I will review the ${nounUse} carefully ${place}.`,`We are going to discuss the ${nounUse} before the next step.`],
+      question:[`Could you help me review this ${nounUse}?`,`What should we do about the ${nounUse} ${place}?`],
+    };
+  }
+  return pickRandom(templates[kind]||templates.present);
+}
+
+function buildScenarioPhrases(userText){
+  const scenarioKey=detectPhraseScenario(userText)||'daily';
+  const tense=detectPhraseTense(userText);
+  const w=pickScenarioWord(scenarioKey,userText);
+  if(!w)return "I can do that once the vocab data finishes loading. Try again in a second.";
+  const kinds=tense==='mixed'?['present','past','future','question']:[tense,tense,'question','future'];
+  const lines=kinds.map((kind,i)=>`${i+1}. ${phraseSentence(w,scenarioKey,tense,kind)}`);
+  const scenario=PHRASE_SCENARIOS[scenarioKey];
+  return `${scenario.zh}：用 "${w.word}" 組合成自然英文\n${lines.join('\n')}\n\nWord note: ${w.word} (${w.pos}) = ${w.definition_zh||w.definition}`;
+}
+
 function isVocabIntent(text){
   const lower=text.toLowerCase().trim();
   return /^(?:define|meaning of|tell me about|what(?:'s| is)|use|using|example of|example sentence for|sentence with)\s+/.test(lower)||
-    /(?:意思|例句|造句|解釋|查詢|單字|詞根|字根|搭配|同義|近義|反義|考|測驗|小考)/.test(lower)||
+    /(?:意思|例句|造句|解釋|查詢|單字|詞根|字根|搭配|同義|近義|反義|考|測驗|小考|用語|情境)/.test(lower)||
     /^[a-z]+\s*(?:詞根|字根|來源|搭配|片語|用法|同義|近義|反義|例句|造句|意思|root|etymology|collocations?|synonyms?|antonyms?|example|sentence|meaning)$/.test(lower)||
     /(?:quiz|test|challenge|check|ask)\s*(?:me|my vocab)?/.test(lower);
 }
@@ -1129,6 +1260,12 @@ function _getBotResponseCore(userText){
   UMEM.extract(userText);
   const prefix=UMEM.personalTouch();
 
+  // -2. Scenario phrase generator — daily/work/travel/social expressions
+  if(isPhraseIntent(userText)){
+    CTX.push('user',userText,'vocab_cmd');
+    return buildScenarioPhrases(userText);
+  }
+
   // -1. Celebrate if user naturally used a vocab word
   const usedVocab=(!lower.startsWith('what')&&!lower.startsWith('define')&&
     !lower.includes('use the word')&&words.length>3)
@@ -1477,6 +1614,7 @@ function appendMessage(role,text,grammarFixes=[],quoteText=null){
   }
 
   const content=document.createElement('div');
+  content.className='msg-content';
   content.innerHTML=role==='bot'?highlightVocab(text):escapeHtml(text);
   bubble.appendChild(content);
 
@@ -1674,7 +1812,7 @@ async function sendMessage(){
 
   // Grammar-linked response: if errors found, bot weaves correction into reply
   let botText=getBotResponse(text,activeQuote,grammarMatches);
-  botText=maybeInjectVocab(botText,text);
+  if(!isPhraseIntent(text))botText=maybeInjectVocab(botText,text);
 
   // Simulate natural typing delay (600–1400ms)
   await new Promise(r=>setTimeout(r,600+Math.random()*800));
@@ -1747,6 +1885,7 @@ const QUICK_PHRASES=[
   {label:"📚  Talk about studying",    text:"I've been studying English lately. Any tips?"},
   {label:"💼  Talk about work",        text:"Work has been pretty hectic for me recently."},
   {label:"🌍  Use a vocab word",       text:"Can you use the word 'analyze' in a sentence?"},
+  {label:"🧩  情境用語",              text:"請用這些單字庫組合 4 句職場用語，包含現在、過去、未來和問句。"},
   {label:"😄  Just chat",             text:"I just want to have a casual conversation!"},
 ];
 
