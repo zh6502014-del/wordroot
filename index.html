@@ -1245,6 +1245,17 @@ function HomeScreen({vocab,onNavigate,onResumeLearn,onResumeQuiz,learnSession,qu
           </a>
         );
       })()}
+      {/* 情境填字 card */}
+      <a href="cloze.html" style={{textDecoration:"none",width:"100%",maxWidth:600,display:"block"}}>
+        <div style={{background:"linear-gradient(135deg,rgba(200,96,240,.07),var(--surface))",border:"1px solid rgba(200,96,240,.2)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
+          <div style={{fontSize:32}}>✏️</div>
+          <div style={{flex:1}}>
+            <div style={{fontFamily:"var(--serif)",fontSize:16,color:"var(--text)",marginBottom:3}}>情境填字</div>
+            <div style={{fontSize:14,color:"var(--muted)"}}>日常 · 職場 · 旅行 · 社交，選出情境中正確的單字</div>
+          </div>
+          <div style={{fontFamily:"var(--mono)",fontSize:16,color:"#c860f0"}}>練習 →</div>
+        </div>
+      </a>
       {/* 字根探索 card */}
       <a href="roots.html" style={{textDecoration:"none",width:"100%",maxWidth:600,display:"block"}}>
         <div style={{background:"linear-gradient(135deg,rgba(96,200,240,.07),var(--surface))",border:"1px solid rgba(96,200,240,.2)",borderRadius:14,padding:"18px 20px",cursor:"pointer",display:"flex",alignItems:"center",gap:16,transition:"all .2s",userSelect:"none"}}>
