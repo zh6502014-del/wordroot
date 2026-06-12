@@ -153,10 +153,10 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:1
 </div>
 <script>
 const THEMES = [
-  {key:'daily',   file:'./data/cloze_daily.json'},
-  {key:'workplace',file:'./data/cloze_workplace.json'},
-  {key:'travel',  file:'./data/cloze_travel.json'},
-  {key:'social',  file:'./data/cloze_social.json'},
+  {key:'daily',   file:'./cloze_daily.json'},
+  {key:'workplace',file:'./cloze_workplace.json'},
+  {key:'travel',  file:'./cloze_travel.json'},
+  {key:'social',  file:'./cloze_social.json'},
 ];
 const STORAGE_KEY = 'wr_cloze';
 
@@ -177,8 +177,27 @@ function saveSetProgress(themeKey, setId, data){
   saveProgress(p);
 }
 
+// ── Utilities ──
+function escapeHTML(value){
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function shuffleCopy(items){
+  const arr = [...items];
+  for(let i=arr.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 // ── State ──
-let state = { view:'themes', themes:[], currentTheme:null, currentSet:null, qIdx:0, answers:[], answered:false, selected:null };
+let state = { view:'themes', themes:[], currentTheme:null, currentSet:null, qIdx:0, answers:[], answered:false, selected:null, optionOrders:[] };
 
 // ── Boot ──
 Promise.all(THEMES.map(t =>
@@ -224,7 +243,7 @@ function renderThemes(el){
 
   el.innerHTML = `
     <div style="font-family:var(--serif);font-size:22px;color:var(--text);margin-bottom:6px">選擇主題</div>
-    <div style="font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:20px">每組 5 題，從情境句子中選出正確的單字</div>
+    <div style="font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:20px">每組依情境填入 2 個單字，從句子脈絡選出正確答案</div>
     <div class="theme-grid">${cards}</div>`;
 
   // Attach click via JS (avoid inline onclick attribute conflicts)
@@ -278,6 +297,7 @@ function startSet(setId){
   state.currentSet = s;
   state.qIdx = 0;
   state.answers = new Array(s.blanks.length).fill(null);
+  state.optionOrders = s.blanks.map(b => shuffleCopy(b.options));
   state.answered = false;
   state.selected = null;
   state.view = 'quiz';
@@ -289,7 +309,7 @@ function renderQuiz(el){
   const t = state.currentTheme;
   const q = s.blanks[state.qIdx];
   const total = s.blanks.length;
-  const pct = Math.round(state.qIdx/total*100);
+  const pct = Math.round((state.qIdx+1)/total*100);
 
   document.getElementById('headerTitle').textContent = t.title;
   document.getElementById('headerSub').textContent = `${state.qIdx+1} / ${total}`;
@@ -302,7 +322,7 @@ function renderQuiz(el){
     let text = `___${b.pos}___`;
     if(ans !== null){
       cls += ans===b.answer?' answered-correct':' answered-wrong';
-      text = ans===b.answer ? ans : `${ans}`;
+      text = escapeHTML(ans===b.answer ? ans : `${ans}`);
     } else if(i===state.qIdx){
       text = '?';
     }
@@ -311,14 +331,15 @@ function renderQuiz(el){
   // Replace remaining unanswered blanks
   passage = passage.replace(/___(\d+)___/g, '<span class="blank-slot" style="opacity:.4">___</span>');
 
-  const opts = q.options.map((opt,i) => {
+  const optionOrder = state.optionOrders[state.qIdx] || q.options;
+  const opts = optionOrder.map((opt,i) => {
     let cls = 'opt';
     if(state.answered){
       if(opt===q.answer) cls+=' correct';
       else if(opt===state.selected && state.selected!==q.answer) cls+=' wrong';
     }
-    return `<button class="${cls}" onclick="answerQ('${opt}')" ${state.answered?'disabled':''}>
-      <span class="opt-key">${['A','B','C','D'][i]}</span>${opt}
+    return `<button class="${cls}" data-opt="${escapeHTML(opt)}" ${state.answered?'disabled':''}>
+      <span class="opt-key">${['A','B','C','D'][i]}</span>${escapeHTML(opt)}
     </button>`;
   }).join('');
 
@@ -326,8 +347,8 @@ function renderQuiz(el){
   if(state.answered){
     const ok = state.selected===q.answer;
     feedback = ok
-      ? `<div class="feedback ok">✓ 正確！「${q.answer}」— ${q.hint}</div>`
-      : `<div class="feedback bad">✗ 正確答案是「<strong>${q.answer}</strong>」— ${q.hint}</div>`;
+      ? `<div class="feedback ok">✓ 正確！「${escapeHTML(q.answer)}」— ${escapeHTML(q.hint)}</div>`
+      : `<div class="feedback bad">✗ 正確答案是「<strong>${escapeHTML(q.answer)}</strong>」— ${escapeHTML(q.hint)}</div>`;
   }
 
   el.innerHTML = `
@@ -339,7 +360,7 @@ function renderQuiz(el){
     <div class="passage-card">${passage}</div>
 
     <div class="question-label">第 ${state.qIdx+1} 題 — 選出正確的單字</div>
-    <div class="hint-text">提示：${q.hint}</div>
+    <div class="hint-text">提示：${escapeHTML(q.hint)}</div>
     <div class="opts">${opts}</div>
     ${feedback}
     ${state.answered?`<button class="next-btn" onclick="nextQ()">${state.qIdx+1<total?'下一題 →':'查看結果 →'}</button>`:''}
@@ -347,6 +368,10 @@ function renderQuiz(el){
     <div style="text-align:center;margin-top:16px">
       <button class="btn-secondary" style="width:auto;padding:5px 16px;font-size:13px" onclick="state.view='sets';render()">放棄本組</button>
     </div>`;
+
+  el.querySelectorAll('.opt[data-opt]').forEach(btn => {
+    btn.addEventListener('click', () => answerQ(btn.dataset.opt));
+  });
 }
 
 function answerQ(opt){
@@ -413,6 +438,21 @@ function goBack(){
   state.currentTheme = null;
   render();
 }
+
+document.addEventListener('keydown', e => {
+  if(state.view !== 'quiz') return;
+  const key = e.key.toLowerCase();
+  const optionIndex = {a:0,b:1,c:2,d:3}[key];
+  if(optionIndex !== undefined && !state.answered){
+    const opts = state.optionOrders[state.qIdx] || [];
+    if(opts[optionIndex]) answerQ(opts[optionIndex]);
+  } else if(e.key === 'Enter' && state.answered){
+    nextQ();
+  } else if(e.key === 'Escape'){
+    state.view = 'sets';
+    render();
+  }
+});
 </script>
 </body>
 </html>
