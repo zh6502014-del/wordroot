@@ -1,0 +1,568 @@
+{
+  "title": "日常用語",
+  "icon": "☀️",
+  "color": "rgba(200,240,96,.08)",
+  "border": "rgba(200,240,96,.25)",
+  "sets": [
+    {
+      "id": "da_001",
+      "passage": "I need to ___1___ my room before the guests arrive. It's completely ___2___ after the party last night.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "tidy",
+          "options": [
+            "tidy",
+            "ignore",
+            "decorate",
+            "abandon"
+          ],
+          "hint": "整理、收拾"
+        },
+        {
+          "pos": 2,
+          "answer": "messy",
+          "options": [
+            "messy",
+            "clean",
+            "quiet",
+            "empty"
+          ],
+          "hint": "雜亂的"
+        }
+      ]
+    },
+    {
+      "id": "da_002",
+      "passage": "She decided to ___1___ her morning routine by waking up an hour earlier to ___2___ time for exercise.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "adjust",
+          "options": [
+            "adjust",
+            "cancel",
+            "forget",
+            "delay"
+          ],
+          "hint": "調整"
+        },
+        {
+          "pos": 2,
+          "answer": "make",
+          "options": [
+            "make",
+            "waste",
+            "lose",
+            "take"
+          ],
+          "hint": "騰出"
+        }
+      ]
+    },
+    {
+      "id": "da_003",
+      "passage": "It's hard to ___1___ when you are tired, but try to ___2___ the conversation as long as possible.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "concentrate",
+          "options": [
+            "concentrate",
+            "sleep",
+            "pretend",
+            "agree"
+          ],
+          "hint": "集中注意力"
+        },
+        {
+          "pos": 2,
+          "answer": "maintain",
+          "options": [
+            "maintain",
+            "stop",
+            "avoid",
+            "record"
+          ],
+          "hint": "維持"
+        }
+      ]
+    },
+    {
+      "id": "da_004",
+      "passage": "He forgot to ___1___ the electricity bill, so they had to ___2___ candles for the whole evening.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "pay",
+          "options": [
+            "pay",
+            "read",
+            "write",
+            "cancel"
+          ],
+          "hint": "繳費"
+        },
+        {
+          "pos": 2,
+          "answer": "use",
+          "options": [
+            "use",
+            "buy",
+            "sell",
+            "avoid"
+          ],
+          "hint": "使用"
+        }
+      ]
+    },
+    {
+      "id": "da_005",
+      "passage": "She tries to ___1___ at least 30 minutes a day reading to ___2___ her vocabulary.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "spend",
+          "options": [
+            "spend",
+            "waste",
+            "skip",
+            "lose"
+          ],
+          "hint": "花費（時間）"
+        },
+        {
+          "pos": 2,
+          "answer": "expand",
+          "options": [
+            "expand",
+            "reduce",
+            "forget",
+            "test"
+          ],
+          "hint": "擴展"
+        }
+      ]
+    },
+    {
+      "id": "da_006",
+      "passage": "Can you ___1___ me a favor and ___2___ the package at the front desk when it arrives?",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "do",
+          "options": [
+            "do",
+            "give",
+            "take",
+            "make"
+          ],
+          "hint": "幫（忙）"
+        },
+        {
+          "pos": 2,
+          "answer": "collect",
+          "options": [
+            "collect",
+            "send",
+            "return",
+            "refuse"
+          ],
+          "hint": "領取、取件"
+        }
+      ]
+    },
+    {
+      "id": "da_007",
+      "passage": "I always ___1___ a list before going grocery shopping so I don't ___2___ anything important.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "write",
+          "options": [
+            "write",
+            "lose",
+            "forget",
+            "read"
+          ],
+          "hint": "寫、列"
+        },
+        {
+          "pos": 2,
+          "answer": "forget",
+          "options": [
+            "forget",
+            "buy",
+            "find",
+            "add"
+          ],
+          "hint": "忘記"
+        }
+      ]
+    },
+    {
+      "id": "da_008",
+      "passage": "They decided to ___1___ the furniture to ___2___ the living room feel more spacious.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "rearrange",
+          "options": [
+            "rearrange",
+            "sell",
+            "paint",
+            "remove"
+          ],
+          "hint": "重新排列"
+        },
+        {
+          "pos": 2,
+          "answer": "make",
+          "options": [
+            "make",
+            "keep",
+            "show",
+            "force"
+          ],
+          "hint": "使、讓"
+        }
+      ]
+    },
+    {
+      "id": "da_009",
+      "passage": "She had to ___1___ her appointment because something unexpected came up and she couldn't ___2___ on time.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "cancel",
+          "options": [
+            "cancel",
+            "attend",
+            "confirm",
+            "enjoy"
+          ],
+          "hint": "取消"
+        },
+        {
+          "pos": 2,
+          "answer": "arrive",
+          "options": [
+            "arrive",
+            "leave",
+            "call",
+            "rest"
+          ],
+          "hint": "到達"
+        }
+      ]
+    },
+    {
+      "id": "da_010",
+      "passage": "He likes to ___1___ his weekends by visiting new cafés and ___2___ local art exhibitions.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "fill",
+          "options": [
+            "fill",
+            "waste",
+            "cancel",
+            "plan"
+          ],
+          "hint": "填滿、充實"
+        },
+        {
+          "pos": 2,
+          "answer": "exploring",
+          "options": [
+            "exploring",
+            "ignoring",
+            "avoiding",
+            "missing"
+          ],
+          "hint": "探索"
+        }
+      ]
+    },
+    {
+      "id": "da_011",
+      "passage": "I couldn't ___1___ the instructions because the handwriting was too difficult to ___2___.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "follow",
+          "options": [
+            "follow",
+            "write",
+            "ignore",
+            "print"
+          ],
+          "hint": "遵照、理解"
+        },
+        {
+          "pos": 2,
+          "answer": "read",
+          "options": [
+            "read",
+            "draw",
+            "copy",
+            "erase"
+          ],
+          "hint": "閱讀、辨認"
+        }
+      ]
+    },
+    {
+      "id": "da_012",
+      "passage": "She ___1___ her old clothes and decided to ___2___ them to a local charity.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "sorted",
+          "options": [
+            "sorted",
+            "bought",
+            "lost",
+            "wore"
+          ],
+          "hint": "整理、分類"
+        },
+        {
+          "pos": 2,
+          "answer": "donate",
+          "options": [
+            "donate",
+            "sell",
+            "hide",
+            "keep"
+          ],
+          "hint": "捐贈"
+        }
+      ]
+    },
+    {
+      "id": "da_013",
+      "passage": "He set an alarm to ___1___ himself and make sure he wouldn't ___2___ the early morning bus.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "remind",
+          "options": [
+            "remind",
+            "wake",
+            "push",
+            "teach"
+          ],
+          "hint": "提醒"
+        },
+        {
+          "pos": 2,
+          "answer": "miss",
+          "options": [
+            "miss",
+            "take",
+            "catch",
+            "find"
+          ],
+          "hint": "錯過"
+        }
+      ]
+    },
+    {
+      "id": "da_014",
+      "passage": "They agreed to ___1___ the costs of the dinner equally and ___2___ the bill among themselves.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "share",
+          "options": [
+            "share",
+            "increase",
+            "avoid",
+            "reduce"
+          ],
+          "hint": "分擔"
+        },
+        {
+          "pos": 2,
+          "answer": "split",
+          "options": [
+            "split",
+            "double",
+            "ignore",
+            "calculate"
+          ],
+          "hint": "分攤"
+        }
+      ]
+    },
+    {
+      "id": "da_015",
+      "passage": "She made sure to ___1___ a backup of all her files before she ___2___ the old laptop.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "save",
+          "options": [
+            "save",
+            "delete",
+            "send",
+            "move"
+          ],
+          "hint": "儲存"
+        },
+        {
+          "pos": 2,
+          "answer": "sold",
+          "options": [
+            "sold",
+            "bought",
+            "fixed",
+            "found"
+          ],
+          "hint": "出售"
+        }
+      ]
+    },
+    {
+      "id": "da_016",
+      "passage": "He decided to ___1___ cooking instead of ordering takeout to ___2___ money each week.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "try",
+          "options": [
+            "try",
+            "quit",
+            "enjoy",
+            "avoid"
+          ],
+          "hint": "嘗試"
+        },
+        {
+          "pos": 2,
+          "answer": "save",
+          "options": [
+            "save",
+            "waste",
+            "earn",
+            "spend"
+          ],
+          "hint": "節省"
+        }
+      ]
+    },
+    {
+      "id": "da_017",
+      "passage": "She was asked to ___1___ the form carefully and ___2___ all required documents before submitting.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "fill in",
+          "options": [
+            "fill in",
+            "throw away",
+            "print",
+            "sign"
+          ],
+          "hint": "填寫"
+        },
+        {
+          "pos": 2,
+          "answer": "attach",
+          "options": [
+            "attach",
+            "remove",
+            "delay",
+            "mail"
+          ],
+          "hint": "附上"
+        }
+      ]
+    },
+    {
+      "id": "da_018",
+      "passage": "He tries to ___1___ new habits gradually instead of trying to ___2___ everything at once.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "build",
+          "options": [
+            "build",
+            "lose",
+            "avoid",
+            "test"
+          ],
+          "hint": "養成"
+        },
+        {
+          "pos": 2,
+          "answer": "change",
+          "options": [
+            "change",
+            "enjoy",
+            "delay",
+            "review"
+          ],
+          "hint": "改變"
+        }
+      ]
+    },
+    {
+      "id": "da_019",
+      "passage": "She felt tired and decided to ___1___ for a short nap to ___2___ her energy before the evening.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "rest",
+          "options": [
+            "rest",
+            "cook",
+            "shop",
+            "study"
+          ],
+          "hint": "休息"
+        },
+        {
+          "pos": 2,
+          "answer": "restore",
+          "options": [
+            "restore",
+            "lose",
+            "save",
+            "measure"
+          ],
+          "hint": "恢復"
+        }
+      ]
+    },
+    {
+      "id": "da_020",
+      "passage": "They chose to ___1___ the trip by train to ___2___ the stress of driving on unfamiliar roads.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "take",
+          "options": [
+            "take",
+            "drive",
+            "cancel",
+            "book"
+          ],
+          "hint": "搭（交通工具）"
+        },
+        {
+          "pos": 2,
+          "answer": "avoid",
+          "options": [
+            "avoid",
+            "enjoy",
+            "cause",
+            "increase"
+          ],
+          "hint": "避免"
+        }
+      ]
+    }
+  ]
+}

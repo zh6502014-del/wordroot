@@ -1,0 +1,568 @@
+{
+  "title": "社交用語",
+  "icon": "🤝",
+  "color": "rgba(200,96,240,.08)",
+  "border": "rgba(200,96,240,.25)",
+  "sets": [
+    {
+      "id": "so_001",
+      "passage": "It's important to ___1___ others' feelings and ___2___ carefully when someone shares their problems.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "respect",
+          "options": [
+            "respect",
+            "ignore",
+            "judge",
+            "criticize"
+          ],
+          "hint": "尊重"
+        },
+        {
+          "pos": 2,
+          "answer": "listen",
+          "options": [
+            "listen",
+            "talk",
+            "respond",
+            "react"
+          ],
+          "hint": "傾聽"
+        }
+      ]
+    },
+    {
+      "id": "so_002",
+      "passage": "She made an effort to ___1___ everyone at the party and ___2___ meaningful conversations.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "greet",
+          "options": [
+            "greet",
+            "ignore",
+            "avoid",
+            "judge"
+          ],
+          "hint": "打招呼"
+        },
+        {
+          "pos": 2,
+          "answer": "start",
+          "options": [
+            "start",
+            "end",
+            "avoid",
+            "cancel"
+          ],
+          "hint": "展開"
+        }
+      ]
+    },
+    {
+      "id": "so_003",
+      "passage": "He tried to ___1___ his opinion politely and ___2___ the other person's point of view.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "express",
+          "options": [
+            "express",
+            "hide",
+            "force",
+            "repeat"
+          ],
+          "hint": "表達"
+        },
+        {
+          "pos": 2,
+          "answer": "acknowledge",
+          "options": [
+            "acknowledge",
+            "reject",
+            "ignore",
+            "change"
+          ],
+          "hint": "認可"
+        }
+      ]
+    },
+    {
+      "id": "so_004",
+      "passage": "They agreed to ___1___ their disagreement and ___2___ on what they had in common.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "put aside",
+          "options": [
+            "put aside",
+            "repeat",
+            "discuss",
+            "publicize"
+          ],
+          "hint": "擱置"
+        },
+        {
+          "pos": 2,
+          "answer": "focus",
+          "options": [
+            "focus",
+            "argue",
+            "ignore",
+            "complain"
+          ],
+          "hint": "專注"
+        }
+      ]
+    },
+    {
+      "id": "so_005",
+      "passage": "She always remembers to ___1___ people for their help and ___2___ her appreciation sincerely.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "thank",
+          "options": [
+            "thank",
+            "ignore",
+            "pay",
+            "test"
+          ],
+          "hint": "感謝"
+        },
+        {
+          "pos": 2,
+          "answer": "express",
+          "options": [
+            "express",
+            "hide",
+            "pretend",
+            "avoid"
+          ],
+          "hint": "表達"
+        }
+      ]
+    },
+    {
+      "id": "so_006",
+      "passage": "He had to ___1___ for arriving late and ___2___ that it wouldn't happen again.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "apologize",
+          "options": [
+            "apologize",
+            "explain",
+            "ignore",
+            "laugh"
+          ],
+          "hint": "道歉"
+        },
+        {
+          "pos": 2,
+          "answer": "promise",
+          "options": [
+            "promise",
+            "forget",
+            "deny",
+            "claim"
+          ],
+          "hint": "承諾"
+        }
+      ]
+    },
+    {
+      "id": "so_007",
+      "passage": "It can be difficult to ___1___ conflict without hurting anyone's feelings, but it's possible to ___2___ a solution together.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "resolve",
+          "options": [
+            "resolve",
+            "cause",
+            "start",
+            "avoid"
+          ],
+          "hint": "解決"
+        },
+        {
+          "pos": 2,
+          "answer": "find",
+          "options": [
+            "find",
+            "delay",
+            "ignore",
+            "force"
+          ],
+          "hint": "找到"
+        }
+      ]
+    },
+    {
+      "id": "so_008",
+      "passage": "She tried to ___1___ between her two arguing friends and ___2___ them reach a compromise.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "mediate",
+          "options": [
+            "mediate",
+            "judge",
+            "choose",
+            "ignore"
+          ],
+          "hint": "調解"
+        },
+        {
+          "pos": 2,
+          "answer": "help",
+          "options": [
+            "help",
+            "force",
+            "prevent",
+            "blame"
+          ],
+          "hint": "協助"
+        }
+      ]
+    },
+    {
+      "id": "so_009",
+      "passage": "He was careful not to ___1___ others' private information and always ___2___ their boundaries.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "share",
+          "options": [
+            "share",
+            "hide",
+            "change",
+            "ignore"
+          ],
+          "hint": "（未經允許）分享"
+        },
+        {
+          "pos": 2,
+          "answer": "respected",
+          "options": [
+            "respected",
+            "ignored",
+            "tested",
+            "crossed"
+          ],
+          "hint": "尊重"
+        }
+      ]
+    },
+    {
+      "id": "so_010",
+      "passage": "She wanted to ___1___ her social circle and ___2___ new people with different backgrounds.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "expand",
+          "options": [
+            "expand",
+            "limit",
+            "protect",
+            "avoid"
+          ],
+          "hint": "擴展"
+        },
+        {
+          "pos": 2,
+          "answer": "meet",
+          "options": [
+            "meet",
+            "judge",
+            "ignore",
+            "replace"
+          ],
+          "hint": "認識"
+        }
+      ]
+    },
+    {
+      "id": "so_011",
+      "passage": "He found it helpful to ___1___ common ground early in the conversation to ___2___ rapport quickly.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "find",
+          "options": [
+            "find",
+            "ignore",
+            "avoid",
+            "create"
+          ],
+          "hint": "找到"
+        },
+        {
+          "pos": 2,
+          "answer": "build",
+          "options": [
+            "build",
+            "lose",
+            "break",
+            "test"
+          ],
+          "hint": "建立"
+        }
+      ]
+    },
+    {
+      "id": "so_012",
+      "passage": "She made sure to ___1___ her words carefully to avoid ___2___ any misunderstandings.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "choose",
+          "options": [
+            "choose",
+            "rush",
+            "forget",
+            "repeat"
+          ],
+          "hint": "選擇"
+        },
+        {
+          "pos": 2,
+          "answer": "causing",
+          "options": [
+            "causing",
+            "solving",
+            "hiding",
+            "ending"
+          ],
+          "hint": "造成"
+        }
+      ]
+    },
+    {
+      "id": "so_013",
+      "passage": "They decided to ___1___ their friendship by spending more quality time together and ___2___ each other's interests.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "strengthen",
+          "options": [
+            "strengthen",
+            "end",
+            "test",
+            "complicate"
+          ],
+          "hint": "加強"
+        },
+        {
+          "pos": 2,
+          "answer": "supporting",
+          "options": [
+            "supporting",
+            "ignoring",
+            "judging",
+            "competing"
+          ],
+          "hint": "支持"
+        }
+      ]
+    },
+    {
+      "id": "so_014",
+      "passage": "He tried not to ___1___ others and always made an effort to ___2___ before making a judgment.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "interrupt",
+          "options": [
+            "interrupt",
+            "join",
+            "help",
+            "follow"
+          ],
+          "hint": "打斷（別人說話）"
+        },
+        {
+          "pos": 2,
+          "answer": "listen",
+          "options": [
+            "listen",
+            "speak",
+            "react",
+            "judge"
+          ],
+          "hint": "傾聽"
+        }
+      ]
+    },
+    {
+      "id": "so_015",
+      "passage": "She decided to ___1___ her true feelings rather than ___2___ them just to please others.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "express",
+          "options": [
+            "express",
+            "deny",
+            "hide",
+            "ignore"
+          ],
+          "hint": "表達"
+        },
+        {
+          "pos": 2,
+          "answer": "suppress",
+          "options": [
+            "suppress",
+            "share",
+            "announce",
+            "display"
+          ],
+          "hint": "壓抑"
+        }
+      ]
+    },
+    {
+      "id": "so_016",
+      "passage": "He was known for his ability to ___1___ others feel comfortable and ___2___ a welcoming atmosphere.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "make",
+          "options": [
+            "make",
+            "force",
+            "test",
+            "judge"
+          ],
+          "hint": "使、讓"
+        },
+        {
+          "pos": 2,
+          "answer": "create",
+          "options": [
+            "create",
+            "destroy",
+            "fake",
+            "ignore"
+          ],
+          "hint": "營造"
+        }
+      ]
+    },
+    {
+      "id": "so_017",
+      "passage": "They had to ___1___ the topic carefully because it was sensitive and could easily ___2___ tension.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "approach",
+          "options": [
+            "approach",
+            "avoid",
+            "broadcast",
+            "publish"
+          ],
+          "hint": "處理"
+        },
+        {
+          "pos": 2,
+          "answer": "create",
+          "options": [
+            "create",
+            "reduce",
+            "solve",
+            "discuss"
+          ],
+          "hint": "製造"
+        }
+      ]
+    },
+    {
+      "id": "so_018",
+      "passage": "She made it a habit to ___1___ up with old friends regularly and ___2___ their milestones together.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "catch",
+          "options": [
+            "catch",
+            "give",
+            "put",
+            "leave"
+          ],
+          "hint": "與...聯絡"
+        },
+        {
+          "pos": 2,
+          "answer": "celebrate",
+          "options": [
+            "celebrate",
+            "ignore",
+            "judge",
+            "discuss"
+          ],
+          "hint": "慶祝"
+        }
+      ]
+    },
+    {
+      "id": "so_019",
+      "passage": "He always tries to ___1___ positively to criticism and use it as a chance to ___2___.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "respond",
+          "options": [
+            "respond",
+            "react",
+            "object",
+            "deny"
+          ],
+          "hint": "回應"
+        },
+        {
+          "pos": 2,
+          "answer": "improve",
+          "options": [
+            "improve",
+            "complain",
+            "withdraw",
+            "retaliate"
+          ],
+          "hint": "進步"
+        }
+      ]
+    },
+    {
+      "id": "so_020",
+      "passage": "She chose to ___1___ her network by attending events and ___2___ herself to new people confidently.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "grow",
+          "options": [
+            "grow",
+            "limit",
+            "replace",
+            "hide"
+          ],
+          "hint": "拓展"
+        },
+        {
+          "pos": 2,
+          "answer": "introducing",
+          "options": [
+            "introducing",
+            "comparing",
+            "judging",
+            "avoiding"
+          ],
+          "hint": "介紹"
+        }
+      ]
+    }
+  ]
+}

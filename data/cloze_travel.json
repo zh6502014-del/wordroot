@@ -1,0 +1,568 @@
+{
+  "title": "旅行用語",
+  "icon": "✈️",
+  "color": "rgba(240,160,96,.08)",
+  "border": "rgba(240,160,96,.25)",
+  "sets": [
+    {
+      "id": "tr_001",
+      "passage": "Don't forget to ___1___ your passport before you ___2___ for your international flight.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "check",
+          "options": [
+            "check",
+            "lose",
+            "buy",
+            "print"
+          ],
+          "hint": "檢查"
+        },
+        {
+          "pos": 2,
+          "answer": "depart",
+          "options": [
+            "depart",
+            "arrive",
+            "cancel",
+            "sleep"
+          ],
+          "hint": "出發"
+        }
+      ]
+    },
+    {
+      "id": "tr_002",
+      "passage": "She decided to ___1___ a hotel room in advance to ___2___ the best available rate.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "book",
+          "options": [
+            "book",
+            "cancel",
+            "find",
+            "compare"
+          ],
+          "hint": "預訂"
+        },
+        {
+          "pos": 2,
+          "answer": "secure",
+          "options": [
+            "secure",
+            "miss",
+            "lose",
+            "pay"
+          ],
+          "hint": "確保取得"
+        }
+      ]
+    },
+    {
+      "id": "tr_003",
+      "passage": "He had to ___1___ his luggage and ___2___ at the airport counter two hours before departure.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "check in",
+          "options": [
+            "check in",
+            "leave",
+            "inspect",
+            "pack"
+          ],
+          "hint": "辦理登機"
+        },
+        {
+          "pos": 2,
+          "answer": "check in",
+          "options": [
+            "check in",
+            "check out",
+            "wait",
+            "queue"
+          ],
+          "hint": "報到"
+        }
+      ]
+    },
+    {
+      "id": "tr_004",
+      "passage": "The tour guide told us to ___1___ local customs and not to ___2___ photos inside the temple.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "respect",
+          "options": [
+            "respect",
+            "ignore",
+            "break",
+            "debate"
+          ],
+          "hint": "尊重"
+        },
+        {
+          "pos": 2,
+          "answer": "take",
+          "options": [
+            "take",
+            "buy",
+            "sell",
+            "print"
+          ],
+          "hint": "拍攝"
+        }
+      ]
+    },
+    {
+      "id": "tr_005",
+      "passage": "They needed to ___1___ local currency before they could ___2___ anything at the market.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "exchange",
+          "options": [
+            "exchange",
+            "borrow",
+            "print",
+            "hide"
+          ],
+          "hint": "兌換"
+        },
+        {
+          "pos": 2,
+          "answer": "purchase",
+          "options": [
+            "purchase",
+            "ignore",
+            "return",
+            "cancel"
+          ],
+          "hint": "購買"
+        }
+      ]
+    },
+    {
+      "id": "tr_006",
+      "passage": "She asked the hotel receptionist to ___1___ a taxi and ___2___ directions to the nearest museum.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "arrange",
+          "options": [
+            "arrange",
+            "build",
+            "buy",
+            "drive"
+          ],
+          "hint": "安排"
+        },
+        {
+          "pos": 2,
+          "answer": "provide",
+          "options": [
+            "provide",
+            "ignore",
+            "cancel",
+            "hide"
+          ],
+          "hint": "提供"
+        }
+      ]
+    },
+    {
+      "id": "tr_007",
+      "passage": "Travelers are advised to ___1___ travel insurance and ___2___ their documents in a safe place.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "purchase",
+          "options": [
+            "purchase",
+            "cancel",
+            "ignore",
+            "review"
+          ],
+          "hint": "購買"
+        },
+        {
+          "pos": 2,
+          "answer": "store",
+          "options": [
+            "store",
+            "throw",
+            "send",
+            "post"
+          ],
+          "hint": "存放"
+        }
+      ]
+    },
+    {
+      "id": "tr_008",
+      "passage": "He had to ___1___ a connecting flight and ___2___ through customs at the transit airport.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "catch",
+          "options": [
+            "catch",
+            "miss",
+            "book",
+            "cancel"
+          ],
+          "hint": "趕上（班機）"
+        },
+        {
+          "pos": 2,
+          "answer": "pass",
+          "options": [
+            "pass",
+            "avoid",
+            "skip",
+            "delay"
+          ],
+          "hint": "通過"
+        }
+      ]
+    },
+    {
+      "id": "tr_009",
+      "passage": "The travel app helped her ___1___ the best route and ___2___ real-time traffic updates.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "find",
+          "options": [
+            "find",
+            "build",
+            "cancel",
+            "create"
+          ],
+          "hint": "找到"
+        },
+        {
+          "pos": 2,
+          "answer": "receive",
+          "options": [
+            "receive",
+            "ignore",
+            "send",
+            "delay"
+          ],
+          "hint": "接收"
+        }
+      ]
+    },
+    {
+      "id": "tr_010",
+      "passage": "She wanted to ___1___ off the beaten path and ___2___ places that most tourists never see.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "venture",
+          "options": [
+            "venture",
+            "stay",
+            "avoid",
+            "return"
+          ],
+          "hint": "冒險前往"
+        },
+        {
+          "pos": 2,
+          "answer": "discover",
+          "options": [
+            "discover",
+            "ignore",
+            "photograph",
+            "map"
+          ],
+          "hint": "發現"
+        }
+      ]
+    },
+    {
+      "id": "tr_011",
+      "passage": "He made sure to ___1___ a window seat so he could ___2___ the scenery during the flight.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "request",
+          "options": [
+            "request",
+            "avoid",
+            "ignore",
+            "cancel"
+          ],
+          "hint": "要求"
+        },
+        {
+          "pos": 2,
+          "answer": "enjoy",
+          "options": [
+            "enjoy",
+            "photograph",
+            "describe",
+            "miss"
+          ],
+          "hint": "欣賞"
+        }
+      ]
+    },
+    {
+      "id": "tr_012",
+      "passage": "They decided to ___1___ their itinerary to include more free time and ___2___ some planned tours.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "adjust",
+          "options": [
+            "adjust",
+            "cancel",
+            "complete",
+            "print"
+          ],
+          "hint": "調整"
+        },
+        {
+          "pos": 2,
+          "answer": "skip",
+          "options": [
+            "skip",
+            "add",
+            "book",
+            "pay"
+          ],
+          "hint": "跳過"
+        }
+      ]
+    },
+    {
+      "id": "tr_013",
+      "passage": "She tried to ___1___ with locals using simple phrases and ___2___ their recommendations seriously.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "communicate",
+          "options": [
+            "communicate",
+            "argue",
+            "ignore",
+            "compete"
+          ],
+          "hint": "溝通"
+        },
+        {
+          "pos": 2,
+          "answer": "take",
+          "options": [
+            "take",
+            "ignore",
+            "forget",
+            "reject"
+          ],
+          "hint": "認真看待"
+        }
+      ]
+    },
+    {
+      "id": "tr_014",
+      "passage": "The airline announced a delay and asked passengers to ___1___ at the gate and ___2___ for further updates.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "remain",
+          "options": [
+            "remain",
+            "leave",
+            "rush",
+            "queue"
+          ],
+          "hint": "留在"
+        },
+        {
+          "pos": 2,
+          "answer": "wait",
+          "options": [
+            "wait",
+            "complain",
+            "board",
+            "call"
+          ],
+          "hint": "等待"
+        }
+      ]
+    },
+    {
+      "id": "tr_015",
+      "passage": "He decided to ___1___ his trip by one day in order to ___2___ a local festival he hadn't planned for.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "extend",
+          "options": [
+            "extend",
+            "cancel",
+            "shorten",
+            "change"
+          ],
+          "hint": "延長"
+        },
+        {
+          "pos": 2,
+          "answer": "attend",
+          "options": [
+            "attend",
+            "avoid",
+            "photograph",
+            "cancel"
+          ],
+          "hint": "參加"
+        }
+      ]
+    },
+    {
+      "id": "tr_016",
+      "passage": "Before the trip, she made a checklist to ___1___ she had packed everything and didn't ___2___ her medication.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "ensure",
+          "options": [
+            "ensure",
+            "show",
+            "prove",
+            "test"
+          ],
+          "hint": "確保"
+        },
+        {
+          "pos": 2,
+          "answer": "forget",
+          "options": [
+            "forget",
+            "buy",
+            "list",
+            "check"
+          ],
+          "hint": "忘記"
+        }
+      ]
+    },
+    {
+      "id": "tr_017",
+      "passage": "The hostel was easy to ___1___ because it was located near the main station and had clear signs to ___2___ the way.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "locate",
+          "options": [
+            "locate",
+            "miss",
+            "avoid",
+            "describe"
+          ],
+          "hint": "找到"
+        },
+        {
+          "pos": 2,
+          "answer": "show",
+          "options": [
+            "show",
+            "block",
+            "hide",
+            "change"
+          ],
+          "hint": "指引"
+        }
+      ]
+    },
+    {
+      "id": "tr_018",
+      "passage": "She learned to ___1___ her expenses carefully while traveling to avoid having to ___2___ money from friends.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "manage",
+          "options": [
+            "manage",
+            "ignore",
+            "increase",
+            "enjoy"
+          ],
+          "hint": "管理"
+        },
+        {
+          "pos": 2,
+          "answer": "borrow",
+          "options": [
+            "borrow",
+            "lend",
+            "earn",
+            "exchange"
+          ],
+          "hint": "借（錢）"
+        }
+      ]
+    },
+    {
+      "id": "tr_019",
+      "passage": "They had to ___1___ the tour because of bad weather and ___2___ it for the following morning.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "cancel",
+          "options": [
+            "cancel",
+            "attend",
+            "join",
+            "finish"
+          ],
+          "hint": "取消"
+        },
+        {
+          "pos": 2,
+          "answer": "reschedule",
+          "options": [
+            "reschedule",
+            "ignore",
+            "pay",
+            "leave"
+          ],
+          "hint": "重新安排"
+        }
+      ]
+    },
+    {
+      "id": "tr_020",
+      "passage": "He always tries to ___1___ light when traveling to ___2___ the hassle of checking in luggage.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "pack",
+          "options": [
+            "pack",
+            "travel",
+            "fly",
+            "book"
+          ],
+          "hint": "打包、帶"
+        },
+        {
+          "pos": 2,
+          "answer": "avoid",
+          "options": [
+            "avoid",
+            "enjoy",
+            "experience",
+            "reduce"
+          ],
+          "hint": "避免"
+        }
+      ]
+    }
+  ]
+}

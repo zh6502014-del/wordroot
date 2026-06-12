@@ -1,0 +1,568 @@
+{
+  "title": "職場用語",
+  "icon": "💼",
+  "color": "rgba(96,200,240,.08)",
+  "border": "rgba(96,200,240,.25)",
+  "sets": [
+    {
+      "id": "wp_001",
+      "passage": "Please ___1___ the report by Friday and ___2___ a copy to all team members.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "submit",
+          "options": [
+            "submit",
+            "delay",
+            "design",
+            "read"
+          ],
+          "hint": "繳交、提交"
+        },
+        {
+          "pos": 2,
+          "answer": "send",
+          "options": [
+            "send",
+            "hide",
+            "delete",
+            "write"
+          ],
+          "hint": "寄送"
+        }
+      ]
+    },
+    {
+      "id": "wp_002",
+      "passage": "The manager decided to ___1___ the project deadline and ___2___ extra support to the team.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "extend",
+          "options": [
+            "extend",
+            "cancel",
+            "shorten",
+            "ignore"
+          ],
+          "hint": "延長"
+        },
+        {
+          "pos": 2,
+          "answer": "provide",
+          "options": [
+            "provide",
+            "remove",
+            "deny",
+            "request"
+          ],
+          "hint": "提供"
+        }
+      ]
+    },
+    {
+      "id": "wp_003",
+      "passage": "She was asked to ___1___ the client's needs and ___2___ a proposal by next Monday.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "assess",
+          "options": [
+            "assess",
+            "ignore",
+            "improve",
+            "record"
+          ],
+          "hint": "評估"
+        },
+        {
+          "pos": 2,
+          "answer": "prepare",
+          "options": [
+            "prepare",
+            "cancel",
+            "review",
+            "submit"
+          ],
+          "hint": "準備"
+        }
+      ]
+    },
+    {
+      "id": "wp_004",
+      "passage": "He was able to ___1___ the issue quickly before it began to ___2___ other departments.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "resolve",
+          "options": [
+            "resolve",
+            "create",
+            "ignore",
+            "report"
+          ],
+          "hint": "解決"
+        },
+        {
+          "pos": 2,
+          "answer": "affect",
+          "options": [
+            "affect",
+            "help",
+            "improve",
+            "notify"
+          ],
+          "hint": "影響"
+        }
+      ]
+    },
+    {
+      "id": "wp_005",
+      "passage": "All employees are required to ___1___ the company's code of conduct and ___2___ a professional attitude.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "follow",
+          "options": [
+            "follow",
+            "write",
+            "revise",
+            "reject"
+          ],
+          "hint": "遵守"
+        },
+        {
+          "pos": 2,
+          "answer": "maintain",
+          "options": [
+            "maintain",
+            "lose",
+            "fake",
+            "avoid"
+          ],
+          "hint": "保持"
+        }
+      ]
+    },
+    {
+      "id": "wp_006",
+      "passage": "The team leader will ___1___ tasks among members based on their skills and ___2___ their progress weekly.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "distribute",
+          "options": [
+            "distribute",
+            "complete",
+            "ignore",
+            "delay"
+          ],
+          "hint": "分配"
+        },
+        {
+          "pos": 2,
+          "answer": "track",
+          "options": [
+            "track",
+            "forget",
+            "change",
+            "celebrate"
+          ],
+          "hint": "追蹤"
+        }
+      ]
+    },
+    {
+      "id": "wp_007",
+      "passage": "We need to ___1___ our strategy if we want to ___2___ our sales target this quarter.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "revise",
+          "options": [
+            "revise",
+            "ignore",
+            "follow",
+            "complete"
+          ],
+          "hint": "修改、調整"
+        },
+        {
+          "pos": 2,
+          "answer": "meet",
+          "options": [
+            "meet",
+            "miss",
+            "avoid",
+            "announce"
+          ],
+          "hint": "達到（目標）"
+        }
+      ]
+    },
+    {
+      "id": "wp_008",
+      "passage": "The HR department will ___1___ new candidates next week and ___2___ interviews on a rolling basis.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "screen",
+          "options": [
+            "screen",
+            "hire",
+            "ignore",
+            "contact"
+          ],
+          "hint": "篩選"
+        },
+        {
+          "pos": 2,
+          "answer": "conduct",
+          "options": [
+            "conduct",
+            "cancel",
+            "delay",
+            "plan"
+          ],
+          "hint": "進行"
+        }
+      ]
+    },
+    {
+      "id": "wp_009",
+      "passage": "She had to ___1___ her presentation in front of the board and ___2___ difficult questions.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "deliver",
+          "options": [
+            "deliver",
+            "cancel",
+            "prepare",
+            "avoid"
+          ],
+          "hint": "進行（演講）"
+        },
+        {
+          "pos": 2,
+          "answer": "handle",
+          "options": [
+            "handle",
+            "ignore",
+            "write",
+            "avoid"
+          ],
+          "hint": "應對"
+        }
+      ]
+    },
+    {
+      "id": "wp_010",
+      "passage": "The company plans to ___1___ its operations overseas and ___2___ a new team in the region.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "expand",
+          "options": [
+            "expand",
+            "reduce",
+            "close",
+            "move"
+          ],
+          "hint": "拓展"
+        },
+        {
+          "pos": 2,
+          "answer": "establish",
+          "options": [
+            "establish",
+            "remove",
+            "merge",
+            "train"
+          ],
+          "hint": "建立"
+        }
+      ]
+    },
+    {
+      "id": "wp_011",
+      "passage": "Please ___1___ meeting minutes and ___2___ them to all participants within 24 hours.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "record",
+          "options": [
+            "record",
+            "erase",
+            "ignore",
+            "print"
+          ],
+          "hint": "記錄"
+        },
+        {
+          "pos": 2,
+          "answer": "distribute",
+          "options": [
+            "distribute",
+            "delete",
+            "keep",
+            "discuss"
+          ],
+          "hint": "分發"
+        }
+      ]
+    },
+    {
+      "id": "wp_012",
+      "passage": "The finance team needs to ___1___ the budget and ___2___ unnecessary expenses before year-end.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "review",
+          "options": [
+            "review",
+            "increase",
+            "ignore",
+            "publish"
+          ],
+          "hint": "審查"
+        },
+        {
+          "pos": 2,
+          "answer": "cut",
+          "options": [
+            "cut",
+            "add",
+            "hide",
+            "approve"
+          ],
+          "hint": "削減"
+        }
+      ]
+    },
+    {
+      "id": "wp_013",
+      "passage": "He was promoted because he consistently ___1___ deadlines and ___2___ high-quality work.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "met",
+          "options": [
+            "met",
+            "missed",
+            "ignored",
+            "delayed"
+          ],
+          "hint": "達到"
+        },
+        {
+          "pos": 2,
+          "answer": "delivered",
+          "options": [
+            "delivered",
+            "avoided",
+            "refused",
+            "forgot"
+          ],
+          "hint": "產出"
+        }
+      ]
+    },
+    {
+      "id": "wp_014",
+      "passage": "The team decided to ___1___ their workflow using new software to ___2___ time on repetitive tasks.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "automate",
+          "options": [
+            "automate",
+            "complicate",
+            "stop",
+            "reverse"
+          ],
+          "hint": "自動化"
+        },
+        {
+          "pos": 2,
+          "answer": "save",
+          "options": [
+            "save",
+            "spend",
+            "waste",
+            "double"
+          ],
+          "hint": "節省"
+        }
+      ]
+    },
+    {
+      "id": "wp_015",
+      "passage": "She was asked to ___1___ the new staff members and ___2___ their performance for the first three months.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "mentor",
+          "options": [
+            "mentor",
+            "ignore",
+            "replace",
+            "hire"
+          ],
+          "hint": "指導、輔導"
+        },
+        {
+          "pos": 2,
+          "answer": "evaluate",
+          "options": [
+            "evaluate",
+            "ignore",
+            "announce",
+            "remove"
+          ],
+          "hint": "評估"
+        }
+      ]
+    },
+    {
+      "id": "wp_016",
+      "passage": "We should ___1___ clearly with clients and always ___2___ any changes to the project timeline.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "communicate",
+          "options": [
+            "communicate",
+            "argue",
+            "pretend",
+            "rush"
+          ],
+          "hint": "溝通"
+        },
+        {
+          "pos": 2,
+          "answer": "communicate",
+          "options": [
+            "communicate",
+            "hide",
+            "delay",
+            "forget"
+          ],
+          "hint": "告知"
+        }
+      ]
+    },
+    {
+      "id": "wp_017",
+      "passage": "The legal team will ___1___ the contract terms and ___2___ approval before signing.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "review",
+          "options": [
+            "review",
+            "write",
+            "translate",
+            "send"
+          ],
+          "hint": "審閱"
+        },
+        {
+          "pos": 2,
+          "answer": "seek",
+          "options": [
+            "seek",
+            "deny",
+            "ignore",
+            "rush"
+          ],
+          "hint": "尋求"
+        }
+      ]
+    },
+    {
+      "id": "wp_018",
+      "passage": "It is important to ___1___ feedback from customers and use it to ___2___ our services.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "gather",
+          "options": [
+            "gather",
+            "ignore",
+            "publish",
+            "reject"
+          ],
+          "hint": "蒐集"
+        },
+        {
+          "pos": 2,
+          "answer": "improve",
+          "options": [
+            "improve",
+            "complicate",
+            "delay",
+            "copy"
+          ],
+          "hint": "改善"
+        }
+      ]
+    },
+    {
+      "id": "wp_019",
+      "passage": "The director asked all managers to ___1___ their teams and ___2___ a summary of achievements.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "brief",
+          "options": [
+            "brief",
+            "replace",
+            "ignore",
+            "test"
+          ],
+          "hint": "briefing 告知、說明"
+        },
+        {
+          "pos": 2,
+          "answer": "present",
+          "options": [
+            "present",
+            "hide",
+            "erase",
+            "delay"
+          ],
+          "hint": "呈報"
+        }
+      ]
+    },
+    {
+      "id": "wp_020",
+      "passage": "She made sure to ___1___ conflicts within the team early and ___2___ a positive work environment.",
+      "blanks": [
+        {
+          "pos": 1,
+          "answer": "address",
+          "options": [
+            "address",
+            "create",
+            "ignore",
+            "enjoy"
+          ],
+          "hint": "處理、應對"
+        },
+        {
+          "pos": 2,
+          "answer": "foster",
+          "options": [
+            "foster",
+            "destroy",
+            "limit",
+            "avoid"
+          ],
+          "hint": "培養"
+        }
+      ]
+    }
+  ]
+}
