@@ -286,6 +286,12 @@ Promise.all(VOCAB_FILES.map(u=>fetch(u).then(r=>r.ok?r.json():[])))
     VOCAB=results.flat();
     buildVocabIndexes();
     console.log('Vocab loaded:',VOCAB.length,'words');
+    const st=document.getElementById('statusText');
+    if(st&&VOCAB.length)st.textContent=`ONLINE · ${VOCAB.length} WORDS`;
+    // Re-highlight any bot messages rendered before vocab finished loading
+    document.querySelectorAll('.msg-row.bot .msg-content').forEach(el=>{
+      if(el.dataset.raw)el.innerHTML=highlightVocab(el.dataset.raw);
+    });
   })
   .catch(err=>{ console.warn('Vocab load failed:',err); });
 
@@ -325,11 +331,23 @@ function findMentionedVocab(text){
   for(const token of tokens){
     const direct=getVocabWord(token);
     if(direct)return direct;
-    for(const suffix of ['ing','ed','s','es']){
-      if(token.endsWith(suffix)){
-        const base=getVocabWord(token.slice(0,-suffix.length));
-        if(base)return base;
-      }
+    // Generate candidate base forms (handles studies→study, planning→plan, analyzed→analyze)
+    const candidates=[];
+    if(token.endsWith('ies'))candidates.push(token.slice(0,-3)+'y');
+    if(token.endsWith('ied'))candidates.push(token.slice(0,-3)+'y');
+    if(token.endsWith('ing')){
+      candidates.push(token.slice(0,-3),token.slice(0,-3)+'e');
+      if(/([a-z])\1ing$/.test(token))candidates.push(token.slice(0,-4)); // doubled consonant
+    }
+    if(token.endsWith('ed')){
+      candidates.push(token.slice(0,-2),token.slice(0,-1));
+      if(/([a-z])\1ed$/.test(token))candidates.push(token.slice(0,-3));
+    }
+    if(token.endsWith('es'))candidates.push(token.slice(0,-2));
+    if(token.endsWith('s'))candidates.push(token.slice(0,-1));
+    for(const c of candidates){
+      const base=getVocabWord(c);
+      if(base)return base;
     }
   }
   return null;
@@ -519,13 +537,18 @@ function formatVocabCard(w,mode='full'){
 // LANGUAGETOOL — grammar check
 // ══════════════════════════════════════════════
 async function checkGrammar(text){
+  // Skip grammar check for Chinese-dominant or non-English input —
+  // LanguageTool en-US on CJK text produces meaningless flags
+  const enWords=(text.match(/[a-zA-Z]{2,}/g)||[]).length;
+  if(enWords===0)return[];
+  if(/[\u3400-\u9fff]/.test(text)&&enWords<3)return[];
   try{
     const params=new URLSearchParams({language:'en-US',text});
     const res=await fetch('https://api.languagetool.org/v2/check',{
       method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},
       body:params,signal:AbortSignal.timeout(5000)
     });
-    if(!res.ok)return[];
+    if(!res.ok)return localGrammarCheck(text);
     const data=await res.json();
     return data.matches||[];
   }catch{return localGrammarCheck(text)}
@@ -620,17 +643,19 @@ const tooltip=document.getElementById('tooltip');
 let tooltipTimeout;
 
 function showTooltip(el,word){
-  const w=VOCAB.find(v=>v.word.toLowerCase()===word.toLowerCase());
+  const w=getVocabWord(word); // O(1) map lookup instead of O(n) scan
   if(!w)return;
   clearTimeout(tooltipTimeout);
+  const safeWord=escapeHtml(w.word);
   tooltip.innerHTML=`
-    <div class="tt-word">${w.word}</div>
-    <div class="tt-phonetic">${w.phonetic} · ${w.pos}</div>
-    <div class="tt-def">${w.definition}</div>
-    <div class="tt-def-zh">${w.definition_zh}</div>
-    <div class="tt-syns">${(w.synonyms||[]).slice(0,4).map(s=>`<span class="tt-syn">${s}</span>`).join('')}</div>
-    <button class="tt-speak" onclick="speakWordFn('${w.word}')">🔊 Play pronunciation</button>
+    <div class="tt-word">${safeWord}</div>
+    <div class="tt-phonetic">${escapeHtml(w.phonetic||'')} · ${escapeHtml(w.pos||'')}</div>
+    <div class="tt-def">${escapeHtml(w.definition||'')}</div>
+    <div class="tt-def-zh">${escapeHtml(w.definition_zh||'')}</div>
+    <div class="tt-syns">${(w.synonyms||[]).slice(0,4).map(s=>`<span class="tt-syn">${escapeHtml(s)}</span>`).join('')}</div>
+    <button class="tt-speak">🔊 Play pronunciation</button>
   `;
+  tooltip.querySelector('.tt-speak').onclick=()=>speakWordFn(w.word);
   const rect=el.getBoundingClientRect();
   const tw=280;
   let left=rect.left;
@@ -943,6 +968,23 @@ const TOPICS={
   },
 };
 
+// Precompiled trigger index: single words → exact-token match, phrases → word-boundary regex.
+// Fixes substring false positives ("eat" in "great", "ill" in "still", "hot" in "photo").
+let TOPIC_INDEX=null;
+function buildTopicIndex(){
+  TOPIC_INDEX=Object.entries(TOPICS).map(([key,topic])=>{
+    const single=new Set(),phrases=[];
+    topic.triggers.forEach(t=>{
+      if(t.includes(' ')||t.includes("'")){
+        phrases.push({re:new RegExp('\\b'+escapeRegex(t)+'\\b','i'),len:t.split(' ').length});
+      }else{
+        single.add(t);
+      }
+    });
+    return {key,topic,single,phrases};
+  });
+}
+
 const PROACTIVE_OPENERS=[
   "Hey! It's been a while. How have things been going for you lately?",
   "Hello! I noticed you haven't stopped by in a bit. What's new with you?",
@@ -987,17 +1029,18 @@ const CTX={
 // ── Negation detector ──
 const NEGATIONS=['not','no','never','nothing','nobody','nowhere','neither','nor','dont','doesnt','didnt','wont','wouldnt','cant','couldnt','shouldnt','isnt','arent','wasnt','werent','hardly','barely','scarcely'];
 function hasNegation(text){
-  const lower=text.toLowerCase();
-  return NEGATIONS.some(n=>lower.includes(' '+n+' ')||lower.startsWith(n+' '));
+  // strip apostrophes so "don't" → "dont" matches the list
+  const tokens=tokenizeWords(text).map(t=>t.replace(/'/g,''));
+  return tokens.some(t=>NEGATIONS.includes(t));
 }
 
 // ── Sentiment detector ──
 const POS_WORDS=['great','good','amazing','wonderful','fantastic','excellent','happy','love','enjoy','excited','thrilled','glad','pleased','awesome','brilliant','perfect','nice','fun','interesting'];
 const NEG_WORDS=['bad','terrible','awful','horrible','sad','hate','dislike','angry','frustrated','miserable','depressed','upset','disappointed','annoyed','stressed','worried','scared','nervous','anxious','exhausted','lonely'];
 function getSentiment(text){
-  const lower=text.toLowerCase();
-  const pos=POS_WORDS.filter(w=>lower.includes(w)).length;
-  const neg=NEG_WORDS.filter(w=>lower.includes(w)).length;
+  const tokens=new Set(tokenizeWords(text));
+  const pos=POS_WORDS.filter(w=>tokens.has(w)).length;
+  const neg=NEG_WORDS.filter(w=>tokens.has(w)).length;
   if(neg>pos) return 'negative';
   if(pos>neg) return 'positive';
   return 'neutral';
@@ -1087,6 +1130,11 @@ const UMEM={
 // ══════════════════════════════════════════════
 // VOCAB QUIZ ENGINE
 // ══════════════════════════════════════════════
+function safeParse(raw,fallback){
+  if(!raw)return fallback;
+  try{const v=JSON.parse(raw);return v==null?fallback:v}catch{return fallback}
+}
+
 const QUIZ={
   active:false,
   word:null,
@@ -1105,7 +1153,7 @@ const QUIZ={
   startBrutal(){
     const raw=localStorage.getItem('wr_mistakes');
     if(!raw)return null;
-    const mistakes=Object.entries(JSON.parse(raw));
+    const mistakes=Object.entries(safeParse(raw,{}));
     if(!mistakes.length)return null;
     const [correctWord,data]=mistakes[Math.floor(Math.random()*mistakes.length)];
     const correctVocab=getVocabWord(correctWord);
@@ -1149,7 +1197,7 @@ const QUIZ={
     if(isCorrect){
       const raw=localStorage.getItem('wr_mistakes');
       if(raw){
-        const all=JSON.parse(raw);
+        const all=safeParse(raw,{});
         if(all[correct.word]){
           all[correct.word].streak=(all[correct.word].streak||0)+1;
           if(all[correct.word].streak>=2)delete all[correct.word];
@@ -1159,7 +1207,7 @@ const QUIZ={
     } else {
       const raw=localStorage.getItem('wr_mistakes');
       if(raw){
-        const all=JSON.parse(raw);
+        const all=safeParse(raw,{});
         if(all[correct.word])all[correct.word].streak=0;
         localStorage.setItem('wr_mistakes',JSON.stringify(all));
       }
@@ -1170,7 +1218,7 @@ const QUIZ={
   hasMistakes(){
     const raw=localStorage.getItem('wr_mistakes');
     if(!raw)return false;
-    return Object.keys(JSON.parse(raw)).length>0;
+    return Object.keys(safeParse(raw,{})).length>0;
   },
 };
 
@@ -1223,11 +1271,14 @@ function getBotResponse(userText,quoteText=null,grammarMatches=[]){
   // If user quoted a bot message, inject it as context
   if(quoteText){
     const quoteLower=quoteText.toLowerCase();
-    // Score quoted text against topics to extract topic
+    // Score quoted text against topics to extract topic (whole-word matching)
+    if(!TOPIC_INDEX)buildTopicIndex();
+    const qTokens=new Set(tokenizeWords(quoteLower));
     let qBest=null,qScore=0;
-    for(const [key,topic] of Object.entries(TOPICS)){
+    for(const {key,single,phrases} of TOPIC_INDEX){
       let s=0;
-      for(const t of topic.triggers){if(quoteLower.includes(t))s+=t.split(' ').length}
+      for(const tok of qTokens){if(single.has(tok))s+=1}
+      for(const p of phrases){if(p.re.test(quoteLower))s+=p.len}
       if(s>qScore){qScore=s;qBest=key}
     }
     if(qBest&&qScore>0){
@@ -1251,7 +1302,7 @@ function getBotResponse(userText,quoteText=null,grammarMatches=[]){
 function _getBotResponseCore(userText){
   const lower=userText.toLowerCase().trim();
   const words=lower.split(/\s+/);
-  const isNegated=NEGATIONS.some(n=>lower.includes(' '+n+' ')||lower.startsWith(n+' '));
+  const isNegated=hasNegation(lower);
   const sentiment=getSentiment(lower);
   const lastTopic=CTX.lastUserTopic();
   const recentTopics=CTX.recentTopics();
@@ -1259,6 +1310,32 @@ function _getBotResponseCore(userText){
   shiftCooldown=Math.max(0,shiftCooldown-1);
   UMEM.extract(userText);
   const prefix=UMEM.personalTouch();
+
+  // 0. QUIZ ANSWER — must run FIRST, before any other branch can hijack the reply
+  if(QUIZ.active){
+    if(QUIZ.type==='meaning'){
+      const result=QUIZ.checkMeaning(userText);
+      if(result){
+        CTX.push('user',userText,'quiz');
+        if(result.isCorrect){
+          return `✅ Exactly right! "${result.word.word}" means ${result.word.definition}. Great job — your vocabulary is strong!`;
+        } else {
+          return `Not quite! "${result.word.word}" means: ${result.word.definition} (${result.word.definition_zh}). The example: "${result.word.example}" — now you know!`;
+        }
+      }
+    }
+    if(QUIZ.type==='brutal'){
+      const result=QUIZ.checkBrutal(userText);
+      if(result){
+        CTX.push('user',userText,'quiz');
+        if(result.isCorrect){
+          return `💪 Correct! "${result.word.word}" — ${result.word.definition_zh}. You're chipping away at your mistake list!`;
+        } else {
+          return `💀 Not this time! The correct answer was "${result.word.word}" — ${result.word.definition_zh}. Example: "${result.word.example}". Keep at it!`;
+        }
+      }
+    }
+  }
 
   // -2. Scenario phrase generator — daily/work/travel/social expressions
   if(isPhraseIntent(userText)){
@@ -1335,35 +1412,12 @@ function _getBotResponseCore(userText){
     }
   }
 
-  // 0c. Quiz answer detection
-  if(QUIZ.active){
-    if(QUIZ.type==='meaning'){
-      const result=QUIZ.checkMeaning(userText);
-      if(result){
-        CTX.push('user',userText,'quiz');
-        if(result.isCorrect){
-          return `✅ Exactly right! "${result.word.word}" means ${result.word.definition}. Great job — your vocabulary is strong!`;
-        } else {
-          return `Not quite! "${result.word.word}" means: ${result.word.definition} (${result.word.definition_zh}). The example: "${result.word.example}" — now you know!`;
-        }
-      }
-    }
-    if(QUIZ.type==='brutal'){
-      const result=QUIZ.checkBrutal(userText);
-      if(result){
-        CTX.push('user',userText,'quiz');
-        if(result.isCorrect){
-          return `💪 Correct! "${result.word.word}" — ${result.word.definition_zh}. You're chipping away at your mistake list!`;
-        } else {
-          return `💀 Not this time! The correct answer was "${result.word.word}" — ${result.word.definition_zh}. Example: "${result.word.example}". Keep at it!`;
-        }
-      }
-    }
-  }
-
-  // Explicit quiz request
-  const quizMatch=lower.match(/(?:quiz|test|challenge|check|ask|考|測驗|小考|單字測驗)\s*(?:me|my vocab)?/);
-  if(quizMatch||lower==='quiz'||lower==='test me'||lower==='challenge me'){
+  // Explicit quiz request — strict matching to avoid false triggers like "check my email"
+  const wantsQuiz=/(?:^|\s)quiz(?:\s+me)?\b/.test(lower)||
+    /\b(?:test|challenge)\s+(?:me|my vocab)\b/.test(lower)||
+    /考考|測驗|小考|單字考/.test(userText)||
+    lower==='quiz'||lower==='test me'||lower==='challenge me';
+  if(wantsQuiz){
     // Prefer brutal if mistakes exist
     if(QUIZ.hasMistakes()&&Math.random()<0.6){
       const data=QUIZ.startBrutal();
@@ -1434,18 +1488,18 @@ function _getBotResponseCore(userText){
     }
   }
 
-  // 4. Score and match topics
+  // 4. Score and match topics (whole-word matching via precompiled index)
   const hasQuestionStructure=lower.includes('?')||['what','who','where','when','why','how','can you','could you','do you','would you'].some(q=>lower.startsWith(q));
+  if(!TOPIC_INDEX)buildTopicIndex();
+  const tokenSet=new Set(tokenizeWords(lower));
   let bestTopic=null,bestScore=0;
-  for(const [key,topic] of Object.entries(TOPICS)){
+  for(const {key,topic,single,phrases} of TOPIC_INDEX){
     let score=0;
-    for(const trigger of topic.triggers){
-      if(lower.includes(trigger))score+=trigger.split(' ').length;
+    for(const tok of tokenSet){
+      if(single.has(tok))score+=1.5;
     }
-    for(const word of words){
-      for(const trigger of topic.triggers){
-        if(trigger===word)score+=0.5;
-      }
+    for(const p of phrases){
+      if(p.re.test(lower))score+=p.len+0.5;
     }
     // Penalize greeting if sentence is long or has question structure
     if(key==='greeting'&&(words.length>4||hasQuestionStructure)) score*=0.2;
@@ -1616,6 +1670,7 @@ function appendMessage(role,text,grammarFixes=[],quoteText=null){
   const content=document.createElement('div');
   content.className='msg-content';
   content.innerHTML=role==='bot'?highlightVocab(text):escapeHtml(text);
+  if(role==='bot')content.dataset.raw=text;
   bubble.appendChild(content);
 
   // Translate area (bot only)
@@ -1687,9 +1742,31 @@ const LS_LAST_CHAT='wr_chat_last';
 const LS_HISTORY='wr_chat_history';
 let isProcessing=false;
 
+// ── CHAT HISTORY PERSISTENCE ──
+// Restores the last 30 messages on reload and seeds CTX so context survives refresh
+const HISTORY={
+  max:30,
+  load(){return safeParse(localStorage.getItem(LS_HISTORY),[])},
+  push(role,text){
+    const h=this.load();
+    h.push({role,text,ts:Date.now()});
+    try{localStorage.setItem(LS_HISTORY,JSON.stringify(h.slice(-this.max)))}catch{}
+  },
+  restore(){
+    const h=this.load();
+    if(!h.length)return false;
+    h.forEach(m=>{
+      appendMessage(m.role,m.text);
+      CTX.push(m.role,m.text);
+    });
+    return true;
+  },
+};
+
 // ── SMART VOCAB INTEGRATION ──
 // Use vocab example sentences as natural conversation injections
 function maybeInjectVocab(botText,userText){
+  if(QUIZ.active)return botText; // never append random vocab onto a quiz question
   if(Math.random()>0.22||!VOCAB.length)return botText;
 
   // 1. Try to find a word directly mentioned by user
@@ -1802,25 +1879,26 @@ async function sendMessage(){
   // User bubble — include quote reference if active
   const activeQuote=quotedMessage;
   appendMessage('user',text,[],activeQuote);
+  HISTORY.push('user',text);
   saveLastChat();
 
-  // Grammar check + bot response in parallel
+  // Grammar check runs IN PARALLEL with the typing delay —
+  // perceived latency becomes max(grammar, delay) instead of grammar + delay
   showTyping();
-  let [grammarMatches]=await Promise.all([checkGrammar(text)]);
+  const typingDelay=new Promise(r=>setTimeout(r,600+Math.random()*800));
+  let [grammarMatches]=await Promise.all([checkGrammar(text),typingDelay]);
   if(isVocabIntent(text))grammarMatches=[];
   if(activeQuote) cancelQuote();
 
   // Grammar-linked response: if errors found, bot weaves correction into reply
   let botText=getBotResponse(text,activeQuote,grammarMatches);
   if(!isPhraseIntent(text))botText=maybeInjectVocab(botText,text);
-
-  // Simulate natural typing delay (600–1400ms)
-  await new Promise(r=>setTimeout(r,600+Math.random()*800));
   hideTyping();
 
   // Bot reply
   appendMessage('bot',botText);
   CTX.push('bot',botText);
+  HISTORY.push('bot',botText);
 
   // Grammar fix bubble (separate, only for multiple errors or complex ones)
   const complexErrors=grammarMatches.filter(m=>m.replacements&&m.replacements.length>0&&m.message);
@@ -1926,8 +2004,9 @@ window.addEventListener('load',()=>{
       setTimeout(showQuickPhrases,300);
     },400);
   } else {
+    const restored=HISTORY.restore();
     checkProactive();
-    setTimeout(showQuickPhrases,600);
+    if(!restored)setTimeout(showQuickPhrases,600);
   }
   input.focus();
 });
