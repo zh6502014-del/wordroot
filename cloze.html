@@ -209,13 +209,15 @@ function renderThemes(el){
     const done = Object.values(p).filter(x=>x.completed).length;
     const total = t.sets.length;
     const pct = total ? Math.round(done/total*100) : 0;
+    const borderColor = t.border;
+    const bgColor = t.color;
     return `
-      <div class="theme-card" style="border-color:${t.border};background:${t.color}" onclick="openTheme('${t.category}')">
+      <div class="theme-card" data-key="${t.category}" style="border-color:${borderColor};background:${bgColor}">
         <div class="theme-icon">${t.icon}</div>
         <div class="theme-name">${t.title}</div>
         <div class="theme-count">${done} / ${total} 組完成</div>
         <div class="theme-prog">
-          <div class="theme-prog-fill" style="width:${pct}%;background:${t.border.replace('.25','1')}"></div>
+          <div class="theme-prog-fill" style="width:${pct}%;background:${borderColor.replace(',.25,',',.8,')}"></div>
         </div>
       </div>`;
   }).join('');
@@ -224,6 +226,11 @@ function renderThemes(el){
     <div style="font-family:var(--serif);font-size:22px;color:var(--text);margin-bottom:6px">選擇主題</div>
     <div style="font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:20px">每組 5 題，從情境句子中選出正確的單字</div>
     <div class="theme-grid">${cards}</div>`;
+
+  // Attach click via JS (avoid inline onclick attribute conflicts)
+  el.querySelectorAll('.theme-card[data-key]').forEach(card => {
+    card.addEventListener('click', () => openTheme(card.dataset.key));
+  });
 }
 
 // ── Set list ──
@@ -244,10 +251,9 @@ function renderSets(el){
     const sp = p[s.id]||{};
     const stars = sp.stars||0;
     const starsStr = '⭐'.repeat(stars)+'☆'.repeat(3-stars);
-    // Preview: first 50 chars of passage with blanks replaced by ___
     const preview = s.passage.replace(/___\d+___/g,'___').slice(0,70)+'…';
     return `
-      <div class="set-item${sp.completed?' done':''}" onclick="startSet('${s.id}')">
+      <div class="set-item${sp.completed?' done':''}" data-setid="${s.id}">
         <div class="set-num">${String(i+1).padStart(2,'0')}</div>
         <div class="set-preview">${preview}</div>
         <div class="set-stars">${sp.completed?starsStr:'→'}</div>
@@ -260,6 +266,10 @@ function renderSets(el){
       <span style="font-family:var(--mono);font-size:13px;color:var(--dim)">${t.sets.length} 組題目</span>
     </div>
     <div class="set-list">${items}</div>`;
+
+  el.querySelectorAll('.set-item[data-setid]').forEach(item => {
+    item.addEventListener('click', () => startSet(item.dataset.setid));
+  });
 }
 
 // ── Quiz ──
