@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
+<title>情境填字 — WordRoot</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&display=swap"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --accent:#c8f060;--accent2:#60c8f0;--red:#f06464;--orange:#f0a060;--purple:#c860f0;
+  --bg:#0e0f11;--surface:#16181c;--surface2:#1e2026;
+  --border:#2a2d35;--text:#e8eaf0;--muted:#6b7080;--dim:#3a3f50;
+  --serif:'DM Serif Display',serif;--mono:'DM Mono',monospace;--sans:'Noto Sans TC',sans-serif;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100vh}
+#app{max-width:480px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+
+/* ── Header ── */
+#header{
+  padding:16px 20px;display:flex;align-items:center;gap:12px;
+  border-bottom:1px solid var(--border);position:sticky;top:0;
+  z-index:50;background:var(--bg);
+}
+.back-btn{color:var(--muted);font-size:20px;text-decoration:none;padding:4px 6px;border-radius:6px;transition:color .15s}
+.back-btn:hover{color:var(--text)}
+#headerTitle{font-family:var(--serif);font-size:20px;color:var(--text);flex:1}
+#headerSub{font-family:var(--mono);font-size:13px;color:var(--muted)}
+
+/* ── Screen ── */
+#screen{flex:1;padding:20px 20px 60px}
+
+/* ── Theme selector ── */
+.theme-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:4px}
+.theme-card{
+  border-radius:14px;padding:18px 16px;cursor:pointer;
+  border:1px solid var(--border);background:var(--surface);
+  transition:all .2s;display:flex;flex-direction:column;gap:8px;
+}
+.theme-card:hover{transform:translateY(-2px)}
+.theme-icon{font-size:30px}
+.theme-name{font-family:var(--serif);font-size:17px;color:var(--text)}
+.theme-count{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.theme-prog{height:3px;background:var(--surface2);border-radius:2px;margin-top:4px;overflow:hidden}
+.theme-prog-fill{height:100%;border-radius:2px;transition:width .4s}
+
+/* ── Set list ── */
+.set-list{display:flex;flex-direction:column;gap:8px}
+.set-item{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:11px;padding:14px 16px;cursor:pointer;
+  display:flex;align-items:center;gap:12px;transition:all .15s;
+}
+.set-item:hover{border-color:var(--muted)}
+.set-num{font-family:var(--mono);font-size:13px;color:var(--dim);min-width:32px}
+.set-preview{flex:1;font-size:14px;color:var(--muted);line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.set-stars{font-size:15px;flex-shrink:0}
+.set-item.done{border-color:rgba(200,240,96,.2);background:rgba(200,240,96,.03)}
+
+/* ── Quiz screen ── */
+.progress-row{display:flex;align-items:center;gap:10px;margin-bottom:18px}
+.progress-bar{flex:1;height:4px;background:var(--border);border-radius:2px;overflow:hidden}
+.progress-fill{height:100%;background:var(--accent);border-radius:2px;transition:width .35s}
+.progress-label{font-family:var(--mono);font-size:13px;color:var(--dim);white-space:nowrap}
+
+.passage-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:14px;padding:20px;margin-bottom:16px;
+  font-size:17px;line-height:2;color:var(--text);
+}
+.blank-slot{
+  display:inline-block;border-bottom:2px solid var(--accent2);
+  min-width:100px;text-align:center;padding:0 8px;
+  font-family:var(--mono);font-size:16px;color:var(--accent2);
+  cursor:default;transition:all .2s;border-radius:4px 4px 0 0;
+  vertical-align:middle;
+}
+.blank-slot.answered-correct{
+  color:var(--accent);border-color:var(--accent);
+  background:rgba(200,240,96,.08);
+}
+.blank-slot.answered-wrong{
+  color:var(--red);border-color:var(--red);
+  background:rgba(240,100,100,.07);
+}
+.blank-slot.revealed{
+  color:var(--accent);border-color:var(--accent);
+  background:rgba(200,240,96,.06);
+}
+
+.question-label{
+  font-family:var(--mono);font-size:12px;color:var(--muted);
+  margin-bottom:10px;text-transform:uppercase;letter-spacing:.06em;
+}
+.hint-text{font-size:13px;color:var(--dim);margin-bottom:12px}
+.opts{display:flex;flex-direction:column;gap:8px;margin-bottom:12px}
+.opt{
+  padding:13px 16px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-size:16px;color:var(--text);
+  cursor:pointer;transition:all .18s;text-align:left;font-family:var(--sans);
+  display:flex;align-items:center;gap:10px;
+}
+.opt:hover:not(:disabled){border-color:var(--accent2);background:rgba(96,200,240,.06)}
+.opt.correct{border-color:var(--accent)!important;background:rgba(200,240,96,.08)!important;color:var(--accent)}
+.opt.wrong{border-color:var(--red)!important;background:rgba(240,100,100,.06)!important;color:var(--red)}
+.opt:disabled{cursor:default}
+.opt-key{font-family:var(--mono);font-size:13px;color:var(--dim);min-width:20px}
+.feedback{
+  padding:11px 14px;border-radius:10px;font-size:14px;line-height:1.7;margin-bottom:8px;
+}
+.feedback.ok{background:rgba(200,240,96,.07);border:1px solid rgba(200,240,96,.2);color:var(--accent)}
+.feedback.bad{background:rgba(240,100,100,.06);border:1px solid rgba(240,100,100,.2);color:var(--text)}
+.next-btn{
+  width:100%;padding:13px;border-radius:10px;border:1px solid var(--border);
+  background:var(--surface2);font-family:var(--sans);font-size:16px;
+  color:var(--text);cursor:pointer;transition:all .18s;
+}
+.next-btn:hover{border-color:var(--accent2);color:var(--accent2)}
+
+/* ── Result ── */
+.result-card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:18px;padding:28px 24px;text-align:center;margin-bottom:16px;
+}
+.result-score{font-family:var(--serif);font-size:52px;color:var(--accent)}
+.result-sub{font-family:var(--mono);font-size:14px;color:var(--muted);margin-top:4px}
+.result-stars{font-size:36px;letter-spacing:6px;margin:14px 0}
+.result-msg{font-size:15px;color:var(--muted);line-height:1.7}
+.btn-primary{
+  width:100%;padding:14px;border-radius:12px;border:none;
+  background:var(--accent);color:#0e0f11;font-family:var(--sans);
+  font-size:16px;font-weight:700;cursor:pointer;margin-bottom:8px;transition:all .18s;
+}
+.btn-primary:hover{background:#d8ff70}
+.btn-secondary{
+  width:100%;padding:12px;border-radius:12px;
+  border:1px solid var(--border);background:transparent;
+  font-family:var(--sans);font-size:15px;color:var(--muted);
+  cursor:pointer;transition:all .18s;
+}
+.btn-secondary:hover{color:var(--text);border-color:var(--muted)}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="header">
+    <a href="index.html" class="back-btn">←</a>
+    <div id="headerTitle">情境填字</div>
+    <div id="headerSub"></div>
+  </div>
+  <div id="screen"><div style="text-align:center;padding:60px 0;font-family:var(--mono);color:var(--muted)">載入中…</div></div>
+</div>
+<script>
+const THEMES = [
+  {key:'daily',   file:'./data/cloze_daily.json'},
+  {key:'workplace',file:'./data/cloze_workplace.json'},
+  {key:'travel',  file:'./data/cloze_travel.json'},
+  {key:'social',  file:'./data/cloze_social.json'},
+];
+const STORAGE_KEY = 'wr_cloze';
+
+// ── Progress store ──
+function loadProgress(){
+  try{ return JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}'); }
+  catch{ return {}; }
+}
+function saveProgress(p){ localStorage.setItem(STORAGE_KEY, JSON.stringify(p)); }
+function getSetProgress(themeKey, setId){
+  const p = loadProgress();
+  return p[themeKey]?.[setId] || {completed:false, score:0, stars:0};
+}
+function saveSetProgress(themeKey, setId, data){
+  const p = loadProgress();
+  if(!p[themeKey]) p[themeKey]={};
+  p[themeKey][setId] = data;
+  saveProgress(p);
+}
+
+// ── State ──
+let state = { view:'themes', themes:[], currentTheme:null, currentSet:null, qIdx:0, answers:[], answered:false, selected:null };
+
+// ── Boot ──
+Promise.all(THEMES.map(t =>
+  fetch(t.file).then(r=>r.ok?r.json():null).catch(()=>null)
+)).then(results => {
+  state.themes = results.filter(Boolean);
+  render();
+});
+
+// ── Render router ──
+function render(){
+  const el = document.getElementById('screen');
+  switch(state.view){
+    case 'themes': renderThemes(el); break;
+    case 'sets':   renderSets(el); break;
+    case 'quiz':   renderQuiz(el); break;
+    case 'result': renderResult(el); break;
+  }
+}
+
+// ── Themes ──
+function renderThemes(el){
+  document.getElementById('headerTitle').textContent = '情境填字';
+  document.getElementById('headerSub').textContent = '';
+
+  const cards = state.themes.map(t => {
+    const p = loadProgress()[t.category]||{};
+    const done = Object.values(p).filter(x=>x.completed).length;
+    const total = t.sets.length;
+    const pct = total ? Math.round(done/total*100) : 0;
+    return `
+      <div class="theme-card" style="border-color:${t.border};background:${t.color}" onclick="openTheme('${t.category}')">
+        <div class="theme-icon">${t.icon}</div>
+        <div class="theme-name">${t.title}</div>
+        <div class="theme-count">${done} / ${total} 組完成</div>
+        <div class="theme-prog">
+          <div class="theme-prog-fill" style="width:${pct}%;background:${t.border.replace('.25','1')}"></div>
+        </div>
+      </div>`;
+  }).join('');
+
+  el.innerHTML = `
+    <div style="font-family:var(--serif);font-size:22px;color:var(--text);margin-bottom:6px">選擇主題</div>
+    <div style="font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:20px">每組 5 題，從情境句子中選出正確的單字</div>
+    <div class="theme-grid">${cards}</div>`;
+}
+
+// ── Set list ──
+function openTheme(key){
+  state.currentTheme = state.themes.find(t=>t.category===key);
+  state.view = 'sets';
+  render();
+}
+
+function renderSets(el){
+  const t = state.currentTheme;
+  document.getElementById('headerTitle').textContent = t.title;
+  const p = loadProgress()[t.category]||{};
+  const done = Object.values(p).filter(x=>x.completed).length;
+  document.getElementById('headerSub').textContent = `${done}/${t.sets.length} 完成`;
+
+  const items = t.sets.map((s,i) => {
+    const sp = p[s.id]||{};
+    const stars = sp.stars||0;
+    const starsStr = '⭐'.repeat(stars)+'☆'.repeat(3-stars);
+    // Preview: first 50 chars of passage with blanks replaced by ___
+    const preview = s.passage.replace(/___\d+___/g,'___').slice(0,70)+'…';
+    return `
+      <div class="set-item${sp.completed?' done':''}" onclick="startSet('${s.id}')">
+        <div class="set-num">${String(i+1).padStart(2,'0')}</div>
+        <div class="set-preview">${preview}</div>
+        <div class="set-stars">${sp.completed?starsStr:'→'}</div>
+      </div>`;
+  }).join('');
+
+  el.innerHTML = `
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px">
+      <button onclick="goBack()" style="background:none;border:none;color:var(--muted);cursor:pointer;font-size:15px;padding:4px 8px;border-radius:6px;font-family:var(--sans)">← 返回</button>
+      <span style="font-family:var(--mono);font-size:13px;color:var(--dim)">${t.sets.length} 組題目</span>
+    </div>
+    <div class="set-list">${items}</div>`;
+}
+
+// ── Quiz ──
+function startSet(setId){
+  const s = state.currentTheme.sets.find(x=>x.id===setId);
+  state.currentSet = s;
+  state.qIdx = 0;
+  state.answers = new Array(s.blanks.length).fill(null);
+  state.answered = false;
+  state.selected = null;
+  state.view = 'quiz';
+  render();
+}
+
+function renderQuiz(el){
+  const s = state.currentSet;
+  const t = state.currentTheme;
+  const q = s.blanks[state.qIdx];
+  const total = s.blanks.length;
+  const pct = Math.round(state.qIdx/total*100);
+
+  document.getElementById('headerTitle').textContent = t.title;
+  document.getElementById('headerSub').textContent = `${state.qIdx+1} / ${total}`;
+
+  // Build passage with blanks marked
+  let passage = s.passage;
+  s.blanks.forEach((b,i) => {
+    const ans = state.answers[i];
+    let cls = 'blank-slot';
+    let text = `___${b.pos}___`;
+    if(ans !== null){
+      cls += ans===b.answer?' answered-correct':' answered-wrong';
+      text = ans===b.answer ? ans : `${ans}`;
+    } else if(i===state.qIdx){
+      text = '?';
+    }
+    passage = passage.replace(`___${b.pos}___`, `<span class="${cls}">${text}</span>`);
+  });
+  // Replace remaining unanswered blanks
+  passage = passage.replace(/___(\d+)___/g, '<span class="blank-slot" style="opacity:.4">___</span>');
+
+  const opts = q.options.map((opt,i) => {
+    let cls = 'opt';
+    if(state.answered){
+      if(opt===q.answer) cls+=' correct';
+      else if(opt===state.selected && state.selected!==q.answer) cls+=' wrong';
+    }
+    return `<button class="${cls}" onclick="answerQ('${opt}')" ${state.answered?'disabled':''}>
+      <span class="opt-key">${['A','B','C','D'][i]}</span>${opt}
+    </button>`;
+  }).join('');
+
+  let feedback = '';
+  if(state.answered){
+    const ok = state.selected===q.answer;
+    feedback = ok
+      ? `<div class="feedback ok">✓ 正確！「${q.answer}」— ${q.hint}</div>`
+      : `<div class="feedback bad">✗ 正確答案是「<strong>${q.answer}</strong>」— ${q.hint}</div>`;
+  }
+
+  el.innerHTML = `
+    <div class="progress-row">
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="progress-label">${state.qIdx+1}/${total}</div>
+    </div>
+
+    <div class="passage-card">${passage}</div>
+
+    <div class="question-label">第 ${state.qIdx+1} 題 — 選出正確的單字</div>
+    <div class="hint-text">提示：${q.hint}</div>
+    <div class="opts">${opts}</div>
+    ${feedback}
+    ${state.answered?`<button class="next-btn" onclick="nextQ()">${state.qIdx+1<total?'下一題 →':'查看結果 →'}</button>`:''}
+
+    <div style="text-align:center;margin-top:16px">
+      <button class="btn-secondary" style="width:auto;padding:5px 16px;font-size:13px" onclick="state.view='sets';render()">放棄本組</button>
+    </div>`;
+}
+
+function answerQ(opt){
+  if(state.answered) return;
+  state.answered = true;
+  state.selected = opt;
+  const q = state.currentSet.blanks[state.qIdx];
+  state.answers[state.qIdx] = opt;
+  render();
+}
+
+function nextQ(){
+  state.answered = false;
+  state.selected = null;
+  if(state.qIdx+1 < state.currentSet.blanks.length){
+    state.qIdx++;
+    render();
+  } else {
+    finishSet();
+  }
+}
+
+function finishSet(){
+  const s = state.currentSet;
+  const correct = state.answers.filter((a,i)=>a===s.blanks[i].answer).length;
+  const total = s.blanks.length;
+  const score = Math.round(correct/total*100);
+  const stars = score>=90?3:score>=70?2:score>=50?1:0;
+  saveSetProgress(state.currentTheme.category, s.id, {completed:true, score, stars});
+  state.view = 'result';
+  state._lastResult = {correct, total, score, stars};
+  render();
+}
+
+function renderResult(el){
+  const {correct, total, score, stars} = state._lastResult;
+  const t = state.currentTheme;
+  const starsStr = '⭐'.repeat(stars)+'☆'.repeat(3-stars);
+  const msgs = ['繼續加油！多練習就會進步 💪','不錯！再鞏固一下 📖','很好！繼續保持 🎯','完美！全部答對 🏆'];
+
+  // Find next incomplete set
+  const p = loadProgress()[t.category]||{};
+  const nextSet = t.sets.find(s=>!(p[s.id]?.completed));
+
+  el.innerHTML = `
+    <div class="result-card">
+      <div class="result-score">${score}%</div>
+      <div class="result-sub">${correct} / ${total} 答對</div>
+      <div class="result-stars">${starsStr}</div>
+      <div class="result-msg">${msgs[stars]}</div>
+    </div>
+    ${nextSet
+      ? `<button class="btn-primary" onclick="startSet('${nextSet.id}')">繼續下一組 →</button>`
+      : `<button class="btn-primary" onclick="state.view='sets';render()">返回題目列表</button>`
+    }
+    <button class="btn-secondary" onclick="startSet('${state.currentSet.id}')">重做本組</button>
+    <button class="btn-secondary" onclick="state.view='sets';render()" style="margin-top:6px">選擇其他組</button>`;
+
+  document.getElementById('headerSub').textContent = '';
+}
+
+function goBack(){
+  state.view = 'themes';
+  state.currentTheme = null;
+  render();
+}
+</script>
+</body>
+</html>
