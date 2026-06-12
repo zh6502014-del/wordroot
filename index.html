@@ -1071,12 +1071,14 @@ function BrutalScreen({vocab,onDone}){
   const[deck]=useState(()=>shuffle(mistakes));
 
   const item=deck[idx];
-  // Find vocab objects
+  // Find vocab objects when available; cloze mistakes can still work from stored definitions.
   const correctWord=item?vocab.find(v=>v.word===item.word):null;
   const wrongWord=item?vocab.find(v=>v.word===item.wrongWord):null;
+  const correctDisplay=correctWord||{word:item?.word,definition_zh:item?.correctDef,phonetic:''};
+  const wrongDisplay=wrongWord||{word:item?.wrongWord,definition_zh:item?.wrongDef,phonetic:''};
   const opts=item?shuffle([
-    {word:item.word,definition_zh:item.correctDef},
-    {word:item.wrongWord,definition_zh:item.wrongDef},
+    {word:correctDisplay.word,definition_zh:item.correctDef||correctDisplay.definition_zh},
+    {word:wrongDisplay.word,definition_zh:item.wrongDef||wrongDisplay.definition_zh},
   ]):[];
 
   const answer=useCallback(opt=>{
@@ -1084,7 +1086,7 @@ function BrutalScreen({vocab,onDone}){
     setAnswered(true);setSelected(opt.word);
     const correct=opt.word===item.word;
     MISTAKES.answer(item.word,correct);
-    FSRS.save(item.word,correct?"good":"again");
+    if(correctWord) FSRS.save(item.word,correct?"good":"again");
     setStats(s=>({...s,[correct?"correct":"wrong"]:s[correct?"correct":"wrong"]+1}));
   },[answered,item]);
 
@@ -1094,7 +1096,7 @@ function BrutalScreen({vocab,onDone}){
     setIdx(nx);setAnswered(false);setSelected(null);
   },[idx,deck.length]);
 
-  const missingWord=item&&(!correctWord||!wrongWord);
+  const missingWord=item&&(!item.correctDef||!item.wrongDef);
   useEffect(()=>{
     if(!missingWord)return;
     const all=JSON.parse(localStorage.getItem("wr_mistakes")||"{}");
@@ -1153,7 +1155,7 @@ function BrutalScreen({vocab,onDone}){
         <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--red)",background:"rgba(240,100,100,.1)",padding:"3px 10px",borderRadius:20,border:"1px solid rgba(240,100,100,.2)",zIndex:1}}>💀 殘酷二選一</span>
         <div style={{fontFamily:"var(--serif)",fontSize:"clamp(44px,9vw,68px)",color:"var(--text)",lineHeight:1,zIndex:1}}>{item.word}</div>
         <div style={{display:"flex",alignItems:"center",gap:8,zIndex:1}}>
-          <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>{correctWord.phonetic}</span>
+          {correctDisplay.phonetic&&<span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>{correctDisplay.phonetic}</span>}
           <SpeakBtn word={item.word}/>
         </div>
         <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",zIndex:1}}>連續答對 {item.streak||0} / 2 次可移除</div>

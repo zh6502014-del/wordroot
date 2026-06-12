@@ -111,6 +111,16 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:1
 }
 .feedback.ok{background:rgba(200,240,96,.07);border:1px solid rgba(200,240,96,.2);color:var(--accent)}
 .feedback.bad{background:rgba(240,100,100,.06);border:1px solid rgba(240,100,100,.2);color:var(--text)}
+.translation-card{
+  background:rgba(96,200,240,.06);border:1px solid rgba(96,200,240,.22);
+  border-radius:12px;padding:14px 16px;margin:-4px 0 16px;
+  color:var(--text);font-size:14px;line-height:1.8;
+}
+.translation-title{
+  font-family:var(--mono);font-size:12px;color:var(--accent2);
+  margin-bottom:6px;text-transform:uppercase;letter-spacing:.06em;
+}
+.translation-item strong{color:var(--accent);font-family:var(--mono);font-weight:500}
 .next-btn{
   width:100%;padding:13px;border-radius:10px;border:1px solid var(--border);
   background:var(--surface2);font-family:var(--sans);font-size:16px;
@@ -159,6 +169,7 @@ const THEMES = [
   {key:'social',  file:'./cloze_social.json'},
 ];
 const STORAGE_KEY = 'wr_cloze';
+const MISTAKES_KEY = 'wr_mistakes';
 
 // ── Progress store ──
 function loadProgress(){
@@ -196,6 +207,45 @@ function shuffleCopy(items){
   return arr;
 }
 
+function getPerfectTranslation(set){
+  const allAnswered = state.answers.length === set.blanks.length && state.answers.every(Boolean);
+  const allCorrect = allAnswered && state.answers.every((a,i)=>a===set.blanks[i].answer);
+  if(!allCorrect) return '';
+  const sentence = set.translation
+    ? `<div>${escapeHTML(set.translation)}</div>`
+    : set.blanks.map(b => `<div class="translation-item"><strong>${escapeHTML(b.answer)}</strong>：${escapeHTML(b.hint)}</div>`).join('');
+  return `<div class="translation-card">
+    <div class="translation-title">整句中文翻譯</div>
+    ${sentence}
+  </div>`;
+}
+
+function findClozeHint(word){
+  for(const theme of state.themes){
+    for(const set of theme.sets){
+      const found = set.blanks.find(b => b.answer === word);
+      if(found) return found.hint;
+    }
+  }
+  return '';
+}
+
+function addMistakeToBrutal(correct, selected){
+  if(!correct || selected === correct.answer) return;
+  let all = {};
+  try{ all = JSON.parse(localStorage.getItem(MISTAKES_KEY)||'{}'); }
+  catch{ all = {}; }
+  if(all[correct.answer]) return;
+  all[correct.answer] = {
+    wrongWord: selected,
+    wrongDef: findClozeHint(selected) || '填空題中的錯誤選項',
+    correctDef: correct.hint,
+    streak: 0,
+    source: 'cloze',
+    addedAt: new Date().toISOString()
+  };
+  localStorage.setItem(MISTAKES_KEY, JSON.stringify(all));
+}
 // ── State ──
 let state = { view:'themes', themes:[], currentTheme:null, currentSet:null, qIdx:0, answers:[], answered:false, selected:null, optionOrders:[] };
 
@@ -350,6 +400,7 @@ function renderQuiz(el){
       ? `<div class="feedback ok">✓ 正確！「${escapeHTML(q.answer)}」— ${escapeHTML(q.hint)}</div>`
       : `<div class="feedback bad">✗ 正確答案是「<strong>${escapeHTML(q.answer)}</strong>」— ${escapeHTML(q.hint)}</div>`;
   }
+  const translation = getPerfectTranslation(s);
 
   el.innerHTML = `
     <div class="progress-row">
@@ -358,6 +409,7 @@ function renderQuiz(el){
     </div>
 
     <div class="passage-card">${passage}</div>
+    ${translation}
 
     <div class="question-label">第 ${state.qIdx+1} 題 — 選出正確的單字</div>
     <div class="hint-text">提示：${escapeHTML(q.hint)}</div>
@@ -380,6 +432,7 @@ function answerQ(opt){
   state.selected = opt;
   const q = state.currentSet.blanks[state.qIdx];
   state.answers[state.qIdx] = opt;
+  if(opt !== q.answer) addMistakeToBrutal(q, opt);
   render();
 }
 
