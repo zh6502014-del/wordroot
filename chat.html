@@ -273,8 +273,9 @@ let VOCAB_BY_WORD = new Map();
 let VOCAB_WORD_SET = new Set();
 let VOCAB_BY_TAG = new Map();
 let VOCAB_BY_ROOT = new Map();
+let VOCAB_BY_ALIAS = new Map();
 
-const VOCAB_FILES = Array.from({length:40},(_,i)=>{
+const VOCAB_FILES = Array.from({length:100},(_,i)=>{
   const batch=String(i+1).padStart(2,'0');
   const start=String(i*50+1).padStart(3,'0');
   const end=String((i+1)*50).padStart(3,'0');
@@ -300,10 +301,13 @@ function buildVocabIndexes(){
   VOCAB_WORD_SET=new Set();
   VOCAB_BY_TAG=new Map();
   VOCAB_BY_ROOT=new Map();
+  VOCAB_BY_ALIAS=new Map();
   VOCAB.forEach(w=>{
     const key=w.word.toLowerCase();
     VOCAB_BY_WORD.set(key,w);
     VOCAB_WORD_SET.add(key);
+    addVocabAlias(key,w,true);
+    collectAliasTerms(w).forEach(alias=>addVocabAlias(alias,w,false));
     (w.tags||[]).forEach(tag=>{
       if(!VOCAB_BY_TAG.has(tag))VOCAB_BY_TAG.set(tag,[]);
       VOCAB_BY_TAG.get(tag).push(w);
@@ -317,64 +321,154 @@ function buildVocabIndexes(){
   });
 }
 
+const ALIAS_STOPWORDS=new Set(['the','and','for','with','from','that','this','into','onto','your','about','when','where','what','which','their','there','then','than','have','has','had','been','being','will','would','could','should','very','more','most','less','least','thing','item','object']);
+
 function tokenizeWords(text){
   return (text.toLowerCase().match(/[a-z]+(?:'[a-z]+)?/g)||[])
     .map(w=>w.replace(/'s$/,''));
 }
 
+function normalizeAlias(text){
+  return String(text||'').toLowerCase().replace(/[^a-z\s-]/g,' ').replace(/\s+/g,' ').trim();
+}
+
+function collectAliasTerms(w){
+  const terms=[];
+  (w.synonyms||[]).forEach(x=>terms.push(x));
+  (w.collocations||[]).forEach(x=>{
+    terms.push(x);
+    tokenizeWords(x).forEach(t=>{if(t.length>=5)terms.push(t)});
+  });
+  (w.near_synonyms||[]).forEach(x=>terms.push(x.word||x));
+  (w.antonyms||[]).forEach(x=>terms.push(x));
+  return terms;
+}
+
+function addVocabAlias(alias,w,isPrimary=false){
+  const key=normalizeAlias(alias);
+  if(!key)return;
+  if(!isPrimary&&(key.length<4||ALIAS_STOPWORDS.has(key)))return;
+  const prev=VOCAB_BY_ALIAS.get(key);
+  const prevRank=Number(prev?.frequency_rank||999999);
+  const rank=Number(w.frequency_rank||999999);
+  if(!prev||isPrimary||rank<prevRank)VOCAB_BY_ALIAS.set(key,w);
+}
+
 function getVocabWord(word){
-  return VOCAB_BY_WORD.get(String(word||'').toLowerCase())||null;
+  const key=normalizeAlias(word);
+  return VOCAB_BY_WORD.get(key)||VOCAB_BY_ALIAS.get(key)||null;
+}
+
+function baseFormCandidates(token){
+  const candidates=[];
+  if(token.endsWith('ies'))candidates.push(token.slice(0,-3)+'y');
+  if(token.endsWith('ied'))candidates.push(token.slice(0,-3)+'y');
+  if(token.endsWith('ing')){
+    candidates.push(token.slice(0,-3),token.slice(0,-3)+'e');
+    if(/([a-z])\1ing$/.test(token))candidates.push(token.slice(0,-4)); // doubled consonant
+  }
+  if(token.endsWith('ed')){
+    candidates.push(token.slice(0,-2),token.slice(0,-1));
+    if(/([a-z])\1ed$/.test(token))candidates.push(token.slice(0,-3));
+  }
+  if(token.endsWith('es'))candidates.push(token.slice(0,-2));
+  if(token.endsWith('s'))candidates.push(token.slice(0,-1));
+  return candidates;
+}
+
+function vocabMentionScore(hit,matchedText,index){
+  const rank=Number(hit.frequency_rank||999999);
+  const pos=String(hit.pos||'').toLowerCase();
+  let score=Math.min(String(matchedText||hit.word).length,14);
+  if(rank<=250)score-=5;       // de-emphasize very common words like need, make, take
+  else if(rank<=800)score-=2;
+  else if(rank>=1500)score+=2;
+  if(pos.includes('noun')||pos.includes('adjective'))score+=1.5;
+  if(pos.includes('verb'))score+=0.5;
+  if(String(matchedText).includes(' '))score+=4;
+  score-=index*0.05;           // preserve sentence order only as a tiny tie-breaker
+  return score;
+}
+
+function findMentionedVocabs(text,limit=5){
+  const hits=[];
+  const seen=new Set();
+  const normalized=normalizeAlias(text);
+
+  // Full collocation/synonym phrases get first-class treatment.
+  VOCAB_BY_ALIAS.forEach((w,alias)=>{
+    if(alias.includes(' ')&&normalized.includes(alias)&&!seen.has(w.word)){
+      hits.push({w,matched:alias,index:0,score:vocabMentionScore(w,alias,0)});
+      seen.add(w.word);
+    }
+  });
+
+  const tokens=tokenizeWords(text).filter(t=>!ALIAS_STOPWORDS.has(t));
+  tokens.forEach((token,index)=>{
+    const candidates=[token,...baseFormCandidates(token)];
+    for(const c of candidates){
+      const hit=getVocabWord(c);
+      if(hit&&!seen.has(hit.word)){
+        hits.push({w:hit,matched:c,index,score:vocabMentionScore(hit,c,index)});
+        seen.add(hit.word);
+        break;
+      }
+    }
+  });
+
+  return hits
+    .sort((a,b)=>b.score-a.score||a.index-b.index)
+    .slice(0,limit)
+    .map(x=>x.w);
 }
 
 function findMentionedVocab(text){
-  const tokens=tokenizeWords(text);
-  for(const token of tokens){
-    const direct=getVocabWord(token);
-    if(direct)return direct;
-    // Generate candidate base forms (handles studies→study, planning→plan, analyzed→analyze)
-    const candidates=[];
-    if(token.endsWith('ies'))candidates.push(token.slice(0,-3)+'y');
-    if(token.endsWith('ied'))candidates.push(token.slice(0,-3)+'y');
-    if(token.endsWith('ing')){
-      candidates.push(token.slice(0,-3),token.slice(0,-3)+'e');
-      if(/([a-z])\1ing$/.test(token))candidates.push(token.slice(0,-4)); // doubled consonant
-    }
-    if(token.endsWith('ed')){
-      candidates.push(token.slice(0,-2),token.slice(0,-1));
-      if(/([a-z])\1ed$/.test(token))candidates.push(token.slice(0,-3));
-    }
-    if(token.endsWith('es'))candidates.push(token.slice(0,-2));
-    if(token.endsWith('s'))candidates.push(token.slice(0,-1));
-    for(const c of candidates){
-      const base=getVocabWord(c);
-      if(base)return base;
-    }
-  }
-  return null;
+  return findMentionedVocabs(text,1)[0]||null;
 }
 
 function pickRandom(arr){
   return arr&&arr.length?arr[Math.floor(Math.random()*arr.length)]:null;
 }
 
+const VOCAB_TOPIC_TAGS={
+  study:['academic','language','TOEFL','college','education'],
+  work:['business','economics','finance','career','office'],
+  health:['science','psychology','medical','health'],
+  money:['finance','economics','business','commerce'],
+  technology:['technology','science','digital','computer'],
+  feeling:['psychology','philosophy','emotion'],
+  motivation:['common','psychology','goal'],
+  hobby:['art','language','music','sports'],
+  travel:['history','geography','culture','travel'],
+  relationships:['psychology','social','family'],
+  opinion:['philosophy','politics','culture'],
+  food:['food','daily','common'],
+  weather:['weather','geography','science'],
+};
+
+function topicsForVocab(w){
+  const tags=new Set((w?.tags||[]).map(t=>String(t).toLowerCase()));
+  return Object.entries(VOCAB_TOPIC_TAGS)
+    .filter(([,needles])=>needles.some(t=>tags.has(t.toLowerCase())))
+    .map(([topic])=>topic);
+}
+
+function bestTopicFromVocab(userText){
+  const hits=findMentionedVocabs(userText,4);
+  const scores={};
+  hits.forEach((w,i)=>{
+    const weight=Math.max(1,4-i);
+    topicsForVocab(w).forEach(topic=>{scores[topic]=(scores[topic]||0)+weight});
+  });
+  const ranked=Object.entries(scores).sort((a,b)=>b[1]-a[1]);
+  return ranked.length?{topic:ranked[0][0],score:ranked[0][1],word:hits[0]}:null;
+}
+
 function pickRelatedVocab(topic=null,userText=''){
   const mentioned=findMentionedVocab(userText);
   if(mentioned)return mentioned;
-  const topicTagMap={
-    study:['academic','language','TOEFL','college'],
-    work:['business','economics','finance'],
-    health:['science','psychology','medical'],
-    money:['finance','economics','business'],
-    technology:['technology','science'],
-    feeling:['psychology','philosophy'],
-    motivation:['common','psychology'],
-    hobby:['art','language'],
-    travel:['history','geography','culture'],
-    relationships:['psychology','social'],
-    opinion:['philosophy','politics'],
-  };
   const candidates=[];
-  (topicTagMap[topic]||[]).forEach(tag=>candidates.push(...(VOCAB_BY_TAG.get(tag)||[])));
+  (VOCAB_TOPIC_TAGS[topic]||[]).forEach(tag=>candidates.push(...(VOCAB_BY_TAG.get(tag)||[])));
   return pickRandom(candidates)||pickRandom(VOCAB);
 }
 
@@ -1505,21 +1599,12 @@ function _getBotResponseCore(userText){
     if(key==='greeting'&&(words.length>4||hasQuestionStructure)) score*=0.2;
     if(score>bestScore){bestScore=score;bestTopic={key,topic};}
   }
-  // Boost score if user mentioned a vocab word related to a topic
+  // Boost score if user mentioned vocab, synonyms, or collocation terms tied to a topic
   if(VOCAB.length){
-    const mentionedVocab=findMentionedVocab(userText);
-    for(const [key,topic] of Object.entries(TOPICS)){
-      const tagMap={
-        study:['academic','language','math'],work:['business','economics'],
-        health:['science','psychology'],money:['finance','economics'],
-        technology:['technology'],feeling:['psychology'],
-        legal:['law','politics'],motivation:['common'],
-      };
-      const tags=tagMap[key]||[];
-      const vocabHit=mentionedVocab&&tags.some(t=>(mentionedVocab.tags||[]).includes(t));
-      if(vocabHit&&(!bestTopic||bestScore<2)){
-        bestTopic={key,topic};bestScore=2;
-      }
+    const inferred=bestTopicFromVocab(userText);
+    if(inferred&&TOPICS[inferred.topic]&&(!bestTopic||bestScore<2.5)){
+      bestTopic={key:inferred.topic,topic:TOPICS[inferred.topic]};
+      bestScore=2.5+inferred.score*0.15;
     }
   }
 
@@ -1771,17 +1856,22 @@ function maybeInjectVocab(botText,userText){
 
   // 1. Try to find a word directly mentioned by user
   // Skip if we just celebrated this word (avoid double-mention)
+  const skipWord=CTX._lastCelebrated||null;
   let pick=findMentionedVocab(userText);
-  if(pick&&pick.word===CTX._lastCelebrated)pick=null;
+  if(pick&&pick.word===skipWord)pick=null;
   CTX._lastCelebrated=null; // reset after one use
 
   // 2. Try topic-relevance: match vocab tags to current topic
   if(!pick){
     pick=pickRelatedVocab(CTX.lastUserTopic(),userText);
+    if(pick&&pick.word===skipWord)pick=null;
   }
 
-  // 3. Fallback: random word
-  if(!pick) pick=VOCAB[Math.floor(Math.random()*VOCAB.length)];
+  // 3. Fallback: random word, avoiding the word just celebrated
+  if(!pick){
+    const pool=skipWord?VOCAB.filter(w=>w.word!==skipWord):VOCAB;
+    pick=pool[Math.floor(Math.random()*pool.length)]||VOCAB[Math.floor(Math.random()*VOCAB.length)];
+  }
 
   // Use vocab example sentence as bridge — grammatically guaranteed correct
   const bridges=[
