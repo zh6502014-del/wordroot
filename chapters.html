@@ -669,7 +669,12 @@ function startQuiz(chIdx, mode){
   // Build 20 questions: each word, ask zh meaning
   const questions = words.map(w=>{
     const correct = w.definition_zh.split('；')[0].split('、')[0].slice(0,12);
-    const pool = VOCAB.filter(v=>v.word!==w.word).map(v=>v.definition_zh.split('；')[0].split('、')[0].slice(0,12));
+    const pool = [...new Set(
+      VOCAB
+        .filter(v=>v.word!==w.word)
+        .map(v=>v.definition_zh.split('；')[0].split('、')[0].slice(0,12))
+        .filter(opt=>opt && opt!==correct)
+    )];
     const shuffled = pool.sort(()=>Math.random()-.5).slice(0,3);
     const opts = [correct,...shuffled].sort(()=>Math.random()-.5);
     return { word:w.word, phonetic:w.phonetic, correct, opts,
