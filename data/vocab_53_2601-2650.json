@@ -1,0 +1,3952 @@
+[
+  {
+    "word": "listen",
+    "pos": "verb",
+    "phonetic": "/listen/",
+    "definition": "To listen; a common action word used in everyday routines and conversations.",
+    "definition_zh": "listen；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "list",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of listen",
+          "meaning_zh": "由 listen 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"list\" with a daily scene involving listen.",
+      "story_en": "Imagine using listen naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 listen。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word listen in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 listen 這個字。",
+    "collocations": [
+      "listen every day",
+      "listen at home",
+      "listen with care",
+      "listen before work",
+      "listen after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; listen is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as listen."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "listen",
+        "pos": "verb"
+      },
+      {
+        "word": "listened",
+        "pos": "related form"
+      },
+      {
+        "word": "listening",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "listen is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2601,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "hear",
+    "pos": "verb",
+    "phonetic": "/hear/",
+    "definition": "To hear; a common action word used in everyday routines and conversations.",
+    "definition_zh": "hear；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hear",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of hear",
+          "meaning_zh": "由 hear 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"hear\" with a daily scene involving hear.",
+      "story_en": "Imagine using hear naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 hear。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word hear in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 hear 這個字。",
+    "collocations": [
+      "hear every day",
+      "hear at home",
+      "hear with care",
+      "hear before work",
+      "hear after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; hear is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as hear."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "hear",
+        "pos": "verb"
+      },
+      {
+        "word": "heared",
+        "pos": "related form"
+      },
+      {
+        "word": "hearing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "hear is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2602,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "see",
+    "pos": "verb",
+    "phonetic": "/see/",
+    "definition": "To see; a common action word used in everyday routines and conversations.",
+    "definition_zh": "see；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "see",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of see",
+          "meaning_zh": "由 see 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"see\" with a daily scene involving see.",
+      "story_en": "Imagine using see naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 see。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word see in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 see 這個字。",
+    "collocations": [
+      "see every day",
+      "see at home",
+      "see with care",
+      "see before work",
+      "see after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; see is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as see."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "see",
+        "pos": "verb"
+      },
+      {
+        "word": "seeed",
+        "pos": "related form"
+      },
+      {
+        "word": "seeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "see is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2603,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "watch",
+    "pos": "verb",
+    "phonetic": "/watch/",
+    "definition": "To watch; a common action word used in everyday routines and conversations.",
+    "definition_zh": "watch；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "watc",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of watch",
+          "meaning_zh": "由 watch 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"watc\" with a daily scene involving watch.",
+      "story_en": "Imagine using watch naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 watch。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word watch in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 watch 這個字。",
+    "collocations": [
+      "watch every day",
+      "watch at home",
+      "watch with care",
+      "watch before work",
+      "watch after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; watch is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as watch."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "watch",
+        "pos": "verb"
+      },
+      {
+        "word": "watched",
+        "pos": "related form"
+      },
+      {
+        "word": "watching",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "watch is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2604,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "look",
+    "pos": "verb",
+    "phonetic": "/look/",
+    "definition": "To look; a common action word used in everyday routines and conversations.",
+    "definition_zh": "look；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "look",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of look",
+          "meaning_zh": "由 look 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"look\" with a daily scene involving look.",
+      "story_en": "Imagine using look naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 look。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word look in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 look 這個字。",
+    "collocations": [
+      "look every day",
+      "look at home",
+      "look with care",
+      "look before work",
+      "look after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; look is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as look."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "look",
+        "pos": "verb"
+      },
+      {
+        "word": "looked",
+        "pos": "related form"
+      },
+      {
+        "word": "looking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "look is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2605,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "touch",
+    "pos": "verb",
+    "phonetic": "/touch/",
+    "definition": "To touch; a common action word used in everyday routines and conversations.",
+    "definition_zh": "touch；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "touc",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of touch",
+          "meaning_zh": "由 touch 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"touc\" with a daily scene involving touch.",
+      "story_en": "Imagine using touch naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 touch。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word touch in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 touch 這個字。",
+    "collocations": [
+      "touch every day",
+      "touch at home",
+      "touch with care",
+      "touch before work",
+      "touch after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; touch is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as touch."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "touch",
+        "pos": "verb"
+      },
+      {
+        "word": "touched",
+        "pos": "related form"
+      },
+      {
+        "word": "touching",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "touch is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2606,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "hold",
+    "pos": "verb",
+    "phonetic": "/hold/",
+    "definition": "To hold; a common action word used in everyday routines and conversations.",
+    "definition_zh": "hold；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hold",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of hold",
+          "meaning_zh": "由 hold 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"hold\" with a daily scene involving hold.",
+      "story_en": "Imagine using hold naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 hold。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word hold in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 hold 這個字。",
+    "collocations": [
+      "hold every day",
+      "hold at home",
+      "hold with care",
+      "hold before work",
+      "hold after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; hold is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as hold."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "hold",
+        "pos": "verb"
+      },
+      {
+        "word": "holded",
+        "pos": "related form"
+      },
+      {
+        "word": "holding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "hold is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2607,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "carry",
+    "pos": "verb",
+    "phonetic": "/carry/",
+    "definition": "To carry; a common action word used in everyday routines and conversations.",
+    "definition_zh": "carry；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "carr",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of carry",
+          "meaning_zh": "由 carry 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"carr\" with a daily scene involving carry.",
+      "story_en": "Imagine using carry naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 carry。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word carry in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 carry 這個字。",
+    "collocations": [
+      "carry every day",
+      "carry at home",
+      "carry with care",
+      "carry before work",
+      "carry after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; carry is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as carry."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "carry",
+        "pos": "verb"
+      },
+      {
+        "word": "carryed",
+        "pos": "related form"
+      },
+      {
+        "word": "carrying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "carry is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2608,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "bring",
+    "pos": "verb",
+    "phonetic": "/bring/",
+    "definition": "To bring; a common action word used in everyday routines and conversations.",
+    "definition_zh": "bring；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "brin",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of bring",
+          "meaning_zh": "由 bring 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"brin\" with a daily scene involving bring.",
+      "story_en": "Imagine using bring naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 bring。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word bring in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 bring 這個字。",
+    "collocations": [
+      "bring every day",
+      "bring at home",
+      "bring with care",
+      "bring before work",
+      "bring after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; bring is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as bring."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "bring",
+        "pos": "verb"
+      },
+      {
+        "word": "bringed",
+        "pos": "related form"
+      },
+      {
+        "word": "bringing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "bring is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2609,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "take",
+    "pos": "verb",
+    "phonetic": "/take/",
+    "definition": "To take; a common action word used in everyday routines and conversations.",
+    "definition_zh": "take；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "take",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of take",
+          "meaning_zh": "由 take 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"take\" with a daily scene involving take.",
+      "story_en": "Imagine using take naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 take。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word take in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 take 這個字。",
+    "collocations": [
+      "take every day",
+      "take at home",
+      "take with care",
+      "take before work",
+      "take after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; take is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as take."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "take",
+        "pos": "verb"
+      },
+      {
+        "word": "takeed",
+        "pos": "related form"
+      },
+      {
+        "word": "takeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "take is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2610,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "give",
+    "pos": "verb",
+    "phonetic": "/give/",
+    "definition": "To give; a common action word used in everyday routines and conversations.",
+    "definition_zh": "give；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "give",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of give",
+          "meaning_zh": "由 give 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"give\" with a daily scene involving give.",
+      "story_en": "Imagine using give naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 give。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word give in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 give 這個字。",
+    "collocations": [
+      "give every day",
+      "give at home",
+      "give with care",
+      "give before work",
+      "give after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; give is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as give."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "give",
+        "pos": "verb"
+      },
+      {
+        "word": "giveed",
+        "pos": "related form"
+      },
+      {
+        "word": "giveing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "give is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2611,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "get",
+    "pos": "verb",
+    "phonetic": "/get/",
+    "definition": "To get; a common action word used in everyday routines and conversations.",
+    "definition_zh": "get；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "get",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of get",
+          "meaning_zh": "由 get 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"get\" with a daily scene involving get.",
+      "story_en": "Imagine using get naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 get。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word get in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 get 這個字。",
+    "collocations": [
+      "get every day",
+      "get at home",
+      "get with care",
+      "get before work",
+      "get after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; get is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as get."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "get",
+        "pos": "verb"
+      },
+      {
+        "word": "geted",
+        "pos": "related form"
+      },
+      {
+        "word": "geting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "get is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2612,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "buy",
+    "pos": "verb",
+    "phonetic": "/buy/",
+    "definition": "To buy; a common action word used in everyday routines and conversations.",
+    "definition_zh": "buy；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "buy",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of buy",
+          "meaning_zh": "由 buy 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"buy\" with a daily scene involving buy.",
+      "story_en": "Imagine using buy naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 buy。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word buy in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 buy 這個字。",
+    "collocations": [
+      "buy every day",
+      "buy at home",
+      "buy with care",
+      "buy before work",
+      "buy after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; buy is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as buy."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "buy",
+        "pos": "verb"
+      },
+      {
+        "word": "buyed",
+        "pos": "related form"
+      },
+      {
+        "word": "buying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "buy is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2613,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sell",
+    "pos": "verb",
+    "phonetic": "/sell/",
+    "definition": "To sell; a common action word used in everyday routines and conversations.",
+    "definition_zh": "sell；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sell",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of sell",
+          "meaning_zh": "由 sell 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"sell\" with a daily scene involving sell.",
+      "story_en": "Imagine using sell naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 sell。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word sell in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 sell 這個字。",
+    "collocations": [
+      "sell every day",
+      "sell at home",
+      "sell with care",
+      "sell before work",
+      "sell after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; sell is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as sell."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "sell",
+        "pos": "verb"
+      },
+      {
+        "word": "selled",
+        "pos": "related form"
+      },
+      {
+        "word": "selling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sell is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2614,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "pay",
+    "pos": "verb",
+    "phonetic": "/pay/",
+    "definition": "To pay; a common action word used in everyday routines and conversations.",
+    "definition_zh": "pay；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pay",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of pay",
+          "meaning_zh": "由 pay 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pay\" with a daily scene involving pay.",
+      "story_en": "Imagine using pay naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 pay。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word pay in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 pay 這個字。",
+    "collocations": [
+      "pay every day",
+      "pay at home",
+      "pay with care",
+      "pay before work",
+      "pay after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; pay is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as pay."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "pay",
+        "pos": "verb"
+      },
+      {
+        "word": "payed",
+        "pos": "related form"
+      },
+      {
+        "word": "paying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "pay is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2615,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "spend",
+    "pos": "verb",
+    "phonetic": "/spend/",
+    "definition": "To spend; a common action word used in everyday routines and conversations.",
+    "definition_zh": "spend；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "spen",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of spend",
+          "meaning_zh": "由 spend 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"spen\" with a daily scene involving spend.",
+      "story_en": "Imagine using spend naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 spend。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word spend in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 spend 這個字。",
+    "collocations": [
+      "spend every day",
+      "spend at home",
+      "spend with care",
+      "spend before work",
+      "spend after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; spend is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as spend."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "spend",
+        "pos": "verb"
+      },
+      {
+        "word": "spended",
+        "pos": "related form"
+      },
+      {
+        "word": "spending",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "spend is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2616,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "save",
+    "pos": "verb",
+    "phonetic": "/save/",
+    "definition": "To save; a common action word used in everyday routines and conversations.",
+    "definition_zh": "save；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "save",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of save",
+          "meaning_zh": "由 save 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"save\" with a daily scene involving save.",
+      "story_en": "Imagine using save naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 save。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word save in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 save 這個字。",
+    "collocations": [
+      "save every day",
+      "save at home",
+      "save with care",
+      "save before work",
+      "save after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; save is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as save."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "save",
+        "pos": "verb"
+      },
+      {
+        "word": "saveed",
+        "pos": "related form"
+      },
+      {
+        "word": "saveing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "save is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2617,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "borrow",
+    "pos": "verb",
+    "phonetic": "/borrow/",
+    "definition": "To borrow; a common action word used in everyday routines and conversations.",
+    "definition_zh": "borrow；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "borr",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of borrow",
+          "meaning_zh": "由 borrow 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"borr\" with a daily scene involving borrow.",
+      "story_en": "Imagine using borrow naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 borrow。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word borrow in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 borrow 這個字。",
+    "collocations": [
+      "borrow every day",
+      "borrow at home",
+      "borrow with care",
+      "borrow before work",
+      "borrow after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; borrow is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as borrow."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "borrow",
+        "pos": "verb"
+      },
+      {
+        "word": "borrowed",
+        "pos": "related form"
+      },
+      {
+        "word": "borrowing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "borrow is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2618,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lend",
+    "pos": "verb",
+    "phonetic": "/lend/",
+    "definition": "To lend; a common action word used in everyday routines and conversations.",
+    "definition_zh": "lend；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lend",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lend",
+          "meaning_zh": "由 lend 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"lend\" with a daily scene involving lend.",
+      "story_en": "Imagine using lend naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lend。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lend in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lend 這個字。",
+    "collocations": [
+      "lend every day",
+      "lend at home",
+      "lend with care",
+      "lend before work",
+      "lend after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; lend is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as lend."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "lend",
+        "pos": "verb"
+      },
+      {
+        "word": "lended",
+        "pos": "related form"
+      },
+      {
+        "word": "lending",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lend is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2619,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "return",
+    "pos": "verb",
+    "phonetic": "/return/",
+    "definition": "To return; a common action word used in everyday routines and conversations.",
+    "definition_zh": "return；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "retu",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of return",
+          "meaning_zh": "由 return 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"retu\" with a daily scene involving return.",
+      "story_en": "Imagine using return naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 return。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word return in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 return 這個字。",
+    "collocations": [
+      "return every day",
+      "return at home",
+      "return with care",
+      "return before work",
+      "return after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; return is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as return."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "return",
+        "pos": "verb"
+      },
+      {
+        "word": "returned",
+        "pos": "related form"
+      },
+      {
+        "word": "returning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "return is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2620,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "exchange",
+    "pos": "verb",
+    "phonetic": "/exchange/",
+    "definition": "To exchange; a common action word used in everyday routines and conversations.",
+    "definition_zh": "exchange；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "exch",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of exchange",
+          "meaning_zh": "由 exchange 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"exch\" with a daily scene involving exchange.",
+      "story_en": "Imagine using exchange naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 exchange。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word exchange in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 exchange 這個字。",
+    "collocations": [
+      "exchange every day",
+      "exchange at home",
+      "exchange with care",
+      "exchange before work",
+      "exchange after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; exchange is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as exchange."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "exchange",
+        "pos": "verb"
+      },
+      {
+        "word": "exchangeed",
+        "pos": "related form"
+      },
+      {
+        "word": "exchangeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "exchange is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2621,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "choose",
+    "pos": "verb",
+    "phonetic": "/choose/",
+    "definition": "To choose; a common action word used in everyday routines and conversations.",
+    "definition_zh": "choose；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "choo",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of choose",
+          "meaning_zh": "由 choose 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"choo\" with a daily scene involving choose.",
+      "story_en": "Imagine using choose naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 choose。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word choose in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 choose 這個字。",
+    "collocations": [
+      "choose every day",
+      "choose at home",
+      "choose with care",
+      "choose before work",
+      "choose after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; choose is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as choose."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "choose",
+        "pos": "verb"
+      },
+      {
+        "word": "chooseed",
+        "pos": "related form"
+      },
+      {
+        "word": "chooseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "choose is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2622,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "pick",
+    "pos": "verb",
+    "phonetic": "/pick/",
+    "definition": "To pick; a common action word used in everyday routines and conversations.",
+    "definition_zh": "pick；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pick",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of pick",
+          "meaning_zh": "由 pick 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pick\" with a daily scene involving pick.",
+      "story_en": "Imagine using pick naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 pick。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word pick in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 pick 這個字。",
+    "collocations": [
+      "pick every day",
+      "pick at home",
+      "pick with care",
+      "pick before work",
+      "pick after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; pick is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as pick."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "pick",
+        "pos": "verb"
+      },
+      {
+        "word": "picked",
+        "pos": "related form"
+      },
+      {
+        "word": "picking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "pick is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2623,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "open",
+    "pos": "verb",
+    "phonetic": "/open/",
+    "definition": "To open; a common action word used in everyday routines and conversations.",
+    "definition_zh": "open；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "open",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of open",
+          "meaning_zh": "由 open 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"open\" with a daily scene involving open.",
+      "story_en": "Imagine using open naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 open。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word open in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 open 這個字。",
+    "collocations": [
+      "open every day",
+      "open at home",
+      "open with care",
+      "open before work",
+      "open after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; open is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as open."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "open",
+        "pos": "verb"
+      },
+      {
+        "word": "opened",
+        "pos": "related form"
+      },
+      {
+        "word": "opening",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "open is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2624,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "close",
+    "pos": "verb",
+    "phonetic": "/close/",
+    "definition": "To close; a common action word used in everyday routines and conversations.",
+    "definition_zh": "close；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "clos",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of close",
+          "meaning_zh": "由 close 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"clos\" with a daily scene involving close.",
+      "story_en": "Imagine using close naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 close。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word close in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 close 這個字。",
+    "collocations": [
+      "close every day",
+      "close at home",
+      "close with care",
+      "close before work",
+      "close after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; close is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as close."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "close",
+        "pos": "verb"
+      },
+      {
+        "word": "closeed",
+        "pos": "related form"
+      },
+      {
+        "word": "closeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "close is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2625,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "start",
+    "pos": "verb",
+    "phonetic": "/start/",
+    "definition": "To start; a common action word used in everyday routines and conversations.",
+    "definition_zh": "start；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "star",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of start",
+          "meaning_zh": "由 start 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"star\" with a daily scene involving start.",
+      "story_en": "Imagine using start naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 start。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word start in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 start 這個字。",
+    "collocations": [
+      "start every day",
+      "start at home",
+      "start with care",
+      "start before work",
+      "start after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; start is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as start."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "start",
+        "pos": "verb"
+      },
+      {
+        "word": "started",
+        "pos": "related form"
+      },
+      {
+        "word": "starting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "start is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2626,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "finish",
+    "pos": "verb",
+    "phonetic": "/finish/",
+    "definition": "To finish; a common action word used in everyday routines and conversations.",
+    "definition_zh": "finish；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fini",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of finish",
+          "meaning_zh": "由 finish 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"fini\" with a daily scene involving finish.",
+      "story_en": "Imagine using finish naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 finish。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word finish in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 finish 這個字。",
+    "collocations": [
+      "finish every day",
+      "finish at home",
+      "finish with care",
+      "finish before work",
+      "finish after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; finish is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as finish."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "finish",
+        "pos": "verb"
+      },
+      {
+        "word": "finished",
+        "pos": "related form"
+      },
+      {
+        "word": "finishing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "finish is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2627,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "wait",
+    "pos": "verb",
+    "phonetic": "/wait/",
+    "definition": "To wait; a common action word used in everyday routines and conversations.",
+    "definition_zh": "wait；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "wait",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of wait",
+          "meaning_zh": "由 wait 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"wait\" with a daily scene involving wait.",
+      "story_en": "Imagine using wait naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 wait。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word wait in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 wait 這個字。",
+    "collocations": [
+      "wait every day",
+      "wait at home",
+      "wait with care",
+      "wait before work",
+      "wait after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; wait is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as wait."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "wait",
+        "pos": "verb"
+      },
+      {
+        "word": "waited",
+        "pos": "related form"
+      },
+      {
+        "word": "waiting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "wait is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2628,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "leave",
+    "pos": "verb",
+    "phonetic": "/leave/",
+    "definition": "To leave; a common action word used in everyday routines and conversations.",
+    "definition_zh": "leave；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "leav",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of leave",
+          "meaning_zh": "由 leave 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"leav\" with a daily scene involving leave.",
+      "story_en": "Imagine using leave naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 leave。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word leave in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 leave 這個字。",
+    "collocations": [
+      "leave every day",
+      "leave at home",
+      "leave with care",
+      "leave before work",
+      "leave after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; leave is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as leave."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "leave",
+        "pos": "verb"
+      },
+      {
+        "word": "leaveed",
+        "pos": "related form"
+      },
+      {
+        "word": "leaveing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "leave is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2629,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "arrive",
+    "pos": "verb",
+    "phonetic": "/arrive/",
+    "definition": "To arrive; a common action word used in everyday routines and conversations.",
+    "definition_zh": "arrive；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "arri",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of arrive",
+          "meaning_zh": "由 arrive 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"arri\" with a daily scene involving arrive.",
+      "story_en": "Imagine using arrive naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 arrive。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word arrive in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 arrive 這個字。",
+    "collocations": [
+      "arrive every day",
+      "arrive at home",
+      "arrive with care",
+      "arrive before work",
+      "arrive after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; arrive is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as arrive."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "arrive",
+        "pos": "verb"
+      },
+      {
+        "word": "arriveed",
+        "pos": "related form"
+      },
+      {
+        "word": "arriveing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "arrive is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2630,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "enter",
+    "pos": "verb",
+    "phonetic": "/enter/",
+    "definition": "To enter; a common action word used in everyday routines and conversations.",
+    "definition_zh": "enter；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "ente",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of enter",
+          "meaning_zh": "由 enter 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"ente\" with a daily scene involving enter.",
+      "story_en": "Imagine using enter naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 enter。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word enter in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 enter 這個字。",
+    "collocations": [
+      "enter every day",
+      "enter at home",
+      "enter with care",
+      "enter before work",
+      "enter after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; enter is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as enter."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "enter",
+        "pos": "verb"
+      },
+      {
+        "word": "entered",
+        "pos": "related form"
+      },
+      {
+        "word": "entering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "enter is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2631,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "follow",
+    "pos": "verb",
+    "phonetic": "/follow/",
+    "definition": "To follow; a common action word used in everyday routines and conversations.",
+    "definition_zh": "follow；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "foll",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of follow",
+          "meaning_zh": "由 follow 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"foll\" with a daily scene involving follow.",
+      "story_en": "Imagine using follow naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 follow。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word follow in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 follow 這個字。",
+    "collocations": [
+      "follow every day",
+      "follow at home",
+      "follow with care",
+      "follow before work",
+      "follow after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; follow is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as follow."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "follow",
+        "pos": "verb"
+      },
+      {
+        "word": "followed",
+        "pos": "related form"
+      },
+      {
+        "word": "following",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "follow is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2632,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lead",
+    "pos": "verb",
+    "phonetic": "/lead/",
+    "definition": "To lead; a common action word used in everyday routines and conversations.",
+    "definition_zh": "lead；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lead",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lead",
+          "meaning_zh": "由 lead 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"lead\" with a daily scene involving lead.",
+      "story_en": "Imagine using lead naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lead。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lead in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lead 這個字。",
+    "collocations": [
+      "lead every day",
+      "lead at home",
+      "lead with care",
+      "lead before work",
+      "lead after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; lead is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as lead."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "lead",
+        "pos": "verb"
+      },
+      {
+        "word": "leaded",
+        "pos": "related form"
+      },
+      {
+        "word": "leading",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lead is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2633,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "turn",
+    "pos": "verb",
+    "phonetic": "/turn/",
+    "definition": "To turn; a common action word used in everyday routines and conversations.",
+    "definition_zh": "turn；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "turn",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of turn",
+          "meaning_zh": "由 turn 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"turn\" with a daily scene involving turn.",
+      "story_en": "Imagine using turn naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 turn。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word turn in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 turn 這個字。",
+    "collocations": [
+      "turn every day",
+      "turn at home",
+      "turn with care",
+      "turn before work",
+      "turn after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; turn is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as turn."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "turn",
+        "pos": "verb"
+      },
+      {
+        "word": "turned",
+        "pos": "related form"
+      },
+      {
+        "word": "turning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "turn is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2634,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "push",
+    "pos": "verb",
+    "phonetic": "/push/",
+    "definition": "To push; a common action word used in everyday routines and conversations.",
+    "definition_zh": "push；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "push",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of push",
+          "meaning_zh": "由 push 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"push\" with a daily scene involving push.",
+      "story_en": "Imagine using push naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 push。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word push in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 push 這個字。",
+    "collocations": [
+      "push every day",
+      "push at home",
+      "push with care",
+      "push before work",
+      "push after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; push is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as push."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "push",
+        "pos": "verb"
+      },
+      {
+        "word": "pushed",
+        "pos": "related form"
+      },
+      {
+        "word": "pushing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "push is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2635,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "pull",
+    "pos": "verb",
+    "phonetic": "/pull/",
+    "definition": "To pull; a common action word used in everyday routines and conversations.",
+    "definition_zh": "pull；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pull",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of pull",
+          "meaning_zh": "由 pull 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pull\" with a daily scene involving pull.",
+      "story_en": "Imagine using pull naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 pull。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word pull in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 pull 這個字。",
+    "collocations": [
+      "pull every day",
+      "pull at home",
+      "pull with care",
+      "pull before work",
+      "pull after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; pull is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as pull."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "pull",
+        "pos": "verb"
+      },
+      {
+        "word": "pulled",
+        "pos": "related form"
+      },
+      {
+        "word": "pulling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "pull is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2636,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lift",
+    "pos": "verb",
+    "phonetic": "/lift/",
+    "definition": "To lift; a common action word used in everyday routines and conversations.",
+    "definition_zh": "lift；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lift",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lift",
+          "meaning_zh": "由 lift 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"lift\" with a daily scene involving lift.",
+      "story_en": "Imagine using lift naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lift。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lift in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lift 這個字。",
+    "collocations": [
+      "lift every day",
+      "lift at home",
+      "lift with care",
+      "lift before work",
+      "lift after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; lift is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as lift."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "lift",
+        "pos": "verb"
+      },
+      {
+        "word": "lifted",
+        "pos": "related form"
+      },
+      {
+        "word": "lifting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lift is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2637,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "drop",
+    "pos": "verb",
+    "phonetic": "/drop/",
+    "definition": "To drop; a common action word used in everyday routines and conversations.",
+    "definition_zh": "drop；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "drop",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of drop",
+          "meaning_zh": "由 drop 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"drop\" with a daily scene involving drop.",
+      "story_en": "Imagine using drop naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 drop。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word drop in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 drop 這個字。",
+    "collocations": [
+      "drop every day",
+      "drop at home",
+      "drop with care",
+      "drop before work",
+      "drop after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; drop is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as drop."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "drop",
+        "pos": "verb"
+      },
+      {
+        "word": "droped",
+        "pos": "related form"
+      },
+      {
+        "word": "droping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "drop is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2638,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "throw",
+    "pos": "verb",
+    "phonetic": "/throw/",
+    "definition": "To throw; a common action word used in everyday routines and conversations.",
+    "definition_zh": "throw；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "thro",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of throw",
+          "meaning_zh": "由 throw 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"thro\" with a daily scene involving throw.",
+      "story_en": "Imagine using throw naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 throw。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word throw in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 throw 這個字。",
+    "collocations": [
+      "throw every day",
+      "throw at home",
+      "throw with care",
+      "throw before work",
+      "throw after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; throw is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as throw."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "throw",
+        "pos": "verb"
+      },
+      {
+        "word": "throwed",
+        "pos": "related form"
+      },
+      {
+        "word": "throwing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "throw is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2639,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "catch",
+    "pos": "verb",
+    "phonetic": "/catch/",
+    "definition": "To catch; a common action word used in everyday routines and conversations.",
+    "definition_zh": "catch；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "catc",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of catch",
+          "meaning_zh": "由 catch 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"catc\" with a daily scene involving catch.",
+      "story_en": "Imagine using catch naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 catch。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word catch in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 catch 這個字。",
+    "collocations": [
+      "catch every day",
+      "catch at home",
+      "catch with care",
+      "catch before work",
+      "catch after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; catch is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as catch."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "catch",
+        "pos": "verb"
+      },
+      {
+        "word": "catched",
+        "pos": "related form"
+      },
+      {
+        "word": "catching",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "catch is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2640,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "keep",
+    "pos": "verb",
+    "phonetic": "/keep/",
+    "definition": "To keep; a common action word used in everyday routines and conversations.",
+    "definition_zh": "keep；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "keep",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of keep",
+          "meaning_zh": "由 keep 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"keep\" with a daily scene involving keep.",
+      "story_en": "Imagine using keep naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 keep。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word keep in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 keep 這個字。",
+    "collocations": [
+      "keep every day",
+      "keep at home",
+      "keep with care",
+      "keep before work",
+      "keep after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; keep is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as keep."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "keep",
+        "pos": "verb"
+      },
+      {
+        "word": "keeped",
+        "pos": "related form"
+      },
+      {
+        "word": "keeping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "keep is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2641,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lose",
+    "pos": "verb",
+    "phonetic": "/lose/",
+    "definition": "To lose; a common action word used in everyday routines and conversations.",
+    "definition_zh": "lose；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lose",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lose",
+          "meaning_zh": "由 lose 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"lose\" with a daily scene involving lose.",
+      "story_en": "Imagine using lose naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lose。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lose in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lose 這個字。",
+    "collocations": [
+      "lose every day",
+      "lose at home",
+      "lose with care",
+      "lose before work",
+      "lose after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; lose is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as lose."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "lose",
+        "pos": "verb"
+      },
+      {
+        "word": "loseed",
+        "pos": "related form"
+      },
+      {
+        "word": "loseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lose is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2642,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "find",
+    "pos": "verb",
+    "phonetic": "/find/",
+    "definition": "To find; a common action word used in everyday routines and conversations.",
+    "definition_zh": "find；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "find",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of find",
+          "meaning_zh": "由 find 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"find\" with a daily scene involving find.",
+      "story_en": "Imagine using find naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 find。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word find in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 find 這個字。",
+    "collocations": [
+      "find every day",
+      "find at home",
+      "find with care",
+      "find before work",
+      "find after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; find is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as find."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "find",
+        "pos": "verb"
+      },
+      {
+        "word": "finded",
+        "pos": "related form"
+      },
+      {
+        "word": "finding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "find is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2643,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "clean",
+    "pos": "verb",
+    "phonetic": "/clean/",
+    "definition": "To clean; a common action word used in everyday routines and conversations.",
+    "definition_zh": "clean；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "clea",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of clean",
+          "meaning_zh": "由 clean 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"clea\" with a daily scene involving clean.",
+      "story_en": "Imagine using clean naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 clean。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word clean in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 clean 這個字。",
+    "collocations": [
+      "clean every day",
+      "clean at home",
+      "clean with care",
+      "clean before work",
+      "clean after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; clean is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as clean."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "clean",
+        "pos": "verb"
+      },
+      {
+        "word": "cleaned",
+        "pos": "related form"
+      },
+      {
+        "word": "cleaning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "clean is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2644,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "wash",
+    "pos": "verb",
+    "phonetic": "/wash/",
+    "definition": "To wash; a common action word used in everyday routines and conversations.",
+    "definition_zh": "wash；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "wash",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of wash",
+          "meaning_zh": "由 wash 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"wash\" with a daily scene involving wash.",
+      "story_en": "Imagine using wash naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 wash。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word wash in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 wash 這個字。",
+    "collocations": [
+      "wash every day",
+      "wash at home",
+      "wash with care",
+      "wash before work",
+      "wash after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; wash is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as wash."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "wash",
+        "pos": "verb"
+      },
+      {
+        "word": "washed",
+        "pos": "related form"
+      },
+      {
+        "word": "washing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "wash is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2645,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "dry",
+    "pos": "verb",
+    "phonetic": "/dry/",
+    "definition": "To dry; a common action word used in everyday routines and conversations.",
+    "definition_zh": "dry；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dry",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of dry",
+          "meaning_zh": "由 dry 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"dry\" with a daily scene involving dry.",
+      "story_en": "Imagine using dry naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 dry。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word dry in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 dry 這個字。",
+    "collocations": [
+      "dry every day",
+      "dry at home",
+      "dry with care",
+      "dry before work",
+      "dry after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; dry is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as dry."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "dry",
+        "pos": "verb"
+      },
+      {
+        "word": "dryed",
+        "pos": "related form"
+      },
+      {
+        "word": "drying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "dry is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2646,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "wipe",
+    "pos": "verb",
+    "phonetic": "/wipe/",
+    "definition": "To wipe; a common action word used in everyday routines and conversations.",
+    "definition_zh": "wipe；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "wipe",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of wipe",
+          "meaning_zh": "由 wipe 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"wipe\" with a daily scene involving wipe.",
+      "story_en": "Imagine using wipe naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 wipe。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word wipe in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 wipe 這個字。",
+    "collocations": [
+      "wipe every day",
+      "wipe at home",
+      "wipe with care",
+      "wipe before work",
+      "wipe after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; wipe is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as wipe."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "wipe",
+        "pos": "verb"
+      },
+      {
+        "word": "wipeed",
+        "pos": "related form"
+      },
+      {
+        "word": "wipeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "wipe is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2647,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "fold",
+    "pos": "verb",
+    "phonetic": "/fold/",
+    "definition": "To fold; a common action word used in everyday routines and conversations.",
+    "definition_zh": "fold；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fold",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of fold",
+          "meaning_zh": "由 fold 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"fold\" with a daily scene involving fold.",
+      "story_en": "Imagine using fold naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 fold。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word fold in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 fold 這個字。",
+    "collocations": [
+      "fold every day",
+      "fold at home",
+      "fold with care",
+      "fold before work",
+      "fold after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; fold is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as fold."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "fold",
+        "pos": "verb"
+      },
+      {
+        "word": "folded",
+        "pos": "related form"
+      },
+      {
+        "word": "folding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "fold is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2648,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "iron",
+    "pos": "verb",
+    "phonetic": "/iron/",
+    "definition": "To iron; a common action word used in everyday routines and conversations.",
+    "definition_zh": "iron；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "iron",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of iron",
+          "meaning_zh": "由 iron 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"iron\" with a daily scene involving iron.",
+      "story_en": "Imagine using iron naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 iron。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word iron in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 iron 這個字。",
+    "collocations": [
+      "iron every day",
+      "iron at home",
+      "iron with care",
+      "iron before work",
+      "iron after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; iron is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as iron."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "iron",
+        "pos": "verb"
+      },
+      {
+        "word": "ironed",
+        "pos": "related form"
+      },
+      {
+        "word": "ironing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "iron is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2649,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "cook",
+    "pos": "verb",
+    "phonetic": "/cook/",
+    "definition": "To cook; a common action word used in everyday routines and conversations.",
+    "definition_zh": "cook；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cook",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of cook",
+          "meaning_zh": "由 cook 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cook\" with a daily scene involving cook.",
+      "story_en": "Imagine using cook naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 cook。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word cook in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 cook 這個字。",
+    "collocations": [
+      "cook every day",
+      "cook at home",
+      "cook with care",
+      "cook before work",
+      "cook after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; cook is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as cook."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "cook",
+        "pos": "verb"
+      },
+      {
+        "word": "cooked",
+        "pos": "related form"
+      },
+      {
+        "word": "cooking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "cook is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2650,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  }
+]

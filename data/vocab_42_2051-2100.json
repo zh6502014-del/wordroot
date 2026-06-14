@@ -1,0 +1,3952 @@
+[
+  {
+    "word": "trash",
+    "pos": "noun",
+    "phonetic": "/trash/",
+    "definition": "waste material that is thrown away.",
+    "definition_zh": "垃圾；廢棄物",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tras",
+          "origin": "Modern English",
+          "meaning": "core sound of trash",
+          "meaning_zh": "trash 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"tras\" as a quick hook for remembering trash.",
+      "story_en": "Picture a normal day where you need to say trash naturally.",
+      "story_zh": "想像日常生活中會自然用到 trash 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use trash in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 trash。",
+    "collocations": [
+      "take out the trash",
+      "trash bag",
+      "trash can",
+      "household trash",
+      "trash collection"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; trash is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as trash."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "trash",
+        "pos": "noun"
+      },
+      {
+        "word": "trashs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "trashing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "trash is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2051,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "garbage",
+    "pos": "noun",
+    "phonetic": "/garbage/",
+    "definition": "food waste or unwanted things that people throw away.",
+    "definition_zh": "垃圾；廚餘",
+    "etymology": {
+      "roots": [
+        {
+          "root": "garb",
+          "origin": "Modern English",
+          "meaning": "core sound of garbage",
+          "meaning_zh": "garbage 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"garb\" as a quick hook for remembering garbage.",
+      "story_en": "Picture a normal day where you need to say garbage naturally.",
+      "story_zh": "想像日常生活中會自然用到 garbage 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use garbage in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 garbage。",
+    "collocations": [
+      "garbage truck",
+      "garbage bin",
+      "throw out garbage",
+      "garbage collection",
+      "kitchen garbage"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; garbage is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as garbage."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "garbage",
+        "pos": "noun"
+      },
+      {
+        "word": "garbages",
+        "pos": "noun plural"
+      },
+      {
+        "word": "garbageing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "garbage is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2052,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "recycle",
+    "pos": "verb",
+    "phonetic": "/recycle/",
+    "definition": "to process used materials so they can be used again.",
+    "definition_zh": "回收再利用",
+    "etymology": {
+      "roots": [
+        {
+          "root": "recy",
+          "origin": "Modern English",
+          "meaning": "core sound of recycle",
+          "meaning_zh": "recycle 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"recy\" as a quick hook for remembering recycle.",
+      "story_en": "Picture a normal day where you need to say recycle naturally.",
+      "story_zh": "想像日常生活中會自然用到 recycle 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use recycle in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 recycle。",
+    "collocations": [
+      "recycle paper",
+      "recycle bottles",
+      "recycle plastic",
+      "recycle at home",
+      "recycle properly"
+    ],
+    "synonyms": [
+      "do",
+      "perform",
+      "handle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; recycle is more specific in daily use."
+      },
+      {
+        "word": "perform",
+        "difference": "perform is related, but it may not fit the same collocations as recycle."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "leave"
+    ],
+    "word_family": [
+      {
+        "word": "recycle",
+        "pos": "verb"
+      },
+      {
+        "word": "recycleed",
+        "pos": "verb past"
+      },
+      {
+        "word": "recycleing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "recycle is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2053,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "dust",
+    "pos": "noun",
+    "phonetic": "/dust/",
+    "definition": "fine dry dirt that gathers on surfaces.",
+    "definition_zh": "灰塵",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dust",
+          "origin": "Modern English",
+          "meaning": "core sound of dust",
+          "meaning_zh": "dust 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"dust\" as a quick hook for remembering dust.",
+      "story_en": "Picture a normal day where you need to say dust naturally.",
+      "story_zh": "想像日常生活中會自然用到 dust 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use dust in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 dust。",
+    "collocations": [
+      "wipe away dust",
+      "collect dust",
+      "dust on the shelf",
+      "household dust",
+      "dust the table"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; dust is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as dust."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "dust",
+        "pos": "noun"
+      },
+      {
+        "word": "dusts",
+        "pos": "noun plural"
+      },
+      {
+        "word": "dusting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "dust is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2054,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sweep",
+    "pos": "verb",
+    "phonetic": "/sweep/",
+    "definition": "to clean a floor or surface with a broom.",
+    "definition_zh": "掃；清掃",
+    "etymology": {
+      "roots": [
+        {
+          "root": "swee",
+          "origin": "Modern English",
+          "meaning": "core sound of sweep",
+          "meaning_zh": "sweep 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"swee\" as a quick hook for remembering sweep.",
+      "story_en": "Picture a normal day where you need to say sweep naturally.",
+      "story_zh": "想像日常生活中會自然用到 sweep 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use sweep in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 sweep。",
+    "collocations": [
+      "sweep the floor",
+      "sweep the room",
+      "sweep outside",
+      "sweep up dirt",
+      "sweep daily"
+    ],
+    "synonyms": [
+      "do",
+      "perform",
+      "handle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; sweep is more specific in daily use."
+      },
+      {
+        "word": "perform",
+        "difference": "perform is related, but it may not fit the same collocations as sweep."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "leave"
+    ],
+    "word_family": [
+      {
+        "word": "sweep",
+        "pos": "verb"
+      },
+      {
+        "word": "sweeped",
+        "pos": "verb past"
+      },
+      {
+        "word": "sweeping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sweep is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2055,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "mop",
+    "pos": "verb",
+    "phonetic": "/mop/",
+    "definition": "to clean a floor with a wet mop.",
+    "definition_zh": "拖地",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mop",
+          "origin": "Modern English",
+          "meaning": "core sound of mop",
+          "meaning_zh": "mop 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"mop\" as a quick hook for remembering mop.",
+      "story_en": "Picture a normal day where you need to say mop naturally.",
+      "story_zh": "想像日常生活中會自然用到 mop 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use mop in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 mop。",
+    "collocations": [
+      "mop the floor",
+      "mop the kitchen",
+      "mop up water",
+      "mop carefully",
+      "mop after dinner"
+    ],
+    "synonyms": [
+      "do",
+      "perform",
+      "handle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; mop is more specific in daily use."
+      },
+      {
+        "word": "perform",
+        "difference": "perform is related, but it may not fit the same collocations as mop."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "leave"
+    ],
+    "word_family": [
+      {
+        "word": "mop",
+        "pos": "verb"
+      },
+      {
+        "word": "moped",
+        "pos": "verb past"
+      },
+      {
+        "word": "moping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "mop is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2056,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "vacuum",
+    "pos": "verb",
+    "phonetic": "/vacuum/",
+    "definition": "to clean with a vacuum cleaner.",
+    "definition_zh": "用吸塵器清掃",
+    "etymology": {
+      "roots": [
+        {
+          "root": "vacu",
+          "origin": "Modern English",
+          "meaning": "core sound of vacuum",
+          "meaning_zh": "vacuum 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"vacu\" as a quick hook for remembering vacuum.",
+      "story_en": "Picture a normal day where you need to say vacuum naturally.",
+      "story_zh": "想像日常生活中會自然用到 vacuum 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use vacuum in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 vacuum。",
+    "collocations": [
+      "vacuum the carpet",
+      "vacuum the floor",
+      "vacuum cleaner",
+      "vacuum regularly",
+      "vacuum under the sofa"
+    ],
+    "synonyms": [
+      "do",
+      "perform",
+      "handle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; vacuum is more specific in daily use."
+      },
+      {
+        "word": "perform",
+        "difference": "perform is related, but it may not fit the same collocations as vacuum."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "leave"
+    ],
+    "word_family": [
+      {
+        "word": "vacuum",
+        "pos": "verb"
+      },
+      {
+        "word": "vacuumed",
+        "pos": "verb past"
+      },
+      {
+        "word": "vacuuming",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "vacuum is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2057,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "broom",
+    "pos": "noun",
+    "phonetic": "/broom/",
+    "definition": "a long-handled brush used for sweeping.",
+    "definition_zh": "掃把",
+    "etymology": {
+      "roots": [
+        {
+          "root": "broo",
+          "origin": "Modern English",
+          "meaning": "core sound of broom",
+          "meaning_zh": "broom 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"broo\" as a quick hook for remembering broom.",
+      "story_en": "Picture a normal day where you need to say broom naturally.",
+      "story_zh": "想像日常生活中會自然用到 broom 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use broom in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 broom。",
+    "collocations": [
+      "use a broom",
+      "broom closet",
+      "old broom",
+      "broom handle",
+      "sweep with a broom"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; broom is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as broom."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "broom",
+        "pos": "noun"
+      },
+      {
+        "word": "brooms",
+        "pos": "noun plural"
+      },
+      {
+        "word": "brooming",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "broom is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2058,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "bucket",
+    "pos": "noun",
+    "phonetic": "/bucket/",
+    "definition": "an open container with a handle, often used for water.",
+    "definition_zh": "水桶；桶子",
+    "etymology": {
+      "roots": [
+        {
+          "root": "buck",
+          "origin": "Modern English",
+          "meaning": "core sound of bucket",
+          "meaning_zh": "bucket 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"buck\" as a quick hook for remembering bucket.",
+      "story_en": "Picture a normal day where you need to say bucket naturally.",
+      "story_zh": "想像日常生活中會自然用到 bucket 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use bucket in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 bucket。",
+    "collocations": [
+      "water bucket",
+      "cleaning bucket",
+      "fill a bucket",
+      "carry a bucket",
+      "empty bucket"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; bucket is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as bucket."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "bucket",
+        "pos": "noun"
+      },
+      {
+        "word": "buckets",
+        "pos": "noun plural"
+      },
+      {
+        "word": "bucketing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "bucket is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2059,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sponge",
+    "pos": "noun",
+    "phonetic": "/sponge/",
+    "definition": "a soft cleaning material that absorbs water.",
+    "definition_zh": "海綿",
+    "etymology": {
+      "roots": [
+        {
+          "root": "spon",
+          "origin": "Modern English",
+          "meaning": "core sound of sponge",
+          "meaning_zh": "sponge 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"spon\" as a quick hook for remembering sponge.",
+      "story_en": "Picture a normal day where you need to say sponge naturally.",
+      "story_zh": "想像日常生活中會自然用到 sponge 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use sponge in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 sponge。",
+    "collocations": [
+      "kitchen sponge",
+      "clean with a sponge",
+      "wet sponge",
+      "sponge holder",
+      "replace the sponge"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; sponge is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as sponge."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "sponge",
+        "pos": "noun"
+      },
+      {
+        "word": "sponges",
+        "pos": "noun plural"
+      },
+      {
+        "word": "spongeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sponge is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2060,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sink",
+    "pos": "noun",
+    "phonetic": "/sink/",
+    "definition": "a basin with a faucet for washing hands, dishes, or food.",
+    "definition_zh": "水槽；洗手台",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sink",
+          "origin": "Modern English",
+          "meaning": "core sound of sink",
+          "meaning_zh": "sink 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"sink\" as a quick hook for remembering sink.",
+      "story_en": "Picture a normal day where you need to say sink naturally.",
+      "story_zh": "想像日常生活中會自然用到 sink 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use sink in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 sink。",
+    "collocations": [
+      "kitchen sink",
+      "bathroom sink",
+      "wash in the sink",
+      "sink faucet",
+      "clogged sink"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; sink is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as sink."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "sink",
+        "pos": "noun"
+      },
+      {
+        "word": "sinks",
+        "pos": "noun plural"
+      },
+      {
+        "word": "sinking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sink is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2061,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "faucet",
+    "pos": "noun",
+    "phonetic": "/faucet/",
+    "definition": "a device that controls the flow of water from a pipe.",
+    "definition_zh": "水龍頭",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fauc",
+          "origin": "Modern English",
+          "meaning": "core sound of faucet",
+          "meaning_zh": "faucet 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"fauc\" as a quick hook for remembering faucet.",
+      "story_en": "Picture a normal day where you need to say faucet naturally.",
+      "story_zh": "想像日常生活中會自然用到 faucet 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use faucet in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 faucet。",
+    "collocations": [
+      "turn on the faucet",
+      "leaky faucet",
+      "faucet handle",
+      "bathroom faucet",
+      "fix the faucet"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; faucet is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as faucet."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "faucet",
+        "pos": "noun"
+      },
+      {
+        "word": "faucets",
+        "pos": "noun plural"
+      },
+      {
+        "word": "fauceting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "faucet is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2062,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "shower",
+    "pos": "noun",
+    "phonetic": "/shower/",
+    "definition": "a device or act of washing under falling water.",
+    "definition_zh": "淋浴；沖澡",
+    "etymology": {
+      "roots": [
+        {
+          "root": "show",
+          "origin": "Modern English",
+          "meaning": "core sound of shower",
+          "meaning_zh": "shower 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"show\" as a quick hook for remembering shower.",
+      "story_en": "Picture a normal day where you need to say shower naturally.",
+      "story_zh": "想像日常生活中會自然用到 shower 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use shower in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 shower。",
+    "collocations": [
+      "take a shower",
+      "hot shower",
+      "shower curtain",
+      "morning shower",
+      "shower head"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; shower is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as shower."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "shower",
+        "pos": "noun"
+      },
+      {
+        "word": "showers",
+        "pos": "noun plural"
+      },
+      {
+        "word": "showering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "shower is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2063,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "bathtub",
+    "pos": "noun",
+    "phonetic": "/bathtub/",
+    "definition": "a large container for sitting in while bathing.",
+    "definition_zh": "浴缸",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bath",
+          "origin": "Modern English",
+          "meaning": "core sound of bathtub",
+          "meaning_zh": "bathtub 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"bath\" as a quick hook for remembering bathtub.",
+      "story_en": "Picture a normal day where you need to say bathtub naturally.",
+      "story_zh": "想像日常生活中會自然用到 bathtub 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use bathtub in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 bathtub。",
+    "collocations": [
+      "clean the bathtub",
+      "fill the bathtub",
+      "bathtub drain",
+      "soak in the bathtub",
+      "small bathtub"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; bathtub is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as bathtub."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "bathtub",
+        "pos": "noun"
+      },
+      {
+        "word": "bathtubs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "bathtubing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "bathtub is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2064,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "mirror",
+    "pos": "noun",
+    "phonetic": "/mirror/",
+    "definition": "a glass surface that reflects images.",
+    "definition_zh": "鏡子",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mirr",
+          "origin": "Modern English",
+          "meaning": "core sound of mirror",
+          "meaning_zh": "mirror 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"mirr\" as a quick hook for remembering mirror.",
+      "story_en": "Picture a normal day where you need to say mirror naturally.",
+      "story_zh": "想像日常生活中會自然用到 mirror 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use mirror in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 mirror。",
+    "collocations": [
+      "look in the mirror",
+      "bathroom mirror",
+      "mirror frame",
+      "clean the mirror",
+      "full-length mirror"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; mirror is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as mirror."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "mirror",
+        "pos": "noun"
+      },
+      {
+        "word": "mirrors",
+        "pos": "noun plural"
+      },
+      {
+        "word": "mirroring",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "mirror is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2065,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "drawer",
+    "pos": "noun",
+    "phonetic": "/drawer/",
+    "definition": "a sliding box in furniture used for storage.",
+    "definition_zh": "抽屜",
+    "etymology": {
+      "roots": [
+        {
+          "root": "draw",
+          "origin": "Modern English",
+          "meaning": "core sound of drawer",
+          "meaning_zh": "drawer 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"draw\" as a quick hook for remembering drawer.",
+      "story_en": "Picture a normal day where you need to say drawer naturally.",
+      "story_zh": "想像日常生活中會自然用到 drawer 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use drawer in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 drawer。",
+    "collocations": [
+      "open a drawer",
+      "desk drawer",
+      "kitchen drawer",
+      "drawer handle",
+      "put it in a drawer"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; drawer is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as drawer."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "drawer",
+        "pos": "noun"
+      },
+      {
+        "word": "drawers",
+        "pos": "noun plural"
+      },
+      {
+        "word": "drawering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "drawer is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2066,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "shelf",
+    "pos": "noun",
+    "phonetic": "/shelf/",
+    "definition": "a flat board used for placing or storing things.",
+    "definition_zh": "架子；層板",
+    "etymology": {
+      "roots": [
+        {
+          "root": "shel",
+          "origin": "Modern English",
+          "meaning": "core sound of shelf",
+          "meaning_zh": "shelf 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"shel\" as a quick hook for remembering shelf.",
+      "story_en": "Picture a normal day where you need to say shelf naturally.",
+      "story_zh": "想像日常生活中會自然用到 shelf 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use shelf in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 shelf。",
+    "collocations": [
+      "bookshelf",
+      "top shelf",
+      "shelf space",
+      "put on a shelf",
+      "kitchen shelf"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; shelf is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as shelf."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "shelf",
+        "pos": "noun"
+      },
+      {
+        "word": "shelfs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "shelfing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "shelf is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2067,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "curtain",
+    "pos": "noun",
+    "phonetic": "/curtain/",
+    "definition": "a piece of cloth hung to cover a window.",
+    "definition_zh": "窗簾",
+    "etymology": {
+      "roots": [
+        {
+          "root": "curt",
+          "origin": "Modern English",
+          "meaning": "core sound of curtain",
+          "meaning_zh": "curtain 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"curt\" as a quick hook for remembering curtain.",
+      "story_en": "Picture a normal day where you need to say curtain naturally.",
+      "story_zh": "想像日常生活中會自然用到 curtain 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use curtain in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 curtain。",
+    "collocations": [
+      "close the curtain",
+      "open the curtain",
+      "shower curtain",
+      "curtain rod",
+      "window curtain"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; curtain is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as curtain."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "curtain",
+        "pos": "noun"
+      },
+      {
+        "word": "curtains",
+        "pos": "noun plural"
+      },
+      {
+        "word": "curtaining",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "curtain is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2068,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "carpet",
+    "pos": "noun",
+    "phonetic": "/carpet/",
+    "definition": "a thick floor covering made of woven material.",
+    "definition_zh": "地毯",
+    "etymology": {
+      "roots": [
+        {
+          "root": "carp",
+          "origin": "Modern English",
+          "meaning": "core sound of carpet",
+          "meaning_zh": "carpet 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"carp\" as a quick hook for remembering carpet.",
+      "story_en": "Picture a normal day where you need to say carpet naturally.",
+      "story_zh": "想像日常生活中會自然用到 carpet 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use carpet in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 carpet。",
+    "collocations": [
+      "clean the carpet",
+      "soft carpet",
+      "carpet stain",
+      "vacuum the carpet",
+      "living-room carpet"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; carpet is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as carpet."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "carpet",
+        "pos": "noun"
+      },
+      {
+        "word": "carpets",
+        "pos": "noun plural"
+      },
+      {
+        "word": "carpeting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "carpet is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2069,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "rug",
+    "pos": "noun",
+    "phonetic": "/rug/",
+    "definition": "a small carpet used to cover part of a floor.",
+    "definition_zh": "小地毯",
+    "etymology": {
+      "roots": [
+        {
+          "root": "rug",
+          "origin": "Modern English",
+          "meaning": "core sound of rug",
+          "meaning_zh": "rug 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"rug\" as a quick hook for remembering rug.",
+      "story_en": "Picture a normal day where you need to say rug naturally.",
+      "story_zh": "想像日常生活中會自然用到 rug 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use rug in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 rug。",
+    "collocations": [
+      "bathroom rug",
+      "area rug",
+      "shake out a rug",
+      "soft rug",
+      "rug on the floor"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; rug is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as rug."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "rug",
+        "pos": "noun"
+      },
+      {
+        "word": "rugs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "ruging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "rug is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2070,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "couch",
+    "pos": "noun",
+    "phonetic": "/couch/",
+    "definition": "a comfortable seat for two or more people.",
+    "definition_zh": "沙發",
+    "etymology": {
+      "roots": [
+        {
+          "root": "couc",
+          "origin": "Modern English",
+          "meaning": "core sound of couch",
+          "meaning_zh": "couch 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"couc\" as a quick hook for remembering couch.",
+      "story_en": "Picture a normal day where you need to say couch naturally.",
+      "story_zh": "想像日常生活中會自然用到 couch 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use couch in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 couch。",
+    "collocations": [
+      "sit on the couch",
+      "living-room couch",
+      "couch cushion",
+      "sleep on the couch",
+      "new couch"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; couch is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as couch."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "couch",
+        "pos": "noun"
+      },
+      {
+        "word": "couchs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "couching",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "couch is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2071,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "desk",
+    "pos": "noun",
+    "phonetic": "/desk/",
+    "definition": "a table used for work, study, or writing.",
+    "definition_zh": "書桌；辦公桌",
+    "etymology": {
+      "roots": [
+        {
+          "root": "desk",
+          "origin": "Modern English",
+          "meaning": "core sound of desk",
+          "meaning_zh": "desk 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"desk\" as a quick hook for remembering desk.",
+      "story_en": "Picture a normal day where you need to say desk naturally.",
+      "story_zh": "想像日常生活中會自然用到 desk 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use desk in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 desk。",
+    "collocations": [
+      "work desk",
+      "desk lamp",
+      "desk drawer",
+      "sit at a desk",
+      "clean the desk"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; desk is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as desk."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "desk",
+        "pos": "noun"
+      },
+      {
+        "word": "desks",
+        "pos": "noun plural"
+      },
+      {
+        "word": "desking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "desk is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2072,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "chair",
+    "pos": "noun",
+    "phonetic": "/chair/",
+    "definition": "a seat with a back for one person.",
+    "definition_zh": "椅子",
+    "etymology": {
+      "roots": [
+        {
+          "root": "chai",
+          "origin": "Modern English",
+          "meaning": "core sound of chair",
+          "meaning_zh": "chair 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"chai\" as a quick hook for remembering chair.",
+      "story_en": "Picture a normal day where you need to say chair naturally.",
+      "story_zh": "想像日常生活中會自然用到 chair 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use chair in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 chair。",
+    "collocations": [
+      "pull up a chair",
+      "dining chair",
+      "office chair",
+      "sit on a chair",
+      "folding chair"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; chair is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as chair."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "chair",
+        "pos": "noun"
+      },
+      {
+        "word": "chairs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "chairing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "chair is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2073,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lamp",
+    "pos": "noun",
+    "phonetic": "/lamp/",
+    "definition": "a device that produces light.",
+    "definition_zh": "燈；檯燈",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lamp",
+          "origin": "Modern English",
+          "meaning": "core sound of lamp",
+          "meaning_zh": "lamp 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"lamp\" as a quick hook for remembering lamp.",
+      "story_en": "Picture a normal day where you need to say lamp naturally.",
+      "story_zh": "想像日常生活中會自然用到 lamp 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use lamp in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 lamp。",
+    "collocations": [
+      "turn on the lamp",
+      "desk lamp",
+      "bedside lamp",
+      "lamp shade",
+      "reading lamp"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; lamp is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as lamp."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "lamp",
+        "pos": "noun"
+      },
+      {
+        "word": "lamps",
+        "pos": "noun plural"
+      },
+      {
+        "word": "lamping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lamp is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2074,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "remote",
+    "pos": "noun",
+    "phonetic": "/remote/",
+    "definition": "a handheld device for controlling electronics from a distance.",
+    "definition_zh": "遙控器",
+    "etymology": {
+      "roots": [
+        {
+          "root": "remo",
+          "origin": "Modern English",
+          "meaning": "core sound of remote",
+          "meaning_zh": "remote 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"remo\" as a quick hook for remembering remote.",
+      "story_en": "Picture a normal day where you need to say remote naturally.",
+      "story_zh": "想像日常生活中會自然用到 remote 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use remote in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 remote。",
+    "collocations": [
+      "TV remote",
+      "find the remote",
+      "remote control",
+      "press the remote",
+      "lost remote"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; remote is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as remote."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "remote",
+        "pos": "noun"
+      },
+      {
+        "word": "remotes",
+        "pos": "noun plural"
+      },
+      {
+        "word": "remoteing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "remote is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2075,
+    "frequency_source": "custom",
+    "difficulty": "A2",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "battery",
+    "pos": "noun",
+    "phonetic": "/battery/",
+    "definition": "a device that stores energy and supplies electricity.",
+    "definition_zh": "電池",
+    "etymology": {
+      "roots": [
+        {
+          "root": "batt",
+          "origin": "Modern English",
+          "meaning": "core sound of battery",
+          "meaning_zh": "battery 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"batt\" as a quick hook for remembering battery.",
+      "story_en": "Picture a normal day where you need to say battery naturally.",
+      "story_zh": "想像日常生活中會自然用到 battery 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use battery in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 battery。",
+    "collocations": [
+      "replace the battery",
+      "dead battery",
+      "phone battery",
+      "battery life",
+      "charge the battery"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; battery is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as battery."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "battery",
+        "pos": "noun"
+      },
+      {
+        "word": "batterys",
+        "pos": "noun plural"
+      },
+      {
+        "word": "batterying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "battery is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2076,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "outlet",
+    "pos": "noun",
+    "phonetic": "/outlet/",
+    "definition": "a place in a wall where electrical devices are plugged in.",
+    "definition_zh": "插座",
+    "etymology": {
+      "roots": [
+        {
+          "root": "outl",
+          "origin": "Modern English",
+          "meaning": "core sound of outlet",
+          "meaning_zh": "outlet 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"outl\" as a quick hook for remembering outlet.",
+      "story_en": "Picture a normal day where you need to say outlet naturally.",
+      "story_zh": "想像日常生活中會自然用到 outlet 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use outlet in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 outlet。",
+    "collocations": [
+      "plug into an outlet",
+      "wall outlet",
+      "power outlet",
+      "outlet adapter",
+      "near the outlet"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; outlet is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as outlet."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "outlet",
+        "pos": "noun"
+      },
+      {
+        "word": "outlets",
+        "pos": "noun plural"
+      },
+      {
+        "word": "outleting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "outlet is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2077,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "extension",
+    "pos": "noun",
+    "phonetic": "/extension/",
+    "definition": "an added length or part, often used for cords or services.",
+    "definition_zh": "延長；延伸物",
+    "etymology": {
+      "roots": [
+        {
+          "root": "exte",
+          "origin": "Modern English",
+          "meaning": "core sound of extension",
+          "meaning_zh": "extension 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"exte\" as a quick hook for remembering extension.",
+      "story_en": "Picture a normal day where you need to say extension naturally.",
+      "story_zh": "想像日常生活中會自然用到 extension 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use extension in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 extension。",
+    "collocations": [
+      "extension cord",
+      "file extension",
+      "phone extension",
+      "extension cable",
+      "ask for an extension"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; extension is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as extension."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "extension",
+        "pos": "noun"
+      },
+      {
+        "word": "extensions",
+        "pos": "noun plural"
+      },
+      {
+        "word": "extensioning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "extension is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2078,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "adapter",
+    "pos": "noun",
+    "phonetic": "/adapter/",
+    "definition": "a device that lets one plug or connector fit another.",
+    "definition_zh": "轉接器；變壓器",
+    "etymology": {
+      "roots": [
+        {
+          "root": "adap",
+          "origin": "Modern English",
+          "meaning": "core sound of adapter",
+          "meaning_zh": "adapter 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"adap\" as a quick hook for remembering adapter.",
+      "story_en": "Picture a normal day where you need to say adapter naturally.",
+      "story_zh": "想像日常生活中會自然用到 adapter 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use adapter in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 adapter。",
+    "collocations": [
+      "power adapter",
+      "travel adapter",
+      "USB adapter",
+      "adapter plug",
+      "carry an adapter"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; adapter is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as adapter."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "adapter",
+        "pos": "noun"
+      },
+      {
+        "word": "adapters",
+        "pos": "noun plural"
+      },
+      {
+        "word": "adaptering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "adapter is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2079,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "cable",
+    "pos": "noun",
+    "phonetic": "/cable/",
+    "definition": "a thick wire used to connect devices or carry signals.",
+    "definition_zh": "線纜；纜線",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cabl",
+          "origin": "Modern English",
+          "meaning": "core sound of cable",
+          "meaning_zh": "cable 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"cabl\" as a quick hook for remembering cable.",
+      "story_en": "Picture a normal day where you need to say cable naturally.",
+      "story_zh": "想像日常生活中會自然用到 cable 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use cable in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 cable。",
+    "collocations": [
+      "charging cable",
+      "USB cable",
+      "cable box",
+      "connect a cable",
+      "loose cable"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; cable is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as cable."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "cable",
+        "pos": "noun"
+      },
+      {
+        "word": "cables",
+        "pos": "noun plural"
+      },
+      {
+        "word": "cableing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "cable is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2080,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "screen",
+    "pos": "noun",
+    "phonetic": "/screen/",
+    "definition": "the flat surface on a device where images appear.",
+    "definition_zh": "螢幕；畫面",
+    "etymology": {
+      "roots": [
+        {
+          "root": "scre",
+          "origin": "Modern English",
+          "meaning": "core sound of screen",
+          "meaning_zh": "screen 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"scre\" as a quick hook for remembering screen.",
+      "story_en": "Picture a normal day where you need to say screen naturally.",
+      "story_zh": "想像日常生活中會自然用到 screen 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use screen in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 screen。",
+    "collocations": [
+      "phone screen",
+      "computer screen",
+      "screen brightness",
+      "touch the screen",
+      "cracked screen"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; screen is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as screen."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "screen",
+        "pos": "noun"
+      },
+      {
+        "word": "screens",
+        "pos": "noun plural"
+      },
+      {
+        "word": "screening",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "screen is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2081,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "keyboard",
+    "pos": "noun",
+    "phonetic": "/keyboard/",
+    "definition": "a set of keys used for typing on a computer or device.",
+    "definition_zh": "鍵盤",
+    "etymology": {
+      "roots": [
+        {
+          "root": "keyb",
+          "origin": "Modern English",
+          "meaning": "core sound of keyboard",
+          "meaning_zh": "keyboard 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"keyb\" as a quick hook for remembering keyboard.",
+      "story_en": "Picture a normal day where you need to say keyboard naturally.",
+      "story_zh": "想像日常生活中會自然用到 keyboard 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use keyboard in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 keyboard。",
+    "collocations": [
+      "computer keyboard",
+      "keyboard shortcut",
+      "wireless keyboard",
+      "type on a keyboard",
+      "keyboard layout"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; keyboard is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as keyboard."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "keyboard",
+        "pos": "noun"
+      },
+      {
+        "word": "keyboards",
+        "pos": "noun plural"
+      },
+      {
+        "word": "keyboarding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "keyboard is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2082,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "mouse",
+    "pos": "noun",
+    "phonetic": "/mouse/",
+    "definition": "a small device used to move a cursor on a screen.",
+    "definition_zh": "滑鼠",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mous",
+          "origin": "Modern English",
+          "meaning": "core sound of mouse",
+          "meaning_zh": "mouse 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"mous\" as a quick hook for remembering mouse.",
+      "story_en": "Picture a normal day where you need to say mouse naturally.",
+      "story_zh": "想像日常生活中會自然用到 mouse 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use mouse in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 mouse。",
+    "collocations": [
+      "computer mouse",
+      "wireless mouse",
+      "mouse pad",
+      "click the mouse",
+      "move the mouse"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; mouse is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as mouse."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "mouse",
+        "pos": "noun"
+      },
+      {
+        "word": "mouses",
+        "pos": "noun plural"
+      },
+      {
+        "word": "mouseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "mouse is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2083,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "speaker",
+    "pos": "noun",
+    "phonetic": "/speaker/",
+    "definition": "a device that plays sound.",
+    "definition_zh": "喇叭；揚聲器",
+    "etymology": {
+      "roots": [
+        {
+          "root": "spea",
+          "origin": "Modern English",
+          "meaning": "core sound of speaker",
+          "meaning_zh": "speaker 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"spea\" as a quick hook for remembering speaker.",
+      "story_en": "Picture a normal day where you need to say speaker naturally.",
+      "story_zh": "想像日常生活中會自然用到 speaker 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use speaker in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 speaker。",
+    "collocations": [
+      "Bluetooth speaker",
+      "phone speaker",
+      "speaker volume",
+      "portable speaker",
+      "turn on the speaker"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; speaker is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as speaker."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "speaker",
+        "pos": "noun"
+      },
+      {
+        "word": "speakers",
+        "pos": "noun plural"
+      },
+      {
+        "word": "speakering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "speaker is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2084,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "volume",
+    "pos": "noun",
+    "phonetic": "/volume/",
+    "definition": "the loudness of sound.",
+    "definition_zh": "音量",
+    "etymology": {
+      "roots": [
+        {
+          "root": "volu",
+          "origin": "Modern English",
+          "meaning": "core sound of volume",
+          "meaning_zh": "volume 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"volu\" as a quick hook for remembering volume.",
+      "story_en": "Picture a normal day where you need to say volume naturally.",
+      "story_zh": "想像日常生活中會自然用到 volume 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use volume in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 volume。",
+    "collocations": [
+      "turn up the volume",
+      "lower the volume",
+      "volume button",
+      "high volume",
+      "phone volume"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; volume is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as volume."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "volume",
+        "pos": "noun"
+      },
+      {
+        "word": "volumes",
+        "pos": "noun plural"
+      },
+      {
+        "word": "volumeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "volume is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2085,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "message",
+    "pos": "noun",
+    "phonetic": "/message/",
+    "definition": "a written or spoken piece of information sent to someone.",
+    "definition_zh": "訊息；留言",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mess",
+          "origin": "Modern English",
+          "meaning": "core sound of message",
+          "meaning_zh": "message 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"mess\" as a quick hook for remembering message.",
+      "story_en": "Picture a normal day where you need to say message naturally.",
+      "story_zh": "想像日常生活中會自然用到 message 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use message in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 message。",
+    "collocations": [
+      "send a message",
+      "text message",
+      "voice message",
+      "leave a message",
+      "read a message"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; message is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as message."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "message",
+        "pos": "noun"
+      },
+      {
+        "word": "messages",
+        "pos": "noun plural"
+      },
+      {
+        "word": "messageing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "message is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2086,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "contact",
+    "pos": "noun",
+    "phonetic": "/contact/",
+    "definition": "a person listed in a phone or address book.",
+    "definition_zh": "聯絡人",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cont",
+          "origin": "Modern English",
+          "meaning": "core sound of contact",
+          "meaning_zh": "contact 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"cont\" as a quick hook for remembering contact.",
+      "story_en": "Picture a normal day where you need to say contact naturally.",
+      "story_zh": "想像日常生活中會自然用到 contact 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use contact in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 contact。",
+    "collocations": [
+      "add a contact",
+      "emergency contact",
+      "contact list",
+      "save a contact",
+      "contact number"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; contact is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as contact."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "contact",
+        "pos": "noun"
+      },
+      {
+        "word": "contacts",
+        "pos": "noun plural"
+      },
+      {
+        "word": "contacting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "contact is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2087,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "address",
+    "pos": "noun",
+    "phonetic": "/address/",
+    "definition": "the details of where a person or place is located.",
+    "definition_zh": "地址",
+    "etymology": {
+      "roots": [
+        {
+          "root": "addr",
+          "origin": "Modern English",
+          "meaning": "core sound of address",
+          "meaning_zh": "address 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"addr\" as a quick hook for remembering address.",
+      "story_en": "Picture a normal day where you need to say address naturally.",
+      "story_zh": "想像日常生活中會自然用到 address 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use address in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 address。",
+    "collocations": [
+      "home address",
+      "email address",
+      "shipping address",
+      "write an address",
+      "change address"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; address is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as address."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "address",
+        "pos": "noun"
+      },
+      {
+        "word": "addresss",
+        "pos": "noun plural"
+      },
+      {
+        "word": "addressing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "address is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2088,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "deadline",
+    "pos": "noun",
+    "phonetic": "/deadline/",
+    "definition": "the latest time or date by which something must be done.",
+    "definition_zh": "截止期限",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dead",
+          "origin": "Modern English",
+          "meaning": "core sound of deadline",
+          "meaning_zh": "deadline 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"dead\" as a quick hook for remembering deadline.",
+      "story_en": "Picture a normal day where you need to say deadline naturally.",
+      "story_zh": "想像日常生活中會自然用到 deadline 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use deadline in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 deadline。",
+    "collocations": [
+      "meet a deadline",
+      "miss a deadline",
+      "tight deadline",
+      "project deadline",
+      "deadline reminder"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; deadline is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as deadline."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "deadline",
+        "pos": "noun"
+      },
+      {
+        "word": "deadlines",
+        "pos": "noun plural"
+      },
+      {
+        "word": "deadlineing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "deadline is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2089,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "invoice",
+    "pos": "noun",
+    "phonetic": "/invoice/",
+    "definition": "a document that lists goods or services and the amount to pay.",
+    "definition_zh": "發票；請款單",
+    "etymology": {
+      "roots": [
+        {
+          "root": "invo",
+          "origin": "Modern English",
+          "meaning": "core sound of invoice",
+          "meaning_zh": "invoice 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"invo\" as a quick hook for remembering invoice.",
+      "story_en": "Picture a normal day where you need to say invoice naturally.",
+      "story_zh": "想像日常生活中會自然用到 invoice 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use invoice in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 invoice。",
+    "collocations": [
+      "send an invoice",
+      "pay an invoice",
+      "invoice number",
+      "monthly invoice",
+      "invoice date"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; invoice is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as invoice."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "invoice",
+        "pos": "noun"
+      },
+      {
+        "word": "invoices",
+        "pos": "noun plural"
+      },
+      {
+        "word": "invoiceing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "invoice is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2090,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "payment",
+    "pos": "noun",
+    "phonetic": "/payment/",
+    "definition": "money given for goods, services, or a debt.",
+    "definition_zh": "付款；支付",
+    "etymology": {
+      "roots": [
+        {
+          "root": "paym",
+          "origin": "Modern English",
+          "meaning": "core sound of payment",
+          "meaning_zh": "payment 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"paym\" as a quick hook for remembering payment.",
+      "story_en": "Picture a normal day where you need to say payment naturally.",
+      "story_zh": "想像日常生活中會自然用到 payment 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use payment in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 payment。",
+    "collocations": [
+      "make a payment",
+      "online payment",
+      "monthly payment",
+      "payment method",
+      "confirm payment"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; payment is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as payment."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "payment",
+        "pos": "noun"
+      },
+      {
+        "word": "payments",
+        "pos": "noun plural"
+      },
+      {
+        "word": "paymenting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "payment is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2091,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "cash",
+    "pos": "noun",
+    "phonetic": "/cash/",
+    "definition": "money in the form of coins or bills.",
+    "definition_zh": "現金",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cash",
+          "origin": "Modern English",
+          "meaning": "core sound of cash",
+          "meaning_zh": "cash 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"cash\" as a quick hook for remembering cash.",
+      "story_en": "Picture a normal day where you need to say cash naturally.",
+      "story_zh": "想像日常生活中會自然用到 cash 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use cash in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 cash。",
+    "collocations": [
+      "pay in cash",
+      "carry cash",
+      "cash payment",
+      "withdraw cash",
+      "cash register"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; cash is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as cash."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "cash",
+        "pos": "noun"
+      },
+      {
+        "word": "cashs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "cashing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "cash is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2092,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "coin",
+    "pos": "noun",
+    "phonetic": "/coin/",
+    "definition": "a small round piece of metal money.",
+    "definition_zh": "硬幣",
+    "etymology": {
+      "roots": [
+        {
+          "root": "coin",
+          "origin": "Modern English",
+          "meaning": "core sound of coin",
+          "meaning_zh": "coin 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"coin\" as a quick hook for remembering coin.",
+      "story_en": "Picture a normal day where you need to say coin naturally.",
+      "story_zh": "想像日常生活中會自然用到 coin 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use coin in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 coin。",
+    "collocations": [
+      "drop a coin",
+      "coin purse",
+      "spare coin",
+      "coin machine",
+      "use a coin"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; coin is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as coin."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "coin",
+        "pos": "noun"
+      },
+      {
+        "word": "coins",
+        "pos": "noun plural"
+      },
+      {
+        "word": "coining",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "coin is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2093,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "bill",
+    "pos": "noun",
+    "phonetic": "/bill/",
+    "definition": "a request for payment or a piece of paper money.",
+    "definition_zh": "帳單；鈔票",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bill",
+          "origin": "Modern English",
+          "meaning": "core sound of bill",
+          "meaning_zh": "bill 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"bill\" as a quick hook for remembering bill.",
+      "story_en": "Picture a normal day where you need to say bill naturally.",
+      "story_zh": "想像日常生活中會自然用到 bill 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use bill in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 bill。",
+    "collocations": [
+      "pay the bill",
+      "electric bill",
+      "phone bill",
+      "split the bill",
+      "monthly bill"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; bill is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as bill."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "bill",
+        "pos": "noun"
+      },
+      {
+        "word": "bills",
+        "pos": "noun plural"
+      },
+      {
+        "word": "billing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "bill is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2094,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "bank",
+    "pos": "noun",
+    "phonetic": "/bank/",
+    "definition": "a business that keeps and lends money.",
+    "definition_zh": "銀行",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bank",
+          "origin": "Modern English",
+          "meaning": "core sound of bank",
+          "meaning_zh": "bank 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"bank\" as a quick hook for remembering bank.",
+      "story_en": "Picture a normal day where you need to say bank naturally.",
+      "story_zh": "想像日常生活中會自然用到 bank 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use bank in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 bank。",
+    "collocations": [
+      "go to the bank",
+      "bank account",
+      "bank card",
+      "local bank",
+      "bank branch"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; bank is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as bank."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "bank",
+        "pos": "noun"
+      },
+      {
+        "word": "banks",
+        "pos": "noun plural"
+      },
+      {
+        "word": "banking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "bank is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2095,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "account",
+    "pos": "noun",
+    "phonetic": "/account/",
+    "definition": "a record or service used to manage money, access, or information.",
+    "definition_zh": "帳戶；帳號",
+    "etymology": {
+      "roots": [
+        {
+          "root": "acco",
+          "origin": "Modern English",
+          "meaning": "core sound of account",
+          "meaning_zh": "account 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"acco\" as a quick hook for remembering account.",
+      "story_en": "Picture a normal day where you need to say account naturally.",
+      "story_zh": "想像日常生活中會自然用到 account 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use account in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 account。",
+    "collocations": [
+      "bank account",
+      "user account",
+      "open an account",
+      "account number",
+      "account settings"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; account is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as account."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "account",
+        "pos": "noun"
+      },
+      {
+        "word": "accounts",
+        "pos": "noun plural"
+      },
+      {
+        "word": "accounting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "account is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2096,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "deposit",
+    "pos": "noun",
+    "phonetic": "/deposit/",
+    "definition": "money placed into a bank account or paid in advance.",
+    "definition_zh": "存款；押金",
+    "etymology": {
+      "roots": [
+        {
+          "root": "depo",
+          "origin": "Modern English",
+          "meaning": "core sound of deposit",
+          "meaning_zh": "deposit 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"depo\" as a quick hook for remembering deposit.",
+      "story_en": "Picture a normal day where you need to say deposit naturally.",
+      "story_zh": "想像日常生活中會自然用到 deposit 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use deposit in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 deposit。",
+    "collocations": [
+      "make a deposit",
+      "security deposit",
+      "deposit money",
+      "bank deposit",
+      "pay a deposit"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; deposit is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as deposit."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "deposit",
+        "pos": "noun"
+      },
+      {
+        "word": "deposits",
+        "pos": "noun plural"
+      },
+      {
+        "word": "depositing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "deposit is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2097,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "withdraw",
+    "pos": "verb",
+    "phonetic": "/withdraw/",
+    "definition": "to take money out of an account.",
+    "definition_zh": "提款；取出",
+    "etymology": {
+      "roots": [
+        {
+          "root": "with",
+          "origin": "Modern English",
+          "meaning": "core sound of withdraw",
+          "meaning_zh": "withdraw 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"with\" as a quick hook for remembering withdraw.",
+      "story_en": "Picture a normal day where you need to say withdraw naturally.",
+      "story_zh": "想像日常生活中會自然用到 withdraw 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use withdraw in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 withdraw。",
+    "collocations": [
+      "withdraw cash",
+      "withdraw money",
+      "withdraw from an ATM",
+      "withdraw funds",
+      "withdraw carefully"
+    ],
+    "synonyms": [
+      "do",
+      "perform",
+      "handle"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; withdraw is more specific in daily use."
+      },
+      {
+        "word": "perform",
+        "difference": "perform is related, but it may not fit the same collocations as withdraw."
+      }
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "leave"
+    ],
+    "word_family": [
+      {
+        "word": "withdraw",
+        "pos": "verb"
+      },
+      {
+        "word": "withdrawed",
+        "pos": "verb past"
+      },
+      {
+        "word": "withdrawing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "withdraw is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2098,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "prescription",
+    "pos": "noun",
+    "phonetic": "/prescription/",
+    "definition": "medicine or instructions ordered by a doctor.",
+    "definition_zh": "處方；處方箋",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pres",
+          "origin": "Modern English",
+          "meaning": "core sound of prescription",
+          "meaning_zh": "prescription 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"pres\" as a quick hook for remembering prescription.",
+      "story_en": "Picture a normal day where you need to say prescription naturally.",
+      "story_zh": "想像日常生活中會自然用到 prescription 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use prescription in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 prescription。",
+    "collocations": [
+      "fill a prescription",
+      "doctor prescription",
+      "prescription medicine",
+      "prescription label",
+      "renew a prescription"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; prescription is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as prescription."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "prescription",
+        "pos": "noun"
+      },
+      {
+        "word": "prescriptions",
+        "pos": "noun plural"
+      },
+      {
+        "word": "prescriptioning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "prescription is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2099,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "pharmacy",
+    "pos": "noun",
+    "phonetic": "/pharmacy/",
+    "definition": "a store or place where medicines are prepared and sold.",
+    "definition_zh": "藥局；藥房",
+    "etymology": {
+      "roots": [
+        {
+          "root": "phar",
+          "origin": "Modern English",
+          "meaning": "core sound of pharmacy",
+          "meaning_zh": "pharmacy 的核心字形"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Use the first letters \"phar\" as a quick hook for remembering pharmacy.",
+      "story_en": "Picture a normal day where you need to say pharmacy naturally.",
+      "story_zh": "想像日常生活中會自然用到 pharmacy 的場景。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "Please remember to use pharmacy in a simple daily conversation.",
+    "example_zh": "請記得在簡單的日常對話中使用 pharmacy。",
+    "collocations": [
+      "go to the pharmacy",
+      "local pharmacy",
+      "pharmacy counter",
+      "pharmacy hours",
+      "pharmacy staff"
+    ],
+    "synonyms": [
+      "item",
+      "thing",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "item",
+        "difference": "item is broader; pharmacy is more specific in daily use."
+      },
+      {
+        "word": "thing",
+        "difference": "thing is related, but it may not fit the same collocations as pharmacy."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "shortage",
+      "lack"
+    ],
+    "word_family": [
+      {
+        "word": "pharmacy",
+        "pos": "noun"
+      },
+      {
+        "word": "pharmacys",
+        "pos": "noun plural"
+      },
+      {
+        "word": "pharmacying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "pharmacy is a practical everyday word; learn it with common phrases and situations.",
+    "frequency_rank": 2100,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  }
+]

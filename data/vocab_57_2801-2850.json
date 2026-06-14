@@ -1,0 +1,3952 @@
+[
+  {
+    "word": "dull",
+    "pos": "adjective",
+    "phonetic": "/dull/",
+    "definition": "Describing something as dull; a common word for everyday people, things, or situations.",
+    "definition_zh": "dull；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dull",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of dull",
+          "meaning_zh": "由 dull 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"dull\" with a daily scene involving dull.",
+      "story_en": "Imagine using dull naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 dull。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word dull in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 dull 這個字。",
+    "collocations": [
+      "dull person",
+      "dull day",
+      "dull place",
+      "dull feeling",
+      "dull situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; dull is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as dull."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "dull",
+        "pos": "adjective"
+      },
+      {
+        "word": "dulled",
+        "pos": "related form"
+      },
+      {
+        "word": "dulling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "dull is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2801,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "tight",
+    "pos": "adjective",
+    "phonetic": "/tight/",
+    "definition": "Describing something as tight; a common word for everyday people, things, or situations.",
+    "definition_zh": "tight；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tigh",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of tight",
+          "meaning_zh": "由 tight 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"tigh\" with a daily scene involving tight.",
+      "story_en": "Imagine using tight naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 tight。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word tight in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 tight 這個字。",
+    "collocations": [
+      "tight person",
+      "tight day",
+      "tight place",
+      "tight feeling",
+      "tight situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; tight is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as tight."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "tight",
+        "pos": "adjective"
+      },
+      {
+        "word": "tighted",
+        "pos": "related form"
+      },
+      {
+        "word": "tighting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "tight is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2802,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "loose",
+    "pos": "adjective",
+    "phonetic": "/loose/",
+    "definition": "Describing something as loose; a common word for everyday people, things, or situations.",
+    "definition_zh": "loose；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "loos",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of loose",
+          "meaning_zh": "由 loose 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"loos\" with a daily scene involving loose.",
+      "story_en": "Imagine using loose naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 loose。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word loose in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 loose 這個字。",
+    "collocations": [
+      "loose person",
+      "loose day",
+      "loose place",
+      "loose feeling",
+      "loose situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; loose is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as loose."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "loose",
+        "pos": "adjective"
+      },
+      {
+        "word": "looseed",
+        "pos": "related form"
+      },
+      {
+        "word": "looseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "loose is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2803,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "wide",
+    "pos": "adjective",
+    "phonetic": "/wide/",
+    "definition": "Describing something as wide; a common word for everyday people, things, or situations.",
+    "definition_zh": "wide；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "wide",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of wide",
+          "meaning_zh": "由 wide 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"wide\" with a daily scene involving wide.",
+      "story_en": "Imagine using wide naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 wide。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word wide in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 wide 這個字。",
+    "collocations": [
+      "wide person",
+      "wide day",
+      "wide place",
+      "wide feeling",
+      "wide situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; wide is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as wide."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "wide",
+        "pos": "adjective"
+      },
+      {
+        "word": "wideed",
+        "pos": "related form"
+      },
+      {
+        "word": "wideing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "wide is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2804,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "narrow",
+    "pos": "adjective",
+    "phonetic": "/narrow/",
+    "definition": "Describing something as narrow; a common word for everyday people, things, or situations.",
+    "definition_zh": "narrow；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "narr",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of narrow",
+          "meaning_zh": "由 narrow 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"narr\" with a daily scene involving narrow.",
+      "story_en": "Imagine using narrow naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 narrow。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word narrow in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 narrow 這個字。",
+    "collocations": [
+      "narrow person",
+      "narrow day",
+      "narrow place",
+      "narrow feeling",
+      "narrow situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; narrow is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as narrow."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "narrow",
+        "pos": "adjective"
+      },
+      {
+        "word": "narrowed",
+        "pos": "related form"
+      },
+      {
+        "word": "narrowing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "narrow is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2805,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "deep",
+    "pos": "adjective",
+    "phonetic": "/deep/",
+    "definition": "Describing something as deep; a common word for everyday people, things, or situations.",
+    "definition_zh": "deep；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "deep",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of deep",
+          "meaning_zh": "由 deep 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"deep\" with a daily scene involving deep.",
+      "story_en": "Imagine using deep naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 deep。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word deep in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 deep 這個字。",
+    "collocations": [
+      "deep person",
+      "deep day",
+      "deep place",
+      "deep feeling",
+      "deep situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; deep is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as deep."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "deep",
+        "pos": "adjective"
+      },
+      {
+        "word": "deeped",
+        "pos": "related form"
+      },
+      {
+        "word": "deeping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "deep is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2806,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "shallow",
+    "pos": "adjective",
+    "phonetic": "/shallow/",
+    "definition": "Describing something as shallow; a common word for everyday people, things, or situations.",
+    "definition_zh": "shallow；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "shal",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of shallow",
+          "meaning_zh": "由 shallow 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"shal\" with a daily scene involving shallow.",
+      "story_en": "Imagine using shallow naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 shallow。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word shallow in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 shallow 這個字。",
+    "collocations": [
+      "shallow person",
+      "shallow day",
+      "shallow place",
+      "shallow feeling",
+      "shallow situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; shallow is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as shallow."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "shallow",
+        "pos": "adjective"
+      },
+      {
+        "word": "shallowed",
+        "pos": "related form"
+      },
+      {
+        "word": "shallowing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "shallow is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2807,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "high",
+    "pos": "adjective",
+    "phonetic": "/high/",
+    "definition": "Describing something as high; a common word for everyday people, things, or situations.",
+    "definition_zh": "high；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "high",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of high",
+          "meaning_zh": "由 high 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"high\" with a daily scene involving high.",
+      "story_en": "Imagine using high naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 high。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word high in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 high 這個字。",
+    "collocations": [
+      "high person",
+      "high day",
+      "high place",
+      "high feeling",
+      "high situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; high is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as high."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "high",
+        "pos": "adjective"
+      },
+      {
+        "word": "highed",
+        "pos": "related form"
+      },
+      {
+        "word": "highing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "high is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2808,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "low",
+    "pos": "adjective",
+    "phonetic": "/low/",
+    "definition": "Describing something as low; a common word for everyday people, things, or situations.",
+    "definition_zh": "low；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "low",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of low",
+          "meaning_zh": "由 low 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"low\" with a daily scene involving low.",
+      "story_en": "Imagine using low naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 low。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word low in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 low 這個字。",
+    "collocations": [
+      "low person",
+      "low day",
+      "low place",
+      "low feeling",
+      "low situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; low is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as low."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "low",
+        "pos": "adjective"
+      },
+      {
+        "word": "lowed",
+        "pos": "related form"
+      },
+      {
+        "word": "lowing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "low is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2809,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "near",
+    "pos": "adjective",
+    "phonetic": "/near/",
+    "definition": "Describing something as near; a common word for everyday people, things, or situations.",
+    "definition_zh": "near；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "near",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of near",
+          "meaning_zh": "由 near 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"near\" with a daily scene involving near.",
+      "story_en": "Imagine using near naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 near。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word near in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 near 這個字。",
+    "collocations": [
+      "near person",
+      "near day",
+      "near place",
+      "near feeling",
+      "near situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; near is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as near."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "near",
+        "pos": "adjective"
+      },
+      {
+        "word": "neared",
+        "pos": "related form"
+      },
+      {
+        "word": "nearing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "near is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2810,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "far",
+    "pos": "adjective",
+    "phonetic": "/far/",
+    "definition": "Describing something as far; a common word for everyday people, things, or situations.",
+    "definition_zh": "far；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "far",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of far",
+          "meaning_zh": "由 far 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"far\" with a daily scene involving far.",
+      "story_en": "Imagine using far naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 far。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word far in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 far 這個字。",
+    "collocations": [
+      "far person",
+      "far day",
+      "far place",
+      "far feeling",
+      "far situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; far is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as far."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "far",
+        "pos": "adjective"
+      },
+      {
+        "word": "fared",
+        "pos": "related form"
+      },
+      {
+        "word": "faring",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "far is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2811,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "left",
+    "pos": "adjective",
+    "phonetic": "/left/",
+    "definition": "Describing something as left; a common word for everyday people, things, or situations.",
+    "definition_zh": "left；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "left",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of left",
+          "meaning_zh": "由 left 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"left\" with a daily scene involving left.",
+      "story_en": "Imagine using left naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 left。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word left in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 left 這個字。",
+    "collocations": [
+      "left person",
+      "left day",
+      "left place",
+      "left feeling",
+      "left situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; left is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as left."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "left",
+        "pos": "adjective"
+      },
+      {
+        "word": "lefted",
+        "pos": "related form"
+      },
+      {
+        "word": "lefting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "left is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2812,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "right",
+    "pos": "adjective",
+    "phonetic": "/right/",
+    "definition": "Describing something as right; a common word for everyday people, things, or situations.",
+    "definition_zh": "right；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "righ",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of right",
+          "meaning_zh": "由 right 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"righ\" with a daily scene involving right.",
+      "story_en": "Imagine using right naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 right。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word right in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 right 這個字。",
+    "collocations": [
+      "right person",
+      "right day",
+      "right place",
+      "right feeling",
+      "right situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; right is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as right."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "right",
+        "pos": "adjective"
+      },
+      {
+        "word": "righted",
+        "pos": "related form"
+      },
+      {
+        "word": "righting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "right is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2813,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "straight",
+    "pos": "adjective",
+    "phonetic": "/straight/",
+    "definition": "Describing something as straight; a common word for everyday people, things, or situations.",
+    "definition_zh": "straight；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stra",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of straight",
+          "meaning_zh": "由 straight 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"stra\" with a daily scene involving straight.",
+      "story_en": "Imagine using straight naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 straight。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word straight in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 straight 這個字。",
+    "collocations": [
+      "straight person",
+      "straight day",
+      "straight place",
+      "straight feeling",
+      "straight situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; straight is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as straight."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "straight",
+        "pos": "adjective"
+      },
+      {
+        "word": "straighted",
+        "pos": "related form"
+      },
+      {
+        "word": "straighting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "straight is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2814,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "curved",
+    "pos": "adjective",
+    "phonetic": "/curved/",
+    "definition": "Describing something as curved; a common word for everyday people, things, or situations.",
+    "definition_zh": "curved；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "curv",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of curved",
+          "meaning_zh": "由 curved 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"curv\" with a daily scene involving curved.",
+      "story_en": "Imagine using curved naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 curved。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word curved in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 curved 這個字。",
+    "collocations": [
+      "curved person",
+      "curved day",
+      "curved place",
+      "curved feeling",
+      "curved situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; curved is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as curved."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "curved",
+        "pos": "adjective"
+      },
+      {
+        "word": "curveded",
+        "pos": "related form"
+      },
+      {
+        "word": "curveding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "curved is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2815,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "round",
+    "pos": "adjective",
+    "phonetic": "/round/",
+    "definition": "Describing something as round; a common word for everyday people, things, or situations.",
+    "definition_zh": "round；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "roun",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of round",
+          "meaning_zh": "由 round 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"roun\" with a daily scene involving round.",
+      "story_en": "Imagine using round naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 round。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word round in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 round 這個字。",
+    "collocations": [
+      "round person",
+      "round day",
+      "round place",
+      "round feeling",
+      "round situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; round is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as round."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "round",
+        "pos": "adjective"
+      },
+      {
+        "word": "rounded",
+        "pos": "related form"
+      },
+      {
+        "word": "rounding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "round is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2816,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "square",
+    "pos": "adjective",
+    "phonetic": "/square/",
+    "definition": "Describing something as square; a common word for everyday people, things, or situations.",
+    "definition_zh": "square；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "squa",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of square",
+          "meaning_zh": "由 square 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"squa\" with a daily scene involving square.",
+      "story_en": "Imagine using square naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 square。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word square in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 square 這個字。",
+    "collocations": [
+      "square person",
+      "square day",
+      "square place",
+      "square feeling",
+      "square situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; square is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as square."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "square",
+        "pos": "adjective"
+      },
+      {
+        "word": "squareed",
+        "pos": "related form"
+      },
+      {
+        "word": "squareing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "square is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2817,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "flat",
+    "pos": "adjective",
+    "phonetic": "/flat/",
+    "definition": "Describing something as flat; a common word for everyday people, things, or situations.",
+    "definition_zh": "flat；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "flat",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of flat",
+          "meaning_zh": "由 flat 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"flat\" with a daily scene involving flat.",
+      "story_en": "Imagine using flat naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 flat。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word flat in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 flat 這個字。",
+    "collocations": [
+      "flat person",
+      "flat day",
+      "flat place",
+      "flat feeling",
+      "flat situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; flat is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as flat."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "flat",
+        "pos": "adjective"
+      },
+      {
+        "word": "flated",
+        "pos": "related form"
+      },
+      {
+        "word": "flating",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "flat is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2818,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "thick",
+    "pos": "adjective",
+    "phonetic": "/thick/",
+    "definition": "Describing something as thick; a common word for everyday people, things, or situations.",
+    "definition_zh": "thick；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "thic",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of thick",
+          "meaning_zh": "由 thick 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"thic\" with a daily scene involving thick.",
+      "story_en": "Imagine using thick naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 thick。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word thick in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 thick 這個字。",
+    "collocations": [
+      "thick person",
+      "thick day",
+      "thick place",
+      "thick feeling",
+      "thick situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; thick is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as thick."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "thick",
+        "pos": "adjective"
+      },
+      {
+        "word": "thicked",
+        "pos": "related form"
+      },
+      {
+        "word": "thicking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "thick is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2819,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "thin",
+    "pos": "adjective",
+    "phonetic": "/thin/",
+    "definition": "Describing something as thin; a common word for everyday people, things, or situations.",
+    "definition_zh": "thin；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "thin",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of thin",
+          "meaning_zh": "由 thin 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"thin\" with a daily scene involving thin.",
+      "story_en": "Imagine using thin naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 thin。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word thin in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 thin 這個字。",
+    "collocations": [
+      "thin person",
+      "thin day",
+      "thin place",
+      "thin feeling",
+      "thin situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; thin is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as thin."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "thin",
+        "pos": "adjective"
+      },
+      {
+        "word": "thined",
+        "pos": "related form"
+      },
+      {
+        "word": "thining",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "thin is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2820,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "long",
+    "pos": "adjective",
+    "phonetic": "/long/",
+    "definition": "Describing something as long; a common word for everyday people, things, or situations.",
+    "definition_zh": "long；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "long",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of long",
+          "meaning_zh": "由 long 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"long\" with a daily scene involving long.",
+      "story_en": "Imagine using long naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 long。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word long in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 long 這個字。",
+    "collocations": [
+      "long person",
+      "long day",
+      "long place",
+      "long feeling",
+      "long situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; long is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as long."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "long",
+        "pos": "adjective"
+      },
+      {
+        "word": "longed",
+        "pos": "related form"
+      },
+      {
+        "word": "longing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "long is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2821,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "short",
+    "pos": "adjective",
+    "phonetic": "/short/",
+    "definition": "Describing something as short; a common word for everyday people, things, or situations.",
+    "definition_zh": "short；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "shor",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of short",
+          "meaning_zh": "由 short 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"shor\" with a daily scene involving short.",
+      "story_en": "Imagine using short naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 short。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word short in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 short 這個字。",
+    "collocations": [
+      "short person",
+      "short day",
+      "short place",
+      "short feeling",
+      "short situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; short is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as short."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "short",
+        "pos": "adjective"
+      },
+      {
+        "word": "shorted",
+        "pos": "related form"
+      },
+      {
+        "word": "shorting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "short is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2822,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "tall",
+    "pos": "adjective",
+    "phonetic": "/tall/",
+    "definition": "Describing something as tall; a common word for everyday people, things, or situations.",
+    "definition_zh": "tall；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tall",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of tall",
+          "meaning_zh": "由 tall 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"tall\" with a daily scene involving tall.",
+      "story_en": "Imagine using tall naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 tall。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word tall in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 tall 這個字。",
+    "collocations": [
+      "tall person",
+      "tall day",
+      "tall place",
+      "tall feeling",
+      "tall situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; tall is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as tall."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "tall",
+        "pos": "adjective"
+      },
+      {
+        "word": "talled",
+        "pos": "related form"
+      },
+      {
+        "word": "talling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "tall is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2823,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "small",
+    "pos": "adjective",
+    "phonetic": "/small/",
+    "definition": "Describing something as small; a common word for everyday people, things, or situations.",
+    "definition_zh": "small；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "smal",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of small",
+          "meaning_zh": "由 small 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"smal\" with a daily scene involving small.",
+      "story_en": "Imagine using small naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 small。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word small in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 small 這個字。",
+    "collocations": [
+      "small person",
+      "small day",
+      "small place",
+      "small feeling",
+      "small situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; small is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as small."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "small",
+        "pos": "adjective"
+      },
+      {
+        "word": "smalled",
+        "pos": "related form"
+      },
+      {
+        "word": "smalling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "small is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2824,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "large",
+    "pos": "adjective",
+    "phonetic": "/large/",
+    "definition": "Describing something as large; a common word for everyday people, things, or situations.",
+    "definition_zh": "large；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "larg",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of large",
+          "meaning_zh": "由 large 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"larg\" with a daily scene involving large.",
+      "story_en": "Imagine using large naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 large。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word large in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 large 這個字。",
+    "collocations": [
+      "large person",
+      "large day",
+      "large place",
+      "large feeling",
+      "large situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; large is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as large."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "large",
+        "pos": "adjective"
+      },
+      {
+        "word": "largeed",
+        "pos": "related form"
+      },
+      {
+        "word": "largeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "large is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2825,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "big",
+    "pos": "adjective",
+    "phonetic": "/big/",
+    "definition": "Describing something as big; a common word for everyday people, things, or situations.",
+    "definition_zh": "big；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "big",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of big",
+          "meaning_zh": "由 big 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"big\" with a daily scene involving big.",
+      "story_en": "Imagine using big naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 big。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word big in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 big 這個字。",
+    "collocations": [
+      "big person",
+      "big day",
+      "big place",
+      "big feeling",
+      "big situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; big is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as big."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "big",
+        "pos": "adjective"
+      },
+      {
+        "word": "biged",
+        "pos": "related form"
+      },
+      {
+        "word": "biging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "big is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2826,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "tiny",
+    "pos": "adjective",
+    "phonetic": "/tiny/",
+    "definition": "Describing something as tiny; a common word for everyday people, things, or situations.",
+    "definition_zh": "tiny；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tiny",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of tiny",
+          "meaning_zh": "由 tiny 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"tiny\" with a daily scene involving tiny.",
+      "story_en": "Imagine using tiny naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 tiny。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word tiny in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 tiny 這個字。",
+    "collocations": [
+      "tiny person",
+      "tiny day",
+      "tiny place",
+      "tiny feeling",
+      "tiny situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; tiny is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as tiny."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "tiny",
+        "pos": "adjective"
+      },
+      {
+        "word": "tinyed",
+        "pos": "related form"
+      },
+      {
+        "word": "tinying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "tiny is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2827,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "huge",
+    "pos": "adjective",
+    "phonetic": "/huge/",
+    "definition": "Describing something as huge; a common word for everyday people, things, or situations.",
+    "definition_zh": "huge；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "huge",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of huge",
+          "meaning_zh": "由 huge 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"huge\" with a daily scene involving huge.",
+      "story_en": "Imagine using huge naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 huge。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word huge in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 huge 這個字。",
+    "collocations": [
+      "huge person",
+      "huge day",
+      "huge place",
+      "huge feeling",
+      "huge situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; huge is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as huge."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "huge",
+        "pos": "adjective"
+      },
+      {
+        "word": "hugeed",
+        "pos": "related form"
+      },
+      {
+        "word": "hugeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "huge is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2828,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "stale",
+    "pos": "adjective",
+    "phonetic": "/stale/",
+    "definition": "Describing something as stale; a common word for everyday people, things, or situations.",
+    "definition_zh": "stale；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "stal",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of stale",
+          "meaning_zh": "由 stale 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"stal\" with a daily scene involving stale.",
+      "story_en": "Imagine using stale naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 stale。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word stale in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 stale 這個字。",
+    "collocations": [
+      "stale person",
+      "stale day",
+      "stale place",
+      "stale feeling",
+      "stale situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; stale is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as stale."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "stale",
+        "pos": "adjective"
+      },
+      {
+        "word": "staleed",
+        "pos": "related form"
+      },
+      {
+        "word": "staleing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "stale is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2829,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "cool",
+    "pos": "adjective",
+    "phonetic": "/cool/",
+    "definition": "Describing something as cool; a common word for everyday people, things, or situations.",
+    "definition_zh": "cool；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cool",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of cool",
+          "meaning_zh": "由 cool 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cool\" with a daily scene involving cool.",
+      "story_en": "Imagine using cool naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 cool。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word cool in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 cool 這個字。",
+    "collocations": [
+      "cool person",
+      "cool day",
+      "cool place",
+      "cool feeling",
+      "cool situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; cool is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as cool."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "cool",
+        "pos": "adjective"
+      },
+      {
+        "word": "cooled",
+        "pos": "related form"
+      },
+      {
+        "word": "cooling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "cool is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2830,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "new",
+    "pos": "adjective",
+    "phonetic": "/new/",
+    "definition": "Describing something as new; a common word for everyday people, things, or situations.",
+    "definition_zh": "new；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "new",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of new",
+          "meaning_zh": "由 new 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"new\" with a daily scene involving new.",
+      "story_en": "Imagine using new naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 new。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word new in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 new 這個字。",
+    "collocations": [
+      "new person",
+      "new day",
+      "new place",
+      "new feeling",
+      "new situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; new is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as new."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "new",
+        "pos": "adjective"
+      },
+      {
+        "word": "newed",
+        "pos": "related form"
+      },
+      {
+        "word": "newing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "new is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2831,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "old",
+    "pos": "adjective",
+    "phonetic": "/old/",
+    "definition": "Describing something as old; a common word for everyday people, things, or situations.",
+    "definition_zh": "old；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "old",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of old",
+          "meaning_zh": "由 old 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"old\" with a daily scene involving old.",
+      "story_en": "Imagine using old naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 old。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word old in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 old 這個字。",
+    "collocations": [
+      "old person",
+      "old day",
+      "old place",
+      "old feeling",
+      "old situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; old is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as old."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "old",
+        "pos": "adjective"
+      },
+      {
+        "word": "olded",
+        "pos": "related form"
+      },
+      {
+        "word": "olding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "old is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2832,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "young",
+    "pos": "adjective",
+    "phonetic": "/young/",
+    "definition": "Describing something as young; a common word for everyday people, things, or situations.",
+    "definition_zh": "young；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "youn",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of young",
+          "meaning_zh": "由 young 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"youn\" with a daily scene involving young.",
+      "story_en": "Imagine using young naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 young。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word young in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 young 這個字。",
+    "collocations": [
+      "young person",
+      "young day",
+      "young place",
+      "young feeling",
+      "young situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; young is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as young."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "young",
+        "pos": "adjective"
+      },
+      {
+        "word": "younged",
+        "pos": "related form"
+      },
+      {
+        "word": "younging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "young is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2833,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "local",
+    "pos": "adjective",
+    "phonetic": "/local/",
+    "definition": "Describing something as local; a common word for everyday people, things, or situations.",
+    "definition_zh": "local；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "loca",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of local",
+          "meaning_zh": "由 local 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"loca\" with a daily scene involving local.",
+      "story_en": "Imagine using local naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 local。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word local in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 local 這個字。",
+    "collocations": [
+      "local person",
+      "local day",
+      "local place",
+      "local feeling",
+      "local situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; local is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as local."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "local",
+        "pos": "adjective"
+      },
+      {
+        "word": "localed",
+        "pos": "related form"
+      },
+      {
+        "word": "localing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "local is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2834,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "foreign",
+    "pos": "adjective",
+    "phonetic": "/foreign/",
+    "definition": "Describing something as foreign; a common word for everyday people, things, or situations.",
+    "definition_zh": "foreign；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fore",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of foreign",
+          "meaning_zh": "由 foreign 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"fore\" with a daily scene involving foreign.",
+      "story_en": "Imagine using foreign naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 foreign。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word foreign in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 foreign 這個字。",
+    "collocations": [
+      "foreign person",
+      "foreign day",
+      "foreign place",
+      "foreign feeling",
+      "foreign situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; foreign is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as foreign."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "foreign",
+        "pos": "adjective"
+      },
+      {
+        "word": "foreigned",
+        "pos": "related form"
+      },
+      {
+        "word": "foreigning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "foreign is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2835,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "public",
+    "pos": "adjective",
+    "phonetic": "/public/",
+    "definition": "Describing something as public; a common word for everyday people, things, or situations.",
+    "definition_zh": "public；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "publ",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of public",
+          "meaning_zh": "由 public 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"publ\" with a daily scene involving public.",
+      "story_en": "Imagine using public naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 public。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word public in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 public 這個字。",
+    "collocations": [
+      "public person",
+      "public day",
+      "public place",
+      "public feeling",
+      "public situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; public is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as public."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "public",
+        "pos": "adjective"
+      },
+      {
+        "word": "publiced",
+        "pos": "related form"
+      },
+      {
+        "word": "publicing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "public is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2836,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "private",
+    "pos": "adjective",
+    "phonetic": "/private/",
+    "definition": "Describing something as private; a common word for everyday people, things, or situations.",
+    "definition_zh": "private；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "priv",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of private",
+          "meaning_zh": "由 private 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"priv\" with a daily scene involving private.",
+      "story_en": "Imagine using private naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 private。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word private in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 private 這個字。",
+    "collocations": [
+      "private person",
+      "private day",
+      "private place",
+      "private feeling",
+      "private situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; private is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as private."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "private",
+        "pos": "adjective"
+      },
+      {
+        "word": "privateed",
+        "pos": "related form"
+      },
+      {
+        "word": "privateing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "private is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2837,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "personal",
+    "pos": "adjective",
+    "phonetic": "/personal/",
+    "definition": "Describing something as personal; a common word for everyday people, things, or situations.",
+    "definition_zh": "personal；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pers",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of personal",
+          "meaning_zh": "由 personal 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pers\" with a daily scene involving personal.",
+      "story_en": "Imagine using personal naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 personal。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word personal in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 personal 這個字。",
+    "collocations": [
+      "personal person",
+      "personal day",
+      "personal place",
+      "personal feeling",
+      "personal situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; personal is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as personal."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "personal",
+        "pos": "adjective"
+      },
+      {
+        "word": "personaled",
+        "pos": "related form"
+      },
+      {
+        "word": "personaling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "personal is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2838,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "social",
+    "pos": "adjective",
+    "phonetic": "/social/",
+    "definition": "Describing something as social; a common word for everyday people, things, or situations.",
+    "definition_zh": "social；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "soci",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of social",
+          "meaning_zh": "由 social 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"soci\" with a daily scene involving social.",
+      "story_en": "Imagine using social naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 social。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word social in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 social 這個字。",
+    "collocations": [
+      "social person",
+      "social day",
+      "social place",
+      "social feeling",
+      "social situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; social is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as social."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "social",
+        "pos": "adjective"
+      },
+      {
+        "word": "socialed",
+        "pos": "related form"
+      },
+      {
+        "word": "socialing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "social is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2839,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "polite",
+    "pos": "adjective",
+    "phonetic": "/polite/",
+    "definition": "Describing something as polite; a common word for everyday people, things, or situations.",
+    "definition_zh": "polite；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "poli",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of polite",
+          "meaning_zh": "由 polite 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"poli\" with a daily scene involving polite.",
+      "story_en": "Imagine using polite naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 polite。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word polite in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 polite 這個字。",
+    "collocations": [
+      "polite person",
+      "polite day",
+      "polite place",
+      "polite feeling",
+      "polite situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; polite is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as polite."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "polite",
+        "pos": "adjective"
+      },
+      {
+        "word": "politeed",
+        "pos": "related form"
+      },
+      {
+        "word": "politeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "polite is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2840,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "rude",
+    "pos": "adjective",
+    "phonetic": "/rude/",
+    "definition": "Describing something as rude; a common word for everyday people, things, or situations.",
+    "definition_zh": "rude；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "rude",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of rude",
+          "meaning_zh": "由 rude 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"rude\" with a daily scene involving rude.",
+      "story_en": "Imagine using rude naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 rude。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word rude in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 rude 這個字。",
+    "collocations": [
+      "rude person",
+      "rude day",
+      "rude place",
+      "rude feeling",
+      "rude situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; rude is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as rude."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "rude",
+        "pos": "adjective"
+      },
+      {
+        "word": "rudeed",
+        "pos": "related form"
+      },
+      {
+        "word": "rudeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "rude is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2841,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "kind",
+    "pos": "adjective",
+    "phonetic": "/kind/",
+    "definition": "Describing something as kind; a common word for everyday people, things, or situations.",
+    "definition_zh": "kind；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "kind",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of kind",
+          "meaning_zh": "由 kind 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"kind\" with a daily scene involving kind.",
+      "story_en": "Imagine using kind naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 kind。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word kind in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 kind 這個字。",
+    "collocations": [
+      "kind person",
+      "kind day",
+      "kind place",
+      "kind feeling",
+      "kind situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; kind is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as kind."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "kind",
+        "pos": "adjective"
+      },
+      {
+        "word": "kinded",
+        "pos": "related form"
+      },
+      {
+        "word": "kinding",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "kind is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2842,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "friendly",
+    "pos": "adjective",
+    "phonetic": "/friendly/",
+    "definition": "Describing something as friendly; a common word for everyday people, things, or situations.",
+    "definition_zh": "friendly；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "frie",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of friendly",
+          "meaning_zh": "由 friendly 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"frie\" with a daily scene involving friendly.",
+      "story_en": "Imagine using friendly naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 friendly。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word friendly in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 friendly 這個字。",
+    "collocations": [
+      "friendly person",
+      "friendly day",
+      "friendly place",
+      "friendly feeling",
+      "friendly situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; friendly is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as friendly."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "friendly",
+        "pos": "adjective"
+      },
+      {
+        "word": "friendlyed",
+        "pos": "related form"
+      },
+      {
+        "word": "friendlying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "friendly is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2843,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "honest",
+    "pos": "adjective",
+    "phonetic": "/honest/",
+    "definition": "Describing something as honest; a common word for everyday people, things, or situations.",
+    "definition_zh": "honest；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "hone",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of honest",
+          "meaning_zh": "由 honest 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"hone\" with a daily scene involving honest.",
+      "story_en": "Imagine using honest naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 honest。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word honest in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 honest 這個字。",
+    "collocations": [
+      "honest person",
+      "honest day",
+      "honest place",
+      "honest feeling",
+      "honest situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; honest is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as honest."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "honest",
+        "pos": "adjective"
+      },
+      {
+        "word": "honested",
+        "pos": "related form"
+      },
+      {
+        "word": "honesting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "honest is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2844,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "careful",
+    "pos": "adjective",
+    "phonetic": "/careful/",
+    "definition": "Describing something as careful; a common word for everyday people, things, or situations.",
+    "definition_zh": "careful；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "care",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of careful",
+          "meaning_zh": "由 careful 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"care\" with a daily scene involving careful.",
+      "story_en": "Imagine using careful naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 careful。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word careful in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 careful 這個字。",
+    "collocations": [
+      "careful person",
+      "careful day",
+      "careful place",
+      "careful feeling",
+      "careful situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; careful is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as careful."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "careful",
+        "pos": "adjective"
+      },
+      {
+        "word": "carefuled",
+        "pos": "related form"
+      },
+      {
+        "word": "carefuling",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "careful is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2845,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "careless",
+    "pos": "adjective",
+    "phonetic": "/careless/",
+    "definition": "Describing something as careless; a common word for everyday people, things, or situations.",
+    "definition_zh": "careless；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "care",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of careless",
+          "meaning_zh": "由 careless 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"care\" with a daily scene involving careless.",
+      "story_en": "Imagine using careless naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 careless。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word careless in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 careless 這個字。",
+    "collocations": [
+      "careless person",
+      "careless day",
+      "careless place",
+      "careless feeling",
+      "careless situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; careless is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as careless."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "careless",
+        "pos": "adjective"
+      },
+      {
+        "word": "carelessed",
+        "pos": "related form"
+      },
+      {
+        "word": "carelessing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "careless is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2846,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "impatient",
+    "pos": "adjective",
+    "phonetic": "/impatient/",
+    "definition": "Describing something as impatient; a common word for everyday people, things, or situations.",
+    "definition_zh": "impatient；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "impa",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of impatient",
+          "meaning_zh": "由 impatient 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"impa\" with a daily scene involving impatient.",
+      "story_en": "Imagine using impatient naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 impatient。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word impatient in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 impatient 這個字。",
+    "collocations": [
+      "impatient person",
+      "impatient day",
+      "impatient place",
+      "impatient feeling",
+      "impatient situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; impatient is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as impatient."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "impatient",
+        "pos": "adjective"
+      },
+      {
+        "word": "impatiented",
+        "pos": "related form"
+      },
+      {
+        "word": "impatienting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "impatient is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2847,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "serious",
+    "pos": "adjective",
+    "phonetic": "/serious/",
+    "definition": "Describing something as serious; a common word for everyday people, things, or situations.",
+    "definition_zh": "serious；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "seri",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of serious",
+          "meaning_zh": "由 serious 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"seri\" with a daily scene involving serious.",
+      "story_en": "Imagine using serious naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 serious。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word serious in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 serious 這個字。",
+    "collocations": [
+      "serious person",
+      "serious day",
+      "serious place",
+      "serious feeling",
+      "serious situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; serious is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as serious."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "serious",
+        "pos": "adjective"
+      },
+      {
+        "word": "serioused",
+        "pos": "related form"
+      },
+      {
+        "word": "seriousing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "serious is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2848,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "funny",
+    "pos": "adjective",
+    "phonetic": "/funny/",
+    "definition": "Describing something as funny; a common word for everyday people, things, or situations.",
+    "definition_zh": "funny；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "funn",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of funny",
+          "meaning_zh": "由 funny 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"funn\" with a daily scene involving funny.",
+      "story_en": "Imagine using funny naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 funny。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word funny in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 funny 這個字。",
+    "collocations": [
+      "funny person",
+      "funny day",
+      "funny place",
+      "funny feeling",
+      "funny situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; funny is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as funny."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "funny",
+        "pos": "adjective"
+      },
+      {
+        "word": "funnyed",
+        "pos": "related form"
+      },
+      {
+        "word": "funnying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "funny is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2849,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "boring",
+    "pos": "adjective",
+    "phonetic": "/boring/",
+    "definition": "Describing something as boring; a common word for everyday people, things, or situations.",
+    "definition_zh": "boring；日常描述用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bori",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of boring",
+          "meaning_zh": "由 boring 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"bori\" with a daily scene involving boring.",
+      "story_en": "Imagine using boring naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 boring。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word boring in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 boring 這個字。",
+    "collocations": [
+      "boring person",
+      "boring day",
+      "boring place",
+      "boring feeling",
+      "boring situation"
+    ],
+    "synonyms": [
+      "ordinary",
+      "typical",
+      "usual"
+    ],
+    "near_synonyms": [
+      {
+        "word": "ordinary",
+        "difference": "ordinary is broader; boring is learned here as a practical daily word."
+      },
+      {
+        "word": "typical",
+        "difference": "typical is related, but it may not match the same everyday phrases as boring."
+      }
+    ],
+    "antonyms": [
+      "opposite",
+      "different",
+      "unlike"
+    ],
+    "word_family": [
+      {
+        "word": "boring",
+        "pos": "adjective"
+      },
+      {
+        "word": "boringed",
+        "pos": "related form"
+      },
+      {
+        "word": "boringing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "boring is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2850,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  }
+]

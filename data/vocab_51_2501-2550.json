@@ -1,0 +1,3952 @@
+[
+  {
+    "word": "mail",
+    "pos": "noun",
+    "phonetic": "/mail/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to mail.",
+    "definition_zh": "mail；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mail",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of mail",
+          "meaning_zh": "由 mail 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"mail\" with a daily scene involving mail.",
+      "story_en": "Imagine using mail naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 mail。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word mail in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 mail 這個字。",
+    "collocations": [
+      "use a mail",
+      "find the mail",
+      "need a mail",
+      "daily mail",
+      "the mail at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; mail is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as mail."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "mail",
+        "pos": "noun"
+      },
+      {
+        "word": "mails",
+        "pos": "noun plural"
+      },
+      {
+        "word": "mailing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "mail is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2501,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "balance",
+    "pos": "noun",
+    "phonetic": "/balance/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to balance.",
+    "definition_zh": "balance；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "bala",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of balance",
+          "meaning_zh": "由 balance 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"bala\" with a daily scene involving balance.",
+      "story_en": "Imagine using balance naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 balance。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word balance in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 balance 這個字。",
+    "collocations": [
+      "use a balance",
+      "find the balance",
+      "need a balance",
+      "daily balance",
+      "the balance at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; balance is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as balance."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "balance",
+        "pos": "noun"
+      },
+      {
+        "word": "balances",
+        "pos": "noun plural"
+      },
+      {
+        "word": "balanceing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "balance is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2502,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "price",
+    "pos": "noun",
+    "phonetic": "/price/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to price.",
+    "definition_zh": "價格",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pric",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of price",
+          "meaning_zh": "由 price 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pric\" with a daily scene involving price.",
+      "story_en": "Imagine using price naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 price。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word price in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 price 這個字。",
+    "collocations": [
+      "use a price",
+      "find the price",
+      "need a price",
+      "daily price",
+      "the price at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; price is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as price."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "price",
+        "pos": "noun"
+      },
+      {
+        "word": "prices",
+        "pos": "noun plural"
+      },
+      {
+        "word": "priceing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "price is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2503,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "cost",
+    "pos": "noun",
+    "phonetic": "/cost/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to cost.",
+    "definition_zh": "成本；花費",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cost",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of cost",
+          "meaning_zh": "由 cost 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cost\" with a daily scene involving cost.",
+      "story_en": "Imagine using cost naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 cost。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word cost in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 cost 這個字。",
+    "collocations": [
+      "use a cost",
+      "find the cost",
+      "need a cost",
+      "daily cost",
+      "the cost at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; cost is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as cost."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "cost",
+        "pos": "noun"
+      },
+      {
+        "word": "costs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "costing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "cost is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2504,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sale",
+    "pos": "noun",
+    "phonetic": "/sale/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to sale.",
+    "definition_zh": "特價；銷售",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sale",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of sale",
+          "meaning_zh": "由 sale 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"sale\" with a daily scene involving sale.",
+      "story_en": "Imagine using sale naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 sale。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word sale in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 sale 這個字。",
+    "collocations": [
+      "use a sale",
+      "find the sale",
+      "need a sale",
+      "daily sale",
+      "the sale at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; sale is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as sale."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "sale",
+        "pos": "noun"
+      },
+      {
+        "word": "sales",
+        "pos": "noun plural"
+      },
+      {
+        "word": "saleing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sale is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2505,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "coupon",
+    "pos": "noun",
+    "phonetic": "/coupon/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to coupon.",
+    "definition_zh": "優惠券",
+    "etymology": {
+      "roots": [
+        {
+          "root": "coup",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of coupon",
+          "meaning_zh": "由 coupon 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"coup\" with a daily scene involving coupon.",
+      "story_en": "Imagine using coupon naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 coupon。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word coupon in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 coupon 這個字。",
+    "collocations": [
+      "use a coupon",
+      "find the coupon",
+      "need a coupon",
+      "daily coupon",
+      "the coupon at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; coupon is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as coupon."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "coupon",
+        "pos": "noun"
+      },
+      {
+        "word": "coupons",
+        "pos": "noun plural"
+      },
+      {
+        "word": "couponing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "coupon is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2506,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "tax",
+    "pos": "noun",
+    "phonetic": "/tax/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to tax.",
+    "definition_zh": "稅",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tax",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of tax",
+          "meaning_zh": "由 tax 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"tax\" with a daily scene involving tax.",
+      "story_en": "Imagine using tax naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 tax。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word tax in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 tax 這個字。",
+    "collocations": [
+      "use a tax",
+      "find the tax",
+      "need a tax",
+      "daily tax",
+      "the tax at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; tax is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as tax."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "tax",
+        "pos": "noun"
+      },
+      {
+        "word": "taxs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "taxing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "tax is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2507,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "tip",
+    "pos": "noun",
+    "phonetic": "/tip/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to tip.",
+    "definition_zh": "小費",
+    "etymology": {
+      "roots": [
+        {
+          "root": "tip",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of tip",
+          "meaning_zh": "由 tip 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"tip\" with a daily scene involving tip.",
+      "story_en": "Imagine using tip naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 tip。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word tip in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 tip 這個字。",
+    "collocations": [
+      "use a tip",
+      "find the tip",
+      "need a tip",
+      "daily tip",
+      "the tip at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; tip is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as tip."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "tip",
+        "pos": "noun"
+      },
+      {
+        "word": "tips",
+        "pos": "noun plural"
+      },
+      {
+        "word": "tiping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "tip is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2508,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "fee",
+    "pos": "noun",
+    "phonetic": "/fee/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to fee.",
+    "definition_zh": "費用",
+    "etymology": {
+      "roots": [
+        {
+          "root": "fee",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of fee",
+          "meaning_zh": "由 fee 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"fee\" with a daily scene involving fee.",
+      "story_en": "Imagine using fee naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 fee。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word fee in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 fee 這個字。",
+    "collocations": [
+      "use a fee",
+      "find the fee",
+      "need a fee",
+      "daily fee",
+      "the fee at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; fee is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as fee."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "fee",
+        "pos": "noun"
+      },
+      {
+        "word": "fees",
+        "pos": "noun plural"
+      },
+      {
+        "word": "feeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "fee is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2509,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "rent",
+    "pos": "verb",
+    "phonetic": "/rent/",
+    "definition": "To rent; a common action word used in everyday routines and conversations.",
+    "definition_zh": "rent；日常動作用字",
+    "etymology": {
+      "roots": [
+        {
+          "root": "rent",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of rent",
+          "meaning_zh": "由 rent 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"rent\" with a daily scene involving rent.",
+      "story_en": "Imagine using rent naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 rent。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word rent in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 rent 這個字。",
+    "collocations": [
+      "rent every day",
+      "rent at home",
+      "rent with care",
+      "rent before work",
+      "rent after school"
+    ],
+    "synonyms": [
+      "do",
+      "handle",
+      "perform"
+    ],
+    "near_synonyms": [
+      {
+        "word": "do",
+        "difference": "do is broader; rent is learned here as a practical daily word."
+      },
+      {
+        "word": "handle",
+        "difference": "handle is related, but it may not match the same everyday phrases as rent."
+      }
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "stop"
+    ],
+    "word_family": [
+      {
+        "word": "rent",
+        "pos": "verb"
+      },
+      {
+        "word": "rented",
+        "pos": "related form"
+      },
+      {
+        "word": "renting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "rent is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2510,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "mortgage",
+    "pos": "noun",
+    "phonetic": "/mortgage/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to mortgage.",
+    "definition_zh": "mortgage；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mort",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of mortgage",
+          "meaning_zh": "由 mortgage 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"mort\" with a daily scene involving mortgage.",
+      "story_en": "Imagine using mortgage naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 mortgage。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word mortgage in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 mortgage 這個字。",
+    "collocations": [
+      "use a mortgage",
+      "find the mortgage",
+      "need a mortgage",
+      "daily mortgage",
+      "the mortgage at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; mortgage is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as mortgage."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "mortgage",
+        "pos": "noun"
+      },
+      {
+        "word": "mortgages",
+        "pos": "noun plural"
+      },
+      {
+        "word": "mortgageing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "mortgage is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2511,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "insurance",
+    "pos": "noun",
+    "phonetic": "/insurance/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to insurance.",
+    "definition_zh": "insurance；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "insu",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of insurance",
+          "meaning_zh": "由 insurance 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"insu\" with a daily scene involving insurance.",
+      "story_en": "Imagine using insurance naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 insurance。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word insurance in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 insurance 這個字。",
+    "collocations": [
+      "use a insurance",
+      "find the insurance",
+      "need a insurance",
+      "daily insurance",
+      "the insurance at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; insurance is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as insurance."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "insurance",
+        "pos": "noun"
+      },
+      {
+        "word": "insurances",
+        "pos": "noun plural"
+      },
+      {
+        "word": "insuranceing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "insurance is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2512,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "salary",
+    "pos": "noun",
+    "phonetic": "/salary/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to salary.",
+    "definition_zh": "薪水",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sala",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of salary",
+          "meaning_zh": "由 salary 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"sala\" with a daily scene involving salary.",
+      "story_en": "Imagine using salary naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 salary。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word salary in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 salary 這個字。",
+    "collocations": [
+      "use a salary",
+      "find the salary",
+      "need a salary",
+      "daily salary",
+      "the salary at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; salary is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as salary."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "salary",
+        "pos": "noun"
+      },
+      {
+        "word": "salarys",
+        "pos": "noun plural"
+      },
+      {
+        "word": "salarying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "salary is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2513,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "wage",
+    "pos": "noun",
+    "phonetic": "/wage/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to wage.",
+    "definition_zh": "wage；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "wage",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of wage",
+          "meaning_zh": "由 wage 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"wage\" with a daily scene involving wage.",
+      "story_en": "Imagine using wage naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 wage。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word wage in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 wage 這個字。",
+    "collocations": [
+      "use a wage",
+      "find the wage",
+      "need a wage",
+      "daily wage",
+      "the wage at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; wage is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as wage."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "wage",
+        "pos": "noun"
+      },
+      {
+        "word": "wages",
+        "pos": "noun plural"
+      },
+      {
+        "word": "wageing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "wage is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2514,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "expense",
+    "pos": "noun",
+    "phonetic": "/expense/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to expense.",
+    "definition_zh": "支出",
+    "etymology": {
+      "roots": [
+        {
+          "root": "expe",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of expense",
+          "meaning_zh": "由 expense 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"expe\" with a daily scene involving expense.",
+      "story_en": "Imagine using expense naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 expense。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word expense in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 expense 這個字。",
+    "collocations": [
+      "use a expense",
+      "find the expense",
+      "need a expense",
+      "daily expense",
+      "the expense at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; expense is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as expense."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "expense",
+        "pos": "noun"
+      },
+      {
+        "word": "expenses",
+        "pos": "noun plural"
+      },
+      {
+        "word": "expenseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "expense is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2515,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "saving",
+    "pos": "noun",
+    "phonetic": "/saving/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to saving.",
+    "definition_zh": "儲蓄",
+    "etymology": {
+      "roots": [
+        {
+          "root": "savi",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of saving",
+          "meaning_zh": "由 saving 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"savi\" with a daily scene involving saving.",
+      "story_en": "Imagine using saving naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 saving。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word saving in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 saving 這個字。",
+    "collocations": [
+      "use a saving",
+      "find the saving",
+      "need a saving",
+      "daily saving",
+      "the saving at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; saving is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as saving."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "saving",
+        "pos": "noun"
+      },
+      {
+        "word": "savings",
+        "pos": "noun plural"
+      },
+      {
+        "word": "savinging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "saving is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2516,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "debt",
+    "pos": "noun",
+    "phonetic": "/debt/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to debt.",
+    "definition_zh": "債務",
+    "etymology": {
+      "roots": [
+        {
+          "root": "debt",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of debt",
+          "meaning_zh": "由 debt 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"debt\" with a daily scene involving debt.",
+      "story_en": "Imagine using debt naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 debt。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word debt in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 debt 這個字。",
+    "collocations": [
+      "use a debt",
+      "find the debt",
+      "need a debt",
+      "daily debt",
+      "the debt at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; debt is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as debt."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "debt",
+        "pos": "noun"
+      },
+      {
+        "word": "debts",
+        "pos": "noun plural"
+      },
+      {
+        "word": "debting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "debt is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2517,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "loan",
+    "pos": "noun",
+    "phonetic": "/loan/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to loan.",
+    "definition_zh": "貸款",
+    "etymology": {
+      "roots": [
+        {
+          "root": "loan",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of loan",
+          "meaning_zh": "由 loan 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"loan\" with a daily scene involving loan.",
+      "story_en": "Imagine using loan naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 loan。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word loan in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 loan 這個字。",
+    "collocations": [
+      "use a loan",
+      "find the loan",
+      "need a loan",
+      "daily loan",
+      "the loan at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; loan is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as loan."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "loan",
+        "pos": "noun"
+      },
+      {
+        "word": "loans",
+        "pos": "noun plural"
+      },
+      {
+        "word": "loaning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "loan is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2518,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "credit",
+    "pos": "noun",
+    "phonetic": "/credit/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to credit.",
+    "definition_zh": "信用",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cred",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of credit",
+          "meaning_zh": "由 credit 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cred\" with a daily scene involving credit.",
+      "story_en": "Imagine using credit naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 credit。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word credit in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 credit 這個字。",
+    "collocations": [
+      "use a credit",
+      "find the credit",
+      "need a credit",
+      "daily credit",
+      "the credit at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; credit is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as credit."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "credit",
+        "pos": "noun"
+      },
+      {
+        "word": "credits",
+        "pos": "noun plural"
+      },
+      {
+        "word": "crediting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "credit is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2519,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "debit",
+    "pos": "noun",
+    "phonetic": "/debit/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to debit.",
+    "definition_zh": "扣款",
+    "etymology": {
+      "roots": [
+        {
+          "root": "debi",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of debit",
+          "meaning_zh": "由 debit 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"debi\" with a daily scene involving debit.",
+      "story_en": "Imagine using debit naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 debit。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word debit in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 debit 這個字。",
+    "collocations": [
+      "use a debit",
+      "find the debit",
+      "need a debit",
+      "daily debit",
+      "the debit at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; debit is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as debit."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "debit",
+        "pos": "noun"
+      },
+      {
+        "word": "debits",
+        "pos": "noun plural"
+      },
+      {
+        "word": "debiting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "debit is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2520,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "change",
+    "pos": "noun",
+    "phonetic": "/change/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to change.",
+    "definition_zh": "零錢；改變",
+    "etymology": {
+      "roots": [
+        {
+          "root": "chan",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of change",
+          "meaning_zh": "由 change 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"chan\" with a daily scene involving change.",
+      "story_en": "Imagine using change naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 change。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word change in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 change 這個字。",
+    "collocations": [
+      "use a change",
+      "find the change",
+      "need a change",
+      "daily change",
+      "the change at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; change is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as change."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "change",
+        "pos": "noun"
+      },
+      {
+        "word": "changes",
+        "pos": "noun plural"
+      },
+      {
+        "word": "changeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "change is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2521,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "reservation",
+    "pos": "noun",
+    "phonetic": "/reservation/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to reservation.",
+    "definition_zh": "預約",
+    "etymology": {
+      "roots": [
+        {
+          "root": "rese",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of reservation",
+          "meaning_zh": "由 reservation 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"rese\" with a daily scene involving reservation.",
+      "story_en": "Imagine using reservation naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 reservation。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word reservation in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 reservation 這個字。",
+    "collocations": [
+      "use a reservation",
+      "find the reservation",
+      "need a reservation",
+      "daily reservation",
+      "the reservation at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; reservation is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as reservation."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "reservation",
+        "pos": "noun"
+      },
+      {
+        "word": "reservations",
+        "pos": "noun plural"
+      },
+      {
+        "word": "reservationing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "reservation is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2522,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "booking",
+    "pos": "noun",
+    "phonetic": "/booking/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to booking.",
+    "definition_zh": "預訂",
+    "etymology": {
+      "roots": [
+        {
+          "root": "book",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of booking",
+          "meaning_zh": "由 booking 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"book\" with a daily scene involving booking.",
+      "story_en": "Imagine using booking naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 booking。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word booking in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 booking 這個字。",
+    "collocations": [
+      "use a booking",
+      "find the booking",
+      "need a booking",
+      "daily booking",
+      "the booking at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; booking is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as booking."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "booking",
+        "pos": "noun"
+      },
+      {
+        "word": "bookings",
+        "pos": "noun plural"
+      },
+      {
+        "word": "bookinging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "booking is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2523,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "meeting",
+    "pos": "noun",
+    "phonetic": "/meeting/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to meeting.",
+    "definition_zh": "會議",
+    "etymology": {
+      "roots": [
+        {
+          "root": "meet",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of meeting",
+          "meaning_zh": "由 meeting 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"meet\" with a daily scene involving meeting.",
+      "story_en": "Imagine using meeting naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 meeting。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word meeting in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 meeting 這個字。",
+    "collocations": [
+      "use a meeting",
+      "find the meeting",
+      "need a meeting",
+      "daily meeting",
+      "the meeting at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; meeting is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as meeting."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "meeting",
+        "pos": "noun"
+      },
+      {
+        "word": "meetings",
+        "pos": "noun plural"
+      },
+      {
+        "word": "meetinging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "meeting is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2524,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "interview",
+    "pos": "noun",
+    "phonetic": "/interview/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to interview.",
+    "definition_zh": "面試",
+    "etymology": {
+      "roots": [
+        {
+          "root": "inte",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of interview",
+          "meaning_zh": "由 interview 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"inte\" with a daily scene involving interview.",
+      "story_en": "Imagine using interview naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 interview。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word interview in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 interview 這個字。",
+    "collocations": [
+      "use a interview",
+      "find the interview",
+      "need a interview",
+      "daily interview",
+      "the interview at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; interview is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as interview."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "interview",
+        "pos": "noun"
+      },
+      {
+        "word": "interviews",
+        "pos": "noun plural"
+      },
+      {
+        "word": "interviewing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "interview is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2525,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lesson",
+    "pos": "noun",
+    "phonetic": "/lesson/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to lesson.",
+    "definition_zh": "課程",
+    "etymology": {
+      "roots": [
+        {
+          "root": "less",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lesson",
+          "meaning_zh": "由 lesson 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"less\" with a daily scene involving lesson.",
+      "story_en": "Imagine using lesson naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lesson。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lesson in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lesson 這個字。",
+    "collocations": [
+      "use a lesson",
+      "find the lesson",
+      "need a lesson",
+      "daily lesson",
+      "the lesson at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; lesson is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as lesson."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "lesson",
+        "pos": "noun"
+      },
+      {
+        "word": "lessons",
+        "pos": "noun plural"
+      },
+      {
+        "word": "lessoning",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lesson is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2526,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "class",
+    "pos": "noun",
+    "phonetic": "/class/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to class.",
+    "definition_zh": "class；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "clas",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of class",
+          "meaning_zh": "由 class 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"clas\" with a daily scene involving class.",
+      "story_en": "Imagine using class naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 class。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word class in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 class 這個字。",
+    "collocations": [
+      "use a class",
+      "find the class",
+      "need a class",
+      "daily class",
+      "the class at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; class is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as class."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "class",
+        "pos": "noun"
+      },
+      {
+        "word": "classs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "classing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "class is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2527,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "homework",
+    "pos": "noun",
+    "phonetic": "/homework/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to homework.",
+    "definition_zh": "作業",
+    "etymology": {
+      "roots": [
+        {
+          "root": "home",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of homework",
+          "meaning_zh": "由 homework 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"home\" with a daily scene involving homework.",
+      "story_en": "Imagine using homework naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 homework。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word homework in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 homework 這個字。",
+    "collocations": [
+      "use a homework",
+      "find the homework",
+      "need a homework",
+      "daily homework",
+      "the homework at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; homework is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as homework."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "homework",
+        "pos": "noun"
+      },
+      {
+        "word": "homeworks",
+        "pos": "noun plural"
+      },
+      {
+        "word": "homeworking",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "homework is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2528,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "project",
+    "pos": "noun",
+    "phonetic": "/project/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to project.",
+    "definition_zh": "project；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "proj",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of project",
+          "meaning_zh": "由 project 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"proj\" with a daily scene involving project.",
+      "story_en": "Imagine using project naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 project。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word project in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 project 這個字。",
+    "collocations": [
+      "use a project",
+      "find the project",
+      "need a project",
+      "daily project",
+      "the project at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; project is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as project."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "project",
+        "pos": "noun"
+      },
+      {
+        "word": "projects",
+        "pos": "noun plural"
+      },
+      {
+        "word": "projecting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "project is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2529,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "test",
+    "pos": "noun",
+    "phonetic": "/test/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to test.",
+    "definition_zh": "測驗",
+    "etymology": {
+      "roots": [
+        {
+          "root": "test",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of test",
+          "meaning_zh": "由 test 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"test\" with a daily scene involving test.",
+      "story_en": "Imagine using test naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 test。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word test in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 test 這個字。",
+    "collocations": [
+      "use a test",
+      "find the test",
+      "need a test",
+      "daily test",
+      "the test at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; test is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as test."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "test",
+        "pos": "noun"
+      },
+      {
+        "word": "tests",
+        "pos": "noun plural"
+      },
+      {
+        "word": "testing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "test is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2530,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "quiz",
+    "pos": "noun",
+    "phonetic": "/quiz/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to quiz.",
+    "definition_zh": "小考",
+    "etymology": {
+      "roots": [
+        {
+          "root": "quiz",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of quiz",
+          "meaning_zh": "由 quiz 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"quiz\" with a daily scene involving quiz.",
+      "story_en": "Imagine using quiz naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 quiz。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word quiz in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 quiz 這個字。",
+    "collocations": [
+      "use a quiz",
+      "find the quiz",
+      "need a quiz",
+      "daily quiz",
+      "the quiz at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; quiz is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as quiz."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "quiz",
+        "pos": "noun"
+      },
+      {
+        "word": "quizs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "quizing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "quiz is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2531,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "exam",
+    "pos": "noun",
+    "phonetic": "/exam/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to exam.",
+    "definition_zh": "考試",
+    "etymology": {
+      "roots": [
+        {
+          "root": "exam",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of exam",
+          "meaning_zh": "由 exam 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"exam\" with a daily scene involving exam.",
+      "story_en": "Imagine using exam naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 exam。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word exam in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 exam 這個字。",
+    "collocations": [
+      "use a exam",
+      "find the exam",
+      "need a exam",
+      "daily exam",
+      "the exam at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; exam is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as exam."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "exam",
+        "pos": "noun"
+      },
+      {
+        "word": "exams",
+        "pos": "noun plural"
+      },
+      {
+        "word": "examing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "exam is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2532,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "grade",
+    "pos": "noun",
+    "phonetic": "/grade/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to grade.",
+    "definition_zh": "成績",
+    "etymology": {
+      "roots": [
+        {
+          "root": "grad",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of grade",
+          "meaning_zh": "由 grade 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"grad\" with a daily scene involving grade.",
+      "story_en": "Imagine using grade naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 grade。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word grade in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 grade 這個字。",
+    "collocations": [
+      "use a grade",
+      "find the grade",
+      "need a grade",
+      "daily grade",
+      "the grade at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; grade is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as grade."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "grade",
+        "pos": "noun"
+      },
+      {
+        "word": "grades",
+        "pos": "noun plural"
+      },
+      {
+        "word": "gradeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "grade is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2533,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "score",
+    "pos": "noun",
+    "phonetic": "/score/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to score.",
+    "definition_zh": "分數",
+    "etymology": {
+      "roots": [
+        {
+          "root": "scor",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of score",
+          "meaning_zh": "由 score 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"scor\" with a daily scene involving score.",
+      "story_en": "Imagine using score naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 score。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word score in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 score 這個字。",
+    "collocations": [
+      "use a score",
+      "find the score",
+      "need a score",
+      "daily score",
+      "the score at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; score is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as score."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "score",
+        "pos": "noun"
+      },
+      {
+        "word": "scores",
+        "pos": "noun plural"
+      },
+      {
+        "word": "scoreing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "score is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2534,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "subject",
+    "pos": "noun",
+    "phonetic": "/subject/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to subject.",
+    "definition_zh": "subject；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "subj",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of subject",
+          "meaning_zh": "由 subject 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"subj\" with a daily scene involving subject.",
+      "story_en": "Imagine using subject naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 subject。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word subject in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 subject 這個字。",
+    "collocations": [
+      "use a subject",
+      "find the subject",
+      "need a subject",
+      "daily subject",
+      "the subject at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; subject is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as subject."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "subject",
+        "pos": "noun"
+      },
+      {
+        "word": "subjects",
+        "pos": "noun plural"
+      },
+      {
+        "word": "subjecting",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "subject is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2535,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "lecture",
+    "pos": "noun",
+    "phonetic": "/lecture/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to lecture.",
+    "definition_zh": "lecture；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "lect",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of lecture",
+          "meaning_zh": "由 lecture 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"lect\" with a daily scene involving lecture.",
+      "story_en": "Imagine using lecture naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 lecture。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word lecture in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 lecture 這個字。",
+    "collocations": [
+      "use a lecture",
+      "find the lecture",
+      "need a lecture",
+      "daily lecture",
+      "the lecture at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; lecture is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as lecture."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "lecture",
+        "pos": "noun"
+      },
+      {
+        "word": "lectures",
+        "pos": "noun plural"
+      },
+      {
+        "word": "lectureing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "lecture is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2536,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "campus",
+    "pos": "noun",
+    "phonetic": "/campus/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to campus.",
+    "definition_zh": "campus；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "camp",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of campus",
+          "meaning_zh": "由 campus 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"camp\" with a daily scene involving campus.",
+      "story_en": "Imagine using campus naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 campus。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word campus in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 campus 這個字。",
+    "collocations": [
+      "use a campus",
+      "find the campus",
+      "need a campus",
+      "daily campus",
+      "the campus at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; campus is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as campus."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "campus",
+        "pos": "noun"
+      },
+      {
+        "word": "campuss",
+        "pos": "noun plural"
+      },
+      {
+        "word": "campusing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "campus is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2537,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "dorm",
+    "pos": "noun",
+    "phonetic": "/dorm/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to dorm.",
+    "definition_zh": "dorm；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "dorm",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of dorm",
+          "meaning_zh": "由 dorm 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"dorm\" with a daily scene involving dorm.",
+      "story_en": "Imagine using dorm naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 dorm。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word dorm in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 dorm 這個字。",
+    "collocations": [
+      "use a dorm",
+      "find the dorm",
+      "need a dorm",
+      "daily dorm",
+      "the dorm at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; dorm is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as dorm."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "dorm",
+        "pos": "noun"
+      },
+      {
+        "word": "dorms",
+        "pos": "noun plural"
+      },
+      {
+        "word": "dorming",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "dorm is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2538,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "degree",
+    "pos": "noun",
+    "phonetic": "/degree/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to degree.",
+    "definition_zh": "degree；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "degr",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of degree",
+          "meaning_zh": "由 degree 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"degr\" with a daily scene involving degree.",
+      "story_en": "Imagine using degree naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 degree。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word degree in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 degree 這個字。",
+    "collocations": [
+      "use a degree",
+      "find the degree",
+      "need a degree",
+      "daily degree",
+      "the degree at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; degree is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as degree."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "degree",
+        "pos": "noun"
+      },
+      {
+        "word": "degrees",
+        "pos": "noun plural"
+      },
+      {
+        "word": "degreeing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "degree is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2539,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "minor",
+    "pos": "noun",
+    "phonetic": "/minor/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to minor.",
+    "definition_zh": "minor；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "mino",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of minor",
+          "meaning_zh": "由 minor 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"mino\" with a daily scene involving minor.",
+      "story_en": "Imagine using minor naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 minor。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word minor in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 minor 這個字。",
+    "collocations": [
+      "use a minor",
+      "find the minor",
+      "need a minor",
+      "daily minor",
+      "the minor at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; minor is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as minor."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "minor",
+        "pos": "noun"
+      },
+      {
+        "word": "minors",
+        "pos": "noun plural"
+      },
+      {
+        "word": "minoring",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "minor is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2540,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "certificate",
+    "pos": "noun",
+    "phonetic": "/certificate/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to certificate.",
+    "definition_zh": "certificate；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cert",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of certificate",
+          "meaning_zh": "由 certificate 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cert\" with a daily scene involving certificate.",
+      "story_en": "Imagine using certificate naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 certificate。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word certificate in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 certificate 這個字。",
+    "collocations": [
+      "use a certificate",
+      "find the certificate",
+      "need a certificate",
+      "daily certificate",
+      "the certificate at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; certificate is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as certificate."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "certificate",
+        "pos": "noun"
+      },
+      {
+        "word": "certificates",
+        "pos": "noun plural"
+      },
+      {
+        "word": "certificateing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "certificate is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2541,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "training",
+    "pos": "noun",
+    "phonetic": "/training/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to training.",
+    "definition_zh": "training；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "trai",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of training",
+          "meaning_zh": "由 training 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"trai\" with a daily scene involving training.",
+      "story_en": "Imagine using training naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 training。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word training in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 training 這個字。",
+    "collocations": [
+      "use a training",
+      "find the training",
+      "need a training",
+      "daily training",
+      "the training at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; training is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as training."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "training",
+        "pos": "noun"
+      },
+      {
+        "word": "trainings",
+        "pos": "noun plural"
+      },
+      {
+        "word": "traininging",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "training is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2542,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "workshop",
+    "pos": "noun",
+    "phonetic": "/workshop/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to workshop.",
+    "definition_zh": "workshop；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "work",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of workshop",
+          "meaning_zh": "由 workshop 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"work\" with a daily scene involving workshop.",
+      "story_en": "Imagine using workshop naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 workshop。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word workshop in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 workshop 這個字。",
+    "collocations": [
+      "use a workshop",
+      "find the workshop",
+      "need a workshop",
+      "daily workshop",
+      "the workshop at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; workshop is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as workshop."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "workshop",
+        "pos": "noun"
+      },
+      {
+        "word": "workshops",
+        "pos": "noun plural"
+      },
+      {
+        "word": "workshoping",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "workshop is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2543,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "course",
+    "pos": "noun",
+    "phonetic": "/course/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to course.",
+    "definition_zh": "course；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "cour",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of course",
+          "meaning_zh": "由 course 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"cour\" with a daily scene involving course.",
+      "story_en": "Imagine using course naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 course。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word course in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 course 這個字。",
+    "collocations": [
+      "use a course",
+      "find the course",
+      "need a course",
+      "daily course",
+      "the course at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; course is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as course."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "course",
+        "pos": "noun"
+      },
+      {
+        "word": "courses",
+        "pos": "noun plural"
+      },
+      {
+        "word": "courseing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "course is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2544,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "chapter",
+    "pos": "noun",
+    "phonetic": "/chapter/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to chapter.",
+    "definition_zh": "chapter；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "chap",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of chapter",
+          "meaning_zh": "由 chapter 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"chap\" with a daily scene involving chapter.",
+      "story_en": "Imagine using chapter naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 chapter。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word chapter in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 chapter 這個字。",
+    "collocations": [
+      "use a chapter",
+      "find the chapter",
+      "need a chapter",
+      "daily chapter",
+      "the chapter at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; chapter is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as chapter."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "chapter",
+        "pos": "noun"
+      },
+      {
+        "word": "chapters",
+        "pos": "noun plural"
+      },
+      {
+        "word": "chaptering",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "chapter is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2545,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "paragraph",
+    "pos": "noun",
+    "phonetic": "/paragraph/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to paragraph.",
+    "definition_zh": "paragraph；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "para",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of paragraph",
+          "meaning_zh": "由 paragraph 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"para\" with a daily scene involving paragraph.",
+      "story_en": "Imagine using paragraph naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 paragraph。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word paragraph in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 paragraph 這個字。",
+    "collocations": [
+      "use a paragraph",
+      "find the paragraph",
+      "need a paragraph",
+      "daily paragraph",
+      "the paragraph at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; paragraph is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as paragraph."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "paragraph",
+        "pos": "noun"
+      },
+      {
+        "word": "paragraphs",
+        "pos": "noun plural"
+      },
+      {
+        "word": "paragraphing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "paragraph is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2546,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "sentence",
+    "pos": "noun",
+    "phonetic": "/sentence/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to sentence.",
+    "definition_zh": "sentence；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "sent",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of sentence",
+          "meaning_zh": "由 sentence 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"sent\" with a daily scene involving sentence.",
+      "story_en": "Imagine using sentence naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 sentence。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word sentence in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 sentence 這個字。",
+    "collocations": [
+      "use a sentence",
+      "find the sentence",
+      "need a sentence",
+      "daily sentence",
+      "the sentence at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; sentence is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as sentence."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "sentence",
+        "pos": "noun"
+      },
+      {
+        "word": "sentences",
+        "pos": "noun plural"
+      },
+      {
+        "word": "sentenceing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "sentence is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2547,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "grammar",
+    "pos": "noun",
+    "phonetic": "/grammar/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to grammar.",
+    "definition_zh": "grammar；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "gram",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of grammar",
+          "meaning_zh": "由 grammar 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"gram\" with a daily scene involving grammar.",
+      "story_en": "Imagine using grammar naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 grammar。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word grammar in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 grammar 這個字。",
+    "collocations": [
+      "use a grammar",
+      "find the grammar",
+      "need a grammar",
+      "daily grammar",
+      "the grammar at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; grammar is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as grammar."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "grammar",
+        "pos": "noun"
+      },
+      {
+        "word": "grammars",
+        "pos": "noun plural"
+      },
+      {
+        "word": "grammaring",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "grammar is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2548,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "vocabulary",
+    "pos": "noun",
+    "phonetic": "/vocabulary/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to vocabulary.",
+    "definition_zh": "vocabulary；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "voca",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of vocabulary",
+          "meaning_zh": "由 vocabulary 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"voca\" with a daily scene involving vocabulary.",
+      "story_en": "Imagine using vocabulary naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 vocabulary。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word vocabulary in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 vocabulary 這個字。",
+    "collocations": [
+      "use a vocabulary",
+      "find the vocabulary",
+      "need a vocabulary",
+      "daily vocabulary",
+      "the vocabulary at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; vocabulary is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as vocabulary."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "vocabulary",
+        "pos": "noun"
+      },
+      {
+        "word": "vocabularys",
+        "pos": "noun plural"
+      },
+      {
+        "word": "vocabularying",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "vocabulary is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2549,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  },
+  {
+    "word": "pronunciation",
+    "pos": "noun",
+    "phonetic": "/pronunciation/",
+    "definition": "A common everyday word for a person, place, object, idea, or situation related to pronunciation.",
+    "definition_zh": "pronunciation；日常生活常用名詞",
+    "etymology": {
+      "roots": [
+        {
+          "root": "pron",
+          "origin": "Modern English",
+          "meaning": "memory hook from the word shape of pronunciation",
+          "meaning_zh": "由 pronunciation 字形建立記憶線索"
+        }
+      ]
+    },
+    "mnemonic": {
+      "root_memory": "Connect the opening letters \"pron\" with a daily scene involving pronunciation.",
+      "story_en": "Imagine using pronunciation naturally while talking about an ordinary day.",
+      "story_zh": "想像自己在描述普通一天時自然用到 pronunciation。",
+      "emojis": [
+        "🏠",
+        "🧠",
+        "📘"
+      ]
+    },
+    "example": "I heard the word pronunciation in a simple conversation today.",
+    "example_zh": "我今天在簡單對話中聽到了 pronunciation 這個字。",
+    "collocations": [
+      "use a pronunciation",
+      "find the pronunciation",
+      "need a pronunciation",
+      "daily pronunciation",
+      "the pronunciation at home"
+    ],
+    "synonyms": [
+      "thing",
+      "item",
+      "object"
+    ],
+    "near_synonyms": [
+      {
+        "word": "thing",
+        "difference": "thing is broader; pronunciation is learned here as a practical daily word."
+      },
+      {
+        "word": "item",
+        "difference": "item is related, but it may not match the same everyday phrases as pronunciation."
+      }
+    ],
+    "antonyms": [
+      "absence",
+      "lack",
+      "shortage"
+    ],
+    "word_family": [
+      {
+        "word": "pronunciation",
+        "pos": "noun"
+      },
+      {
+        "word": "pronunciations",
+        "pos": "noun plural"
+      },
+      {
+        "word": "pronunciationing",
+        "pos": "verb / gerund"
+      }
+    ],
+    "usage_note": "pronunciation is included as a daily-life word; practice it with short phrases and real situations.",
+    "frequency_rank": 2550,
+    "frequency_source": "custom",
+    "difficulty": "B1",
+    "tags": [
+      "daily-life",
+      "conversation",
+      "practical"
+    ]
+  }
+]
