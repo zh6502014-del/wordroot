@@ -738,10 +738,14 @@ function BookScreen({vocab}){
   const[filter,setFilter]=useState("all");
   const[initialVal,setInitialVal]=useState("all");
   const[rootVal,setRootVal]=useState("all");
+  const[page,setPage]=useState(1);
   const[modalIdx,setModalIdx]=useState(null);
+  const pageSize=50;
+  const rootsOf=w=>w.roots||w.etymology?.roots||[];
 
+  const resetList=fn=>{fn();setPage(1);setModalIdx(null)};
   const allInitials=[...new Set(vocab.map(w=>w.word?.[0]?.toUpperCase()).filter(Boolean))].sort();
-  const allRoots=[...new Set(vocab.flatMap(w=>(w.roots||[]).map(r=>r.root).filter(Boolean)))].sort();
+  const allRoots=[...new Set(vocab.flatMap(w=>rootsOf(w).map(r=>r.root).filter(Boolean)))].sort();
 
   const fsrsAll=FSRS.all();
   let words=vocab;
@@ -749,7 +753,14 @@ function BookScreen({vocab}){
   else if(filter==="mastered")words=words.filter(w=>FSRS.get(w.word).interval>=7);
   else if(filter==="new")words=words.filter(w=>!fsrsAll[w.word]);
   if(initialVal!=="all")words=words.filter(w=>w.word?.[0]?.toUpperCase()===initialVal);
-  if(rootVal!=="all")words=words.filter(w=>(w.roots||[]).some(r=>r.root===rootVal));
+  if(rootVal!=="all")words=words.filter(w=>rootsOf(w).some(r=>r.root===rootVal));
+
+  const totalPages=Math.max(1,Math.ceil(words.length/pageSize));
+  const currentPage=Math.min(page,totalPages);
+  const pageStart=(currentPage-1)*pageSize;
+  const pageWords=words.slice(pageStart,pageStart+pageSize);
+
+  useEffect(()=>{if(page>totalPages)setPage(totalPages)},[page,totalPages]);
 
   const modal=modalIdx!==null?words[modalIdx]:null;
   const closeModal=()=>setModalIdx(null);
@@ -791,7 +802,7 @@ function BookScreen({vocab}){
       {/* 標題列 */}
       <div style={{display:"flex",alignItems:"center",width:"100%",padding:"0 20px",marginBottom:14}}>
         <span style={{fontFamily:"var(--serif)",fontSize:26,color:"var(--text)"}}>單字本</span>
-        <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{words.length} 筆</span>
+        <span style={{marginLeft:"auto",fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>{words.length} 筆 · {currentPage}/{totalPages} 頁</span>
       </div>
 
       {/* 主篩選 — 水平捲動 */}
@@ -799,7 +810,7 @@ function BookScreen({vocab}){
         <div style={{display:"flex",gap:6,padding:"0 20px",minWidth:"max-content"}}>
           {[["all","全部"],["due","待複習"],["mastered","已熟練"],["new","未學習"]].map(([f,l])=>(
             <button key={f} style={tabStyle(filter===f)}
-              onClick={()=>{setFilter(f);setModalIdx(null)}}>
+              onClick={()=>resetList(()=>setFilter(f))}>
               {l}
             </button>
           ))}
@@ -810,7 +821,7 @@ function BookScreen({vocab}){
       <div style={{width:"100%",display:"flex",gap:10,padding:"10px 20px 12px",borderBottom:"1px solid var(--border)",marginBottom:4}}>
         <div style={{position:"relative",flex:1}}>
           <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字首</span>
-          <select value={initialVal} onChange={e=>{setInitialVal(e.target.value);setModalIdx(null)}}
+          <select value={initialVal} onChange={e=>resetList(()=>setInitialVal(e.target.value))}
             style={{...selectStyle,width:"100%",paddingLeft:36}}>
             <option value="all">全部</option>
             {allInitials.map(c=><option key={c} value={c}>{c}</option>)}
@@ -818,7 +829,7 @@ function BookScreen({vocab}){
         </div>
         <div style={{position:"relative",flex:1}}>
           <span style={{position:"absolute",left:10,top:"50%",transform:"translateY(-50%)",fontFamily:"var(--mono)",fontSize:12,color:"var(--dim)",pointerEvents:"none",zIndex:1}}>字根</span>
-          <select value={rootVal} onChange={e=>{setRootVal(e.target.value);setModalIdx(null)}}
+          <select value={rootVal} onChange={e=>resetList(()=>setRootVal(e.target.value))}
             style={{...selectStyle,width:"100%",paddingLeft:36}}>
             <option value="all">全部</option>
             {allRoots.map(r=><option key={r} value={r}>{r}</option>)}
@@ -833,10 +844,11 @@ function BookScreen({vocab}){
             此篩選條件下沒有單字<br/>
             <span style={{fontSize:13,opacity:.6}}>試試其他篩選條件</span>
           </div>
-        :words.map((w,i)=>{
+        :pageWords.map((w,i)=>{
           const p=FSRS.get(w.word);
+          const wordIdx=pageStart+i;
           return(
-            <div key={w.word} className="book-item" onClick={()=>setModalIdx(i)}>
+            <div key={w.word} className="book-item" onClick={()=>setModalIdx(wordIdx)}>
               <span onClick={e=>speakWord(e,w.word)} title="播放發音" style={{fontFamily:"var(--serif)",fontSize:21,color:"var(--text)",minWidth:120,cursor:"pointer"}}>{w.word}</span>
               <SynonymTooltip synonyms={w.synonyms||[]}/>
               <span onClick={e=>{e.stopPropagation();Audio_.speak(w.word,null,null)}}
@@ -848,6 +860,20 @@ function BookScreen({vocab}){
         })
       }
       </div>
+
+      {words.length>pageSize&&(
+        <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,width:"100%",padding:"12px 20px 0"}}>
+          <button className="nav-btn" disabled={currentPage<=1}
+            onClick={()=>{setPage(p=>Math.max(1,p-1));setModalIdx(null)}}
+            style={{opacity:currentPage<=1 ? .4 : 1,cursor:currentPage<=1?"default":"pointer"}}>← 上一頁</button>
+          <span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)"}}>
+            {pageStart+1}-{Math.min(pageStart+pageSize,words.length)} / {words.length}
+          </span>
+          <button className="nav-btn" disabled={currentPage>=totalPages}
+            onClick={()=>{setPage(p=>Math.min(totalPages,p+1));setModalIdx(null)}}
+            style={{opacity:currentPage>=totalPages ? .4 : 1,cursor:currentPage>=totalPages?"default":"pointer"}}>下一頁 →</button>
+        </div>
+      )}
 
       {/* Modal */}
       {modal&&(
@@ -863,7 +889,7 @@ function BookScreen({vocab}){
             <div style={{fontSize:14,color:"var(--muted)",marginBottom:14}}>{modal.definition_zh}</div>
             <div className="divider"/>
             <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",marginBottom:8}}>字根</div>
-            <RootChips roots={modal.roots||[]}/>
+            <RootChips roots={rootsOf(modal)}/>
             <div className="divider" style={{marginTop:12}}/>
             <div style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--dim)",textTransform:"uppercase",marginBottom:8}}>記憶聯想</div>
             <div style={{fontSize:21,letterSpacing:5,marginBottom:8}}>{modal.mnemonic.emojis.join("  ")}</div>
@@ -1225,7 +1251,7 @@ function App(){
       })
     ))
     .then(results=>{
-      const loaded=results.flat();
+      const loaded=results.flat().map(w=>({...w,roots:w.roots||w.etymology?.roots||[]}));
       if(!loaded.length)throw new Error("No vocab JSON files loaded");
       setVocab(loaded);
       setLoading(false);
