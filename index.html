@@ -1211,11 +1211,25 @@ function App(){
       const end=String((i+1)*50).padStart(3,"0");
       return `./data/vocab_${batch}_${start}-${end}.json`;
     });
-    Promise.all(urls.map(u=>fetch(u).then(r=>{
-      if(!r.ok)throw new Error(u);
-      return r.json();
-    })))
-    .then(results=>{setVocab(results.flat());setLoading(false);})
+    Promise.all(urls.map(u=>fetch(u)
+      .then(r=>{
+        if(!r.ok){
+          console.warn("Skipped missing vocab file:",u);
+          return [];
+        }
+        return r.json();
+      })
+      .catch(err=>{
+        console.warn("Skipped unreadable vocab file:",u,err);
+        return [];
+      })
+    ))
+    .then(results=>{
+      const loaded=results.flat();
+      if(!loaded.length)throw new Error("No vocab JSON files loaded");
+      setVocab(loaded);
+      setLoading(false);
+    })
     .catch(err=>{console.error("Vocab load error:",err);setLoading(false);setVocab(null);});
   },[]);
 
