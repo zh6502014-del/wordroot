@@ -220,6 +220,26 @@ body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:1
 }
 .root-chip-meaning{color:var(--dim);font-size:11px}
 .divider{height:1px;background:var(--border);margin:8px 0}
+
+/* word guide */
+.guide-panel{
+  margin-top:14px;background:var(--surface);border:1px solid var(--border);
+  border-radius:14px;overflow:hidden;
+}
+.guide-head{
+  width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;
+  padding:12px 14px;background:transparent;border:0;color:var(--text);
+  font-family:var(--sans);font-size:15px;cursor:pointer;
+}
+.guide-head span:first-child{font-family:var(--serif);font-size:17px;color:var(--accent)}
+.guide-body{padding:0 14px 14px;display:flex;flex-direction:column;gap:10px}
+.guide-row{background:var(--surface2);border:1px solid rgba(255,255,255,.04);border-radius:10px;padding:10px 12px}
+.guide-label{
+  font-family:var(--mono);font-size:11px;color:var(--dim);
+  text-transform:uppercase;letter-spacing:.08em;margin-bottom:5px;
+}
+.guide-text{font-size:14px;color:var(--text);line-height:1.65}
+.guide-muted{color:var(--muted)}
 </style>
 </head>
 <body>
@@ -552,9 +572,99 @@ let learnState = {};
 
 function startLearn(chIdx){
   const words = getChapterWords(chIdx);
-  learnState = { chIdx, words, idx:0, flipped:false };
+  learnState = { chIdx, words, idx:0, flipped:false, guideOpen:true };
   view = {name:'learn'};
   renderLearn();
+}
+
+function guideRootsText(w){
+  const roots=w.roots||w.etymology?.roots||[];
+  if(!roots.length)return '這個單字暫時沒有字根資料，先用意思和例句建立印象。';
+  return roots.map(r=>`${r.root} = ${r.meaning_zh||r.meaning||''}`).join(' + ');
+}
+
+function renderWordGuide(w){
+  if(!learnState.guideOpen){
+    return `<div class="guide-panel">
+      <button class="guide-head" onclick="toggleGuide()">
+        <span>單字導讀</span><span style="font-family:var(--mono);color:var(--dim)">展開 +</span>
+      </button>
+    </div>`;
+  }
+  const rootsText=guideRootsText(w);
+  const zh=(w.definition_zh||'').split('；')[0]||w.definition_zh||'';
+  const example=w.example_zh?`${w.example}<br><span class="guide-muted">${w.example_zh}</span>`:w.example;
+  const memory=w.mnemonic?.root_memory||w.mnemonic?.story_zh||'把單字、意思、例句連在同一個情境裡記。';
+  return `<div class="guide-panel">
+    <button class="guide-head" onclick="toggleGuide()">
+      <span>單字導讀</span><span style="font-family:var(--mono);color:var(--dim)">收合 -</span>
+    </button>
+    <div class="guide-body">
+      <div class="guide-row">
+        <div class="guide-label">Core meaning</div>
+        <div class="guide-text">${w.word} 表示「${zh}」。先抓住這個核心意思，再看英文定義：<span class="guide-muted">${w.definition}</span></div>
+      </div>
+      <div class="guide-row">
+        <div class="guide-label">Roots</div>
+        <div class="guide-text">${rootsText}</div>
+      </div>
+      <div class="guide-row">
+        <div class="guide-label">Example</div>
+        <div class="guide-text">${example||'這個單字目前沒有例句資料。'}</div>
+      </div>
+      <div class="guide-row">
+        <div class="guide-label">Memory cue</div>
+        <div class="guide-text">${(w.mnemonic?.emojis||[]).join('  ')} ${memory}</div>
+      </div>
+    </div>
+  </div>`;
+}
+
+function renderQuizGuide(q){
+  if(!quizState.guideOpen){
+    return `<div class="guide-panel">
+      <button class="guide-head" onclick="toggleQuizGuide()">
+        <span>測驗導讀</span><span style="font-family:var(--mono);color:var(--dim)">展開 +</span>
+      </button>
+    </div>`;
+  }
+  const answered=quizState.answered;
+  const rootsText=guideRootsText(q);
+  const example=answered&&q.example_zh
+    ? `${q.example}<br><span class="guide-muted">${q.example_zh}</span>`
+    : q.example;
+  const memory=answered
+    ? (q.mnemonic?.story_zh||q.mnemonic?.root_memory||'把字根、例句和答案連在一起記。')
+    : (q.mnemonic?.root_memory||'先看字根和例句，試著推回中文意思。');
+  const answerRow=answered
+    ? `<div class="guide-row">
+        <div class="guide-label">Answer meaning</div>
+        <div class="guide-text">${q.word} = ${q.definition_zh}<br><span class="guide-muted">${q.definition}</span></div>
+      </div>`
+    : `<div class="guide-row">
+        <div class="guide-label">Quiz hint</div>
+        <div class="guide-text">先不要急著看答案。用字根、詞性和例句判斷它最接近哪個中文選項。</div>
+      </div>`;
+  return `<div class="guide-panel">
+    <button class="guide-head" onclick="toggleQuizGuide()">
+      <span>測驗導讀</span><span style="font-family:var(--mono);color:var(--dim)">收合 -</span>
+    </button>
+    <div class="guide-body">
+      ${answerRow}
+      <div class="guide-row">
+        <div class="guide-label">Roots</div>
+        <div class="guide-text">${rootsText}</div>
+      </div>
+      <div class="guide-row">
+        <div class="guide-label">Example</div>
+        <div class="guide-text">${example||'這個單字目前沒有例句資料。'}</div>
+      </div>
+      <div class="guide-row">
+        <div class="guide-label">Memory cue</div>
+        <div class="guide-text">${(q.mnemonic?.emojis||[]).join('  ')} ${memory}</div>
+      </div>
+    </div>
+  </div>`;
 }
 
 function renderLearn(){
@@ -562,7 +672,7 @@ function renderLearn(){
   const w = words[idx];
   const pct = Math.round(idx/words.length*100);
 
-  const rootChips = (w.roots||[]).map(r=>`
+  const rootChips = (w.roots||w.etymology?.roots||[]).map(r=>`
     <div class="root-chip">
       <span>${r.root}</span>
       <span class="root-chip-meaning">${r.meaning_zh}</span>
@@ -611,6 +721,8 @@ function renderLearn(){
         </div>
       </div>
 
+      ${renderWordGuide(w)}
+
       <div style="display:flex;gap:10px;margin-top:16px">
         ${idx>0?`<button class="btn-secondary" style="flex:0 0 auto;width:48px" onclick="learnPrev()">←</button>`:''}
         <button class="btn-primary" onclick="learnNext()">
@@ -625,10 +737,11 @@ function renderLearn(){
 }
 
 function flipCard(){ learnState.flipped=!learnState.flipped; renderLearn(); }
-function learnPrev(){ if(learnState.idx>0){learnState.idx--;learnState.flipped=false;renderLearn();} }
+function toggleGuide(){ learnState.guideOpen=!learnState.guideOpen; renderLearn(); }
+function learnPrev(){ if(learnState.idx>0){learnState.idx--;learnState.flipped=false;learnState.guideOpen=true;renderLearn();} }
 function learnNext(){
   if(learnState.idx<learnState.words.length-1){
-    learnState.idx++;learnState.flipped=false;renderLearn();
+    learnState.idx++;learnState.flipped=false;learnState.guideOpen=true;renderLearn();
   } else {
     // Mark learn done
     setCh(learnState.chIdx,{learnDone:true,status:'available'});
@@ -677,15 +790,19 @@ function startQuiz(chIdx, mode){
     )];
     const shuffled = pool.sort(()=>Math.random()-.5).slice(0,3);
     const opts = [correct,...shuffled].sort(()=>Math.random()-.5);
-    return { word:w.word, phonetic:w.phonetic, correct, opts,
+    return { word:w.word, phonetic:w.phonetic, pos:w.pos, correct, opts,
       ansIdx: opts.indexOf(correct),
       definition: w.definition,
-      roots: w.roots };
+      definition_zh: w.definition_zh,
+      example: w.example,
+      example_zh: w.example_zh,
+      mnemonic: w.mnemonic,
+      roots: w.roots||w.etymology?.roots||[] };
   });
 
   quizState = {
     chIdx, mode, questions, idx:0,
-    answered:false, selected:null,
+    answered:false, selected:null, guideOpen:true,
     corrects:0, wrongs:0, wrongWords:[]
   };
   view = {name:'quiz'};
@@ -732,8 +849,9 @@ function renderQuiz(){
         <div class="prog-label">${quizState.corrects}✓ ${quizState.wrongs}✗</div>
       </div>
       <div class="quiz-word">${q.word}</div>
-      <div class="quiz-q">${q.phonetic} · 選出正確的中文意思</div>
-      <div class="opt-list">${opts}</div>
+      <div class="quiz-q">${q.phonetic} · ${q.pos||''} · 選出正確的中文意思</div>
+      ${renderQuizGuide(q)}
+      <div class="opt-list" style="margin-top:12px">${opts}</div>
       ${feedback}
       ${answered?`<button class="next-btn" onclick="nextQuiz()">${idx+1<questions.length?'下一題 →':'查看結果 →'}</button>`:''}
       <div style="text-align:center;margin-top:14px">
@@ -741,6 +859,8 @@ function renderQuiz(){
       </div>
     </div>`;
 }
+
+function toggleQuizGuide(){ quizState.guideOpen=!quizState.guideOpen; renderQuiz(); }
 
 function answerQuiz(optIdx){
   if(quizState.answered) return;
@@ -755,6 +875,7 @@ function answerQuiz(optIdx){
 function nextQuiz(){
   quizState.answered=false;
   quizState.selected=null;
+  quizState.guideOpen=true;
   if(quizState.idx<quizState.questions.length-1){
     quizState.idx++;
     renderQuiz();
@@ -926,7 +1047,7 @@ Promise.all([
   "./data/vocab_29_1401-1450.json",
   "./data/vocab_30_1451-1500.json"
 ].map(u=>fetch(u).then(r=>r.ok?r.json():[])))
-  .then(results=>{ const data=results.flat();
+  .then(results=>{ const data=results.flat().map(w=>({...w,roots:w.roots||w.etymology?.roots||[]}));
     VOCAB = data.sort((a,b)=>a.frequency_rank-b.frequency_rank);
     const n = totalChapters();
     // Make Ch1 available by default
