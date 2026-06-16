@@ -257,15 +257,17 @@ const SESSION={
 const MISTAKES={
   KEY:"wr_mistakes",
   all(){return JSON.parse(localStorage.getItem(this.KEY)||"{}") },
-  add(correctWord,correctDef,wrongWord,wrongDef){
+  add(correctWord,correctDef,wrongWord,wrongDef,extra={}){
     const all=this.all();
     const prev=all[correctWord]||{};
     const now=new Date().toISOString();
     all[correctWord]={
       ...prev,
+      ...extra,
+      word:correctWord,
       wrongWord,
-      wrongDef,
-      correctDef,
+      wrongDef:wrongDef||prev.wrongDef||"（缺少干擾選項解釋）",
+      correctDef:correctDef||prev.correctDef||"（缺少正確解釋）",
       streak:0,
       addedAt:prev.addedAt||now,
       updatedAt:now
@@ -601,7 +603,10 @@ function QuizScreen({vocab,resumeData,onDone}){
     const correct=opt.word===w.word;
     FSRS.save(w.word,correct?"good":"again");
     if(!correct){
-      MISTAKES.add(w.word,w.definition_zh,opt.word,opt.definition_zh);
+      MISTAKES.add(w.word,w.definition_zh,opt.word,opt.definition_zh,{
+        phonetic:w.phonetic,pos:w.pos,definition:w.definition,example:w.example,
+        mnemonic:w.mnemonic,roots:w.roots||w.etymology?.roots||[]
+      });
     }
     setStats(s=>({...s,[correct?"correct":"wrong"]:s[correct?"correct":"wrong"]+1}));
   },[answered,w]);
@@ -1009,12 +1014,17 @@ function BrutalScreen({vocab,onDone}){
   const[deck]=useState(()=>shuffle(mistakes));
 
   const item=deck[idx];
-  // Find vocab objects
-  const correctWord=item?vocab.find(v=>v.word===item.word):null;
-  const wrongWord=item?vocab.find(v=>v.word===item.wrongWord):null;
+  const normalizeWord=s=>String(s||"").trim().toLowerCase();
+  const findVocab=word=>vocab.find(v=>normalizeWord(v.word)===normalizeWord(word));
+  const correctWord=item?findVocab(item.word):null;
+  const wrongWord=item?findVocab(item.wrongWord):null;
+  const correctData=correctWord||item||{};
+  const wrongData=wrongWord||{};
+  const correctDef=correctWord?.definition_zh||item?.correctDef||"（缺少正確解釋）";
+  const wrongDef=wrongWord?.definition_zh||item?.wrongDef||"（缺少干擾選項解釋）";
   const opts=item?shuffle([
-    {word:item.word,definition_zh:item.correctDef},
-    {word:item.wrongWord,definition_zh:item.wrongDef},
+    {word:item.word,definition_zh:correctDef},
+    {word:item.wrongWord||"__stored_wrong__",definition_zh:wrongDef},
   ]):[];
 
   const answer=useCallback(opt=>{
@@ -1023,7 +1033,11 @@ function BrutalScreen({vocab,onDone}){
     const correct=opt.word===item.word;
     MISTAKES.answer(item.word,correct);
     if(!correct){
-      MISTAKES.add(item.word,item.correctDef,opt.word,opt.definition_zh);
+      MISTAKES.add(item.word,correctDef,opt.word,opt.definition_zh,{
+        phonetic:correctData.phonetic,pos:correctData.pos,definition:correctData.definition,
+        example:correctData.example,mnemonic:correctData.mnemonic,
+        roots:correctData.roots||correctData.etymology?.roots||[]
+      });
     }
     FSRS.save(item.word,correct?"good":"again");
     setStats(s=>({...s,[correct?"correct":"wrong"]:s[correct?"correct":"wrong"]+1}));
@@ -1035,14 +1049,14 @@ function BrutalScreen({vocab,onDone}){
     setIdx(nx);setAnswered(false);setSelected(null);
   },[idx,deck.length]);
 
-  const missingWord=item&&(!correctWord||!wrongWord);
+  const invalidItem=item&&(!item.word||(!correctWord&&!item.correctDef));
   useEffect(()=>{
-    if(!missingWord)return;
+    if(!invalidItem)return;
     const all=JSON.parse(localStorage.getItem("wr_mistakes")||"{}");
     delete all[item.word];
     localStorage.setItem("wr_mistakes",JSON.stringify(all));
     next();
-  },[missingWord]);
+  },[invalidItem]);
 
   useEffect(()=>{
     const fn=e=>{
@@ -1074,7 +1088,7 @@ function BrutalScreen({vocab,onDone}){
   }
 
   if(!item){return null;}
-  if(missingWord){return null;}
+  if(invalidItem){return null;}
   const isCorrect=selected===item.word;
   const keys=["A","B"];
 
@@ -1094,7 +1108,7 @@ function BrutalScreen({vocab,onDone}){
         <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--red)",background:"rgba(240,100,100,.1)",padding:"3px 10px",borderRadius:20,border:"1px solid rgba(240,100,100,.2)",zIndex:1}}>💀 殘酷二選一</span>
         <div onClick={e=>speakWord(e,item.word)} title="播放發音" style={{fontFamily:"var(--serif)",fontSize:"clamp(44px,9vw,68px)",color:"var(--text)",lineHeight:1,zIndex:1,cursor:"pointer"}}>{item.word}</div>
         <div style={{display:"flex",alignItems:"center",gap:8,zIndex:1}}>
-          <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>{correctWord.phonetic}</span>
+          <span style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--muted)"}}>{correctData.phonetic||""}</span>
           <SpeakBtn word={item.word}/>
         </div>
         <div style={{fontFamily:"var(--mono)",fontSize:16,color:"var(--dim)",zIndex:1}}>連續答對 {item.streak||0} / 2 次可移除</div>
@@ -1123,7 +1137,9 @@ function BrutalScreen({vocab,onDone}){
           <div style={{fontFamily:"var(--serif)",fontSize:15,color:isCorrect?"var(--accent)":"var(--red)",marginBottom:4}}>
             {isCorrect?`✓ 正確！連續 ${(item.streak||0)} / 2 次`:"✗ 再加油！連續紀錄重置"}
           </div>
-          <div style={{fontSize:14,color:"var(--muted)",lineHeight:1.6}}>{correctWord.mnemonic.story_zh}</div>
+          <div style={{fontSize:14,color:"var(--muted)",lineHeight:1.6}}>
+            {correctData.mnemonic?.story_zh||correctData.definition_zh||correctDef}
+          </div>
         </div>
       )}
       {answered&&(

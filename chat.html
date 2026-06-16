@@ -1247,18 +1247,28 @@ const QUIZ={
   startBrutal(){
     const raw=localStorage.getItem('wr_mistakes');
     if(!raw)return null;
-    const mistakes=Object.entries(safeParse(raw,{}));
+    const mistakes=Object.entries(safeParse(raw,{})).filter(([word,data])=>
+      getVocabWord(word)||data?.correctDef
+    );
     if(!mistakes.length)return null;
     const [correctWord,data]=mistakes[Math.floor(Math.random()*mistakes.length)];
-    const correctVocab=getVocabWord(correctWord);
+    const correctVocab=getVocabWord(correctWord)||{
+      word:correctWord,
+      definition_zh:data.correctDef||'（缺少正確解釋）',
+      definition:data.definition||'',
+      example:data.example||''
+    };
     const wrongVocab=getVocabWord(data.wrongWord);
-    if(!correctVocab||!wrongVocab)return null;
+    const wrongOpt={
+      word:data.wrongWord||'__stored_wrong__',
+      def:wrongVocab?.definition_zh||data.wrongDef||'（缺少干擾選項解釋）'
+    };
     this.active=true;this.word=correctVocab;this.type='brutal';
     this.opts=shuffle([
       {word:correctVocab.word,def:correctVocab.definition_zh},
-      {word:wrongVocab.word,def:wrongVocab.definition_zh},
+      wrongOpt,
     ]);
-    return {correct:correctVocab,wrong:wrongVocab,opts:this.opts};
+    return {correct:correctVocab,wrong:wrongVocab||wrongOpt,opts:this.opts};
   },
 
   // Check answer
